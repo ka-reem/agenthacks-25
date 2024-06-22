@@ -25,10 +25,12 @@ const Header = () => {
                                 <SelectItem value="SF" className="uppercase">
                                     San Francisco, CA
                                 </SelectItem>
-                                <SelectItem value="BER">
+                                <SelectItem value="BER" disabled>
                                     Berkeley, CA
                                 </SelectItem>
-                                <SelectItem value="OAK">Oakland, CA</SelectItem>
+                                <SelectItem value="OAK" disabled>
+                                    Oakland, CA
+                                </SelectItem>
                             </SelectContent>
                         </Select>
                     </div>
