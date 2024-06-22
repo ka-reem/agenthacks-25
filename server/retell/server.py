@@ -2,7 +2,7 @@ import json
 import os
 import asyncio
 from dotenv import load_dotenv
-from fastapi import APIRouter, FastAPI, Request, WebSocket, WebSocketDisconnect
+from fastapi import APIRouter, Request, WebSocket, WebSocketDisconnect
 from fastapi.responses import JSONResponse, PlainTextResponse
 from concurrent.futures import TimeoutError as ConnectionTimeoutError
 from twilio.twiml.voice_response import VoiceResponse
@@ -15,8 +15,11 @@ from .custom_types import (
 from .twilio_server import TwilioClient
 from .llm import LlmClient  # or use .llm_with_func_calling
 
-load_dotenv(override=True)
-app = FastAPI()
+print(os.path.join(os.path.dirname(__file__), ".env"))
+load_dotenv(
+    override=True,
+    dotenv_path=os.path.join(os.path.dirname(__file__), ".env")
+)
 retell = Retell(api_key=os.environ["RETELL_API_KEY"])
 
 # Custom Twilio if you want to use your own Twilio API Key
@@ -34,7 +37,7 @@ router = APIRouter(
 
 # Handle webhook from Retell server. This is used to receive events from Retell server.
 # Including call_started, call_ended, call_analyzed
-@app.post("/webhook")
+@router.post("/webhook")
 async def handle_webhook(request: Request):
     try:
         post_data = await request.json()
@@ -68,7 +71,7 @@ async def handle_webhook(request: Request):
 
 # Twilio voice webhook. This will be called whenever there is an incoming or outgoing call.
 # Register call with Retell at this stage and pass in returned call_id to Retell.
-@app.post("/twilio-voice-webhook/{agent_id_path}")
+@router.post("/twilio-voice-webhook/{agent_id_path}")
 async def handle_twilio_voice_webhook(request: Request, agent_id_path: str):
     try:
         # Check if it is machine
@@ -108,7 +111,7 @@ async def handle_twilio_voice_webhook(request: Request, agent_id_path: str):
 # Only used for web call frontend to register call so that frontend don't need api key.
 # If you are using Retell through phone call, you don't need this API. Because
 # this.twilioClient.ListenTwilioVoiceWebhook() will include register-call in its function.
-@app.post("/register-call-on-your-server")
+@router.post("/register-call-on-your-server")
 async def handle_register_call(request: Request):
     try:
         post_data = await request.json()
@@ -131,7 +134,7 @@ async def handle_register_call(request: Request):
 # Start a websocket server to exchange text input and output with Retell server. Retell server
 # will send over transcriptions and other information. This server here will be responsible for
 # generating responses with LLM and send back to Retell server.
-@app.websocket("/llm-websocket/{call_id}")
+@router.websocket("/llm-websocket/{call_id}")
 async def websocket_handler(websocket: WebSocket, call_id: str):
     try:
         await websocket.accept()
