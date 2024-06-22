@@ -1,9 +1,10 @@
 import React from "react";
+import Map from "@/components/live/map/Map";
 
 const Page = () => {
     return (
         <div>
-            <div>Live!</div>
+            <Map />
         </div>
     );
 };
