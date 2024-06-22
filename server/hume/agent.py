@@ -5,7 +5,40 @@ from langchain import hub
 from langchain.agents import load_tools, AgentExecutor, create_json_chat_agent
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 import inflect
+from fastapi import WebSocket, APIRouter
 
+router = APIRouter(prefix="/hume")
+
+@router.websocket("/")
+async def hume_endpoint(websocket: WebSocket):
+    await websocket.accept()
+    
+    agent = Agent(system_prompt=SYSTEM_PROMPT)
+    
+    await websocket.send_text(json.dumps({"type": "assistant_input", "text": "nine-one-one what is your emergency?"}))
+    await websocket.send_text(json.dumps({"type": "assistant_end"}))
+    
+    while True:
+        # Wait for a text message from the WebSocket, then asynchronously receive it.
+        data = await websocket.receive_text()
+        
+        # Deserialize the text message (JSON format) to a Python dictionary.
+        hume_socket_message = json.loads(data)
+
+        # Parse the received message to extract the last user message and the chat history.
+        # This is necessary for understanding the context of the conversation
+        message, chat_history = agent.parse_hume_message(hume_socket_message)
+
+        # Print the last message and the entire chat history for logging purposes.
+        print(message)
+        print(chat_history)
+
+        # Generate responses based on the last message and the chat history.
+        responses = agent.get_responses(message, chat_history)
+
+        # Send the generated responses back to the client via the WebSocket connection.
+        async for response in responses:
+            await websocket.send_text(response)
 
 class Agent:
     def __init__(self, *, system_prompt: str):

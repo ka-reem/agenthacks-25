@@ -6,9 +6,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 import uvicorn
 from server.socket_manager import ConnectionManager
-from .retell.server import router as retell_router
-from hume.agent import Agent
-import json
+from server.retell.server import router as retell_router
+from server.hume.agent import router as hume_router
 
 SYSTEM_PROMPT = """
 You are an AI assistant simulating an emergency dispatcher. Your primary role is to quickly and efficiently gather critical information from callers and provide appropriate guidance until help arrives. Follow these guidelines:
@@ -48,6 +47,7 @@ Remember: Your responses should be brief, clear, and focused on gathering essent
 app = FastAPI()
 
 app.include_router(retell_router)
+app.include_router(hume_router)
 
 origins = ["*"]
 
@@ -64,37 +64,6 @@ app.add_middleware(
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
-
-@app.websocket("/hume")
-async def hume_endpoint(websocket: WebSocket):
-    await websocket.accept()
-    
-    agent = Agent(system_prompt=SYSTEM_PROMPT)
-    
-    await websocket.send_text(json.dumps({"type": "assistant_input", "text": "nine-one-one what is your emergency?"}))
-    await websocket.send_text(json.dumps({"type": "assistant_end"}))
-    
-    while True:
-        # Wait for a text message from the WebSocket, then asynchronously receive it.
-        data = await websocket.receive_text()
-        
-        # Deserialize the text message (JSON format) to a Python dictionary.
-        hume_socket_message = json.loads(data)
-
-        # Parse the received message to extract the last user message and the chat history.
-        # This is necessary for understanding the context of the conversation
-        message, chat_history = agent.parse_hume_message(hume_socket_message)
-
-        # Print the last message and the entire chat history for logging purposes.
-        print(message)
-        print(chat_history)
-
-        # Generate responses based on the last message and the chat history.
-        responses = agent.get_responses(message, chat_history)
-
-        # Send the generated responses back to the client via the WebSocket connection.
-        async for response in responses:
-            await websocket.send_text(response)
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = None):
