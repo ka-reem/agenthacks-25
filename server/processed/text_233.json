@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, the address to my emergency, I live at 31 Grand Street, and there's a fire at somebody's house across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "31 Grand Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 31 Grand Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of the house on fire?"
+    },
+    {
+      "role": "user",
+      "content": "It's 28 Grand Avenue. Please, we need somebody to come over here now. The fire is out of control."
+    },
+    {
+      "role": "assistant",
+      "content": "28 Grand Avenue. Is it an apartment or a house?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house, the whole house is on fire!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "There's an elderly man in the house! Hurry up!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone else out of the building?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I think someone's still in there!"
+    },
+    {
+      "role": "assistant",
+      "content": "If you're there when the fire department arrives, please let them know if anyone is still in the building, or even if you suspect somebody is in there."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, they need to get here fast!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. Please stay calm and stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, they're down the street. What are they doing? Get in here!"
+    },
+    {
+      "role": "user",
+      "content": "Hello? Operator? There are fire trucks down the street! The house is on fire, I don't know if everyone got out."
+    },
+    {
+      "role": "assistant",
+      "content": "We're dispatching more units. Stay where you are. Do not go back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling to report a fire at 16 Grand Avenue. The smoke is really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone is inside?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, I'm just looking from the window. I can see a lot of smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll have the fire department out there as soon as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a fire on Grant Avenue, and there are people trapped inside."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "28 and a half Grand Avenue. There's an old couple inside."
+    },
+    {
+      "role": "assistant",
+      "content": "What floor are they on?"
+    },
+    {
+      "role": "user",
+      "content": "They're on the second floor."
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way. Stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I live near Grant Avenue, and there's a house with smoke coming from it. I don't know if it's a fire, but people are screaming."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the exact address?"
+    },
+    {
+      "role": "user",
+      "content": "It's right off Grant and Rose, before you get to Ocean."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "201-267-0382."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll have police and fire out there as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, please, there's a fire at 28 and a half Grant Avenue. The entire house is engulfed in flames. There are people inside!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hang tight, help is on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a big fire on Grant right now. An old man is in the house and he can't get out."
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way. Do you know the address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the exact address. I just drove by and saw it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get units to the area. Thank you for calling."
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just broke into our house. We're all alone, please help us."
+    },
+    {
+      "role": "assistant",
+      "content": "Is somebody in the house now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "Please help us. My brother's five, please help us, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, okay? I've got officers on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm scared. Please help us."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are your mother and father?"
+    },
+    {
+      "role": "user",
+      "content": "My mom is working, my dad... please help."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your brother?"
+    },
+    {
+      "role": "user",
+      "content": "Five, please help us."
+    },
+    {
+      "role": "assistant",
+      "content": "I have officers on the way. I'm going to stay on the phone with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, please do something."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the closet."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your brother in the closet with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "We ran into the closet as soon as we heard something."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they break the window or the door?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just heard a door. Then I said, 'Raymond, run,' and we ran into the closet. I turned on the alarm and called."
+    },
+    {
+      "role": "user",
+      "content": "Are they almost here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, they're driving to you now. Is it a house or apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a big two-story house. The alarm's going off; they should hear it."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if they broke something, but I heard a loud noise so we ran."
+    },
+    {
+      "role": "user",
+      "content": "I'm scared. Are the police here yet?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here, ma'am. I'll tell you as soon as they arrive. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, please just tell us because I don't want to come out."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll let you know. The alarm's going off, so the police should be here soon."
+    },
+    {
+      "role": "user",
+      "content": "Okay, what do I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, okay? You can go to the door because they're out there now."
+    },
+    {
+      "role": "user",
+      "content": "What if he's still out there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear knocking on the door?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're in the back closet."
+    },
+    {
+      "role": "assistant",
+      "content": "In the back closet at the very back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're in the front of the house."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I just heard knocking."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and open the door. I'll stay on the phone with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold my hand. Should we stay in the closet?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, stay in the closet. Go back in the closet."
+    },
+    {
+      "role": "user",
+      "content": "I heard the doorbell ring."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you back in the closet now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "They're going to check around the house first. If you hear someone coming in, it's probably the police, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I hear them walking."
+    },
+    {
+      "role": "assistant",
+      "content": "You can go to the front door now; they've checked everything. I'll stay on the phone until you make contact with the officer."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going to the front door."
+    },
+    {
+      "role": "user",
+      "content": "Hi."
+    },
+    {
+      "role": "user",
+      "content": "Something broke."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you guys okay?"
+    }
+  ]
+}

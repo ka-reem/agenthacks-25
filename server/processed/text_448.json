@@ -1,0 +1,260 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hornet Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you need medical and police assistance?"
+    },
+    {
+      "role": "user",
+      "content": "Medical and police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on at Hornet Drive?"
+    },
+    {
+      "role": "user",
+      "content": "I've been called over to my father-in-law's house because he got off the phone with my mother-in-law, and he's been slicing himself up and attempting to commit suicide."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I was here previously, and he was tearing up the house. He's drunk and belligerent."
+    },
+    {
+      "role": "user",
+      "content": "He's been off his medication."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you inside the residence now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm standing outside the residence off the property."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, you're standing outside. Okay. Is he inside the house alone?"
+    },
+    {
+      "role": "user",
+      "content": "He is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he making threats or has he actually hurt himself?"
+    },
+    {
+      "role": "user",
+      "content": "He's threatened my wife. He said he's cutting himself up and he's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, he is? Okay. How long ago did he say that?"
+    },
+    {
+      "role": "user",
+      "content": "Within the last five to ten minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and how are you related to him again?"
+    },
+    {
+      "role": "user",
+      "content": "I'm his son-in-law."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Larry Clay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he's cutting himself with?"
+    },
+    {
+      "role": "user",
+      "content": "A kitchen knife, likely."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and nobody's there but him and the dog?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I'm not really in a position to enter the house because I'm carrying a concealed weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "No, yeah, I wouldn't. You should know that he has threatened suicide by cop."
+    },
+    {
+      "role": "user",
+      "content": "He has done this before about 10 or 12 years ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what's his name again?"
+    },
+    {
+      "role": "user",
+      "content": "Larry Clay."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "48."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any other weapons in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No firearms that I know of, but possibly tools."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's a lot of blood, apparently. How do you know that?"
+    },
+    {
+      "role": "user",
+      "content": "My wife is talking to her mom, who is his wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he coming outside?"
+    },
+    {
+      "role": "user",
+      "content": "He's standing on the front porch, motioning suicide threats to me."
+    },
+    {
+      "role": "assistant",
+      "content": "He's on the front porch now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He's approaching me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you going to stay back or get away?"
+    },
+    {
+      "role": "user",
+      "content": "I'm walking backwards."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, stay away. It sounds like he's playing music so loud he can't hear you. Is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's very intoxicated. He's been drinking since 4 p.m."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said he's 48, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he back in the house now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's gone back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay away. Let me know if he comes back out."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's on the outside porch now, facing Hornet Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see the knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one in each hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he's ready to die, stating it very intoxicated, wiping the knives, asking to be shot."
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's saying these things in a speaking voice."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're letting officers know. We have a lot of units headed that way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. I'm a law enforcement supporter myself."
+    },
+    {
+      "role": "assistant",
+      "content": "They know to approach with caution. Has he done this kind of thing before?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, about 10 or 12 years ago he was in a hostage standoff with police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does he have any firearms now?"
+    },
+    {
+      "role": "user",
+      "content": "No, just knives."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep monitoring from a distance. Let us know if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "He's now around the back of the house, I lost visual."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's fine. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "I can hear him still making noise."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, just keep your distance. Help is on the way."
+    }
+  ]
+}

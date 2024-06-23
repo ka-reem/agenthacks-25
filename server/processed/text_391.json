@@ -1,0 +1,276 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm over here. California Highway Patrol."
+    },
+    {
+      "role": "user",
+      "content": "Hey, we've got some shootings over here in Seal Beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where?"
+    },
+    {
+      "role": "user",
+      "content": "It's at the salon, the Maritogh on PCH and Fifth Street."
+    },
+    {
+      "role": "user",
+      "content": "We need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "PCH at Fifth. Who's shot?"
+    },
+    {
+      "role": "user",
+      "content": "Some people in the salon here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me connect you to the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The shooter, is he still there?"
+    },
+    {
+      "role": "user",
+      "content": "No, we saw him walk away. I think he's down the street."
+    },
+    {
+      "role": "user",
+      "content": "We saw him in a truck down the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who was it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It was some large white man."
+    },
+    {
+      "role": "assistant",
+      "content": "White male adult?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, white male, maybe about 300 pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why did he start shooting?"
+    },
+    {
+      "role": "user",
+      "content": "What's that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Why was he shooting?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We were at a construction site across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to connect you with the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "They're at a salon, a hair salon."
+    },
+    {
+      "role": "assistant",
+      "content": "Police department. Hi, at Jordan County. We have a transfer. Shots fired at PCH and Fifth."
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have it. Ma'am, are you involved?"
+    },
+    {
+      "role": "assistant",
+      "content": "I have a description of the shooter."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he said a white male adult, approximately 300 pounds, last seen wearing a white shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir? Sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have any other description?"
+    },
+    {
+      "role": "user",
+      "content": "No, he said he walked away. Did he say which way he went?"
+    },
+    {
+      "role": "user",
+      "content": "No, but he was walking towards a truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have his number?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm sorry. I'll stay on the line if I can get this."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "My friend is in there."
+    },
+    {
+      "role": "assistant",
+      "content": "I know. I know."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not involved in this."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay back."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay over here."
+    },
+    {
+      "role": "user",
+      "content": "Somebody's going to have to."
+    },
+    {
+      "role": "user",
+      "content": "I can't come right here."
+    },
+    {
+      "role": "assistant",
+      "content": "No, you need to stay back."
+    },
+    {
+      "role": "user",
+      "content": "It's right there, it's right there."
+    },
+    {
+      "role": "user",
+      "content": "You're good."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay right here."
+    },
+    {
+      "role": "user",
+      "content": "Oh, okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh no, because I was talking to the lady there."
+    },
+    {
+      "role": "assistant",
+      "content": "We have a chance, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have them?"
+    },
+    {
+      "role": "assistant",
+      "content": "Got them to stop the room."
+    },
+    {
+      "role": "user",
+      "content": "Got them?"
+    },
+    {
+      "role": "assistant",
+      "content": "We need someone to stay here, please."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else there?"
+    },
+    {
+      "role": "user",
+      "content": "There's now seven victims."
+    },
+    {
+      "role": "user",
+      "content": "I have seven victims."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Can I need another?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on."
+    }
+  ]
+}

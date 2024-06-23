@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, it's 12. Question 12. Eight point zero one two."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead. What seems to be the problem?"
+    },
+    {
+      "role": "user",
+      "content": "We got a call. We're evacuating right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your location?"
+    },
+    {
+      "role": "user",
+      "content": "Ampy."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. I just received information about a possible shooting at the high school cafeteria."
+    },
+    {
+      "role": "user",
+      "content": "Say that again?"
+    },
+    {
+      "role": "assistant",
+      "content": "A possible shooting at the high school cafeteria. Can you check on that?"
+    },
+    {
+      "role": "user",
+      "content": "You're on the fight right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, it's an active shooter situation for now."
+    },
+    {
+      "role": "user",
+      "content": "Marysville, shut the cafeteria until verification."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Multiple units are en route."
+    },
+    {
+      "role": "user",
+      "content": "We've got probably four down."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, four down, one confirmed. Do we have casualties?"
+    },
+    {
+      "role": "user",
+      "content": "One confirmed down, possibly more."
+    },
+    {
+      "role": "assistant",
+      "content": "We have multiple units in county, all are responding."
+    },
+    {
+      "role": "user",
+      "content": "I need immediate aid here, I have two that are still breathing, three possibly deceased."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Do we have the shooter in custody?"
+    },
+    {
+      "role": "user",
+      "content": "Shooter is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Shooter down, thank you."
+    },
+    {
+      "role": "user",
+      "content": "David 4 arriving."
+    },
+    {
+      "role": "assistant",
+      "content": "David 4 copy. Can you start setting up blocking roadway to stop entry into the area?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need someone at 116."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Units will block off at 116."
+    },
+    {
+      "role": "user",
+      "content": "David 1, I'm going into the area."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. 33 Sam, any units in the area at 108 and Schultz?"
+    },
+    {
+      "role": "user",
+      "content": "33 Sam arriving."
+    },
+    {
+      "role": "assistant",
+      "content": "33 Sam copy."
+    },
+    {
+      "role": "user",
+      "content": "Team setting up."
+    },
+    {
+      "role": "assistant",
+      "content": "Roger that. Sam 10, is the scene secure for aid to come in?"
+    },
+    {
+      "role": "user",
+      "content": "Scene secure. Aid can come in."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Aid has been advised to expedite."
+    },
+    {
+      "role": "user",
+      "content": "Do you want our team to clear the school?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, set up a team to clear the school from the south side entrance."
+    },
+    {
+      "role": "user",
+      "content": "Copy that. We're moving in."
+    },
+    {
+      "role": "assistant",
+      "content": "Roger. All teams, secure all entrances and exits."
+    },
+    {
+      "role": "user",
+      "content": "I have a clerk here, room clear."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. 33 Sam, we have additional teams ready to move in."
+    },
+    {
+      "role": "user",
+      "content": "Sam 10. Five more units coming to the south side."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, five more units on the south side."
+    },
+    {
+      "role": "user",
+      "content": "Moving 60 from the Adam Charles building."
+    },
+    {
+      "role": "assistant",
+      "content": "Roger that. Secure all exits."
+    },
+    {
+      "role": "user",
+      "content": "We are clearing now."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Once clear, head to the north side for evacuation."
+    },
+    {
+      "role": "user",
+      "content": "Command post, have two teams ready."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Teams are ready and in position."
+    },
+    {
+      "role": "user",
+      "content": "Command post, one team in the cafeteria."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. One team in the cafeteria."
+    },
+    {
+      "role": "user",
+      "content": "We have 30 in room PS1."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Room PS1. Shelter in place."
+    },
+    {
+      "role": "user",
+      "content": "Eight additional witnesses coming out towards aid units now."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Eight witnesses to aid units."
+    },
+    {
+      "role": "user",
+      "content": "Special needs group heading north."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Special needs group escorted north."
+    },
+    {
+      "role": "user",
+      "content": "Three deputies have the perimeter on lockdown."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Perimeter is secure."
+    },
+    {
+      "role": "user",
+      "content": "David 33-San needs support."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Additional units are en route to support."
+    },
+    {
+      "role": "user",
+      "content": "Parents are asking where to pick up their kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Parent pick-up at the church on 116 and 51st."
+    },
+    {
+      "role": "user",
+      "content": "Roger that. Sending parents to the church."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Transport teams on standby."
+    },
+    {
+      "role": "user",
+      "content": "Do we have any units checking the surrounding area?"
+    },
+    {
+      "role": "assistant",
+      "content": "Affirmative, units are checking nearby streets."
+    },
+    {
+      "role": "user",
+      "content": "Setting up choke points for traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Roger. Choke points in place."
+    },
+    {
+      "role": "user",
+      "content": "Library is now clear."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Library clear. Continue clearing other buildings."
+    }
+  ]
+}

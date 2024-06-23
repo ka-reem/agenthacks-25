@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Shots fired. Officer down. Officer down."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you provide your location?"
+    },
+    {
+      "role": "user",
+      "content": "6,004 Rachel Court."
+    },
+    {
+      "role": "assistant",
+      "content": "6,004 Rachel Court, got it. We'll dispatch units immediately. Are you an officer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm down. I can't move."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there another officer with you? Are they okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's down, I'm not sure if he's okay. I think he's dead. The suspect is in the house with a rifle."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with us. Do you have a visual on the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see where he's at. He shot us both from inside the house. He might be coming back to finish us off."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay low and keep cover. Do not expose yourself. We have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "I believe he has a high-powered rifle. My leg is destroyed. I can't move."
+    },
+    {
+      "role": "assistant",
+      "content": "Just hold on, stay behind cover. Help is on the way. Can you maintain any kind of visual from your position?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't stick my head out. I'm just held up behind my car here. I'm losing a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with us. Just hang on. More officers are arriving on the scene. We need you to stay conscious."
+    },
+    {
+      "role": "user",
+      "content": "19 is on the scene, more shots fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Do you have a clear view of where the shots are coming from?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'll be out on foot, with my mobile phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Units are already shutting down intersections to secure the area."
+    },
+    {
+      "role": "user",
+      "content": "14 10 23. Shutting the intersection down at Cordon Ridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear. Do you have any eye on the suspect yet?"
+    },
+    {
+      "role": "user",
+      "content": "This is a second. He's firing multiple shots. Trying to get a visual to stop him from a distance."
+    },
+    {
+      "role": "assistant",
+      "content": "Stand by. We need to secure the front of this house. The suspect has the ability to shoot from here."
+    },
+    {
+      "role": "user",
+      "content": "We're trying, but we're totally unprotected here."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Everyone, stay under cover. We'll coordinate a safe approach."
+    },
+    {
+      "role": "user",
+      "content": "I haven't heard anything from 2216 for a while. I'm not sure he's still conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "2216, if you can hear me, click your mic."
+    }
+  ]
+}

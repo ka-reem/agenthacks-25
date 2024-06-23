@@ -1,0 +1,252 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is North Las Vegas Tower. It looks like we have an aircraft on its way down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the aircraft?"
+    },
+    {
+      "role": "user",
+      "content": "Near Simmons and Kerry. We have a crash at Simmons and Kerry."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's an aircraft down?"
+    },
+    {
+      "role": "user",
+      "content": "Aircraft down."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of aircraft?"
+    },
+    {
+      "role": "user",
+      "content": "It's an experimental velocity. I believe there was only one person on board, but I can't confirm that."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if they got out?"
+    },
+    {
+      "role": "user",
+      "content": "It does not appear so right now."
+    },
+    {
+      "role": "assistant",
+      "content": "How close is it to the North Las Vegas airport?"
+    },
+    {
+      "role": "user",
+      "content": "About one mile southeast, a mile and a half southeast of the airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it in the intersection?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see from here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if I can provide any other information, I'll forward it."
+    },
+    {
+      "role": "user",
+      "content": "Control Center. We did an alert three, crash. It crashed into a house."
+    },
+    {
+      "role": "assistant",
+      "content": "An experimental aircraft?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I've seen a plane for North Las Vegas plane and it's in flames, but I'm trying to give you the cross street. I think it's off of Lake Mead and Martin Luther King."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, my God, it hit a house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it hit a house off of Lake Mead, and we're getting there now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting help there now. Can you provide the exact address if possible?"
+    },
+    {
+      "role": "user",
+      "content": "2313 Cambridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the house on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the house is on fire. There are people in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "We have units responding, okay? Can I have your telephone number?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they are on their way. How are you spelling Cambridge?"
+    },
+    {
+      "role": "user",
+      "content": "C-A-M-B-R-I-D-G-E."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We have units responding already."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Fire or medical? A huge explosion on Lake Mead between Tonopah and Simmons. Huge explosion just happened, and the flames are just shooting up."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see what it is?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see what it is because the building's in the way, but there was just a huge explosion."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we have units responding. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Fire or medical? Are you near Lake Mead and Simmons area?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "We're on the way. We already have it, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Fire or medical? There's a huge fire going on across the street from me. The house is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see it?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's coming out of the front now, too. It's horrible."
+    },
+    {
+      "role": "assistant",
+      "content": "We just had a plane crash there."
+    },
+    {
+      "role": "user",
+      "content": "Oh, maybe that's it. Oh, my God. There are some older people that live in that house."
+    },
+    {
+      "role": "assistant",
+      "content": "We are getting reports from all over. We'll be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Fire or medical? There is a house on fire, it's huge."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address, please?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm driving down the street and I can see it over a wall. It's on Cambridge Heights, off of Lake Mead and Simmons area."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, looks like we have units on the way."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, and I mean, it's raging."
+    },
+    {
+      "role": "assistant",
+      "content": "You see a house on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, like the whole roof is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "We have someone on the way. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Fire or medical? We have a house that just exploded, it's like six houses away from me."
+    },
+    {
+      "role": "assistant",
+      "content": "We had an aircraft that went down."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it landed in a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone was in that house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm assuming so."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "It's seven houses away from my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have help on the way. Please keep everyone away from it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

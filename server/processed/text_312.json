@@ -1,0 +1,388 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody, please come."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address you're at?"
+    },
+    {
+      "role": "user",
+      "content": "Fort Lauderdale."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in Lauderdale Lakes or Lauderhill?"
+    },
+    {
+      "role": "user",
+      "content": "Fort Lauderdale."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "A house."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the house now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you sure about the address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're in Oakland Park. Are they in the house right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "What makes you think somebody is there?"
+    },
+    {
+      "role": "user",
+      "content": "They broke into the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on for just one second."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know if they're in there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "14, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Of course. We're sending somebody there. Say your name for me."
+    },
+    {
+      "role": "user",
+      "content": "Mommy, I'm trying to call the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see the person?"
+    },
+    {
+      "role": "user",
+      "content": "No, please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Fourteen."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you a girl?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you actually hear or see?"
+    },
+    {
+      "role": "user",
+      "content": "Mommy, hush."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you say?"
+    },
+    {
+      "role": "user",
+      "content": "They pulled into the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm with my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you see or hear that made you think somebody broke into the house?"
+    },
+    {
+      "role": "user",
+      "content": "The window crashed, and then they climbed into the window."
+    },
+    {
+      "role": "assistant",
+      "content": "You heard the window crash, and you heard how many people?"
+    },
+    {
+      "role": "user",
+      "content": "One."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mom there with you? You keep saying, mommy. Who are you talking to?"
+    },
+    {
+      "role": "user",
+      "content": "My mom. Mommy, hush."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else with you besides your mom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my sister and my brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the door closed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Does the bedroom have a closet in it?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go into the closet quietly?"
+    },
+    {
+      "role": "user",
+      "content": "It can't close."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go into the closet?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How many voices do you hear? Do you hear women or men? More than one?"
+    },
+    {
+      "role": "user",
+      "content": "One. He was knocking on the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see the person knocking on the door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who was it?"
+    },
+    {
+      "role": "user",
+      "content": "He has a white shirt and black pants on."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he a black man or a white male?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "You said a white t-shirt or a white button-up shirt?"
+    },
+    {
+      "role": "user",
+      "content": "A white t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "And what color were the pants?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he dark-skinned or light-skinned?"
+    },
+    {
+      "role": "user",
+      "content": "Dark-skinned."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you ever seen him before?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is our house."
+    },
+    {
+      "role": "assistant",
+      "content": "No problem, they're on the way. Stay on the phone and be real quiet."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear anybody in the house right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You still hear them? Where does it sound like they are?"
+    },
+    {
+      "role": "user",
+      "content": "In my mom's room."
+    },
+    {
+      "role": "assistant",
+      "content": "He's in your mom's room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear anything else, like walking around?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's walking up and down in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the window that you heard break, was it in your room, your mom's room, the front of the house, or the back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "My mom's room."
+    },
+    {
+      "role": "assistant",
+      "content": "Which side is that? The front of the house or the back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "The back."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, stay quiet. I don't want them to know you're in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you home by yourself or is somebody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "My sister and brother are here too."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your brother?"
+    },
+    {
+      "role": "user",
+      "content": "11."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your sister?"
+    },
+    {
+      "role": "user",
+      "content": "12."
+    },
+    {
+      "role": "user",
+      "content": "I don't want to die, please."
+    },
+    {
+      "role": "assistant",
+      "content": "No, no, don't worry about that. Don't say that. They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your sister in the room with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she in the closet with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay as quiet as possible until the police arrive."
+    }
+  ]
+}

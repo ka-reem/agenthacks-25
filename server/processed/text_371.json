@@ -1,0 +1,128 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, it's Elbeifery from Valley."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've got a medical, a birth, at 4500 Miles Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay calm. How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She is 22 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still driving? You need to pull over."
+    },
+    {
+      "role": "user",
+      "content": "We're pulled over."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "A 1970 Malibu, color green."
+    },
+    {
+      "role": "user",
+      "content": "Silver Hyundai Accent, yep, that's us."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on the right or left side of the road?"
+    },
+    {
+      "role": "user",
+      "content": "On the left-hand side."
+    },
+    {
+      "role": "assistant",
+      "content": "How many weeks or months pregnant is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's due this Friday, so she's three days early. Her water just broke."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the line. I'll tell you exactly what to do next, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "With each contraction, place the palm of your hand against her vagina and apply firm but gentle pressure to keep the baby's head from delivering too fast. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, oh my God. Do you hear me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Stay with me. Can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my mom, my mom."
+    },
+    {
+      "role": "user",
+      "content": "They're going to get in the room. Oh my God, no."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "He's going to get in the last."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Are they trying? Hello, can you hear me?"
+    },
+    {
+      "role": "assistant",
+      "content": "We have you on Northbound or Southbound?"
+    },
+    {
+      "role": "user",
+      "content": "He's pointing towards the Southbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go now."
+    }
+  ]
+}

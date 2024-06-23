@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we deliver papers out on Lakeshore, and we lost contact with two carriers. They were out near M89 and Lakeshore."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you lost contact with the carriers, and they were last near M89 and Lakeshore?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we followed their newspapers to the spot where the road is gone, and the water is just rushing up under it. It's bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think they might have driven over it and fallen in?"
+    },
+    {
+      "role": "user",
+      "content": "We're almost 100% positive. We followed the newspapers up to that point, and there's no trace beyond that."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "H-U-S-U-S."
+    },
+    {
+      "role": "assistant",
+      "content": "Your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Larry."
+    },
+    {
+      "role": "assistant",
+      "content": "Larry, what's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "You can call me at 269..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think that they might have driven into the water?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we think they drove over that washed out road and fell into the water which runs right into Lake Michigan."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Larry. You have no way of making contact with them at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's no way to make contact. The road dead ends, and we can't reach them."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are they in?"
+    },
+    {
+      "role": "user",
+      "content": "A green Saturn."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now, Larry?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the 34 Shell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, one second. I'm just going to try and get somebody down there."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see where the car went in?"
+    },
+    {
+      "role": "user",
+      "content": "No, but it's clear the water runs out to the river into Lake Michigan, and the road is gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line, Larry. We need to get the proper information for our officers."
+    },
+    {
+      "role": "assistant",
+      "content": "When was the last time you had contact with them?"
+    },
+    {
+      "role": "user",
+      "content": "It's been a couple of hours. Another carrier got stuck in the water, and when we went to help, we realized we hadn't heard from them."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned their names earlier. Can you confirm them again?"
+    },
+    {
+      "role": "user",
+      "content": "Carissa Green and Dean Taylor."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in, Larry?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a silver Ford F-150."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on a second, Larry. I'm going to get someone over to you."
+    },
+    {
+      "role": "user",
+      "content": "You know, we really think this is an extreme emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, sir. Please remain at the 34 Shell."
+    },
+    {
+      "role": "user",
+      "content": "We have flashlights and we're considering going back down there."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't recommend going back down there if the area is flooded. It's too dangerous."
+    },
+    {
+      "role": "user",
+      "content": "There is no water on the road, it's just washed out. But it's pitch black and we can't see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but I still don't advise it. Stay where you are, and we'll get someone to you."
+    },
+    {
+      "role": "user",
+      "content": "How long will it take?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't give you an exact ETA, but we'll try to get someone there as soon as we can."
+    },
+    {
+      "role": "user",
+      "content": "All right, but we're thinking they drove up to a tree and the road collapsed under them."
+    },
+    {
+      "role": "assistant",
+      "content": "So you think the road washed out from under them and they stopped at a tree and then fell in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a tree right on the other side, and we think they drove up to it and the road gave out from under them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Please stay at the 34 Shell. We'll get someone there as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Okay. We're going down to 2817 Lakeshore."
+    },
+    {
+      "role": "assistant",
+      "content": "Please wait at the 34 Shell, Larry. We're doing our best to get someone to you."
+    },
+    {
+      "role": "user",
+      "content": "We're heading to 2817 Lakeshore."
+    }
+  ]
+}

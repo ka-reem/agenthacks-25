@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Help, this guy's chasing me down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "South Beverly Grove."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there a safe place you can go, like someone's house?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any houses or buildings around you?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's nothing around."
+    },
+    {
+      "role": "assistant",
+      "content": "It's hard to understand you. Are you on a phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the nearest cross street?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see one. I'm in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you coming from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my car. Please help me!"
+    }
+  ]
+}

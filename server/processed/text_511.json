@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I just shot my daughter and shot all my grandkids, and I'll be sitting on my step, and when you get here, I'm going to shoot myself."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address that you're at, sir?"
+    },
+    {
+      "role": "user",
+      "content": "2550 Northwest, 25th, 25 Paris, downstairs. Every one of them are dead."
+    },
+    {
+      "role": "assistant",
+      "content": "You said your name is Don Spirit?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, Don, what kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "It doesn't matter what kind of gun I got. They're all dead, and when you get here, I'll shoot myself, and then you can figure out what kind of gun it is."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen, Don?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to hear it, man. I'm done with all of it. Just bring the officers out here, that's all."
+    },
+    {
+      "role": "assistant",
+      "content": "You've got all the kids dead in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how many people, exactly?"
+    },
+    {
+      "role": "user",
+      "content": "Six kids, one adult."
+    },
+    {
+      "role": "assistant",
+      "content": "Six kids and one adult?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. One of them is a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay on the phone with me until I get somebody there to help you?"
+    },
+    {
+      "role": "user",
+      "content": "What's that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay on the phone with me?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not doing that. I'm waiting for them to get here. When they get here, I'm going to shoot myself on my back step."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you say you're on your back steps?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what the address is, but it appears to be south of the 118 and Canoga or Topanga, and there's a big plume of black smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's near Canoga Boulevard and the 118?"
+    },
+    {
+      "role": "user",
+      "content": "I believe so. It might be between Canoga and Topanga."
+    },
+    {
+      "role": "assistant",
+      "content": "The 118, the Ronald Reagan, on the Los Angeles side?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's correct. This is near Simi Valley."
+    },
+    {
+      "role": "assistant",
+      "content": "Simi Valley? I'm not seeing anything in that area. So you see some black smoke there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I just saw a big plume of black smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. It looks like we have a big traffic accident. Maybe, can you confirm the location again?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like it's near Oregon and Rinaldi and Canoga. Below the freeway almost."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting a number of calls on it. It looks like there's a bad traffic accident there with fire."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, please calm down. You are not involved in the accident, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We've got people on the way there now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, is this a train versus another train or a train versus a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Train versus another train. People are bleeding and hurt here."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with me on the line, ma'am. We're already on the way there now."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department and police are on the way now. If you want to stay and help, please do not let anyone get close to that train."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If you see people jumping out or moving, you can assist them, but do not get close to the fire."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't put yourself in danger. If you feel like you can help, do so, but prioritize your safety."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure to not block the intersection with your vehicle. Stay clear and keep others away."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The police and Department of Transportation are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Are they coming to my house or to the train?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are coming to the train location, but will need your address as a reference."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've got them on now."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There was a train collision outside our MetroLink, right by our campus. They came out of the Topanga tunnel."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell how many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We heard it from our campus. We haven't been down there yet."
+    },
+    {
+      "role": "assistant",
+      "content": "We already have units on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what you see exactly?"
+    },
+    {
+      "role": "user",
+      "content": "The MetroLink train and a freight train collided. The MetroLink train has derailed. There are people screaming."
+    },
+    {
+      "role": "assistant",
+      "content": "MetroLink versus freight train and people are screaming?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's derailed, and the first car is torn up. There's a fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Which train is on fire?"
+    },
+    {
+      "role": "user",
+      "content": "The freight train."
+    },
+    {
+      "role": "assistant",
+      "content": "And is there anyone lying outside the train?"
+    },
+    {
+      "role": "user",
+      "content": "Not right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have help on the way. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire department, 9-1-1, what's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm on the MetroLink train. We just left Chatsworth station heading towards Simi Valley. We had a collision with something. There are many people bleeding and on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me an intersection or something close to your location?"
+    },
+    {
+      "role": "user",
+      "content": "We are almost at the first tunnel going towards Simi Valley."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're on the MetroLink train heading towards Simi Valley from Chatsworth?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we just collided with something. There are many people injured and bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in Simi Valley now?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're at the end of Chatsworth, probably."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second, sir. Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "County Fire, you guys handle calls in Simi Valley, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right next to the Chatsworth School."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that near Heather Lee Lane and Dora?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, somewhere around there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have units on the way. Do you know how many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I can see about seven or eight people who are bleeding and on the floor in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second, don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, but several people are bleeding. We're trying to help them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have paramedics on the way. Can you tell me how many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, maybe six or seven people in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "How many cars are on the MetroLink train?"
+    },
+    {
+      "role": "user",
+      "content": "There are three cars on this train."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me if anyone is unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "I see one person who might be."
+    },
+    {
+      "role": "assistant",
+      "content": "Try not to move anyone unless it's absolutely necessary. If anyone is bleeding, use a clean cloth and apply firm pressure until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "We'll do what we can. We're trying to get people out who can move."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line so we can ensure help arrives at the right location."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's screaming?"
+    },
+    {
+      "role": "user",
+      "content": "A person in a wheelchair flew down the stairs from the top to the bottom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone getting to her?"
+    },
+    {
+      "role": "user",
+      "content": "She's strapped in the wheelchair on her back, but she seems okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can anyone get her deputy for me?"
+    },
+    {
+      "role": "user",
+      "content": "We're close to the Santa Susana Pass, a little east of it, making the turn towards the first tunnel in Simi Valley."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My elbow feels funny, but nothing serious. The last car is almost completely destroyed."
+    },
+    {
+      "role": "assistant",
+      "content": "You said the back car is pretty much mangled?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it looks completely destroyed. There might be many fatalities."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when you see any fire trucks."
+    },
+    {
+      "role": "user",
+      "content": "I hear them but don't see them yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Help is coming. Can you assist people without hurting yourself further?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are trying to help where we can."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We have units on scene now. Help other people move to a safe area if you can do so safely."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I need to turn this off to help."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Take care of yourself."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you. Bye."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There was a shooting involving a black Audi with no plates. The suspect is a black male, 25 to 30, driving at a high speed."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the location of the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "It's near Bradley and Magnolia. The suspect in that shooting matches the description."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers responding. Can you stay on the line and provide more details?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the vehicle was a black Audi around 5 years old, and the suspect was armed with a shotgun. He was last seen eastbound on University from 45th."
+    },
+    {
+      "role": "assistant",
+      "content": "We have units en route and setting up a perimeter. Is there anything else you can add?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's all I saw."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Please stay safe and avoid the area. Officers are handling the situation."
+    }
+  ]
+}

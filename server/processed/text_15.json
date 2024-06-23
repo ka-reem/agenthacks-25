@@ -1,0 +1,244 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, 911? Please help me. Somebody's trying to get into my house."
+    },
+    {
+      "role": "assistant",
+      "content": "What are they doing?"
+    },
+    {
+      "role": "user",
+      "content": "They tied my front door and my shed door, and now they're trying to break in through my gate."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. I've already got officers started. Do not hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right, I have a gun in my hands. I'm terrified."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got officers already on the way. I'm going to keep you on the phone until the officers get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. They're trying the back gate now."
+    },
+    {
+      "role": "assistant",
+      "content": "You think they're in the back now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, somebody's in the back and on my porch."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone's on your porch? Please stay calm. Can you see anybody?"
+    },
+    {
+      "role": "user",
+      "content": "I hear them, but I'm not sure. Somebody's banging on my back door."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you expecting anybody?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. There's no vehicle outside in your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "No, and they're at my back porch."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to stay on the phone with you until the officers get there. Do not hang up. A lot of officers are coming out."
+    },
+    {
+      "role": "user",
+      "content": "They just broke my upstairs door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got officers coming out as fast as they can. Have you heard any voices?"
+    },
+    {
+      "role": "user",
+      "content": "They're coming in right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me if you see them. Tell me what they look like, how many of them are there, whether they're men or women."
+    },
+    {
+      "role": "user",
+      "content": "I just saw one."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see a person or just the shadow?"
+    },
+    {
+      "role": "user",
+      "content": "I saw someone. They're coming in right now, please, please."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming out as fast as they can, I promise you. A lot of officers are responding. I'm typing everything you're telling me and the dispatcher is relaying it to them immediately."
+    },
+    {
+      "role": "user",
+      "content": "They're breaking my windows."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in your bedroom or...?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're coming out as fast as they can. Is there an alley behind your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you back up to the canal, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't need to answer anything. I'm going to stay on the line with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "What is that? What was that?"
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "What did you come into my house for? I don't know. I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "You shot him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got help on the way."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. Don't get up or I'll shoot you again."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you shoot him? Ma'am, where did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "He's in my bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "No, where on his body did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "He's half in my bathroom and half in the hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you recognize him? Is he someone you know?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't recognize him. He said he thought the house was abandoned."
+    },
+    {
+      "role": "assistant",
+      "content": "It doesn't make sense with a car and locked gates, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he was banging and trying to get in. I heard him outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The officers are on their way. Please stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Please get someone here quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming as fast as they can. Are you hurt at all?"
+    },
+    {
+      "role": "user",
+      "content": "My face is bleeding. He was beating on me when he found out I was in here. That's why I dropped the phone and almost dropped the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The officers are in the area now. When you hear them at the door, you're going to have to stay safe. Don't leave the bathroom."
+    },
+    {
+      "role": "user",
+      "content": "I'm not going to walk away from this guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Right, I'm going to have them come to you. Just make sure to put the gun down when you see the officers, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm showing they are there. They should be coming inside."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I put the gun down."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to let you go now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Well, it's not an emergency, but do you know why on one side at the damn drawbridge on 95 traffic can stop for 15 minutes?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you calling 911 to complain about traffic?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, somebody gave me a hard time. I called your number to find out why there's a delay. It's been about 22 minutes on the drawbridge, and I'm in the front car, and I can see something happening on the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, what's your complaint? What exactly is the issue you're calling about?"
+    },
+    {
+      "role": "user",
+      "content": "I pulled up to the drawbridge, the light goes red. I think it's malfunctioning because there's nothing happening on the drawbridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So there's traffic coming, and you're trying to go left on the drawbridge, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and there's been traffic coming the other way for the last 23 minutes, but nothing is happening. The light is red, there's a drop gate with six blinking lights, but no bridge going up."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you call 911 just to report this issue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, the person you spoke to before was trying to explain that 911 is for emergencies only, not for traffic issues."
+    },
+    {
+      "role": "user",
+      "content": "No, but this isn't just traffic. This is a serious malfunction affecting a lot of people."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but is it creating just a traffic backup or is there more to it?"
+    },
+    {
+      "role": "user",
+      "content": "It's more than a backup. This is absurd. We're all just stuck here with no idea what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Unfortunately, sir, we don't have control over the drawbridge. You might want to contact VDOT or Maryland's Department of Transportation. We can't help with traffic signals or bridge malfunctions."
+    },
+    {
+      "role": "user",
+      "content": "I live in Alexandria, but I'm not even on the Alexandria side right now."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Contacting the state departments responsible for the bridge might give you more answers."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    }
+  ]
+}

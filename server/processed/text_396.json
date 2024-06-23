@@ -1,0 +1,208 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "3124 North Truewood, number B."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a gunshot wound to the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Number B?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, help is on the way. How old is the victim?"
+    },
+    {
+      "role": "user",
+      "content": "He's a 30-year-old male. Shot to the left side in the chest. There's bubbles coming out of his nose."
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like a sucking chest wound. Do you know if this was accidental or intentional?"
+    },
+    {
+      "role": "user",
+      "content": "I think it was an accident."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay calm. Help is on the way. What's the victim's name?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Justin Thomas."
+    },
+    {
+      "role": "assistant",
+      "content": "Roll his head to the side to see if you can get the blood out of his mouth. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He's breathing, but there are bubbles coming out of his mouth occasionally. It's not regular."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have two other people here. We're trying to do first aid."
+    },
+    {
+      "role": "assistant",
+      "content": "Was anyone else with him when the accident happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, it seems like it was an accident involving his son. He came over to get some stuff. I was in bed, but a buddy of mine was with him."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is his son?"
+    },
+    {
+      "role": "user",
+      "content": "The child's about three or four."
+    },
+    {
+      "role": "assistant",
+      "content": "Was a pistol involved?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it was a .380 caliber pistol on the countertop."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the gun now?"
+    },
+    {
+      "role": "user",
+      "content": "I moved it. I'm going to unload it so it's safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and secure the weapon. Let me know when it's done."
+    },
+    {
+      "role": "user",
+      "content": "All done. The weapon is secure, and a round is missing, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is James."
+    },
+    {
+      "role": "assistant",
+      "content": "James, are you in the room with Justin right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he responsive?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not responsive. He's breathing, but not regularly. There are bubbles coming out of his mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to lay him flat on his back. Is there anything under his head?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing under his head. He's flat on his back."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Pull his chin up slightly to make sure his airway is clear. Let me know when that's done."
+    },
+    {
+      "role": "user",
+      "content": "Okay, his chin is up and airway clear."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to start CPR. Are you ready?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm ready."
+    },
+    {
+      "role": "assistant",
+      "content": "Place the heel of your hand on his breastbone, right between the nipples. Place your other hand on top of that. Are you in position?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm ready."
+    },
+    {
+      "role": "assistant",
+      "content": "Pump hard and fast, 30 times, about twice per second. Let the chest come all the way up between pumps. Count out loud for me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, doing it now. One, two, three... eighteen... Twenty-nine, thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "Check his mouth and let me know if there's anything other than blood."
+    },
+    {
+      "role": "user",
+      "content": "There's something thicker and darker than blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Tilt his head back, pinch his nose closed, and give him two regular breaths. You can skip this if you're uncomfortable."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I tried."
+    },
+    {
+      "role": "assistant",
+      "content": "James, can you hear me? We're going back to compressions. Continue until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "Alright, continuing CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone else there to assist?"
+    },
+    {
+      "role": "user",
+      "content": "The firefighters just arrived."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let them take over. You're doing great. Thank you, James."
+    }
+  ]
+}

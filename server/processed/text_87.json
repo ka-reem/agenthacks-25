@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're having a baby, and we're in Boulder Creek. We need to get to Sutter."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend's going into labor, her contractions are three to five minutes apart, or a little bit closer."
+    },
+    {
+      "role": "user",
+      "content": "They're closer now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and she's getting pushing feelings?"
+    },
+    {
+      "role": "user",
+      "content": "I just called Sutter. They told me to call 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you with her now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How many weeks pregnant is she?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, nine months."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby completely out?"
+    },
+    {
+      "role": "user",
+      "content": "What? Oh no, it's still in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's good. Can you see any part of the baby now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see any part of the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, stay on the line with me. I'm going to get help going for you right now and I'll have more instructions for you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to hear me for a second, but just stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got the paramedics on the way. I'll stay on the line to tell you exactly what to do next, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not try to prevent the birth. Do not have her sit on the toilet. Allow her to assume the most comfortable position and have her take deep breaths between contractions."
+    },
+    {
+      "role": "user",
+      "content": "Okay, keep breathing, hon. Deep breaths."
+    },
+    {
+      "role": "user",
+      "content": "Do you have an ETA?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just a couple of minutes, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to stay on the line with you here. There should still be some time left before delivery occurs. Reassure her that help is on the way and have her take slow, deep breaths between contractions."
+    },
+    {
+      "role": "user",
+      "content": "She is. She's doing good. How are you, honey?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she feeling the need to push?"
+    },
+    {
+      "role": "user",
+      "content": "Are you still feeling the need to push, hon? Just when the contractions come. She's having another one."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell her that we're coming with lights and sirens. There should still be some time left before delivery occurs. Help is on the way, and she should take slow, deep breaths between each contraction."
+    },
+    {
+      "role": "user",
+      "content": "You're coming with lights and sirens. Okay, help is on the way. Take slow, deep breaths between each contraction."
+    },
+    {
+      "role": "assistant",
+      "content": "If anything changes, tell me immediately. I'm going to keep you on the line here until they arrive, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I see crowning."
+    },
+    {
+      "role": "assistant",
+      "content": "As the baby delivers, support the baby's head and shoulders and hold the hips and legs firmly. Remember, the baby will be slippery, so don't drop it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, you're doing really good. Just let me know if you see any more crowning, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to hear me for a second, but I'm right here, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How's she doing?"
+    },
+    {
+      "role": "user",
+      "content": "The ambulance is across the street. They're on the wrong side."
+    },
+    {
+      "role": "user",
+      "content": "She's having a contraction. The baby's crowning. They're on the wrong side of Highway 9, across the street. They need to hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "I've already told them. Okay, the baby is coming out right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the baby's coming out right now."
+    },
+    {
+      "role": "assistant",
+      "content": "As the baby delivers, support the baby's head and shoulders and hold the hips and legs firmly. Remember, the baby will be slippery, so don't drop it. Keep supporting it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she's fine. Just don't move, honey."
+    },
+    {
+      "role": "user",
+      "content": "Sir, the baby's out."
+    }
+  ]
+}

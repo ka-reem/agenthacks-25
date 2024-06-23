@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Listen here. I'm at Main Street in Colorado Springs, Colorado."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not showing that as a valid address. Can you verify that for me?"
+    },
+    {
+      "role": "user",
+      "content": "Main Street. That is the address."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the nearest intersection that you're by?"
+    },
+    {
+      "role": "user",
+      "content": "What do you want, the phone number?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and give that to me."
+    },
+    {
+      "role": "user",
+      "content": "719-39-3930"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is that a home phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I've got two people here held hostage."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You know what happens to people that are held hostage? It's not like in the movies. Do you understand that?"
+    },
+    {
+      "role": "user",
+      "content": "One of them is named Danielle and her father. I'm doing this because her father raped my sister."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I am armed. I have a pistol, and I swear I will kill everyone if any cops come in here with guns. Do you understand me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my name is John Defano."
+    },
+    {
+      "role": "assistant",
+      "content": "John, are you in the town of Security?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to transfer you to the sheriff's office. Will you stay on the phone with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on just one second."
+    },
+    {
+      "role": "user",
+      "content": "Can you stay on the line with me? I'm not talking to these people anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Sure, John. I'll stay on the line with you. Hang on a second."
+    },
+    {
+      "role": "user",
+      "content": "Just remember, I am armed and I will shoot."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I have a .22 pistol."
+    },
+    {
+      "role": "assistant",
+      "content": "And you have two people there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, an 18-year-old and her father. They're duct-taped and tied up in the next room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me get you over to the county. I'll stay on the phone with you, John."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "John, you're still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm still here."
+    },
+    {
+      "role": "assistant",
+      "content": "I have the county on the phone with us now."
+    },
+    {
+      "role": "user",
+      "content": "Hi, okay, this is Jennifer. What exactly is going on?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not talking anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it okay if I tell her what's going on, John?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, you may."
+    },
+    {
+      "role": "assistant",
+      "content": "He advised me that he has two people there that he's holding hostage. An 18-year-old named Danielle and her father. He has them duct-taped in another room. He is armed with a .22 pistol and has said he will shoot if any officers enter the residence."
+    },
+    {
+      "role": "user",
+      "content": "I will shoot. I'm not afraid. I will shoot, and then I will kill myself because I don't care, okay? Do you understand?"
+    },
+    {
+      "role": "assistant",
+      "content": "John, I understand. Can you spell your last name for us?"
+    },
+    {
+      "role": "user",
+      "content": "D-E-F-A-N-O."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured or are they injured?"
+    },
+    {
+      "role": "user",
+      "content": "The father has a wound."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you accidentally shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "No. I hit him with the barrel of the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he severely injured?"
+    },
+    {
+      "role": "user",
+      "content": "He's bleeding profusely. I need some help here because I'm going psycho right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What can I do to help him right now?"
+    },
+    {
+      "role": "user",
+      "content": "If I'm going to jail, I'm going to kill myself and them. I'm not going anywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Why are you doing this?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not talking anymore. You have the address. You have everything."
+    },
+    {
+      "role": "assistant",
+      "content": "Will you just stay on the line with me?"
+    },
+    {
+      "role": "user",
+      "content": "I'm hanging up now."
+    },
+    {
+      "role": "assistant",
+      "content": "John, this is Crystal. I'm still on the phone. Will you be willing to talk to me?"
+    },
+    {
+      "role": "user",
+      "content": "I'm hanging up now."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not willing to stay on the phone with us?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't tell us more about why this happened tonight?"
+    },
+    {
+      "role": "user",
+      "content": "Raping a family member is not acceptable, all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand."
+    },
+    {
+      "role": "user",
+      "content": "I will shoot them if I don't have help here now in the next five minutes. I swear to God, I'll shoot them. Do you understand?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, but it's not going to help the situation if you hang up."
+    },
+    {
+      "role": "user",
+      "content": "I'm hanging up the phone. Do you understand?"
+    },
+    {
+      "role": "assistant",
+      "content": "I hear you. I'd rather you didn't."
+    },
+    {
+      "role": "user",
+      "content": "You want somebody killed?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I don't."
+    },
+    {
+      "role": "user",
+      "content": "Then shut your mouth and do your job."
+    }
+  ]
+}

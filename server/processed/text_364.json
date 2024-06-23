@@ -1,0 +1,424 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I think someone's trying to break into my home, just off of 56th Avenue."
+    },
+    {
+      "role": "user",
+      "content": "He broke a window, and I'm home alone."
+    },
+    {
+      "role": "user",
+      "content": "I'm 14."
+    },
+    {
+      "role": "assistant",
+      "content": "Just a window, but I don't know what he can do next. Who is he?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "It's dangerous."
+    },
+    {
+      "role": "assistant",
+      "content": "You're 14?"
+    },
+    {
+      "role": "user",
+      "content": "I think I saw."
+    },
+    {
+      "role": "user",
+      "content": "I'm 14 and I'm all alone."
+    },
+    {
+      "role": "assistant",
+      "content": "Which window did he break?"
+    },
+    {
+      "role": "user",
+      "content": "One in the back."
+    },
+    {
+      "role": "user",
+      "content": "He already tried opening the door. That's when I heard him."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anyone?"
+    },
+    {
+      "role": "user",
+      "content": "Just a single male in a black tank top. That's all I can really give right now as a description."
+    },
+    {
+      "role": "assistant",
+      "content": "And they tried to open the door in the back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I heard the door being pounded. I heard the knob trying to be turned."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if he's a white, black, or Latin male?"
+    },
+    {
+      "role": "user",
+      "content": "Probably, I can't see now. Maybe he went away, but probably, oh, I'm going to say white. Definitely not black, but I can't tell if he was Latino or white."
+    },
+    {
+      "role": "user",
+      "content": "And there's not much in terms of weapons in my house, so I don't have much to defend myself."
+    },
+    {
+      "role": "assistant",
+      "content": "What was he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "A black tank top, and I think he had something in his hand. Whether it was a hammer or a crowbar, I couldn't tell. But I could see the glass shattering. Maybe he just did that and ran away, but I don't really know right now."
+    },
+    {
+      "role": "user",
+      "content": "My parents are on their way home, but they're coming from Miami, so I don't know when they're going to get home."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're coming from Miami?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my brother is moving out of college today, so..."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of vehicle are they driving?"
+    },
+    {
+      "role": "user",
+      "content": "Considering both vehicles are gone, I would say a white Kia Sorento, a dark blue Dodge Journey, or a golden Hyundai Sonata."
+    },
+    {
+      "role": "user",
+      "content": "Oh, definitely. He's coming in right now. You hear the glass? He's coming in."
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's coming in. I need to see him. Definitely white, black, black tank top."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the front room with my shoe horn as a weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. You know the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go in a room and lock it?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's something we can do right now. I am now in my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is your bedroom located in the house?"
+    },
+    {
+      "role": "user",
+      "content": "We have a long central hallway, and if you go down from coming in from the front door, it's the second door on the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it on the east side of the house or the west side?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, ma'am, I can't say that right now. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you don't know if it's on the east side or west side of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm sorry, but it's on the opposite side of the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still hear someone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, is it okay if I can..."
+    },
+    {
+      "role": "assistant",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you hear the person at?"
+    },
+    {
+      "role": "user",
+      "content": "In the backyard, still banging glass."
+    },
+    {
+      "role": "assistant",
+      "content": "Still in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I don't think he's in yet. I don't hear anything now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your room is on the opposite side of the kitchen?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you can't tell if your room is towards the east side?"
+    },
+    {
+      "role": "user",
+      "content": "I'm very sorry, I haven't called them yet. I called you first."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said your parents are on their way home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I was thinking of putting you on speaker and sending them a quick text saying, hurry back."
+    },
+    {
+      "role": "assistant",
+      "content": "So you heard them in the back, in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm, in the backyard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you go to the back?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not going to scare them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the officers are telling me now that they are in the back. They want you to go to the back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, there should be a large oak tree, or maybe two oaks."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the officer is in the back of the house."
+    },
+    {
+      "role": "user",
+      "content": "Yellowish house?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, go to the back."
+    },
+    {
+      "role": "user",
+      "content": "Wait, wait a minute. Does the officer see the broken glass window?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Okay, so maybe he ran away from the cops, I don't know."
+    },
+    {
+      "role": "user",
+      "content": "So the officer wants me to go to the back?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, go to the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on a cordless phone? Can you go with the phone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm on my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go to the back door with your phone."
+    },
+    {
+      "role": "user",
+      "content": "Wait, someone's in the house. I don't know if it's my family or not."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody's inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I hear someone yell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay inside your room."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes?"
+    },
+    {
+      "role": "user",
+      "content": "My bedroom should be the only door closed right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, your bedroom door should be the only door closed."
+    },
+    {
+      "role": "assistant",
+      "content": "You said your bedroom is the second door from the front?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, if you come in from the front door, there is a hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "If you come in the front door, there's a long hallway, and it's the second door across from the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "No, you come through the front door, you take your first right, and you look left, there's a hallway."
+    },
+    {
+      "role": "user",
+      "content": "If you walk forward from the front door, take a few steps, turn right, and go down, then turn left. There's a long hallway. My door would be the first on your right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a window in your room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How many windows are on your side of the house in your room?"
+    },
+    {
+      "role": "user",
+      "content": "Quite a few. There's a fenced-in, greenery area where our dogs used to run around. My room is on that side."
+    },
+    {
+      "role": "user",
+      "content": "I see someone. I don't know if it's an officer or not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you see them clearly?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I see an officer. I see an officer."
+    },
+    {
+      "role": "assistant",
+      "content": "The officer is at your window?"
+    },
+    {
+      "role": "user",
+      "content": "He's not necessarily at my window, but he's at the front of the fenced-in area."
+    },
+    {
+      "role": "assistant",
+      "content": "The officer is in front of the fence?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you come out through the door by your parents' bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "There's, I'm coming out right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're coming out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's officers inside the house. The officer has me. I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go outside with the officer."
+    }
+  ]
+}

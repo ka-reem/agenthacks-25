@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm turning myself in for my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I can't hear you with the dog in the background."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, I'm turning myself in for killing my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's on the couch right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he alive?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your street name?"
+    },
+    {
+      "role": "user",
+      "content": "Avenue in Spring Hill."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How did you kill him?"
+    },
+    {
+      "role": "user",
+      "content": "I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're sure that he's not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the gun?"
+    },
+    {
+      "role": "user",
+      "content": "On the counter."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "In his head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why did you do this?"
+    },
+    {
+      "role": "user",
+      "content": "Because I had been suffering years of mental and verbal abuse, and I just felt like I've reached the end."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my parents."
+    },
+    {
+      "role": "assistant",
+      "content": "Do they know what happened?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't have any weapons on you, do you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said you put the gun down where?"
+    },
+    {
+      "role": "user",
+      "content": "On the counter."
+    }
+  ]
+}

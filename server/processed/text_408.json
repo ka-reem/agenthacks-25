@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's 5181-BERRY lane. No, wait, C-I-A-A."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is your mom there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, because the..."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. Honey, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, it's two ladies and the husband. It's two ladies and what?"
+    },
+    {
+      "role": "user",
+      "content": "Have they been shot?"
+    },
+    {
+      "role": "assistant",
+      "content": "He's coming out. Please, there's a lot of time. He's coming, they're on their way. Please hurry up."
+    },
+    {
+      "role": "user",
+      "content": "Are they, are you guys safe?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, we're safe. The man, he's with his... well, he shot his daughter and his wife."
+    },
+    {
+      "role": "user",
+      "content": "How do you know that he shot both of them?"
+    },
+    {
+      "role": "assistant",
+      "content": "Because they're both bleeding and they're both crying."
+    },
+    {
+      "role": "user",
+      "content": "How did you see him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Right now the little boy came to our house, knocked on the door and said, 'go to a house.' Okay, they're on their way. I'm just trying to get some information. So a little boy came to your house and told you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the little boy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. And is the guy drinking?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You need to stop crying. Okay. We're on the way. And I have an ambulance on the way, too."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Just make sure you stay inside and keep the doors locked. All right. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Excuse me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead."
+    },
+    {
+      "role": "user",
+      "content": "We're in the house inside. The guy's come down, but we're in the house helping them."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, with us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where's the guy?"
+    },
+    {
+      "role": "user",
+      "content": "In there. He's in there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, with him."
+    },
+    {
+      "role": "user",
+      "content": "With us, but he's all right. He calmed down, but he just... he's, like, helping them, but I don't know why he shot them."
+    },
+    {
+      "role": "assistant",
+      "content": "He shot one, and now he's helping her up?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. He shot both of them, and now he's helping them."
+    },
+    {
+      "role": "assistant",
+      "content": "And you can see that?"
+    },
+    {
+      "role": "user",
+      "content": "They're bleeding a lot. They might... I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. They've got a little kid."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. All right?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Bye."
+    }
+  ]
+}

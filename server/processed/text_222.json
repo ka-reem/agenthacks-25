@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, where is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. Actually, I'm wanted for a crime, and I want to turn myself in."
+    },
+    {
+      "role": "assistant",
+      "content": "You are wanted for what type of crime, sir?"
+    },
+    {
+      "role": "user",
+      "content": "To be honest with you, I don't know what they're calling it. I got drunk and I attacked somebody."
+    },
+    {
+      "role": "assistant",
+      "content": "What town are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, what?"
+    },
+    {
+      "role": "assistant",
+      "content": "What town are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's Dunmore."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if there's a warrant out for your arrest?"
+    },
+    {
+      "role": "user",
+      "content": "Honestly, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located right now?"
+    },
+    {
+      "role": "user",
+      "content": "Right now, I'm at the Shell gas station. I don't know the name of the street. It's right by Ricardo's little mini market down the road here, and there's a Joe's Quick Mart here."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're at the 1200 block of Wheeler Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "I believe so, yeah, right down the road from Ohio."
+    },
+    {
+      "role": "assistant",
+      "content": "1219 Wheeler Avenue in Dunmore, right?"
+    },
+    {
+      "role": "user",
+      "content": "I believe so, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "It's Lake, L-A-K-E."
+    },
+    {
+      "role": "assistant",
+      "content": "And where did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "In Dunmore."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your first name?"
+    },
+    {
+      "role": "user",
+      "content": "It's Charles."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at the Shell Station?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And the phone number you're calling from is 9618109?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, what?"
+    },
+    {
+      "role": "assistant",
+      "content": "9618109 is the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Well, actually, I'm in front of the Quick Mart, Joe's Quick Mart."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Watch for the police. We'll send them over. Your name is Charles, right?"
+    },
+    {
+      "role": "user",
+      "content": "All right. Well, I'm going to walk over in front of the Shell so that there's no commotion over here because they're closing up and doing whatever they've got to do in this store."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, watch for the police."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    }
+  ]
+}

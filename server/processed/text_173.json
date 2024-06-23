@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to know what are you going to take?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, I don't understand. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I can't understand you."
+    },
+    {
+      "role": "assistant",
+      "content": "Please speak clearly."
+    },
+    {
+      "role": "user",
+      "content": "One person talking a guy."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand. Can you clarify what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "What if the American Civic Association is on Tuscary and is someone shooting upstairs?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Shooting what?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I didn't see them, but we can certainly hear them."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots did you hear?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God, probably 15 or 20."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Aventon, I'm in an emergency. Do you need police, fire, or ambulance?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can help you. What seems to be the problem?"
+    },
+    {
+      "role": "user",
+      "content": "I have just smothered my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. I need some information from you. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Noel Lavery."
+    },
+    {
+      "role": "assistant",
+      "content": "And your address?"
+    },
+    {
+      "role": "user",
+      "content": "We live at 9-6 Millbourne Road East."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you confirm your name again?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Noel Lavery."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your date of birth, Noel?"
+    },
+    {
+      "role": "user",
+      "content": "15th of July 1928."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need to gather some information. Was your wife ill, sir?"
+    },
+    {
+      "role": "user",
+      "content": "She was a very chronic alcoholic."
+    },
+    {
+      "role": "assistant",
+      "content": "Was she drunk tonight?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she was."
+    },
+    {
+      "role": "assistant",
+      "content": "What is her name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name was Sherry, S-H-E-R-R-Y, Lavery."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she now, in the house?"
+    },
+    {
+      "role": "user",
+      "content": "In bed. I'm beside her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, in the bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She was 50, almost 51."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not. I put a pillow on her face and held it until she stopped."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you have an argument with her tonight?"
+    },
+    {
+      "role": "user",
+      "content": "No, it wasn't an argument."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you tell me more?"
+    },
+    {
+      "role": "user",
+      "content": "My wife has been a chronic alcoholic for quite some time. There's a whole medical history that will come out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what prompted you to do it tonight?"
+    },
+    {
+      "role": "user",
+      "content": "I've been to my meeting for sobriety. Sherry has been in and out of hospital with chronic alcoholism for a long time."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand."
+    },
+    {
+      "role": "user",
+      "content": "We drank tonight and talked about it. My wife is now dead. I killed her. There is no argument or dispute about that."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it a mutual decision or was it your decision?"
+    },
+    {
+      "role": "user",
+      "content": "We talked about it. She said she couldn't promise a cure for alcoholism."
+    },
+    {
+      "role": "assistant",
+      "content": "I see. Please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "I put a pillow over her face. She didn't feel any pain because she was very drunk, and I held it until she stopped breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is anyone else in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my son-in-law is here trying to give her CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, police are on their way. Please stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Get the police here as quickly as you can. I am not denying anything."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. Who am I speaking to?"
+    },
+    {
+      "role": "user",
+      "content": "Noel Lavery. There's no point in continuing this conversation. What is done is done."
+    },
+    {
+      "role": "assistant",
+      "content": "I appreciate your honesty. We will be there soon."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your son-in-law there? What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Kevin. He rushed in to try and give CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he live there?"
+    },
+    {
+      "role": "user",
+      "content": "No, he came from work. He's a shift worker. My wife's daughter from my previous marriage called him."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Noel. I'm here. Please stay on the line until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "There's nothing more to do."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Alright. Thank you for your help."
+    },
+    {
+      "role": "assistant",
+      "content": "We're here for you, Noel."
+    }
+  ]
+}

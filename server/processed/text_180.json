@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I got a man stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in what city, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Elkona."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how was he stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "I got a Jeep Cherokee going out Hider Avenue right now. He's fixing to make a left on Lockwood, and he's going to be heading cordon."
+    },
+    {
+      "role": "user",
+      "content": "I got two people severely stabbed in the neck, one possible fatality."
+    },
+    {
+      "role": "user",
+      "content": "Please let them know I'm wearing a red t-shirt with shorts. I am signal zero with a firearm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who stabbed him, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's just out in the yellow. The Jeep just turned left from Lockwood."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the Jeep Cherokee?"
+    },
+    {
+      "role": "user",
+      "content": "It's a champagne color."
+    },
+    {
+      "role": "assistant",
+      "content": "And that's the suspect, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you a law enforcement officer?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm a neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "But you're armed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am signal zero."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you with the victims now?"
+    },
+    {
+      "role": "user",
+      "content": "He's saying his wife is inside stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "You said they're both stabbed in the neck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, both are stabbed in the neck."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at now? Are you with the victims?"
+    },
+    {
+      "role": "user",
+      "content": "I think so, yeah. What's the address here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address where the victims are at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address, but I have two people stabbed really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, what's the address where the victims are at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure of the exact address. The Jeep Cherokee turned left from Lockwood."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got help on the way. Can you get a cloth and have them apply it to the wounds to stop the bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm telling them to hold the cloth on there tight."
+    },
+    {
+      "role": "assistant",
+      "content": "Have them sit or lay down. You said the Jeep was heading toward Lockwood?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and there's blood everywhere. His wife is missing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, one victim is missing. Are you armed with a gun right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but my weapon is secure."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we need to focus on helping the victims. You said it might be a domestic incident?"
+    },
+    {
+      "role": "user",
+      "content": "It sounds like the son came over and stabbed them. She's hiding in the woods."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the son's name?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know his name. We're deep in the woods now. She's covered in blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get a cloth on the wounds to help stop the bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "We're doing our best with first aid. She's in really bad shape."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep pressure on the wounds. Do you see the deputies?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see them now."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is [Name]. He's going to her daughter's house to kill her."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address that he's headed to?"
+    },
+    {
+      "role": "user",
+      "content": "In Daytona. He's headed to kill his sister."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll notify Daytona. Sir, are you still there?"
+    }
+  ]
+}

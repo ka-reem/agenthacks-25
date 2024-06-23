@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry for calling 911, but I didn't know what number to call. There's a guy at the exit from the beach, near the MacArthur Causeway, completely naked and throwing his clothes all over the highway."
+    },
+    {
+      "role": "assistant",
+      "content": "He's on the expressway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's on the street on the expressway, holding onto one of the light poles and acting like Tarzan."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is this exactly?"
+    },
+    {
+      "role": "user",
+      "content": "When you're coming from the beach, near the MacArthur Causeway where the cruise ships are, it's the exit for the Miami Herald, the Biscayne Boulevard exit."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's heading east from the beach?"
+    },
+    {
+      "role": "user",
+      "content": "No, sorry, it's heading west."
+    },
+    {
+      "role": "user",
+      "content": "I'm really sorry for calling 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me make sure I have this right. It's not an emergency, but there's a tall African-American man completely naked on one of the light poles acting like Tarzan, and all his clothes are on the highway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, coming off the beach from South Beach, on MacArthur Causeway heading west, at the exit of Biscayne. Completely naked man acting like Tarzan."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. You've reached the Florida Highway Patrol, Miami Regional Communications. Can you describe the situation again?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, good afternoon. I was coming off the beach on the MacArthur Causeway, near where the cruise ships are. There's an African-American man on the exit of Biscayne, completely naked, acting like Tarzan on one of the light poles."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. You said this is at 395 and Biscayne, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, on 395, westbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Which bridge is this?"
+    },
+    {
+      "role": "user",
+      "content": "Over the bridge, right off Biscayne."
+    },
+    {
+      "role": "user",
+      "content": "There's a guy standing naked as a jaybird."
+    },
+    {
+      "role": "assistant",
+      "content": "Which bridge is this again?"
+    },
+    {
+      "role": "user",
+      "content": "Never mind, my brother is taking care of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you reporting this?"
+    },
+    {
+      "role": "user",
+      "content": "There's a naked man on the MacArthur Causeway at the Biscayne Boulevard exit. He is beating another man to a pulp. The man is bleeding badly."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone\u2019s beating another man? You said you're a bus driver and you saw this happening?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm a bus driver. He is beating another man at the end of the causeway, heading towards Miami. He might kill that man."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Near 13th Street and North Bayshore Drive on the sidewalk, there are two homeless men fighting, taking up the whole lane."
+    },
+    {
+      "role": "assistant",
+      "content": "13th Street and North Bayshore Drive?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, just up the causeway in the pedestrian area."
+    },
+    {
+      "role": "assistant",
+      "content": "Would you like to leave a call-back number, Sir?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm leaving the area. They almost knocked over an old lady who was biking by."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe these individuals? Black or white?"
+    },
+    {
+      "role": "user",
+      "content": "Darker skin color, maybe black or Hispanic."
+    },
+    {
+      "role": "assistant",
+      "content": "And they were in the street?"
+    },
+    {
+      "role": "user",
+      "content": "In the bike path or pedestrian walkway, crossing the MacArthur Causeway. Clearly visible from Northeast 13th Street and North Bayshore Drive."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, I don't believe they noticed me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Sir, thank you."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm speaking to my boyfriend as he was entering his home and I heard loud screaming and now there's dead air on the other end."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is his address?"
+    },
+    {
+      "role": "user",
+      "content": "95 West Crescent Ramsey."
+    },
+    {
+      "role": "assistant",
+      "content": "95 West Crescent?"
+    },
+    {
+      "role": "user",
+      "content": "West."
+    },
+    {
+      "role": "assistant",
+      "content": "And Ramsey?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Z-U-N-C."
+    },
+    {
+      "role": "user",
+      "content": "S-A-K."
+    },
+    {
+      "role": "assistant",
+      "content": "S-H-A?"
+    },
+    {
+      "role": "user",
+      "content": "S-A-K as in kites."
+    },
+    {
+      "role": "user",
+      "content": "S-H."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sorry?"
+    },
+    {
+      "role": "user",
+      "content": "Z as in zebra, U.N."
+    },
+    {
+      "role": "user",
+      "content": "D as in David, U.N. as in Nancy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Calm down. What is his phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know one?"
+    },
+    {
+      "role": "assistant",
+      "content": "No problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Ramsey, police dispatcher."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, Ramsey."
+    },
+    {
+      "role": "user",
+      "content": "It's Paramus. How are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead."
+    },
+    {
+      "role": "user",
+      "content": "I just got a call from a Lori Gerbowski. I can't even say it. I'll spell it. G.E.R.D.A.S.I from Whitecloth stating that she was talking to her boss and he had just gotten home, walked into his house which is in your town, and screamed, and now she has dead air. His name, his last name is D-E-A-Z, as in David, U.N.S.A.K. He's at 95 West Crescent Street."
+    },
+    {
+      "role": "assistant",
+      "content": "West Crescent Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, West Crescent Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "And his phone number is..."
+    },
+    {
+      "role": "user",
+      "content": "And she can't get through again? It's dead air, like the phone just went dead. I'll give you her phone number off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All righty? You got it."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

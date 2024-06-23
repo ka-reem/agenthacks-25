@@ -1,0 +1,400 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, all your doctors? Because my mom's on the floor, we think, and I can't wake her up."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your mommy?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't know, but she's not waking up."
+    },
+    {
+      "role": "user",
+      "content": "I always try to wake her up and the baby is crying."
+    },
+    {
+      "role": "user",
+      "content": "I was crying my head off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you do me a favor, sweetie? Is your mom on her stomach or her back?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "When you look at your mommy, is she laying on her stomach?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's laying on her side."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you roll her flat on her back? Can you push her over?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's too big. But are you a doctor?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, but honey, I am going to get someone out to you. I want you to stay on the phone with me."
+    },
+    {
+      "role": "assistant",
+      "content": "How long has your mommy been sleeping?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She just stayed like this. I was trying to get her up and the baby is crying. I don't know how to make... um... I tried calling somebody, but they didn't answer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So she's been like that for a couple of hours?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that your baby brother or sister?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. I can't make him a bottle. I don't know how."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you can't make him a bottle. How old is your brother or sister?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my sister's not here. She's at my dad's and the baby is two weeks old."
+    },
+    {
+      "role": "assistant",
+      "content": "The baby is two weeks old?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sweetie. What's the bottle look like? Do you know where the bottles are?"
+    },
+    {
+      "role": "user",
+      "content": "I know where one bottle is, but can you really hear me? The baby's crying."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear you, sweetie. I can hear you really good. You're doing a great job. Does your baby brother take a baby bottle or a pacifier?"
+    },
+    {
+      "role": "user",
+      "content": "We have cereal for him and I was trying to make the cereal, but I don't know how. The box is not open."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay, you're doing great. Is your baby brother in a little sling, or is he laying in a crib?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's in his little chair."
+    },
+    {
+      "role": "assistant",
+      "content": "In his little chair? Is it a bouncy chair?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I was trying to wake her up. I'm so tired. I'm afraid we stayed up all night."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, honey, you're not going to stay up all night. We're going to get someone to help you. You're being so brave right now. I'm so proud of you. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Five."
+    },
+    {
+      "role": "assistant",
+      "content": "Five. You are doing great. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Austin."
+    },
+    {
+      "role": "assistant",
+      "content": "Austin, you are being a great helper. Do you like your new baby brother?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Um, his name is Aiden."
+    },
+    {
+      "role": "assistant",
+      "content": "Baby Aiden?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you show me what the bottle looks like because your mom's not waking up somehow?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, that's fine. You can take the phone with you. Tell me what the bottle looks like."
+    },
+    {
+      "role": "user",
+      "content": "It has stuff in it, but it has the stuff in it. It has the formula, and I was shaking it, but somehow the lid didn't close."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there water in the bottle with the formula?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, you have to put it in. That's how you make it."
+    },
+    {
+      "role": "assistant",
+      "content": "You are very smart. That is how we make bottles. Did you twist the top on all the way?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but when I was shaking it, it didn't mix."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Sometimes it takes a little longer. If it's twisted on right, with the little eating part you suck out of, we can shake it again together. We'll shake together."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you shaking it now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have it right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you take the phone with you? We want to try and help baby Aiden."
+    },
+    {
+      "role": "user",
+      "content": "This is a house phone, but I can't bring the whole phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay, can you set the phone down and go get the bottle and come back?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm still here, honey. Did you get the bottle?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I have it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does it look more like formula now?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's still formula at the bottom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well let's shake it really hard."
+    },
+    {
+      "role": "user",
+      "content": "I'm shaking it."
+    },
+    {
+      "role": "assistant",
+      "content": "You are doing good. Sometimes the formula likes to get stuck."
+    },
+    {
+      "role": "user",
+      "content": "I was watching a movie and I told her to get up and she didn't. She's done this two or three times already."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing so good. I'm so proud of you. I'm sure your mommy is proud of you too for being such a good help."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to wake her up. She's not waking up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. If you put your hand in front of her nose or her mouth, can you feel any breath?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll do that. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "I don't know because there's a new phone and I don't know if she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does she have any red stuff by her body?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "No blood? Do you know what blood looks like?"
+    },
+    {
+      "role": "user",
+      "content": "I know it's red."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You don't see any of that?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. Well, we're doing good. How's that bottle looking?"
+    },
+    {
+      "role": "user",
+      "content": "It still has formula at the bottom. I'll try to shake it when you come because I'm trying to make him one and it's not working."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's all right. If we shake it up, does it have enough liquid so he can get some milk maybe?"
+    },
+    {
+      "role": "user",
+      "content": "I think my mom put too much and that's why it's not working, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. Well, can we just try and dump a little bit out so we can give him a little bit?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on. Set the phone down."
+    },
+    {
+      "role": "user",
+      "content": "It's probably the paramedics. Set the phone down and get the door. Do you see fire trucks?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. My mom's laying on the floor."
+    },
+    {
+      "role": "user",
+      "content": "They're in the kitchen now."
+    },
+    {
+      "role": "user",
+      "content": "No, I'm just scared because the door is right there."
+    },
+    {
+      "role": "user",
+      "content": "My phone is ringing. My phone is ringing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hey, Austin?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way, okay? They're going to help you."
+    },
+    {
+      "role": "assistant",
+      "content": "Say hi."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Hello. They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there someone with you? Can you show them the bottle? Maybe they can make it for your brother?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he is right now. He's making the bottle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. They're going to help you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

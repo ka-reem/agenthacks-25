@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we got a fire down here on Route 7, right here at Abington."
+    },
+    {
+      "role": "assistant",
+      "content": "Route 7 on Abington Road."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, right down below McCombie's funeral home."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's on fire?"
+    },
+    {
+      "role": "user",
+      "content": "There's kids in the house in here, Howard."
+    },
+    {
+      "role": "assistant",
+      "content": "The house is on fire?"
+    },
+    {
+      "role": "user",
+      "content": "The house on fire and people's in there, dear."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see flames and smoke?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, flame smoke. Yes, people's hollering, honey. Come on, please."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Do you have a direct address?"
+    },
+    {
+      "role": "user",
+      "content": "Me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, do you have a direct address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address. It's right down below McCormitz's home."
+    },
+    {
+      "role": "user",
+      "content": "Huh? They ain't yelling now. The kid ain't yelling anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said flames are visible?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, planes are. Yeah, it's hard, hurry, hon."
+    },
+    {
+      "role": "user",
+      "content": "Uh, shit, yes, much is going out of the house. It's below McCannis."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it one second?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, right seven. Yes, please, dear."
+    },
+    {
+      "role": "user",
+      "content": "Rep. The government's."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Somebody's dispatching the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to enter yourself, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not go in there yourself and do not let any other bystanders go in."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And if anything changes, I want you to call me back immediately on 911."
+    },
+    {
+      "role": "user",
+      "content": "We can't do nothing. They said don't do nothing."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Call me back immediately on 911."
+    },
+    {
+      "role": "user",
+      "content": "We can't get in there, Eddie. Mark."
+    },
+    {
+      "role": "user",
+      "content": "Yeah. That's a worker. Oh, man. Oh, this is a shame."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, is there any way that you can get me an address, okay, so we can get the fire department right there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Do you see a mailbox?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm calling out. What's the address here, dear? Oh, my God. Oh, my God. It's right. It's right below McCona's, huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "You there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. 3401."
+    },
+    {
+      "role": "assistant",
+      "content": "3401?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right, well, we're starting the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. If anything changes, call me back immediately."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

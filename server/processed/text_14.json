@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm calling about my son."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the side of the road. They took him in a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what address are you calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the side of the road, I don't have an address."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're on Whitaker Road. Ma'am? Whitaker Road and what?"
+    },
+    {
+      "role": "user",
+      "content": "I'm near Lincoln High School. Whitaker and Willis Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "My car is disabled on the side of the road. It's gray."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they took your car too?"
+    },
+    {
+      "role": "user",
+      "content": "No, they took my son. He's two years old."
+    },
+    {
+      "role": "assistant",
+      "content": "He's two years old, and you're at Whitaker and Willis Road, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm on Whitaker Road, between Willis and Milet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you see a house near you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in the dark, in the country. My car is disabled."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is your car?"
+    },
+    {
+      "role": "user",
+      "content": "Gray, it's a gray Taurus."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, take a deep breath. Who took your baby?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Somebody stopped and said they'd help with my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did he go?"
+    },
+    {
+      "role": "user",
+      "content": "Towards Paletti. It was a red pickup truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a license plate number?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he go north on Whitaker from Willis Road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, northbound on Whitaker."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, we have deputies on the way there right now. Tell me what else you can about the red truck."
+    },
+    {
+      "role": "user",
+      "content": "It's old and has rust on it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a big truck or a small truck?"
+    },
+    {
+      "role": "user",
+      "content": "A small truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Maya, stay on the phone with me. The police are on the way. Tell me more about the truck that took your son."
+    },
+    {
+      "role": "user",
+      "content": "It was a small, old, red truck with rust. That's all I saw. It's dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in your car with the doors locked until the police get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please help me, there's a car behind me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. We have help on the way. Tell me what else you can about the truck."
+    },
+    {
+      "role": "user",
+      "content": "It was red, old, and had rust."
+    },
+    {
+      "role": "assistant",
+      "content": "What did the person look like who took your son?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It was dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. We have police on the way there. Can you tell me anything else about the person who took your son?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in my car with my other kids. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on the way, ma'am. Stay in your car with the doors locked until the police get there."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's 515 East Rancho. I have people in my yard and the dogs in my yard from next door. I don't know what\u2019s going on, but there's something happening here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you hearing yelling? What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Well, there are a bunch of them yelling about something. I don't know what. I'm going out to see what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't approach them. Do not approach them. Go back in your house."
+    },
+    {
+      "role": "user",
+      "content": "They're messing up my gardens."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to go back in your house. I'm going to get officers en route."
+    },
+    {
+      "role": "user",
+      "content": "It's too late now. We've got one down."
+    },
+    {
+      "role": "assistant",
+      "content": "Go back in your house. What did you say?"
+    },
+    {
+      "role": "user",
+      "content": "The guy that was in my yard started attacking me."
+    },
+    {
+      "role": "user",
+      "content": "He jumped on me."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to go back in your house."
+    },
+    {
+      "role": "user",
+      "content": "Well, you better... I'm in the house now. I got blood all over me."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you attacked by the dog?"
+    },
+    {
+      "role": "user",
+      "content": "No, the guy attacked me."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm advising the RP to go back in his house. He will not listen. Mike, what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Huh? What is your phone number?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Did you go back in your house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the house."
+    },
+    {
+      "role": "user",
+      "content": "The male subject attacked him. He is injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Who attacked you?"
+    },
+    {
+      "role": "user",
+      "content": "The guy next door."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "His blood is all over. It's in my house. It's on my hands. It's on my guns."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why is his blood on you?"
+    },
+    {
+      "role": "user",
+      "content": "Well, because he was that close, that's why."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you hit him? What happened?"
+    },
+    {
+      "role": "user",
+      "content": "He was attacking, but I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "RP shot the male subject. I repeat, male subject has been shot. What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "It's a black."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your gun?"
+    },
+    {
+      "role": "user",
+      "content": "It's in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it next to you?"
+    },
+    {
+      "role": "user",
+      "content": "It's on my table. I'm having a problem. I got a heart thing, too. My heart's bugging me. I got to sit down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Take a few deep breaths."
+    },
+    {
+      "role": "user",
+      "content": "I can't understand you."
+    },
+    {
+      "role": "assistant",
+      "content": "Mike, I want you to sit down and take a few deep breaths."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Take a few deep breaths trying to calm down."
+    },
+    {
+      "role": "user",
+      "content": "I'm having some chest pains right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there any other injury?"
+    },
+    {
+      "role": "user",
+      "content": "I have to hang up. I need to get some other stuff here."
+    },
+    {
+      "role": "assistant",
+      "content": "No, Mike, I need you to stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I can't. I got to get some medication."
+    },
+    {
+      "role": "assistant",
+      "content": "Mike? Mike."
+    }
+  ]
+}

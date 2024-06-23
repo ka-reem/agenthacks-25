@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We just witnessed a shooting on 3rd Avenue and Nickerson."
+    },
+    {
+      "role": "assistant",
+      "content": "Third and Nickerson?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How many minutes ago was it?"
+    },
+    {
+      "role": "user",
+      "content": "30 seconds ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Was this 3rd Avenue North or 3rd Avenue West?"
+    },
+    {
+      "role": "user",
+      "content": "3rd Avenue West."
+    },
+    {
+      "role": "assistant",
+      "content": "3rd Avenue West, 30 seconds ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Who had a gun? Was it a male or female?"
+    },
+    {
+      "role": "user",
+      "content": "A male in a cap of some sort."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, report a shooting that just occurred at 3rd Avenue West and West Nickerson Street. Caller says 30 seconds ago."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you see the guy do with the gun? Was somebody shot?"
+    },
+    {
+      "role": "user",
+      "content": "He just walked up behind this guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Was somebody shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Get fire on the line. Stay on the line, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire and Medic One, what's the address?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is radio. We have a shooting at 3rd Avenue West and West Nickerson Street. Caller says they saw a male shoot another person."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, they are lying on the ground."
+    },
+    {
+      "role": "user",
+      "content": "It looks like he's still on the ground, but I can't tell."
+    },
+    {
+      "role": "assistant",
+      "content": "Does anybody have a description? We need to know who we're looking for and we've got lots of help on the way."
+    },
+    {
+      "role": "user",
+      "content": "He was about five foot nine, maybe 140 pounds. He had a plaid shirt on over a white t-shirt and was wearing jeans. He had pretty dark hair and was wearing glasses."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a white male, black male?"
+    },
+    {
+      "role": "user",
+      "content": "He's a white male."
+    },
+    {
+      "role": "assistant",
+      "content": "How old?"
+    },
+    {
+      "role": "user",
+      "content": "Probably between 25 and 30."
+    },
+    {
+      "role": "assistant",
+      "content": "What direction did he go?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see that. We were going in the opposite direction when he shot the person."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I thought he got out of a vehicle, but he just came across the street on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see a vehicle, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see that he got out of a vehicle. All I saw was he crossed the street."
+    },
+    {
+      "role": "assistant",
+      "content": "And you didn't see which way he actually went, correct?"
+    },
+    {
+      "role": "user",
+      "content": "After he shot, he reloaded and just went away. I couldn't see where he went."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the victim that's down on the ground, this is a male?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see. The campus security officers are dealing with it right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Right, I'm just trying to get as much information as I can about what you saw."
+    },
+    {
+      "role": "user",
+      "content": "There were two people standing there and this guy walked up behind one of them, lifted his gun, and shot directly into the back of the person's head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you said it was a rifle like a long gun, not a handgun?"
+    },
+    {
+      "role": "user",
+      "content": "It was a shotgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, did you say it was a shotgun?"
+    },
+    {
+      "role": "user",
+      "content": "I believe it was a shotgun with a ribbed upper section."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're still here."
+    },
+    {
+      "role": "assistant",
+      "content": "No, I mean are you still at the scene or did you leave?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're still at the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "And you have no idea where the suspect went, nobody saw which way he went?"
+    },
+    {
+      "role": "user",
+      "content": "I did not. We passed it and then turned around and came back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're on scene and staged."
+    },
+    {
+      "role": "assistant",
+      "content": "Everyone's there, sir. Thank you so much. We appreciate this."
+    },
+    {
+      "role": "assistant",
+      "content": "You can go ahead and just stay there; they're going to come talk to you if they need to. Just keep your phone open and available if they need to contact you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you so much. I'm glad you're safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

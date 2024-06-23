@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Are you looking, Jenny, do you have a group out on I-4?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat that? Are you saying there's a group on I-4?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have a few people here just east of the D line. Is the person in the white minivan you?"
+    },
+    {
+      "role": "user",
+      "content": "I have a guy here who says he's being harassed by a police officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you describe what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "The guy is yelling and says the officer is giving him a hard time and harassing him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the officer still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's yelling at the officer and they're fighting."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll send help. Please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "If you are there, 9-1-1, is you still that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm here. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm being assaulted by an officer on I-4. Please call my wife. I'm being assaulted and dragged out of my car."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay calm. We have several units on the way. Can I have your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "This is ridiculous. I'm being assaulted. He's yelling at me and grabbing me."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I understand. Please stay on the line. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Get Channel 2, Channel 5, Fox 35, all of them down here. This is crazy. This is insane."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you please give me your name?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm going to hold the phone as long as I can."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, we need to know your name."
+    },
+    {
+      "role": "user",
+      "content": "Dude, I'm not even fighting you. I'm not fighting you!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, listen to the officer. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "What do you want to ask?"
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay calm and cooperate with the officer. We have several units on the way."
+    },
+    {
+      "role": "user",
+      "content": "Get off of me! Get off of me!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, are you still there? Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Just look."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I think the call might have disconnected."
+    },
+    {
+      "role": "user",
+      "content": "I think he just laid the phone down really far."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have multiple units on the way. Can you provide his phone number or any other information?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Kevin Allen. I don't have his phone number."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll handle it from here. Thank you for calling."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you. Bye-bye."
+    }
+  ]
+}

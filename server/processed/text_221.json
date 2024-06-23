@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Coconut Island, there's an emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "My granddaughter and my daughter are dead."
+    },
+    {
+      "role": "assistant",
+      "content": "They're what? Dead?"
+    },
+    {
+      "role": "user",
+      "content": "Dead. Dead. They're dead."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean they're dead? How are they dead?"
+    },
+    {
+      "role": "user",
+      "content": "I killed them."
+    },
+    {
+      "role": "assistant",
+      "content": "You killed them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "Maine and Kilpatrick."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there an exact address?"
+    },
+    {
+      "role": "user",
+      "content": "No, just Maine and Kilpatrick."
+    },
+    {
+      "role": "assistant",
+      "content": "Your daughter and your granddaughter?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And you killed them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you kill them?"
+    },
+    {
+      "role": "user",
+      "content": "With a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "With a knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what happened? Why did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Listen, can you get the police over here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Police and fire department are already on the way. Can you tell me what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I'll let the cops know what happened when they get here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me anything about what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I'll let them know as soon as they arrive."
+    },
+    {
+      "role": "assistant",
+      "content": "And where's the knife right now?"
+    },
+    {
+      "role": "user",
+      "content": "It's right next to them."
+    },
+    {
+      "role": "assistant",
+      "content": "It's next to them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's right next to them."
+    }
+  ]
+}

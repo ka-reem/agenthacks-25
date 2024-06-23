@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "193 Mockingbird Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I have a nine-week-old infant, and he just stopped breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, okay. A nine-week-old infant, not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, your name?"
+    },
+    {
+      "role": "user",
+      "content": "Melanie Campbell."
+    },
+    {
+      "role": "assistant",
+      "content": "Phone number?"
+    },
+    {
+      "role": "user",
+      "content": "508-420-6215."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line for the ambulance, I'm sending them right now."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you tried tapping the baby and gently shouting to wake him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's a little whiny, but he's bright blue in the face."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he choking on anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he threw up and was choking, and now he's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Turn the baby face down so he lies on your forearm, with his bottom at your elbow."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Support the baby's jaw with your hand, making sure not to block the baby's mouth."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Tilt the baby so the head is down slightly. Use the heel of your free hand to give five back blows between the shoulder blades."
+    },
+    {
+      "role": "user",
+      "content": "Okay, did that. Nothing came out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby conscious and breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s trying to breathe, but you can tell he's not getting enough air."
+    },
+    {
+      "role": "assistant",
+      "content": "Bring the baby down a little bit further and give him a couple more back blows between the shoulder blades, making sure not to block the mouth."
+    },
+    {
+      "role": "user",
+      "content": "He's breathing a little bit, but still blue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep monitoring him. Is he crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's him crying in the background."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. It means he's getting air. Stay with him, and I'm staying on the line."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Is his color starting to come back?"
+    },
+    {
+      "role": "user",
+      "content": "He's still a bit red and blue around his eyes and forehead."
+    },
+    {
+      "role": "assistant",
+      "content": "Red is okay, it means blood flow is returning. Just keep monitoring him. The sound of him crying is good."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you have someone go outside and open the door for the EMTs?"
+    },
+    {
+      "role": "user",
+      "content": "The EMTs are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. They'll take over. You're doing a great job."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye."
+    }
+  ]
+}

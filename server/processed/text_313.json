@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need you to please send a fire ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to please come."
+    },
+    {
+      "role": "user",
+      "content": "My brother's drunk and he took out a knife. Please come now."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he cut anybody, Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He's threatening and he touched a 12-year-old. Please come now."
+    },
+    {
+      "role": "assistant",
+      "content": "I am sending someone. Ma'am, How old is your brother?"
+    },
+    {
+      "role": "user",
+      "content": "He's forty-three, and he's been drinking."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you said he's been drinking. What has he been drinking?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has. Has he cut anybody yet? Is he threatening anyone?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending someone right now, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "I'm telling you he's yelling."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Manny"
+    },
+    {
+      "role": "assistant",
+      "content": "What is it?"
+    },
+    {
+      "role": "user",
+      "content": "Manny, Manny, Manny. Please come."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, you did. Unless she's lying. She doesn't know you."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, why would she lie?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know it. I don't know it."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your brother's name?"
+    },
+    {
+      "role": "user",
+      "content": "Manny"
+    },
+    {
+      "role": "assistant",
+      "content": "Spell it for me."
+    },
+    {
+      "role": "user",
+      "content": "M-A-N-N-Y"
+    },
+    {
+      "role": "assistant",
+      "content": "Manny, Okay. Is he on any type of medication?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I don't know what. I don't care."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a history of doing this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's why his children were taken away."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he ever hurt anyone before?"
+    },
+    {
+      "role": "user",
+      "content": "He says that on June 16, he's going to die, and I think he wants to take us with him."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't hear him anymore. Is he... Hold on."
+    },
+    {
+      "role": "user",
+      "content": "Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Look at his wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, no problem. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Mm-hmm. You go ahead."
+    },
+    {
+      "role": "user",
+      "content": "He's talking to her on the phone. He's talking to the woman that left."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have a knife in his hand?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see it. He's locked up in the room."
+    },
+    {
+      "role": "assistant",
+      "content": "Mommy, go there. Open the door."
+    },
+    {
+      "role": "user",
+      "content": "Okay, ma'am, it looks like I've got an officer that should be there."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, did he put the knife back?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but he doesn't have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the officer now?"
+    },
+    {
+      "role": "user",
+      "content": "He's somebody to talk to him. No, put it back."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the officer, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, excuse me. I was just trying to be..."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, is that the officer?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you, sir."
+    }
+  ]
+}

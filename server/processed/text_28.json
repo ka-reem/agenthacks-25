@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, ma'am. There's a man lying on the highway. I think he has blood on his arm."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's lying face down. I'm kind of afraid to approach him."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly where you're at."
+    },
+    {
+      "role": "user",
+      "content": "It's right before the 2.15 exit."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, is anyone else with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm approaching him now. I'm scared to touch him though."
+    },
+    {
+      "role": "assistant",
+      "content": "Try not to move him. Can you see if he is breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell, it's dark. He doesn't seem to be breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, hold on for just a moment while I connect you."
+    },
+    {
+      "role": "user",
+      "content": "It looks like he might be breathing, or it could be the wind."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how to perform CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I'm not sure if I should."
+    },
+    {
+      "role": "assistant",
+      "content": "If he's breathing, just monitor him until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. I think there's a police car approaching."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay with him and wait for the officers."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

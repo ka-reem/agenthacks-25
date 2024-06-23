@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "What city is your emergency?"
+    },
+    {
+      "role": "assistant",
+      "content": "What address?"
+    },
+    {
+      "role": "user",
+      "content": "South 1180 West."
+    },
+    {
+      "role": "user",
+      "content": "Please come quick."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me that one more time so I know I have it right."
+    },
+    {
+      "role": "user",
+      "content": "220 South, 1180 West. Utah. Come please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I have officers headed over there. Tell me the phone number you're calling from, okay? I need to know what happened."
+    },
+    {
+      "role": "user",
+      "content": "I don't know... I just have blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I need you to calm down for a minute. I understand, 220 South, 1180 West. My partner is dispatching somebody. Who is bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "I can't, I can't... You need to hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "You need to slow down, calm down, okay? I can't understand you. Talk a little quieter, okay?"
+    },
+    {
+      "role": "user",
+      "content": "My wife, it's my wife!"
+    },
+    {
+      "role": "assistant",
+      "content": "Take a breath for me, okay? What is your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "I have officers on the way. I need to have some information from you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what happened, she came out of the shower and I heard a pop, there's blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "I have officers and paramedics on the way, okay? Can you take a breath? Does she have a gunshot wound to the head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is the gun right now?"
+    },
+    {
+      "role": "user",
+      "content": "In the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Who am I speaking to? What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Colby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Colby. Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not. There's so much blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the blood coming from? Her head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, from her head."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or a trailer park?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house. Across from Trafalgar."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I... I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "I have an officer outside trying to find you. Can you go outside and find him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm going."
+    },
+    {
+      "role": "assistant",
+      "content": "Go out and get the officer so he can help you, okay? My officer is outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Is that the officer on scene?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that's the officer."
+    }
+  ]
+}

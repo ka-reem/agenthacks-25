@@ -1,0 +1,372 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My house."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "152 River Creek Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just killed my mom and my sister."
+    },
+    {
+      "role": "assistant",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "I just killed my mom and my sister."
+    },
+    {
+      "role": "assistant",
+      "content": "You just killed your mother and your sister?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you do that?"
+    },
+    {
+      "role": "user",
+      "content": "I shot them with a .22 revolver."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Jake Evans."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you sure they're dead?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you alright?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on just a minute. Where is the gun?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the kitchen counter."
+    },
+    {
+      "role": "assistant",
+      "content": "It's a .22?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on any kind of medication?"
+    },
+    {
+      "role": "user",
+      "content": "No. Well, I've been going to the allergist lately, but nothing other than that."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "17."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't take any other kind of medication?"
+    },
+    {
+      "role": "user",
+      "content": "Just Zyrtec and Advil for allergies and headaches."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any reason you were so angry at your mother and your sister?"
+    },
+    {
+      "role": "user",
+      "content": "I wasn't really angry with them. It just kind of happened. I've been planning on killing for a while now."
+    },
+    {
+      "role": "assistant",
+      "content": "The two of them or just anybody?"
+    },
+    {
+      "role": "user",
+      "content": "Pretty much anybody. I don't really like people's attitude."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. I'm listening."
+    },
+    {
+      "role": "user",
+      "content": "I think people are very rude to each other and stuff like that. My family, I felt like they were suffocating me. I know this is really selfish, but I guess I'm pretty evil."
+    },
+    {
+      "role": "assistant",
+      "content": "No, don't be sorry. It's okay. You have my undivided attention."
+    },
+    {
+      "role": "assistant",
+      "content": "Were your mom and sister in their beds?"
+    },
+    {
+      "role": "user",
+      "content": "My sister was in her room, and I told her mom needed her. When she came out, I shot her, and she rolled down the stairs. I shot her again, then I went down and shot my mom about three or four times."
+    },
+    {
+      "role": "assistant",
+      "content": "So they're both downstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "In the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not sitting by the gun, are you?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's about 10 or 15 feet away from me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your dad?"
+    },
+    {
+      "role": "user",
+      "content": "He's out of town."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where he is?"
+    },
+    {
+      "role": "user",
+      "content": "Washington D.C."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. For future reference, do you want any family members to visit you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want any visitors."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where do you go to school, Jake?"
+    },
+    {
+      "role": "user",
+      "content": "I used to go to Ladoga High School, but now I'm homeschooled."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's just you, your sister, your mom, and your dad in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and my grandparents live across the street. My oldest sister lives with them, and I have another sister in college."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to hurt yourself?"
+    },
+    {
+      "role": "user",
+      "content": "I'm freaked out by guns now. I don't want to hurt myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Help will be provided to you, okay? There are people who will help you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We're here to help you too."
+    },
+    {
+      "role": "assistant",
+      "content": "Jake, where is the kitchen in the house? Is it at the back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, towards the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Our sergeant is almost at your house. What I'll ask you to do is turn your porch light on. Can you do that?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Jake, do you want to talk about anything else?"
+    },
+    {
+      "role": "user",
+      "content": "No, not really."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your grandparents' last name?"
+    },
+    {
+      "role": "user",
+      "content": "Stevens."
+    },
+    {
+      "role": "assistant",
+      "content": "With a V or PH?"
+    },
+    {
+      "role": "user",
+      "content": "S-T-E-V-E-N-S."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your grandpa's first name?"
+    },
+    {
+      "role": "user",
+      "content": "Jim."
+    },
+    {
+      "role": "assistant",
+      "content": "And your grandma's?"
+    },
+    {
+      "role": "user",
+      "content": "Diane."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a gated community? Do you need a password?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a driver's license?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "May 22, 1995."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be alright. I'm staying on the phone with you, and they'll be there shortly. Can you go to the front door and turn the porch light on?"
+    },
+    {
+      "role": "user",
+      "content": "I turned them on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Jake, are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm just thinking about my sister."
+    },
+    {
+      "role": "assistant",
+      "content": "How old was she?"
+    },
+    {
+      "role": "user",
+      "content": "15. She had a sweet side but could be rude to me sometimes."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About 30 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "You'll be alright, Jake. Just take deep breaths for me. In through your nose and out through your mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any cars in your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Take deep breaths, Jake. In through your nose, out through your mouth."
+    }
+  ]
+}

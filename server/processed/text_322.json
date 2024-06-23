@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, is this a police station?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it is. How can we help you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, okay, I know this sounds ridiculous, but I'm on 24th Street at a car wash, and I'm stuck inside. I put $5 in, it sprayed a soak on me, and now the doors won't open, and I'm scared to get out of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the car wash?"
+    },
+    {
+      "role": "user",
+      "content": "It's, um, I don't know. It's on 24th Street. It's next to a party store, I think. I'm really freaked out."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on 24th Street? Do you know any other landmarks around there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm across from Mueller Brass."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're across from Mueller Brass. Hold on just a minute, okay? Please don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thanks."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you explain again? You can't move your car out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the garage doors are shut on both sides and they're not opening."
+    },
+    {
+      "role": "assistant",
+      "content": "Was there anybody working there, or is it one of those self-serve washes?"
+    },
+    {
+      "role": "user",
+      "content": "It's a self-serve. It sprayed a soak on my car, and now nothing else is happening. Both doors are shut."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't know the name of the place at all?"
+    },
+    {
+      "role": "user",
+      "content": "It's something like Super something, I can't remember. I'm across from Mueller Brass and on 24th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're in a Jeep, you said? Is it that you can't even see outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in a Jeep, and I'm really freaking out."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Your call says you're calling from Flint?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's just my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have enough battery on your phone?"
+    },
+    {
+      "role": "user",
+      "content": "I have a Boost phone, and I'm about to run out of minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. I'm going to try to help you here. Is everything running inside the car wash, like the equipment?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing's running."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get out of your car and see if there's a button on the wall that you can push to open the doors? There should be something you can press."
+    },
+    {
+      "role": "user",
+      "content": "There's a guy behind me. I hope he doesn't start it."
+    },
+    {
+      "role": "assistant",
+      "content": "If he starts it, you might be able to get out. But try to see if there's a button inside that can open the doors first."
+    },
+    {
+      "role": "user",
+      "content": "But if he starts the wash, I'm going to get super soaked."
+    },
+    {
+      "role": "assistant",
+      "content": "He should know it's cold, and it won't start immediately. Check for a button on the wall."
+    },
+    {
+      "role": "user",
+      "content": "Okay. There are seven buttons, but none of them are labeled to open the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll try to find you. What's the exact name of the car wash, if you can see it?"
+    },
+    {
+      "role": "user",
+      "content": "It's called Best Auto Wash. B-E-S-T Auto Wash."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Tell the people outside to call the number on the building so the manager can come and get you out."
+    },
+    {
+      "role": "user",
+      "content": "I called the number already, and it went to an answering machine."
+    },
+    {
+      "role": "assistant",
+      "content": "Leave a message, tell them to get down there. Make sure they understand it's urgent."
+    },
+    {
+      "role": "user",
+      "content": "I left two messages already. But my minutes are running out."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you called?"
+    },
+    {
+      "role": "user",
+      "content": "I called 929-8889. It was an emergency number."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We'll try contacting them for you, but there should be a button on the wall to open the doors."
+    },
+    {
+      "role": "user",
+      "content": "I can't see anything helpful. I'm stuck here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, get out of your car and try checking the buttons again on the wall. There should be something up there."
+    },
+    {
+      "role": "user",
+      "content": "I got out of the car now. I already left a message on the machine."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We will try contacting the owner of the car wash for you, but officers can't come over to break the door to let you out."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Good luck. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Alright, bye."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Sandy Hook School. I think there's somebody shooting in here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What makes you think that?"
+    },
+    {
+      "role": "user",
+      "content": "Because somebody's got a gun. I saw a glimpse of somebody running down the hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, where are you in the school right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm down the corridor."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to take cover and stay on the line. What about the students in the front of the building?"
+    },
+    {
+      "role": "user",
+      "content": "Everything's locked up as far as I know. I'm not in the front."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anything out the window?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's still going on. I keep hearing shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want you to go over there. I want to know what's happening with the students along the front corridor."
+    },
+    {
+      "role": "user",
+      "content": "I'm not in the front. I'm actually in another part of the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see or hear anything more at this time?"
+    },
+    {
+      "role": "user",
+      "content": "I keep hearing popping sounds."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay with me. Who am I speaking with?"
+    },
+    {
+      "role": "user",
+      "content": "Rick Storm."
+    },
+    {
+      "role": "assistant",
+      "content": "Rick, what's your position at the school?"
+    },
+    {
+      "role": "user",
+      "content": "I'm acting head custodian today."
+    },
+    {
+      "role": "assistant",
+      "content": "Rick, are all the doors locked and are classrooms secure?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, all the rooms are locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anything before this started?"
+    },
+    {
+      "role": "user",
+      "content": "No, but the gym teacher told me he saw a shadow past the gym."
+    },
+    {
+      "role": "assistant",
+      "content": "Was this shadow inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "Outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any injuries at this time?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know of any injuries right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Rick, I'm going to keep you on the line. Are you still hearing shooting?"
+    },
+    {
+      "role": "user",
+      "content": "It's silent now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you are. Help is on the way. Can you give me an update on your surroundings in a few seconds?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is the state police. I got a victim from Sandy Hook School. She\u2019s been shot in the foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she located?"
+    },
+    {
+      "role": "user",
+      "content": "Room number one, near the playground."
+    },
+    {
+      "role": "assistant",
+      "content": "How close are you to arriving on scene?"
+    },
+    {
+      "role": "user",
+      "content": "We're very close."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thanks. Stay safe."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my friend just texted me. She's at Sandy Hook Elementary. There\u2019s a shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have officers on scene. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Brosey from Newtown. Do you know what's happening?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we\u2019re aware. There\u2019s an active shooter. We have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thanks."
+    },
+    {
+      "role": "assistant",
+      "content": "Rick, are you still with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I\u2019m here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, what do you see now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the corridor. I'm not seeing anybody, but I hear talking."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line and stay safe. Let the officers know you\u2019re on the phone with 9-1-1."
+    },
+    {
+      "role": "user",
+      "content": "I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Rick, I'm going to keep you with me. Do you hear any more shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Not right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hang tight, help is very close."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Sandy Hook School. My friend just texted me. There\u2019s a shooter."
+    },
+    {
+      "role": "assistant",
+      "content": "We have responders on scene now. Thank you."
+    }
+  ]
+}

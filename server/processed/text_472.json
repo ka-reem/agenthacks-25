@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, how can I help you?"
+    },
+    {
+      "role": "user",
+      "content": "He's going down Central Parkway with my baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm getting on Central Parkway now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who's going down Central Parkway with your baby?"
+    },
+    {
+      "role": "user",
+      "content": "My husband, he's got a mental problem. He doesn't live with me anymore. He's on drugs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where did you last see him?"
+    },
+    {
+      "role": "user",
+      "content": "I saw him when I got home. He snatched my baby."
+    },
+    {
+      "role": "assistant",
+      "content": "This is what you're going to have to do: you're going to have to pull over if you want police assistance."
+    },
+    {
+      "role": "user",
+      "content": "I can't hear you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to have to pull over if you want to speak with police."
+    },
+    {
+      "role": "user",
+      "content": "They're not going to go on a high-speed chase. He does not have the right to have my child. He's on drugs."
+    },
+    {
+      "role": "assistant",
+      "content": "But he's your husband. You need to explain why he's not capable. Do you have custody of your children?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have legal custody. He has mental problems."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you need to pull over for the police to assist you."
+    },
+    {
+      "role": "user",
+      "content": "I'm pulling over now."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Lynette. I already told them he has mental problems."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you already called the police before this?"
+    },
+    {
+      "role": "user",
+      "content": "I called 9-1-1."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers are on scene on McMickin waiting for you."
+    },
+    {
+      "role": "user",
+      "content": "I'm on Central Parkway with the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "If you're moving, we can't send police out. We need you to stay in one location."
+    },
+    {
+      "role": "user",
+      "content": "But I don't even know where he is."
+    },
+    {
+      "role": "assistant",
+      "content": "If charges need to be pressed, they will find him. We need evidence to proceed."
+    },
+    {
+      "role": "user",
+      "content": "He has my baby."
+    },
+    {
+      "role": "assistant",
+      "content": "We already have an officer at your house. Can you roll up your window or pull over?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, what are you saying?"
+    },
+    {
+      "role": "assistant",
+      "content": "We already have an officer on McMickin waiting for you."
+    },
+    {
+      "role": "assistant",
+      "content": "We can't keep sending officers all over the place if you keep moving. We need you to be stationary."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going back to McMickin."
+    },
+    {
+      "role": "assistant",
+      "content": "That's all we need. If charges need to be pressed, they'll find him and put a warrant out."
+    },
+    {
+      "role": "user",
+      "content": "But that's my baby, and he's on drugs."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that you're upset, but we cannot go on a high-speed chase. We need you to stop for the police."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going back now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need any other assistance?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm going back now. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

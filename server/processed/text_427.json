@@ -1,0 +1,276 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My brother!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Hi, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Hi, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "He's not conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Tell me your address."
+    },
+    {
+      "role": "user",
+      "content": "1420 South."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "He's 20 months. He's not conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is anybody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "It's my children."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He's not conscious right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not conscious right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he breathing at all?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. How can I tell?"
+    },
+    {
+      "role": "assistant",
+      "content": "If he's getting any air at all, you should be able to hear it or see his chest rise and fall. Do you know what he's choking on?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, oh my gosh, please help me."
+    },
+    {
+      "role": "assistant",
+      "content": "Look, I don't want you to slap him on the back, okay? I'm getting an ambulance headed your way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You're by him right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm by him right now."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my heart."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what you see and hear him doing."
+    },
+    {
+      "role": "user",
+      "content": "He's just limp."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he face-up on the ground?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Lay him face-up on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Face up."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to place two fingers in the center of his chest, right between his nipples, and push down quickly one inch with only your fingers touching his chest."
+    },
+    {
+      "role": "user",
+      "content": "Okay. He's having a little bit of a reaction."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Keep doing it until he starts to breathe or cry."
+    },
+    {
+      "role": "user",
+      "content": "He's breathing a little bit, and then he stopped. Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep doing it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he just flat on his back on the ground?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my heart. What are we going to do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anything in his mouth?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I don't want you to stick your fingers in his mouth because you might force it down further, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your hand on his forehead and your other hand under his neck and shoulders and slightly tilt his head back."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your ear next to his mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Very, very light."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep him like that if he's getting a little bit of air."
+    },
+    {
+      "role": "assistant",
+      "content": "You want to keep his airway open. Are you Jennifer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to stay calm for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still getting some air?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he just took a breath."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's a good sign. Try to stay calm. Can you see his chest rising or feel the air?"
+    },
+    {
+      "role": "user",
+      "content": "Every now and then he'll take a gasp."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me tell you how to give mouth-to-mouth. With his head still slightly tilted back, completely cover his mouth and nose with your mouth and blow two puffs of air into his lungs, about one second each, just enough to make his chest rise with each breath."
+    },
+    {
+      "role": "user",
+      "content": "Okay, and then keep doing it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, do two and let me know if you feel the air going in and out."
+    },
+    {
+      "role": "user",
+      "content": "He's trying to take a gasp."
+    },
+    {
+      "role": "user",
+      "content": "Is the ambulance coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they are coming. Just keep doing it so they can get in there and take over."
+    },
+    {
+      "role": "assistant",
+      "content": "Jennifer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Paramedics are following up but I need you to keep doing what you're doing to help your son until they can get in there and take over."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Oh, my God. Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

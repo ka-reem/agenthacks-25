@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "They won't go."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I kind of do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is happening?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend, she has this ex-boyfriend and he's been stalking her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just a second. I'll be right back with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is this happening?"
+    },
+    {
+      "role": "user",
+      "content": "He's following her right now. He will not leave her alone."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "44th and Wadsworth."
+    },
+    {
+      "role": "assistant",
+      "content": "44th and Wadsworth. Okay. Is she in a car?"
+    },
+    {
+      "role": "user",
+      "content": "She's in a car, and he's following her. You can hear her crying in the background. He just will not leave her alone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What kind of car is she in?"
+    },
+    {
+      "role": "user",
+      "content": "What kind of car are you in, Amber? It's a black Dodge Caliber."
+    },
+    {
+      "role": "assistant",
+      "content": "And which way is she going? Is she going north on Wadsworth?"
+    },
+    {
+      "role": "user",
+      "content": "Which way are you going now, Amber? North or south? West on 44th right now, but she's about to turn left on Wadsworth."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just keep driving. He's going to keep following you, Amber, but just keep driving, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she going southbound on Wadsworth now?"
+    },
+    {
+      "role": "user",
+      "content": "Are you going southbound on Wadsworth now? Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Chad, I have a stalker situation. He's following a girl. She's southbound on Wadsworth."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened? Just a second. I'll be right back with you."
+    },
+    {
+      "role": "user",
+      "content": "You're not trapped? He's trapping you? He pulled in front of your car?"
+    },
+    {
+      "role": "assistant",
+      "content": "She's crying. I can't understand. What, Amber? He's trying to run you off the road?"
+    },
+    {
+      "role": "user",
+      "content": "Trying to run off the road? And is she still at 44th?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you now? Wadsworth and what? Keep your door locked."
+    },
+    {
+      "role": "user",
+      "content": "Where are you? What kind of car is he in? Do you know?"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car is he in? You're hysterical. I don't hear her."
+    },
+    {
+      "role": "assistant",
+      "content": "And is she still at 44th and Wadsworth?"
+    },
+    {
+      "role": "user",
+      "content": "Are you at 44th and Wadsworth? Amber? Amber?"
+    },
+    {
+      "role": "user",
+      "content": "Holy shit, I just lost her. She had just turned south down on Wadsworth from 44th."
+    },
+    {
+      "role": "user",
+      "content": "The person I was talking to had her on the phone but lost contact."
+    },
+    {
+      "role": "user",
+      "content": "I just told her that but lost her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. She's somewhere near there, 44th and Wadsworth."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her cell phone number?"
+    },
+    {
+      "role": "user",
+      "content": "303-547-4089. This guy has threatened her life."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just a second. I'll be right back again, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Alex."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "303-710-5151."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We've got officers on the way."
+    },
+    {
+      "role": "user",
+      "content": "Holy shit. Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Thanks, Alex."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'd like to report a car accident and shots fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Just after 38th Avenue going southbound on Wadsworth."
+    },
+    {
+      "role": "assistant",
+      "content": "38th and Wadsworth?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are both cars still there?"
+    },
+    {
+      "role": "user",
+      "content": "No, one of the cars, a man pulled out. He looked to be in his mid-30s, and he was in a light Toyota truck. It looks like there's an officer on the scene right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know what kind of car is involved in the accident?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. The other car that was present was a black Ford Contour driving southbound on Wadsworth. I'm going to let you go. I'll talk to the officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Bye."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Help!"
+    },
+    {
+      "role": "assistant",
+      "content": "New York County 911."
+    },
+    {
+      "role": "user",
+      "content": "We need help. My husband just shot my son."
+    },
+    {
+      "role": "assistant",
+      "content": "Your husband shot your son?"
+    },
+    {
+      "role": "user",
+      "content": "Please."
+    }
+  ]
+}

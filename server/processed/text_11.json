@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is 946 West Dallas Street, number 6. EMS please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "My husband's eyes are rolling back and he's not breathing right."
+    },
+    {
+      "role": "assistant",
+      "content": "I need somebody there immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "They're already on their way. I'm going to ask you some questions to help him until they get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 26."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "His chest is expanding, but he's not awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Barely, please."
+    },
+    {
+      "role": "assistant",
+      "content": "The paramedics are already on their way. Is his breathing completely normal?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he changing color?"
+    },
+    {
+      "role": "user",
+      "content": "He's getting red and sweating."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a history of heart problems?"
+    },
+    {
+      "role": "user",
+      "content": "No, he does not."
+    },
+    {
+      "role": "assistant",
+      "content": "The paramedics are on their way. Stay on the line with me and I'll tell you what to do next."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you right by him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Lay him flat on his back and remove any pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've done that."
+    },
+    {
+      "role": "assistant",
+      "content": "Place one hand on his forehead and your other hand under his neck, then tilt his head back. Check if you can feel or hear any breathing."
+    },
+    {
+      "role": "user",
+      "content": "No, I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully, I'm going to tell you how to do compressions. Place the heel of your hand on the breastbone in the center of his chest, right between the nipples. Put your other hand on top of that hand. Push hard and fast, at least twice per second, and two inches deep. Let the chest come all the way up between pumps. We're going to do this 600 times or until help takes over. Count out loud so I can keep track with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, starting now. One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep going. Count out loud so I know how much you're doing."
+    },
+    {
+      "role": "user",
+      "content": "Two, three, four, five, six, he's trying to catch his breath."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. You still need to pump his chest."
+    },
+    {
+      "role": "user",
+      "content": "I'm going, I'm going."
+    },
+    {
+      "role": "assistant",
+      "content": "What did he do?"
+    },
+    {
+      "role": "user",
+      "content": "He's breathing loud and hard."
+    },
+    {
+      "role": "assistant",
+      "content": "It could be from the chest compressions. Keep pumping his chest."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, six, two, three..."
+    },
+    {
+      "role": "assistant",
+      "content": "I know it seems like a long time, but it's only been a couple of minutes. You're doing fine, just keep going until help takes over."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Are you going to tell me when they're outside?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is your front door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "When they pull up, unlock your front door and come right back to him, but keep pumping his chest until then."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he keeps trying to breathe."
+    },
+    {
+      "role": "assistant",
+      "content": "That means he's still struggling. Keep pumping."
+    },
+    {
+      "role": "assistant",
+      "content": "I know it's hard, but you're doing great. Keep going."
+    },
+    {
+      "role": "user",
+      "content": "Okay, come on, Derek, wake up!"
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department just pulled up. Go unlock the door and come right back to him."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you back with him?"
+    },
+    {
+      "role": "user",
+      "content": "They're going upstairs right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Go back to your husband and start compressions again until they take over."
+    },
+    {
+      "role": "user",
+      "content": "Okay, do you want me to hang up now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they with you now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you did a great job. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, bye."
+    }
+  ]
+}

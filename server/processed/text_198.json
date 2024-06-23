@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My wife fell asleep in the bathtub and I think she's dead!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's 5250 Crested Owl Court, Morrow, Ohio."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need to calm down so I can understand the address. What is it again?"
+    },
+    {
+      "role": "user",
+      "content": "5250 Crested Owl Court in Hamilton Township, Morrow, Ohio."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "She fell asleep in the bathtub. I was downstairs, I just came up here and she was laying face down in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She is 24."
+    },
+    {
+      "role": "assistant",
+      "content": "She's in the bathtub?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the water's draining right now. I tried to do everything I could."
+    },
+    {
+      "role": "assistant",
+      "content": "You're taking her out of the water now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the water is completely drained, but she's just laying here unconscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still in the bathtub?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you drained the water out of the tub?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How long was she in the bathtub?"
+    },
+    {
+      "role": "user",
+      "content": "She was in there for at least 15 minutes, maybe half an hour. I was out watching TV. She falls asleep in the tub all the time."
+    },
+    {
+      "role": "assistant",
+      "content": "And how are you related to her?"
+    },
+    {
+      "role": "user",
+      "content": "I'm her husband."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Ryan Whitmer."
+    },
+    {
+      "role": "assistant",
+      "content": "Could you spell your last name for me, Ryan?"
+    },
+    {
+      "role": "user",
+      "content": "W-I-T-M-E-R."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you tried CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, as much as I could. What little bit I know."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody is coming. They're already on the way, Ryan. Is there any way you can get her out of the bathtub and onto a flat surface?"
+    },
+    {
+      "role": "user",
+      "content": "I can try, but I have to set the phone down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and get her out of the bathtub and onto a flat surface."
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay. I'm dropping the phone for a moment."
+    },
+    {
+      "role": "user",
+      "content": "She's on a flat surface now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, go ahead and begin CPR again. Keep trying CPR and they'll be there very soon, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are your doors unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to run and unlock the doors so they can get in when they arrive, then come back to her."
+    },
+    {
+      "role": "user",
+      "content": "Okay. The doors are unlocked now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you in the house?"
+    },
+    {
+      "role": "user",
+      "content": "We're upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have more than one bathroom in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's two, but we're in the only one with a bathtub."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Ryan, continue with CPR for me until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Come on, come on. Wake up!"
+    }
+  ]
+}

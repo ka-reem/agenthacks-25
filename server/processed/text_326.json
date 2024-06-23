@@ -1,0 +1,116 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, do you have a police, fire, or medical emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, yeah. Are you going to help me? Because I'm bleeding. A lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "It's on my head. I have a problem with my eye. I'm bleeding so bad I can't see. I think you broke my jaw and my hand definitely."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, try to put something on the eye to stop the bleeding."
+    },
+    {
+      "role": "user",
+      "content": "I don't think I can see from this eye. There's blood going everywhere."
+    },
+    {
+      "role": "user",
+      "content": "He's beating me with something. I'm bleeding to death."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening? Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "I think I'm going to die at this point. We have medical on the way, too, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I won't be able to open the door. He's going to try to kill me, my husband. Please help."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he black, white, Hispanic, or Asian? How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to get a chance to see. I don't know. I can't see because of the blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he still armed? Does he have any other weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I don't think so."
+    },
+    {
+      "role": "user",
+      "content": "He's going to get in the house. We have dogs in the backyard. Please help me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a further description of your husband? Is he medium-built, thin, or heavyset?"
+    },
+    {
+      "role": "user",
+      "content": "He's medium-built. He's wearing green shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you have any guns in the house or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "No. He's an ex-con."
+    },
+    {
+      "role": "user",
+      "content": "I'm bleeding a lot and he's going to come after me again."
+    },
+    {
+      "role": "assistant",
+      "content": "We have medical on the way. Stay with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can you see out of the other eye?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but barely. The ice is on my eye."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, help is coming. Hang in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Roll medical now, expedite medical. Severe head injury."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, go get the trauma pad out of the ambulance or the squad car. We've got medical on the way."
+    }
+  ]
+}

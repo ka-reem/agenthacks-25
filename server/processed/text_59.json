@@ -1,0 +1,128 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's an emergency at Northwest 6th Avenue and 8th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "6th Avenue and 8th Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 6th Avenue and 8th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, what is the problem?"
+    },
+    {
+      "role": "user",
+      "content": "A white female passenger passed out on one of our vehicles, which is a metro bus number 212."
+    },
+    {
+      "role": "assistant",
+      "content": "And this is a female that fainted?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in contact with her?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have to operate on the other line, but someone else is in contact with her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she still unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, ma'am, I'm going to ask some questions. I do have emergency responders on the way. Can you ask them if she is breathing normally?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on a second. No, she's not breathing normally, and there's fluid coming out of her mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to turn her to her side and clean out her nose and mouth."
+    },
+    {
+      "role": "user",
+      "content": "Hold on a minute. Okay, she's not moving, she's just limp."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Lay her flat on her back with nothing under her head. Clean out her nose and mouth. Now, place one hand on her forehead, the other under her neck, and tilt her head back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on. They did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. Now, place your ear next to her mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on. They say she's gasping for air."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so she's not breathing correctly, is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "If her breath is not steady or normal, I want you to tilt her head back some more."
+    },
+    {
+      "role": "user",
+      "content": "Hold on a second. They said she's turning colors and gasping every so often."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to guide you through how to perform chest compressions. Make sure she's flat on her back on the ground. Place the heel of one hand on her breastbone, right between her nipples. Place your other hand on top of that hand, and push down hard and fast, about 2 inches deep."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm right here."
+    },
+    {
+      "role": "user",
+      "content": "My rescue team just arrived."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you for your help, ma'am. Emergency responders will take over now."
+    }
+  ]
+}

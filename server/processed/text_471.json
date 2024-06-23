@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I need someone at 15012 Spring Street. Union Grove. I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. What do you need the ambulance for?"
+    },
+    {
+      "role": "user",
+      "content": "I have a boy that was underwater and he's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the boy?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, four."
+    },
+    {
+      "role": "assistant",
+      "content": "How long was he in the water?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know, like a couple of minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he in a pool or...?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, swimming pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you want to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, I can't hear you."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to do CPR, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Um, they're trying right now. Can you talk someone through it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yep, if you want to put someone on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, Scott, she's going to talk us through CPR."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, is he responding at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's no pulse."
+    },
+    {
+      "role": "user",
+      "content": "I'm pushing. I'm doing chest compressions."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need to make sure his mouth and airway are not blocked."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to put one hand on his forehead and the fingers of your other hand under the bony part of his chin and gently tilt the head back. Just a little."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see him breathing at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's still not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to give two breaths, one second each. Make sure the chest rises."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Come on, come on."
+    },
+    {
+      "role": "user",
+      "content": "His sister is crying in the background."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but I need you to stay focused. Is he breathing now?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's still no pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep doing chest compressions. Push hard and fast, about 2 inches deep and 100-120 compressions per minute."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm doing it."
+    },
+    {
+      "role": "user",
+      "content": "Wait, I think he's moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you feel him breathing? Is there a pulse?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think I feel a pulse. He's breathing!"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, roll him onto his side and keep his airway open. Continue to monitor him closely."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're doing that. Is the ambulance coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they are on their way. How is his skin color?"
+    },
+    {
+      "role": "user",
+      "content": "Kind of hard to see, but he looks okay. He's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the deputy there yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to keep you on the line until the ambulance arrives."
+    },
+    {
+      "role": "user",
+      "content": "That's fine. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. They should be there any second."
+    },
+    {
+      "role": "user",
+      "content": "I hear the sirens. They're coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Just stay calm, help is almost there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much for your help."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. You're doing a great job."
+    },
+    {
+      "role": "user",
+      "content": "They are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go now. Thank you for your help. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "Goodbye."
+    }
+  ]
+}

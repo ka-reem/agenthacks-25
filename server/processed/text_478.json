@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, what? In Palm Desert?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need to get an address."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need to get an address."
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay, I'm sorry, I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go somewhere where I can hear you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes, yes, yes."
+    },
+    {
+      "role": "user",
+      "content": "Yes. Our address is 72341 Highway 111."
+    },
+    {
+      "role": "assistant",
+      "content": "72341?"
+    },
+    {
+      "role": "user",
+      "content": "No, 74321 Highway 111."
+    },
+    {
+      "role": "assistant",
+      "content": "74321?"
+    },
+    {
+      "role": "user",
+      "content": "I think this guy's dying."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the cross street?"
+    },
+    {
+      "role": "user",
+      "content": "We're off of 111 and Sunset, right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They just started fighting, and all I heard was gunshots. These two guys are on the floor, and both of them are shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Both of them are shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Who has a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't know. One of them in a black shirt had a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the person with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He's passed out near the register."
+    },
+    {
+      "role": "assistant",
+      "content": "He's passed out near the register? Is he shot also?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're both down."
+    },
+    {
+      "role": "user",
+      "content": "It's chaos here. There are kids in this place."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a business?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Toys R Us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have the police on the way. Stay on the line with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a description of the two people who are down."
+    },
+    {
+      "role": "user",
+      "content": "One has a black sweatshirt and black jeans on. The other one has a brown sweatshirt with Levi's and white tennis shoes."
+    },
+    {
+      "role": "assistant",
+      "content": "The second person that's down, what is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "They're both down. They're both down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the first person is wearing a black sweatshirt. What is the second person wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Black sweatshirt and black T-shirt. The second person has on a pair of blue jeans with a brown hoodie, and he's on the floor."
+    },
+    {
+      "role": "user",
+      "content": "The cops are coming now."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Are they here? Are the deputies here?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're here, they're coming, they're coming."
+    },
+    {
+      "role": "user",
+      "content": "Please, I have two people down on the floor. Please, please, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are there now. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here."
+    }
+  ]
+}

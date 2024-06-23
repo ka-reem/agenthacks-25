@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, emergency at 5801 Eagle Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm trying to get an ambulance to you. Hang on a minute. What's going on, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I don't have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address again?"
+    },
+    {
+      "role": "user",
+      "content": "6901 Call Street, Linda Vista, and Willowbrook."
+    },
+    {
+      "role": "assistant",
+      "content": "Attention, 901 in medical emergency. It may be a possible stabbing. 5801 Eagle Drive, box C-38."
+    },
+    {
+      "role": "user",
+      "content": "Can't me a car plant?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Oh, my God. Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "5801 Eagle Drive. What's therapy on the phone?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on. You said your child has been stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, Rick. Can you hear?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to calm down and talk to me, okay? Please."
+    },
+    {
+      "role": "user",
+      "content": "5801 Eagle. 303 cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, listen to me."
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to talk to me. I can't understand you. You're going to have to slow down, calm down, and talk to me."
+    },
+    {
+      "role": "user",
+      "content": "They're dying. What is going on?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody screamed. It was freaking me out. My little boys were sleeping. Somebody came in."
+    },
+    {
+      "role": "user",
+      "content": "Stabbed me and my baby. I woke up and was fighting."
+    },
+    {
+      "role": "user",
+      "content": "He ran out. My babies are dying. They're dead. Oh, my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay on the phone, please."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Oh, my God. Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, who's there with you? Is there anybody in the house besides you and your children?"
+    },
+    {
+      "role": "user",
+      "content": "My husband. He just ran downstairs. He's helping me but he's done."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many little boys? Is it two boys?"
+    },
+    {
+      "role": "user",
+      "content": "I love them. They're too!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me, calm down."
+    },
+    {
+      "role": "user",
+      "content": "5801 Eagle Drive. When are they going to be here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they're on their way."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, how old are your boys?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "How old are your boys?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "Did you name Dahlie?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Your husband's name Dan?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please."
+    },
+    {
+      "role": "user",
+      "content": "Holy God, they're taken forever."
+    },
+    {
+      "role": "assistant",
+      "content": "Did nobody in your head?"
+    },
+    {
+      "role": "user",
+      "content": "There was. You don't know who did this? They were on the ground, I was fighting."
+    },
+    {
+      "role": "user",
+      "content": "My baby, oh, my God. They left the knife. There's a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't touch anything."
+    },
+    {
+      "role": "user",
+      "content": "Oh, he caught him. Who's out there? Is anybody out there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, listen. There's a police officer at your front door. Is your front door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need to let the officers in the front door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "You need to let the police officers in the front door."
+    },
+    {
+      "role": "user",
+      "content": "I've already picked up the knife."
+    },
+    {
+      "role": "assistant",
+      "content": "It's all right. Let the officers in."
+    },
+    {
+      "role": "user",
+      "content": "What if we got in the press, baby?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, hang on a second."
+    },
+    {
+      "role": "user",
+      "content": "Nobody walked in here and did it, then. There's nothing cut."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, is the police officer there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go talk to him, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

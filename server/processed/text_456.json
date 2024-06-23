@@ -1,0 +1,96 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, this is an emergency. I'm a cab driver. This guy said his friend died on the road, but I don't see him. We're at Rosedale Park."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at Rosedale Park?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He's crying and saying his friend died here, but I don't see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Your friend is what?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see anything, but he's crying. He keeps saying his friend died here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he hurt? Where exactly are you in Rosedale Park?"
+    },
+    {
+      "role": "user",
+      "content": "Rosedale Park, Kansas City, Kansas, at Mission Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I speak with your friend, please? Is he there?"
+    },
+    {
+      "role": "user",
+      "content": "Whoa, he's not my friend. I'm a cab driver. Come on, talk to me. Come on."
+    },
+    {
+      "role": "user",
+      "content": "No, at Rosedale Park, he got electrocuted. He got electrocuted by a bad ground wire."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I understand Rosedale Park. Can you calm down and tell me what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "At the tennis courts at Rosedale Park. My friend got electrocuted by a bad ground wire. Come here immediately."
+    },
+    {
+      "role": "user",
+      "content": "I cannot get him off without being electrocuted myself. Come here right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I need you to calm down. I understand you're at Rosedale Park, Kansas City. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "He's being electrocuted by a bad wire. He's stuck and being electrocuted to death."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, someone's being electrocuted. Stay with him if you can do so safely. Can you describe exactly where you are in the park?"
+    },
+    {
+      "role": "user",
+      "content": "Mission Road, at the tennis courts."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I understand your location. Help is on the way. Are you safe?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm here for him because he doesn't have a phone. I called."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with him if you can do so safely. Can you see any police or emergency vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "I see one police car. It passed by."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, help is on the way. Stay calm and try to keep him as calm as possible. They'll be there soon."
+    }
+  ]
+}

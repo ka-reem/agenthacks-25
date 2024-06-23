@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, please, hurry. This is 19 Windham Court. We've got somebody in the house here with a gun, and he's threatening all three of us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who is it?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, he's shooting again!"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, who is he shooting at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know! He's shooting at my girlfriend's daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second. Does she have a restraining order against him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she has a restraining order against him, and he won't leave us alone. Oh, please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, 19 Windham Court in Arlington Heights, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Oh, my God. What is he doing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's about 25 years old, I'd say. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does your daughter have a restraining order against him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she does."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what type of weapon does he have?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's a handgun. Oh, there's a cop here!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are the police there now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, but please hurry! He's got a gun!"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency? Someone just shot a cop!"
+    },
+    {
+      "role": "user",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm in the house."
+    },
+    {
+      "role": "user",
+      "content": "Do you still have a weapon on you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and if anyone comes down here, I'm shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the house are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the basement."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have anyone else with you in the basement?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my girlfriend is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but if anyone comes down here, I'm shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let's calm down. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Eric Anderson."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Eric, don't shoot anyone else, alright? Just stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I already shot a cop. I need help."
+    },
+    {
+      "role": "assistant",
+      "content": "We're sending help. Stay on the phone and stay calm. Don't hurt anyone else."
+    },
+    {
+      "role": "assistant",
+      "content": "Police and fire department, how can I help you?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my daughter and her mother are being held hostage by my daughter's ex-boyfriend. He shot a police officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is [REDACTED], and I'm in Las Vegas."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you text your daughter back?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I recommend you text her back to acknowledge her and tell her you're doing everything you can to help."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'll do that."
+    },
+    {
+      "role": "assistant",
+      "content": "What else did she tell you in the messages?"
+    },
+    {
+      "role": "user",
+      "content": "She said she was moved and is being held in a basement. They can see her in a window well."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll pass that information to the officers."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a friend being held hostage right now at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is this happening?"
+    },
+    {
+      "role": "user",
+      "content": "It's at Arlington Heights Road and Palatine Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What information do you have?"
+    },
+    {
+      "role": "user",
+      "content": "She's been communicating with me via text. She's in the basement, and her phone is about to die."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what else did she tell you?"
+    },
+    {
+      "role": "user",
+      "content": "She said he's pacing back and forth, and he shot at her mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this new information?"
+    },
+    {
+      "role": "user",
+      "content": "No, this was within the past hour."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, and is her mom with them?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "When did she tell you her phone might die?"
+    },
+    {
+      "role": "user",
+      "content": "About 20 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thanks for the update. We'll let the officers know. If you hear anything else, call us back."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, this is Brian."
+    },
+    {
+      "role": "user",
+      "content": "Hi, Brian. My daughter called and she's in a squad car now."
+    },
+    {
+      "role": "assistant",
+      "content": "That's great news. I'm glad she's safe."
+    },
+    {
+      "role": "user",
+      "content": "I just wanted to tell you how wonderful you all have been. Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, sir. I'm glad everything worked out."
+    }
+  ]
+}

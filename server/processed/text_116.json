@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, Good Wine Circle. I need a paramedic right now, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "School-le-road, Good Wine Circle. I cannot give you the exact address right now. I need a paramedic immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you at a house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in the middle of the road. Please, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I don't know what happened. My cousin is lying here. I need you to bring a paramedic right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing? Is he just laying in the middle of the road?"
+    },
+    {
+      "role": "user",
+      "content": "Please, he's not breathing. I need help right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, take a deep breath. We're getting help to you. I'm just trying to figure out what's going on."
+    },
+    {
+      "role": "user",
+      "content": "He's not breathing. He's bleeding. Please, help right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know why he's not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, he's just not breathing and he's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I can't remember the number right now. Just send an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Tachina Simmons. My cousin is lying here, bleeding and not breathing. I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm right beside him."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's about 32."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, his eyes are open but he's not breathing. He doesn't have a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to stay calm. Help is on the way. I'm going to tell you what to do next. Lay him flat on his back on the ground and remove any pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's on his back now."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully, and I'll guide you on how to do chest compressions."
+    },
+    {
+      "role": "user",
+      "content": "He doesn't need chest compressions. He's dead. I don't feel a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Even if there's a faint pulse, chest compressions can help. Do you want to try?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if it'll help, but I'll try anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he get shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he got shot."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, this is 911. I need an ambulance to Good Wine Circle. Please, hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the exact address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the exact address. Just send help to Good Wine Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a vehicle or on the road?"
+    },
+    {
+      "role": "user",
+      "content": "On the road. My niece is here with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. This is not slowing help down. Can you tell me exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I heard some gunshots. Then my niece said someone is lying in the road, bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, help is on the way. You're saying you heard gunshots and now there's a male lying in the road. Is he shot?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. My niece is checking."
+    },
+    {
+      "role": "assistant",
+      "content": "What part of Good Wine Circle are you on?"
+    },
+    {
+      "role": "user",
+      "content": "You'll see a gray Dodge Ram. He's lying beside it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your niece with him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's checking on him now."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Robert."
+    }
+  ]
+}

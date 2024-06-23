@@ -1,0 +1,512 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I am, you know, there's an emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, what's your location?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am on Hough Road."
+    },
+    {
+      "role": "user",
+      "content": "I am in water, and it's taken me away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, we're on the way. You're at Hough Road and where?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right in the middle of Hough Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the nearest crossway, do you think?"
+    },
+    {
+      "role": "user",
+      "content": "Summit Estates Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Erica Strickland."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Erica. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you the only one in the car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and my car's starting to flood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right. They're on the way. Please try to remain calm."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, it's coming in quick!"
+    },
+    {
+      "role": "assistant",
+      "content": "No, they're on the way, Erica. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "What do I need to do, ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Right now, you can't do much. Your car died, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there anybody else around?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. What color is your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "It's gray."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Can I try and get out and get on my roof?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, stay in the car. We're getting help. Please stay on the line, Erica."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Erica, you're not going to go into the water, okay?"
+    },
+    {
+      "role": "user",
+      "content": "But it's coming in fast."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not go into the water."
+    },
+    {
+      "role": "user",
+      "content": "Are they coming, ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they are. I know it seems like a long time, but just try to stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Are they going to be able to help me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they will. Just hang in there."
+    },
+    {
+      "role": "user",
+      "content": "I was trying to get home. My husband's been in the hospital all night. I was getting his prescription."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay with me, Erica. It's just you in the car, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, don't get out of the vehicle and don't go into the water, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. I'm here with you."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to die, ma'am. Stay in the car."
+    },
+    {
+      "role": "user",
+      "content": "How are they going to get to me if the road is flooded?"
+    },
+    {
+      "role": "assistant",
+      "content": "They have all kinds of ways to get to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Are you sure I can't get out and get on my roof?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, stay calm, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Erica, I want you to release your seatbelt if you have it on."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And unlock your door. Do not open the door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Erica, it's the sheriff's department. Are you on the north or the south side of Summit Estates, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right in the middle, right where you go over the little bridge. Please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to tell me if the water reaches the bottom of your window."
+    },
+    {
+      "role": "user",
+      "content": "It's at my hood, but it's coming up fast."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know if the water reaches your window, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Please talk to me."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here, Erica. I'm here."
+    },
+    {
+      "role": "user",
+      "content": "My husband was in the hospital last night, and I was getting a prescription."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you had passed through there before and were coming back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I had to get his prescription. He was in bad pain."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you called him or did you just call us?"
+    },
+    {
+      "role": "user",
+      "content": "No, I called you right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, good. Just hang in there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Are they on the way?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they've been on the way."
+    },
+    {
+      "role": "user",
+      "content": "Where's the water now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just relax. They're coming, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please just tell them to hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They are. Hang in there."
+    },
+    {
+      "role": "user",
+      "content": "I just don't want to drown."
+    },
+    {
+      "role": "assistant",
+      "content": "That's not going to happen. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "How are they going to get to me if the road is flooded?"
+    },
+    {
+      "role": "assistant",
+      "content": "They have ways, Erica. Trust us."
+    },
+    {
+      "role": "user",
+      "content": "Please just tell them to hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "They are hurrying. I promise."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Erica, I want you to release your seatbelt, if you haven't already."
+    },
+    {
+      "role": "user",
+      "content": "It's off, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right. Unlock your door, but do not open it."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the water up to your window?"
+    },
+    {
+      "role": "user",
+      "content": "It's at my hood but not at my window yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know if it gets higher."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "I know, but they're coming."
+    },
+    {
+      "role": "user",
+      "content": "What should I do now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay calm and hold on, Erica."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here with you. Don't worry."
+    },
+    {
+      "role": "user",
+      "content": "I'm holding on. I just don't want to drown."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to drown. We're here with you. Help is coming."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. I'm here with you."
+    },
+    {
+      "role": "user",
+      "content": "It's coming in faster. I can see it."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm, Erica. As hard as it is, stay calm."
+    },
+    {
+      "role": "user",
+      "content": "How long will they take?"
+    },
+    {
+      "role": "assistant",
+      "content": "They should be there soon. Just hang on."
+    },
+    {
+      "role": "user",
+      "content": "Are they talking to you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they say they can see you. Just hang on."
+    },
+    {
+      "role": "user",
+      "content": "What should I do if the water gets higher?"
+    },
+    {
+      "role": "assistant",
+      "content": "If the water reaches your window, let me know immediately, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you wearing a seatbelt?"
+    },
+    {
+      "role": "user",
+      "content": "No, I took it off."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Keep the door unlocked but closed."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Erica, are you still with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, just hang on."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll try."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming to get you."
+    },
+    {
+      "role": "user",
+      "content": "I see them!"
+    },
+    {
+      "role": "assistant",
+      "content": "Good! Help is there. Hang on, they'll get you out."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe and listen to their directions."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. Thank you."
+    }
+  ]
+}

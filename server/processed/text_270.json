@@ -1,0 +1,276 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a woman on my porch, she says she's been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, we're getting somebody on the way. What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "Seven McCurry Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Can the woman tell us what happened?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Terry Andrews. She says her whole family was shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Terry, what is your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Hendricks."
+    },
+    {
+      "role": "assistant",
+      "content": "Hendricks. Okay, what is the address where this happened?"
+    },
+    {
+      "role": "user",
+      "content": "1A4 Law Street."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are at that house, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Three people. My whole family."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they all get shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my brother and Renee Anderson."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did this?"
+    },
+    {
+      "role": "user",
+      "content": "Jerry Williams. He's the one who shot us."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you shot too?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I was shot in my left arm."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said there are three people at the residence who were shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, three people."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is Jerry Williams now?"
+    },
+    {
+      "role": "user",
+      "content": "He left in my sister's truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know which way he went?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About five minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun did he have?"
+    },
+    {
+      "role": "user",
+      "content": "He had a handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Why did he do this?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He was arguing with my brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many shots were fired?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the other victims were shot on their bodies?"
+    },
+    {
+      "role": "user",
+      "content": "I think my brother got shot in the chest and Renee in the leg."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're getting someone to you as fast as we can. Can you describe the truck?"
+    },
+    {
+      "role": "user",
+      "content": "It's a white full-size truck, probably a Silverado."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he alone?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's a female with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know her name?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she have a weapon?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What were they arguing about?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where Jerry Williams lives?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "About 35."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a white male?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your sister's name?"
+    },
+    {
+      "role": "user",
+      "content": "She's the one with him in the truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the truck registered to her?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay on the line with me until officers get there."
+    },
+    {
+      "role": "user",
+      "content": "My leg, my arm, and my hands are hurting."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming as fast as they can. Stay with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You said 1A4 Law Street is a house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a white house."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the other victims in the house?"
+    },
+    {
+      "role": "user",
+      "content": "In the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone until officers arrive, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers should be arriving shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

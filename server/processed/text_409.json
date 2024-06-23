@@ -1,0 +1,360 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Leopold Way in Pittsburgh."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, I didn't get the whole address. Can you repeat it?"
+    },
+    {
+      "role": "user",
+      "content": "3309, Leopold Way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you calling from a cell phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "And your name?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, can you tell me exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I'm watching TV, and I heard five shots, and there's someone laying in my front yard. A woman's in a sheet. There's a guy, it looks like he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Can you tell approximately how old he is?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not going to open my window. I'm peeking through my curtains and the screen. It's dark, and it's hard to tell."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Can you estimate his age?"
+    },
+    {
+      "role": "user",
+      "content": "There were like four or five shots. By the time I turned the light off and came to the window, I don't know who did the shooting or what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "I'm about 20 feet away and it's outside in the grass. I think the guy is dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm sending the ambulance now. Just stay on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. An ambulance and the police are on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the line with me here."
+    },
+    {
+      "role": "user",
+      "content": "There's a woman. I think maybe she's just naked in a white sheet."
+    },
+    {
+      "role": "user",
+      "content": "Black lady. And there's another girl. I think she's got blonde hair."
+    },
+    {
+      "role": "assistant",
+      "content": "911. What's the address?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat the address for me?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "Come on. Where is he shot?"
+    },
+    {
+      "role": "user",
+      "content": "Come on. I need somebody right now."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll tell you exactly what to do, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Come on. Is he still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Where is he shot?"
+    },
+    {
+      "role": "user",
+      "content": "Come on. Bring somebody."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my brother. Is he awake?"
+    },
+    {
+      "role": "tenant",
+      "content": "Yes now. Come on, bring the ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the attacker still nearby?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, what part of the body is injured?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Bring them right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there more than one wound? How many times has he been shot?"
+    },
+    {
+      "role": "user",
+      "content": "He's been shot, bring them, hurry now."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll tell you exactly what to do next."
+    },
+    {
+      "role": "user",
+      "content": "Fuck."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I know who he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what was the guy's name?"
+    },
+    {
+      "role": "user",
+      "content": "Come on. Bring the paramedics."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there an apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, bring the paramedics right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "I'm standing outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone with me until they get there."
+    },
+    {
+      "role": "user",
+      "content": "Come on, come on."
+    },
+    {
+      "role": "user",
+      "content": "They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where you live, man. You gotta help him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay calm. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Something is wrong."
+    },
+    {
+      "role": "assistant",
+      "content": "911. What's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Leopold Way, 3308. Someone came into my house and tried to attack me, and I had a pistol and I shot."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at 3308, you said? That's not a valid address."
+    },
+    {
+      "role": "user",
+      "content": "I mean, I can't. It's on Leopold's Way and Todd Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Can you please send someone?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I'll get officers on the way. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Perry Lucas."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm just getting out of the way because these are thug-type people that came into my house, and when I took out a gun and..."
+    },
+    {
+      "role": "assistant",
+      "content": "What apartment are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Apartment number three."
+    },
+    {
+      "role": "assistant",
+      "content": "No, that's fine. I'll get you some help, okay? So you were attacked, and then you retaliated and shot them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Someone started acting crazy, and they attacked my girlfriend. I told them to leave. They didn't leave, and then they told me to leave. I told them I live here. Then the guy ran at me, and I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "So you said the gun is unloaded and put away?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I separated the ammo from the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, where do you have the gun now?"
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s tucked away in the plant holder inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright Perry, I'm going to talk to the officers on the radio, okay?"
+    },
+    {
+      "role": "user",
+      "content": "How long is this going to take? Because I heard some sirens and I was hoping they were coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Perry, just stay with me. I'm talking directly to the cops."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s going on?"
+    },
+    {
+      "role": "user",
+      "content": "I hear voices, I hope that's them."
+    },
+    {
+      "role": "assistant",
+      "content": "Perry, I'm just talking with the officers, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

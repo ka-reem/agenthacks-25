@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I've just been bitten by, I think, a red-tail fox up in Red Reef Park."
+    },
+    {
+      "role": "assistant",
+      "content": "You just were bitten by a fox?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. I think he's rabid. He came out of the woods crazy."
+    },
+    {
+      "role": "user",
+      "content": "I just killed him, though. I have him here."
+    },
+    {
+      "role": "assistant",
+      "content": "You killed him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. I chased the sucker down. He bit me and my wife both. My wife is running down the road looking for somebody, they may get another call."
+    },
+    {
+      "role": "user",
+      "content": "He's on the phone with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How are you feeling?"
+    },
+    {
+      "role": "user",
+      "content": "I'm all right. He bit me in the calf. He bit my wife in the knee."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it just come up to you and bite you?"
+    },
+    {
+      "role": "user",
+      "content": "He was growling and then he ran out of the bushes and bit my wife. Then I grabbed a stick and chased him. He bit me and then I killed him after that. He was crazy."
+    },
+    {
+      "role": "user",
+      "content": "I don't even think it\u2019s the only thing. We just had a raccoon attack somebody down the street too. Something's going on with the animals today."
+    },
+    {
+      "role": "user",
+      "content": "They might have thought it was a raccoon because this guy was crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, yeah. Sir, stay right there in the park, okay? Don't move."
+    },
+    {
+      "role": "user",
+      "content": "We're not at Red Reef. I'm sorry. No, no, yeah, we are. We're at Red Reef, North End."
+    },
+    {
+      "role": "assistant",
+      "content": "So are you at the Red Reef Park, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Red Reef Park, North End, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "At the North End?"
+    },
+    {
+      "role": "user",
+      "content": "I parked in South Beach, but we're in Red Reef."
+    },
+    {
+      "role": "assistant",
+      "content": "At Red Reef?"
+    },
+    {
+      "role": "user",
+      "content": "Yep. At the North End."
+    },
+    {
+      "role": "assistant",
+      "content": "And this just occurred like a minute ago?"
+    },
+    {
+      "role": "user",
+      "content": "Like five minutes ago."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I think it was the same. We have had some confusion. We'll be right there, sir. The firefighters are right down the street."
+    },
+    {
+      "role": "user",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

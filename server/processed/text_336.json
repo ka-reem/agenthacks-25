@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, my daughter is not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "5940."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the street?"
+    },
+    {
+      "role": "user",
+      "content": "Carson."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to ask a few more questions to help you. Are you with her right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm holding her in my hands."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's two months."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious? Can you wake her up?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to wake her. I'm shaking her."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't shake her. Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm giving this information to my dispatcher. Don't hang up, okay? We got help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You said you don't think she's breathing, right?"
+    },
+    {
+      "role": "user",
+      "content": "No, but she isn't turning any color."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you right there with her?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully. You need to lay the baby flat on her back on the floor and remove any pillows. Let me know when you've done that."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Kneel next to her and look into her mouth for food or vomit. Is there anything in her mouth?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Place your hand on the baby's forehead and your other hand under her neck and shoulders and slightly tilt the head back. Can you repeat that?"
+    },
+    {
+      "role": "user",
+      "content": "Place my hand on her forehead and my other hand under her neck and shoulders and tilt her head back."
+    },
+    {
+      "role": "assistant",
+      "content": "That's right. Put your ear next to her mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We'll have to start CPR. With the baby's head slightly tilted back, completely cover her mouth and nose with your mouth, and blow two puffs of air into her lungs about one second each, just enough to make the chest rise. Did you feel the air going in and out?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying. One second."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to do two puffs of air into the lungs, about one second each."
+    },
+    {
+      "role": "user",
+      "content": "Okay, done."
+    },
+    {
+      "role": "assistant",
+      "content": "Now listen carefully. I'm going to tell you how to do chest compressions. Make sure the baby is flat on her back and place two fingers on the breastbone right between the nipples."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now push down about an inch and a half with only your fingers touching the chest. Pump the chest hard and fast 30 times, at least twice per second. Let the chest come all the way up between pumps. Tell me when you're done."
+    },
+    {
+      "role": "user",
+      "content": "Alright, counting..."
+    },
+    {
+      "role": "assistant",
+      "content": "Count out loud to 30."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four... Thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "Now with your hand under her neck and shoulders, tilt her head back and give her two more puffs of air."
+    },
+    {
+      "role": "user",
+      "content": "Two more puffs. Got it."
+    },
+    {
+      "role": "assistant",
+      "content": "Then pump the chest 30 more times. Tell me when you're done."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure your fingers are on the breastbone between the nipples. Have you done 30 pumps?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Now give her two more puffs of air. Then pump the chest 30 times again. Let me know when you're finished."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep going. Two puffs, then 30 pumps."
+    },
+    {
+      "role": "user",
+      "content": "Did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she showing any signs of breathing now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep repeating this cycle. Two puffs, 30 pumps. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm doing it."
+    }
+  ]
+}

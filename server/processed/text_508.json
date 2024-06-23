@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I shot my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Watch my drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "He shot me several times."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on for me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, ma'am. Are you with your husband now?"
+    },
+    {
+      "role": "user",
+      "content": "He took his weapon and walked down the hall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old is your husband?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake? Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "He is breathing? Okay. Tell me your name."
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "All right, you're on the phone with me, okay? And what I need for you to do is put that gun down, okay?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I do have the ambulance on the way. Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "The way he's lying, I can't tell, but it should be."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "He was trying to shoot you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, my deadline was at one o'clock. I'm supposed to die at one o'clock."
+    },
+    {
+      "role": "assistant",
+      "content": "So he was trying to shoot you too and you took the gun from him?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, you have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you have both guns now?"
+    },
+    {
+      "role": "user",
+      "content": "I gave him one and I reached for the other one. He started firing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he shot at you, and you shot at him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not really sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just stay on the phone with me. I have EMS, police, and fire department coming. Where is he in the house?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I got all over it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You don't have the gun in your hand?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "It's the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Step outside and do what they say. Just go ahead and put the gun down."
+    },
+    {
+      "role": "user",
+      "content": "They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just put the phone down and do what they say."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

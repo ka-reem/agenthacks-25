@@ -1,0 +1,296 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My mom, she's crying. I think her stomach is hurting really, really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 33."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she pregnant?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she been sick?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she has."
+    },
+    {
+      "role": "assistant",
+      "content": "Sick with what?"
+    },
+    {
+      "role": "user",
+      "content": "Something's in her stomach. She's supposed to have a surgery."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is it a hernia? Does she have cancer? What's in her stomach?"
+    },
+    {
+      "role": "user",
+      "content": "It's a tumor."
+    },
+    {
+      "role": "assistant",
+      "content": "A tumor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "When is she supposed to have her surgery?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know when, but she told me to call you. She needs help and she's crying and she's on the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she able to breathe okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her if she's taking any medication, or do you know if she is?"
+    },
+    {
+      "role": "user",
+      "content": "No, she isn't. No medication."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she have high blood pressure or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Elsie."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you spell your first name?"
+    },
+    {
+      "role": "user",
+      "content": "E-L-S-I-E."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Timms. T-I-M-M-S."
+    },
+    {
+      "role": "assistant",
+      "content": "And how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Ten."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a neighbor that can come stay with you if they have to take your mom to the hospital? Or another family member?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be okay. The ambulance is on their way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to stay on the line with you until they get there, okay? Are you a little bit scared?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any brothers or sisters or anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but they're with my daddy."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have your daddy's phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his phone number?"
+    },
+    {
+      "role": "user",
+      "content": "817..."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a sec. Sorry, let me get a pen. What's your auntie's number?"
+    },
+    {
+      "role": "user",
+      "content": "817-..."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Kathleen."
+    },
+    {
+      "role": "assistant",
+      "content": "Where does she live?"
+    },
+    {
+      "role": "user",
+      "content": "In Arlington, Texas."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to give her a call as soon as the ambulance gets there, okay? But I want to stay on the line with you because I know you're scared. The paramedics are really good and they're going to take really good care of your mom."
+    },
+    {
+      "role": "user",
+      "content": "Where does your dad live?"
+    },
+    {
+      "role": "assistant",
+      "content": "Fort Worth."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mama still crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "It's just because it hurts, sweetie. We're going to take real, real good care of her. You did a good job calling us."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I just need to talk to the policeman, but I'm still here, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to have an officer come over there just to sit with you until we can get your auntie, okay? Just stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "They're outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you unlock the door for me, sweetie?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to have Officer Davis come over there. He's real nice, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you let me call your auntie real quick and then I'll call you back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll call you right back, all right? Go ahead and hang up the phone."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, bye-bye."
+    }
+  ]
+}

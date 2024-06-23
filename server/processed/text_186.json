@@ -1,0 +1,244 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, my mama fell down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, your mama fell down?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "Um, my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the address of your house?"
+    },
+    {
+      "role": "user",
+      "content": "Uh."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask your mommy what the address is?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Is your mom, can your mommy talk?"
+    },
+    {
+      "role": "user",
+      "content": "No, she can't talk now. She's up down."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she laying down on the ground?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know what your house looks like?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "What color is your house?"
+    },
+    {
+      "role": "user",
+      "content": "Um, white."
+    },
+    {
+      "role": "assistant",
+      "content": "White? Okay, what color is your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Hang on, Kevin, just a second. It's white."
+    },
+    {
+      "role": "assistant",
+      "content": "White cars in front of your house?"
+    },
+    {
+      "role": "user",
+      "content": "I can't do such as a... White car. Because I'm trying to get dresses from a little bit of a girl. I only have one white car, and Daddy has a big black car."
+    },
+    {
+      "role": "assistant",
+      "content": "Big black car? Okay. Do you have any dogs or anything in your yard?"
+    },
+    {
+      "role": "user",
+      "content": "We have a big giant one. A big car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Three."
+    },
+    {
+      "role": "assistant",
+      "content": "Three? Okay. You're going to have to help me so we can get the ambulance there to help your mommy, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go to the door and turn on the porch light so the ambulance can find the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me. Don't put the phone down, okay? What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Um, Natalie."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. Do you have a baby brother?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you turn on the porch light for me?"
+    },
+    {
+      "role": "user",
+      "content": "Yep, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you know when to open up the front door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can your mommy talk?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll have to watch for the ambulance, and you'll have to help me wave them in so they can come help Mommy, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you'll have to help me listen for the ambulance. What's your mommy's name?"
+    },
+    {
+      "role": "user",
+      "content": "Melinda."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't remember."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. We're going to help her. Can you go open the front door for me so we can listen for the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you by the door so I can hear the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen for the sirens with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "You're a very smart little girl for calling me so we can get your mommy help. What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't feel good. Mommy doesn't feel good."
+    },
+    {
+      "role": "assistant",
+      "content": "That's right, and you're a very smart little girl for calling me so we can get her help. Can you wave at the ambulance when you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you waving at them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a small child at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you."
+    }
+  ]
+}

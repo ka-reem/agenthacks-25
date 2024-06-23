@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh! Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you calm down and tell me what's going on, please?"
+    },
+    {
+      "role": "user",
+      "content": "I'm out at the beach right now. We just got struck by lightning!"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need police, fire, or medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance. My boyfriend is not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. I will connect you."
+    },
+    {
+      "role": "user",
+      "content": "Baby, say something! Babe, say something!"
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the beach, past Lanikai. There's a building being built nearby."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with your boyfriend now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm with him. He's on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any flames or smoke?"
+    },
+    {
+      "role": "user",
+      "content": "No, there are no flames or smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "How many of you were struck by lightning?"
+    },
+    {
+      "role": "user",
+      "content": "Three of us. My boyfriend, the driver, and me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else nearby who can help?"
+    },
+    {
+      "role": "user",
+      "content": "There's a couple of people coming over now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to place your hand on your boyfriend's stomach and see if it's going up and down. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we need to start CPR. Place your hand on his forehead and tilt his head back. Are you able to do that?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, someone is helping now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone there who's CPR certified?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep doing the CPR. Help is on the way. Where exactly are you again?"
+    },
+    {
+      "role": "user",
+      "content": "We're behind Hooters on the beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get someone there as quickly as possible. How is he doing now?"
+    },
+    {
+      "role": "user",
+      "content": "He's trying to breathe. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Just keep trying and stay calm. Help is almost there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

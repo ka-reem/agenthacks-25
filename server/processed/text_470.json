@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're in a plane that's landing in the Hudson River."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are on board?"
+    },
+    {
+      "role": "user",
+      "content": "Two aboard."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have life preservers?"
+    },
+    {
+      "role": "user",
+      "content": "We have life preservers."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the water now?"
+    },
+    {
+      "role": "user",
+      "content": "We're in the water, the plane is filling up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the plane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're still in the plane."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get out of the plane? Can you open the door?"
+    },
+    {
+      "role": "user",
+      "content": "We're going to the rear of the plane, but it's filling up fast."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the Hudson are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're in the Hudson River, near the Alpine Tower."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the middle of the Hudson?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in the middle of the Hudson."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the plane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the plane is taking on water."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it possible for you to get out?"
+    },
+    {
+      "role": "user",
+      "content": "We can get out if we have to."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get out of the plane if it's going down. Get out now."
+    },
+    {
+      "role": "user",
+      "content": "Alright, we're going down. We're getting out."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get out of the plane and let me know when you're out."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'm out of the plane."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the plane? Are you both out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're both out. The water is freezing."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but you need to get away from the plane so you're not trapped."
+    },
+    {
+      "role": "user",
+      "content": "We're out of the plane."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you going to make it to shore?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think we can make it to shore."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers and boats en route to your location."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I think I'm losing you."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay on the phone with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're out, and we have life preservers."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, help is on the way."
+    }
+  ]
+}

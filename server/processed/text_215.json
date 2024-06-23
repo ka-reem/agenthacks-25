@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I was told to call by my dad to tell where we're at."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, can you tell me your location?"
+    },
+    {
+      "role": "user",
+      "content": "We are on F28 just getting stop mom. We are just getting onto the old uproad highway six roads."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "user",
+      "content": "On to now. 12."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We have the police that are trying to help you out there. Are you scared?"
+    },
+    {
+      "role": "user",
+      "content": "Who are you talking to?"
+    },
+    {
+      "role": "assistant",
+      "content": "You can leave the line open if you don't want to talk on the phone. If you want to act like you're hanging it up, you can just leave it open, okay, and I can follow you."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Who are you talking to?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I was talking to 911. Is that for me to call them?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "And there's the sheriff. Right there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we just drove by the sheriff."
+    },
+    {
+      "role": "assistant",
+      "content": "You just drove by the sheriff?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Pulling into the Hummer parking lot. He just pulled in."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he pulling you over?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's pulling up behind us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. Do you feel safe disconnecting?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you did a good job, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Right. Yep. Bye."
+    }
+  ]
+}

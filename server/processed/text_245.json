@@ -1,0 +1,272 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "530 West Humbleweed Road."
+    },
+    {
+      "role": "user",
+      "content": "Gilbert Airs on 8.5.233."
+    },
+    {
+      "role": "assistant",
+      "content": "530 West Humbleweed and Gilbert, what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "There were gunshots. My mom, my niece, and my sister are all on the floor. I think they're hurt badly."
+    },
+    {
+      "role": "assistant",
+      "content": "You said your mom, your sister, and your niece are on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my mom's boyfriend, J.T. Reddy, they were fighting and screaming. I was in my room, and now they're all dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you hear the gunshots from?"
+    },
+    {
+      "role": "user",
+      "content": "I heard it coming from outside. The front door is open. They're all lying on the floor, and there's blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's been shot? Do you know?"
+    },
+    {
+      "role": "user",
+      "content": "My mom, Lisa Maderos. My sister and my niece too."
+    },
+    {
+      "role": "assistant",
+      "content": "Your mom, your sister, and your niece have all been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We have officers on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think he's gone. The front door is open."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the gun is?"
+    },
+    {
+      "role": "user",
+      "content": "He has lots of guns in the garage. They were fighting, there was a lot of noise."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think he's in the garage?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where he is. I think he left."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has a black car."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a four-door passenger car."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it registered to him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's registered to him."
+    },
+    {
+      "role": "assistant",
+      "content": "What is his name?"
+    },
+    {
+      "role": "user",
+      "content": "J.T. Reddy. Jason Reddy."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how old he is?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's in his 30s."
+    },
+    {
+      "role": "assistant",
+      "content": "Where does he live?"
+    },
+    {
+      "role": "user",
+      "content": "He lives with my mom here."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my room."
+    },
+    {
+      "role": "assistant",
+      "content": "You said the front door is open, and then what?"
+    },
+    {
+      "role": "user",
+      "content": "Turn right and there's a hallway. My room is down there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, could I have your name?"
+    },
+    {
+      "role": "user",
+      "content": "Brittany Maderos. B-R-I-T-T-A-N-Y."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not injured. I was just sleeping."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he know you're in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay where you are. We have officers on the way. Brittany, you're doing a really good job, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any idea if J.T. is still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in your bedroom? Is the door closed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's closed."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing a red shirt and black shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what Jason was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know what he was wearing. I haven't seen him all morning."
+    },
+    {
+      "role": "assistant",
+      "content": "What does Jason do for a living?"
+    },
+    {
+      "role": "user",
+      "content": "He goes to the border with his friends, but he doesn't work. He just stays at my mom's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any weapons in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in the garage. I think there's a gun in my mom's room too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me. Officers are at your house. Stay where you are until they come in. Brittany, are you listening?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers are coming into your house. Do not do anything unless I tell you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "They're coming into my room now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you talking to officers now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want me to hang up?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you talk to the officers. Stay safe."
+    }
+  ]
+}

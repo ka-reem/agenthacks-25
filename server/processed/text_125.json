@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I think I need an ambulance. I've got a teenager. He's turning purple in his face. I think he's passed out or something. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 16."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't know what's wrong with him?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's turning purple."
+    },
+    {
+      "role": "user",
+      "content": "It's 725 Greenwood Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Calm down, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Just hang on here with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Time 1, priority response to 725 Greenwood Circle."
+    },
+    {
+      "role": "user",
+      "content": "They're giving him mouth to mouth. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have asthma or anything? Why is he not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "How long has he not been breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He looks bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a pulse?"
+    },
+    {
+      "role": "user",
+      "content": "Not really."
+    },
+    {
+      "role": "assistant",
+      "content": "Open his airway slightly and feel for breath over his mouth."
+    },
+    {
+      "role": "user",
+      "content": "Wait, let me turn the TV off. I can't hear anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Breathe into his mouth, do you feel the air going in?"
+    },
+    {
+      "role": "user",
+      "content": "Let's take an ambulance so long. We're not doing any good here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're just now leaving. It's only been like a minute."
+    },
+    {
+      "role": "assistant",
+      "content": "What you need to do is try to do CPR. That's going to be the most important thing."
+    },
+    {
+      "role": "user",
+      "content": "Will you repeat that? My radio is cutting out."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to take a full breath in and seal your mouth over his. Did you see his chest rise?"
+    },
+    {
+      "role": "assistant",
+      "content": "Put the heel of one hand on the center of his breastbone, right between the nipples. Then take your other hand and put it on top of that."
+    },
+    {
+      "role": "assistant",
+      "content": "Give him two more breaths, slow and deep. Watch for his chest to rise."
+    },
+    {
+      "role": "assistant",
+      "content": "Continue until the ambulance gets there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "If he has a pulse, is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "When you breathed into his mouth, did his chest rise?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Give him two more breaths. Can you see his chest rise?"
+    },
+    {
+      "role": "user",
+      "content": "He's not cold."
+    },
+    {
+      "role": "assistant",
+      "content": "They're very close. They're in the 900 blocks. Continue giving the breaths, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing good. Keep going until they arrive."
+    },
+    {
+      "role": "assistant",
+      "content": "Sorry, we are on the way. Bye."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "State Patrol, 9-1-1, we are on Minnesota Lake. Our boat has capsized."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is everybody above water?"
+    },
+    {
+      "role": "user",
+      "content": "Fairly."
+    },
+    {
+      "role": "assistant",
+      "content": "What part of the lake are you on?"
+    },
+    {
+      "role": "user",
+      "content": "We're about a mile south of the landing."
+    },
+    {
+      "role": "assistant",
+      "content": "Miles south of the landing? Can everyone swim?"
+    },
+    {
+      "role": "user",
+      "content": "One of us can't swim."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have life preservers with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but we have to hang on to the boat for dear life."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need to transfer you to Faribault County so they can send help. I'll stay on the line with you. How far offshore are you?"
+    },
+    {
+      "role": "user",
+      "content": "Approximately a mile."
+    },
+    {
+      "role": "assistant",
+      "content": "A mile offshore or a mile from the landing?"
+    },
+    {
+      "role": "user",
+      "content": "A mile from the landing. Hi, State Patrol. I've got a boat that's capsized on Minnesota Lake about a mile south of the landing. Two people are hanging on, one cannot swim."
+    },
+    {
+      "role": "assistant",
+      "content": "A mile south of the landing? Got it. I'll page fire and rescue."
+    },
+    {
+      "role": "user",
+      "content": "Are they coming? We're getting tired."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they're on their way. Do you see any debris or something to help you float?"
+    },
+    {
+      "role": "user",
+      "content": "There's a red gas can approximately 10-15 feet north of us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there any wildlife nearby, like a refuge area?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're in the middle of the wildlife refuge area."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, they're coming. How's your friend holding up?"
+    },
+    {
+      "role": "user",
+      "content": "He's keeping afloat, but it's getting harder."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep encouraging him. We'll stay with you as long as we can. If you need to put the phone down to help him, do it."
+    },
+    {
+      "role": "user",
+      "content": "We don't see any houses around us, just open water."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm and keep holding on. Have you been able to grab anything else floating nearby?"
+    },
+    {
+      "role": "user",
+      "content": "No, just the gas can, but it's moving away from us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you know when they are close. Do you have a jacket on?"
+    },
+    {
+      "role": "user",
+      "content": "We have one life jacket between us. I gave it to my friend."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Keep holding on and stay calm. They're getting a boat into the water right now."
+    },
+    {
+      "role": "user",
+      "content": "We're trying, but the water is very cold and it's getting really tough. We're drifting further south."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming as quickly as they can. Do you see any lights from the rescue vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see some lights."
+    },
+    {
+      "role": "assistant",
+      "content": "They're getting closer. Just keep holding on and stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Okay, but we are freezing. Please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're almost there. I know it's tough, but stay with me and keep holding on."
+    },
+    {
+      "role": "user",
+      "content": "I see a rescue truck coming towards us. We're directly in line with it."
+    },
+    {
+      "role": "assistant",
+      "content": "That's great. Keep your eyes on it and keep holding on. They will be with you very soon."
+    },
+    {
+      "role": "user",
+      "content": "We're both above water but just barely holding on."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is almost there. Stay strong, stay calm."
+    },
+    {
+      "role": "user",
+      "content": "We're starting to lose strength. Where are they?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're launching the boat now. Hang in there, Keith."
+    },
+    {
+      "role": "user",
+      "content": "I see them! They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, just keep holding on a little longer. You're doing great."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I hope they get here soon."
+    },
+    {
+      "role": "assistant",
+      "content": "They're almost there. You're going to be okay. Just stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Got it. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, um, I'm sorry. There was an accident. A hunter shot a woman in the woods."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Northern, behind Jim Blair's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "98A Oak Street."
+    },
+    {
+      "role": "assistant",
+      "content": "98A Oak Street, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "John Berger. I'm a trooper."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, John. How old is the woman who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "She is 66."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she hit? Can you see any blood?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see any blood. She's lying down."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious and breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, try to keep her calm. Help is on the way. Can you see any injuries?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see any blood. There's just a small hole in her stomach."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay with her and keep her as still as possible?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm staying with her."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Cheryl Blair."
+    },
+    {
+      "role": "assistant",
+      "content": "Cheryl, are you able to talk to me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I'm in pain."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang in there, Cheryl. Help is on the way. Can you describe the location more specifically?"
+    },
+    {
+      "role": "user",
+      "content": "We're right behind the pig farm, about a quarter of a mile in the woods."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, do you have a flashlight or anything to signal the responders?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a flashlight."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep that on so they can find you. Can you hear the sirens?"
+    },
+    {
+      "role": "user",
+      "content": "I hear them a little in the distance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep whistling or making noise so they can locate you."
+    },
+    {
+      "role": "user",
+      "content": "Alright. Right here! Over here!"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they getting closer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see lights now."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep signaling with the flashlight."
+    },
+    {
+      "role": "user",
+      "content": "I just hope they see us."
+    },
+    {
+      "role": "assistant",
+      "content": "They should be able to. Stay with Cheryl and keep calm. Help is almost there."
+    },
+    {
+      "role": "user",
+      "content": "I think I see them. Right here! Right here!"
+    }
+  ]
+}

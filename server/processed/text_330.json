@@ -1,0 +1,104 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's area 617."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A child has been left on my doorstep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "It's 90 Newton, Lower Falls."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is the child?"
+    },
+    {
+      "role": "user",
+      "content": "It fits in a small basket."
+    },
+    {
+      "role": "assistant",
+      "content": "You would say a baby?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon? Yes, it's a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, when did you notice it?"
+    },
+    {
+      "role": "user",
+      "content": "I just went out to check the temperature outside before I went on an errand. And there was this bassinet with the child in it and a little note."
+    },
+    {
+      "role": "assistant",
+      "content": "And what does the note say?"
+    },
+    {
+      "role": "user",
+      "content": "The note says, please take good care of this child."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Is the baby breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the baby is breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number, sir?"
+    },
+    {
+      "role": "user",
+      "content": "It's 617-XXX-XXXX."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I'm going to send an officer over right away. Did you bring the baby inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I brought the baby inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you there by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, my wife is here, but she's ill."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll be right there. Thank you, sir."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

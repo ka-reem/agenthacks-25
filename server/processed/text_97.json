@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, can you get an ambulance and a cop over to 59 Alderwood Drive?"
+    },
+    {
+      "role": "assistant",
+      "content": "59 what?"
+    },
+    {
+      "role": "user",
+      "content": "Alderwood. A-L-D-E-R-W-O-O-D. She just attacked me with a knife, and I had to shoot her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have help on the way. You said 59 Alderwood Street?"
+    },
+    {
+      "role": "user",
+      "content": "Alderwood, A-L-D-E-R-W-O-O-D."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Hang on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alderwood, A-L-D-E-R-W-O-O-D, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have it. Adam, Lincoln, David?"
+    },
+    {
+      "role": "user",
+      "content": "Delta, Delta, E-R, Wood."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in Los Angeles County?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, Stafford, Virginia."
+    },
+    {
+      "role": "assistant",
+      "content": "This is for Las Cruces, New Mexico. Are you located in Las Cruces, New Mexico?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Virginia. I'm in Virginia."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in Virginia?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I'm calling 911 on my cell phone as well. Give me one moment."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have help on the way. Give me one second."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm your address is 59 Alderwood Drive? Your wife attacked you with a knife and you had to shoot her?"
+    },
+    {
+      "role": "user",
+      "content": "Alderwood, A-L-D-E-R-W-O-O-D."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "A-L-D-E-R, A-Alpha, L-Lincoln, D-Delta, E-R, Wood."
+    },
+    {
+      "role": "assistant",
+      "content": "I have help on the way. Alderwood, A-L-D-E-R-W-O-O-D."
+    },
+    {
+      "role": "user",
+      "content": "59. 5-9. 59."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's on my holster."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "I'm an FBI agent."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to put the weapon down safely?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'll put it right on the counter, okay? There's a dog, but she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's on the counter."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean?"
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, yes, yes. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "She cut me on the arm."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I think so, but I don't know. It doesn't look like she is."
+    }
+  ]
+}

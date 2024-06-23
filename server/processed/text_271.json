@@ -1,0 +1,284 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend was raped and I think she's dead."
+    },
+    {
+      "role": "user",
+      "content": "I need someone here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, she isn't. There's vomit. She's been beaten."
+    },
+    {
+      "role": "user",
+      "content": "There's something tied around her neck. I just cut it off. She's dead."
+    },
+    {
+      "role": "user",
+      "content": "I've been doing CPR for the past 20 minutes. She ain't coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's called Cambridge Square. The complex."
+    },
+    {
+      "role": "user",
+      "content": "Someone said they already called an ambulance, but I'm just making sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Who called the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "My neighbors."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we don't have a call on it. You said you've been doing CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Get someone down here right now before I kill them."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Because I think my neighbor did it."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got another dispatcher dispatching them at this time. Do you want to continue to try to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Tell me what I need to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're going to take your hands and place them in the center of her chest, right between the nipples."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Push down hard and fast, about two inches in depth, and do it about 100 times a minute."
+    },
+    {
+      "role": "user",
+      "content": "Say that again."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to do about 100 compressions per minute, very quickly paced."
+    },
+    {
+      "role": "user",
+      "content": "Do it 100 times on her chest? That's what you're saying?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, keep doing that. Do 30 compressions, then give her two breaths."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three... okay, 30. Now tilt her head back and give her two breaths?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, and then continue with 30 more compressions."
+    },
+    {
+      "role": "user",
+      "content": "It doesn't seem like air's coming out, but I'll keep doing it."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep doing it. 30 more compressions, and then two more breaths."
+    },
+    {
+      "role": "user",
+      "content": "30 more compressions. Two more breaths. Okay."
+    },
+    {
+      "role": "user",
+      "content": "She sounds like she's choking with vomit. I can tell she's vomited."
+    },
+    {
+      "role": "user",
+      "content": "There's bruises all around her neck. She doesn't have a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep doing compressions."
+    },
+    {
+      "role": "user",
+      "content": "Please, God. I'll get to 30. Two more breaths again."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, I think we got disconnected."
+    },
+    {
+      "role": "user",
+      "content": "Sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Are you still doing the compressions?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. My girlfriend's been raped. She's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, are you still doing CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm doing CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's there with you?"
+    },
+    {
+      "role": "user",
+      "content": "My neighbor."
+    },
+    {
+      "role": "user",
+      "content": "Come on, baby."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing just fine, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Give her the two breaths."
+    },
+    {
+      "role": "user",
+      "content": "Okay, take the phone and talk to this lady."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Do you know how old she is?"
+    },
+    {
+      "role": "user",
+      "content": "She's 17, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going, don't stop. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's doing it. He's trying to bring her back."
+    },
+    {
+      "role": "assistant",
+      "content": "He found her like this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he following the instructions I gave?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's doing just what you said."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the door unlocked so the crews can come inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're on their way up now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they should be there any moment."
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm still here."
+    },
+    {
+      "role": "user",
+      "content": "The ambulance is here. They're inside the apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line until they take over."
+    },
+    {
+      "role": "user",
+      "content": "I can't believe it. My girlfriend is dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're still here."
+    }
+  ]
+}

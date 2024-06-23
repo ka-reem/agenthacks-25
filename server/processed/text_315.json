@@ -1,0 +1,232 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, and when you say he's down, what do you mean?"
+    },
+    {
+      "role": "assistant",
+      "content": "She says he's cold and he's not breathing."
+    },
+    {
+      "role": "user",
+      "content": "She says she's been trying to give him CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there any way you can get a phone, a cell phone, or something over there to him?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I'll tell you what, I'm giving it to her right here. Here she is, right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hello, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you get in there with him?"
+    },
+    {
+      "role": "user",
+      "content": "I've been there trying to do mouth-to-mouth, but he's cold and stiff, really cold and stiff."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And I've been gone all day hunting for him because he's got a lot of mental problems, and he likes to go down to Durham and Raleigh."
+    },
+    {
+      "role": "user",
+      "content": "And he was stopped by the Apex Police about a year ago because it was like 4 in the morning, and he was out there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "He was going to go to the gang areas and get killed because he doesn't want to die of his lymphoma."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you have a cell phone at all?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but it died. It died."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Jolene Hardy."
+    },
+    {
+      "role": "assistant",
+      "content": "Jolene Harvey?"
+    },
+    {
+      "role": "user",
+      "content": "Hardy. H-A-R-D-Y."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Alright. I'm just going to ask you some questions. How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 60 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to sit down before I fall down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I have them on the way to you. I'm just going to talk to you while they're on the way."
+    },
+    {
+      "role": "user",
+      "content": "I'm at my neighbor's house right now because I tried all that time to resuscitate him and he's so cold and I couldn't stand it anymore."
+    },
+    {
+      "role": "user",
+      "content": "I came over here because it finally dawned on me I wasn't getting anywhere with it and he just got colder."
+    },
+    {
+      "role": "user",
+      "content": "I've been hunting for him all last night and all day. I haven't had any sleep."
+    },
+    {
+      "role": "user",
+      "content": "He's been doing these things for six years since he got sick."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, last you were over there with him, was he awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, he was as cold as a bone."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's stiff and cold as a bone. I blew in his mouth and nothing happened. His chest didn't rise or anything because he's already cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you think he's beyond any help?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God, yes."
+    },
+    {
+      "role": "user",
+      "content": "I've never seen a dead person outside of a coffin, and I had to put my mouth on his. It was so cold and his teeth are all knocked out."
+    },
+    {
+      "role": "assistant",
+      "content": "His teeth are knocked out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, because he hangs out sometimes he goes down to Raleigh and Durham and he walks. About a year ago, the Apex Police saw him at 4 in the morning heading toward Raleigh. They stopped and talked to him."
+    },
+    {
+      "role": "user",
+      "content": "He said, is there a law against me walking down the street at 4 in the morning? They said, well, no. He said, well, I'm not a window peeper or nothing. Can't I be on my way? And they said, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Jolene, when's the last time you saw him?"
+    },
+    {
+      "role": "user",
+      "content": "I saw him early yesterday morning. And then he took off somewhere that evening."
+    },
+    {
+      "role": "assistant",
+      "content": "When's the last time you were home?"
+    },
+    {
+      "role": "user",
+      "content": "I've been out all night and all day looking for him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I got home about 3:30 this afternoon."
+    },
+    {
+      "role": "assistant",
+      "content": "So before 3:30 this afternoon, when was the last time you were physically home?"
+    },
+    {
+      "role": "user",
+      "content": "I was home once early morning, and he wasn't there then. But when I came back now, he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you've been doing CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have."
+    },
+    {
+      "role": "user",
+      "content": "I got a heart condition and high blood pressure and cholesterol, and I got sugar diabetes a little bit. And I couldn't breathe deep enough, but I mean, he was already sitting cold."
+    },
+    {
+      "role": "user",
+      "content": "He had to come home sometime in the morning time, not early morning, but later morning. Because I just went in there about 3:30."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is that the ambulance I hear pulling up?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I hear it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and talk to them."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Bye-bye."
+    }
+  ]
+}

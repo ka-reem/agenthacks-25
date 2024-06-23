@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Sheriff's office. Justine says me help you."
+    },
+    {
+      "role": "user",
+      "content": "Hey, who's it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sheriff's office, can I help you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, who is this, Denby? Who is it?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, Demby, this is Joy."
+    },
+    {
+      "role": "user",
+      "content": "Hey, you know, I can't fight at 149-00 Polly Road."
+    },
+    {
+      "role": "user",
+      "content": "They got a fight?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, you know, like, almost a beheading, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "A beheading?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I killed her."
+    },
+    {
+      "role": "assistant",
+      "content": "You killed her?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did you kill?"
+    },
+    {
+      "role": "user",
+      "content": "149-00, Coward."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did you kill, Demby?"
+    },
+    {
+      "role": "user",
+      "content": "My wife. My ex-wife."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Holland."
+    },
+    {
+      "role": "assistant",
+      "content": "Who else is there with you, Denby?"
+    },
+    {
+      "role": "user",
+      "content": "Just me and my dog. Just take good care of my dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stand by with me, okay? Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "217. All units 335, 149-00 Polly Road. This is code 20. Your guy is there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, what did you use, sweetie? What kind of weapon?"
+    },
+    {
+      "role": "user",
+      "content": "Kbar, combat knife, the maincourt knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the knife at now?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I think it's out in the backyard next to the body."
+    },
+    {
+      "role": "assistant",
+      "content": "The body's in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "I don't have anything. I'm not, I'm not dangerous. I just couldn't deal with her shit anymore."
+    },
+    {
+      "role": "user",
+      "content": "I'm waiting. I'm in the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "If I put you on hold, will you not hang up? Will you stay there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh yeah, I'm not armed. I have no weapons on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't hang up. I'm gonna get an ambulance out there. Okay, don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Sheriff's office, how can I help you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ambulance at 149-00 Polly Road. I have a guy on the line who says he just beheaded his wife. He's in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "I have an ambulance en route. No, I have squad. It's actually, sorry, it's one of our COs. I know him personally. He's saying his wife's in the backyard and he beheaded her. The knife's in the backyard."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, just stand by until you get there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll tell them. All I know is her name's Holland. I don't know how old she is."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. We'll send the ambulance. Thanks."
+    },
+    {
+      "role": "user",
+      "content": "Demby, you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. There's no kids there with you, Demby?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's at my mom's."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You've been drinking or anything?"
+    },
+    {
+      "role": "user",
+      "content": "I had a few, but I'm not drunk, no."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't have any guns, do you?"
+    },
+    {
+      "role": "user",
+      "content": "Not on me, no, they're locked up. I'm not, I'm not... They're all locked up."
+    },
+    {
+      "role": "assistant",
+      "content": "You have no weapons on you, and you're not going to cause any problems. What about a landline or cell phone?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Demby, you don't have any guns or anything on you, right? Everything's locked up."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm not doing anything, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I still have to ask those same questions, okay? The squads are en route and so are my units. When they get there, until they make contact with you, I mean, we're still going to, I'm going to have to let them know everything is going on, anything you tell me, okay? Are you sitting down? Are you standing up? What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Demby."
+    }
+  ]
+}

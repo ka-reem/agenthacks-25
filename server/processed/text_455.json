@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Randy Willis's package store on Highway 10 West."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem?"
+    },
+    {
+      "role": "user",
+      "content": "I live right behind him, and his burglar alarm went off. I called down there because I saw him just get in the store, and I saw somebody run behind the store. I think somebody's in there with him now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on for me. You said Randy's in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And you saw somebody run from the back of the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's somebody in there with him because I heard somebody threatening him. I had him on the phone to see if he was okay, and I heard somebody in there threatening him."
+    },
+    {
+      "role": "assistant",
+      "content": "So you heard somebody in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second. Which way did they go?"
+    },
+    {
+      "role": "user",
+      "content": "They went out the back door, but I can still hear them with Randy. I kept hearing him say, 'Pull up your GD shirts.' I called to see if Randy was okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "I live right behind the store."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Melinda Dellinger. Hey, those two just went that way."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, tell me exactly what you've seen."
+    },
+    {
+      "role": "user",
+      "content": "I live right behind the store. I heard the burglar alarm go off at 3:16, so I grabbed my cell phone and called his house. He lives two houses behind me. I told his wife the alarm was going off, and she said okay. I kept looking out the window to see if I saw any cars leave. Then I saw Randy pull in; as soon as he pulled in, two guys ran from the back of the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Could you tell what they looked like?"
+    },
+    {
+      "role": "user",
+      "content": "No, it was dark out there. One had a big coat on, looked like a big guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell what color the coats were?"
+    },
+    {
+      "role": "user",
+      "content": "No, they may have been dark brown. I'm not really sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did you see them go?"
+    },
+    {
+      "role": "user",
+      "content": "Directly in between my house and the woods. I live right behind the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Was that before or after you heard somebody threaten him?"
+    },
+    {
+      "role": "user",
+      "content": "That was before I heard someone threaten him. When I saw them go up, I was concerned because I didn't see any vehicles. So I called his cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "What's Randy's cell phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, Lord. I can't even remember now. Hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to check on your phone to see what it is?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know how to do that."
+    },
+    {
+      "role": "assistant",
+      "content": "You can go into the phone book on your phone and it should say details. Click on that and it should have the number."
+    },
+    {
+      "role": "user",
+      "content": "If I call you back, will it cut us off?"
+    },
+    {
+      "role": "assistant",
+      "content": "It may cut us off. If it does, just call back on 911."
+    },
+    {
+      "role": "user",
+      "content": "I will."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We had a break-in on Highway 10 West, Randy Willis's store."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you Randy?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's been shots fired. Somebody is down. We need an ambulance now."
+    },
+    {
+      "role": "assistant",
+      "content": "Randy Willis's store on Highway 10 West?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 9029."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody's been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the shooter still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's the owner. They broke in and beat him up. He shot them."
+    },
+    {
+      "role": "assistant",
+      "content": "So, Randy is the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Randy shot the assailants."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on for a minute. Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one is in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you Randy?"
+    },
+    {
+      "role": "user",
+      "content": "I'm his son."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Dennis Willis. My dad is bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "His face."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he shot in the face?"
+    },
+    {
+      "role": "user",
+      "content": "No, my dad shot the other guy who was shot in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got an ambulance on the way. Your dad shot the two assailants?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they tried to shoot him first. He wrestled the gun away and shot them."
+    },
+    {
+      "role": "assistant",
+      "content": "Where were they shot?"
+    },
+    {
+      "role": "user",
+      "content": "One in the chest and one in the face."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the people who broke in?"
+    },
+    {
+      "role": "user",
+      "content": "My dad said he had seen them before."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we've got help on the way. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "They're here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Thank you."
+    }
+  ]
+}

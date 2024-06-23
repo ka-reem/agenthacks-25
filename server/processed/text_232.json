@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a fire on the north side of the school, near the library. We need an ambulance up here, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the address of the school?"
+    },
+    {
+      "role": "user",
+      "content": "It's at Rappahoe High School, on the north side by the library. There's also heavy smoke in the athletic hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a student down in the athletic hall. They have a bad head injury."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have paramedics on the way. Can you guide them to the best entrance?"
+    },
+    {
+      "role": "user",
+      "content": "Have them enter through the west parking lot. There's heavy smoke, but it's the closest entrance to the injured student."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Are there any other dangers we should be aware of?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are multiple shotgun shells on the ground. We might have an active shooter situation."
+    },
+    {
+      "role": "assistant",
+      "content": "We're informing law enforcement and school security now. Is the school on lockdown?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the school is locked down. I'm by the glass forum area on the south side."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay where you are. Help is on the way. Do you have any description of the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "It was a white male with a shotgun wearing a ball cap and cowboy boots."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Please stay safe and provide updates if you can."
+    },
+    {
+      "role": "user",
+      "content": "Understood. Waiting for rescue by the glass doors on the south side."
+    }
+  ]
+}

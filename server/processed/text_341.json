@@ -1,0 +1,160 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Are you out of the house yet?"
+    },
+    {
+      "role": "assistant",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, get out of the house."
+    },
+    {
+      "role": "user",
+      "content": "We can't. There's nothing open. If I open the door, it's too much smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Elie J. Spry."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Try to get out of the house if you can."
+    },
+    {
+      "role": "user",
+      "content": "Sorry, you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Okay. I'm going to stay on the phone with you, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "House part, true trap."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, honey, are you on the first floor or second floor? Where in the house are you?"
+    },
+    {
+      "role": "user",
+      "content": "Second floor."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on the second floor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if I'm looking at your house, are you on the left or the right side?"
+    },
+    {
+      "role": "user",
+      "content": "I'm all the way at the top."
+    },
+    {
+      "role": "assistant",
+      "content": "You're all the way at the top?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're on the second floor. If I come up your stairs, which way do I turn to get to you?"
+    },
+    {
+      "role": "user",
+      "content": "Um, you're up the stairs."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the room that has the door closed."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the room that has the door closed? All the other rooms have doors open?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you get to a window and open it?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the window open now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see if it's the front of the house or the back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the back. I'm on the side of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Which side? If I'm looking at your house, is it the right or the left side?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, how many people are in the room?"
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five. We have five people in the room."
+    }
+  ]
+}

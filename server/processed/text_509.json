@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a dead man at the park at 31st Avenue in Belmont."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you sure he's dead?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. At the west end of the park."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me that address to the park one more time?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address to the park one more time?"
+    },
+    {
+      "role": "user",
+      "content": "The 31st Avenue in northern on the west end of the park, the west end."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know the name of the park?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. I can't remember it. 31st Avenue in Belmont, just south of northern."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "There's two dogs trying to wake him up. He's tattooed and it looks like he's nude."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does anything else look suspicious besides him being naked? Does he look like he's been shot, beaten up?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. The park has been irrigated and these dogs are tearing him up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they biting him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're biting his arm. They're trying to pull him. Oh, I think he's alive, but they need to get somebody over here right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to get officers rolling. Don't hang up with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any clothing on whatsoever?"
+    },
+    {
+      "role": "user",
+      "content": "No, just shoes. It looks like his clothes are scattered around or something scattered around. I can't tell because of the water."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he look like he's still kind of out of it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's yelling now because the dogs have got his arm all torn up. I don't have my gun or I'd shoot the dogs right now. They've got his arm shredded."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do they look like pit bulls or?"
+    },
+    {
+      "role": "user",
+      "content": "They're pit bulls. And they've got his arm, I mean, his arm is shredded to the bone, and they're just tearing him up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I've got officers going. Don't hang up with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are other people trying to scare the dogs off?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are other people trying to scare the dogs off?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's a cab driver trying to scare the dogs off. But they're not leaving. Can you hear the guy yelling?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I can hear him. I've got officers rolling. I've got somebody else calling the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have two pit bulls?"
+    },
+    {
+      "role": "user",
+      "content": "Two pit bulls. It looks like two females, maybe. Dogs! Hey, get, get!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are they still on top of him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're tearing him up. His arm is shredded to the bone."
+    },
+    {
+      "role": "assistant",
+      "content": "They're driving as fast as they can, sir. I'm showing that they are arriving at the park. Do you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Here they come now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you wave them down and show them where they are if they can't see him?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Sam Nasser. Shoot those dogs!"
+    },
+    {
+      "role": "user",
+      "content": "Joe, come here, come here, go ahead. Go, you come here, come here, come here, come here. Joe, come here!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is everything okay now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, go ahead and talk to them, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, bye."
+    }
+  ]
+}

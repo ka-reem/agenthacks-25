@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm the guy that's in pretty big trouble right now."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in pretty big trouble? What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "James."
+    },
+    {
+      "role": "assistant",
+      "content": "James, what are you doing right now?"
+    },
+    {
+      "role": "user",
+      "content": "Shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You need to put the gun down for me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "James, we don't need anybody else getting hurt, including yourself. Okay? Can you put the gun down for me?"
+    },
+    {
+      "role": "user",
+      "content": "No, you need to tell those police officers to leave."
+    },
+    {
+      "role": "assistant",
+      "content": "James, I'm sorry, but they're not going to leave now. Okay?"
+    },
+    {
+      "role": "user",
+      "content": "Just say, get out of my place. They can stay downstairs all they want."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What I need you to do is put that gun down. Don't fire any more shots. You understand me, James?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you do that for me?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on with you tonight?"
+    },
+    {
+      "role": "user",
+      "content": "A lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well we don't need anybody getting hurt unnecessarily, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I've already hurt a police officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll deal with that, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, you don't want to hurt any other police officers or anybody else in that apartment complex, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where they're at."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that? The police officers?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's why you need to put that gun down so nobody else gets hurt out there, okay? We can deal with this, okay? Please put the gun down for us, all right? Can you do that?"
+    },
+    {
+      "role": "assistant",
+      "content": "You could hurt a lot of innocent people out there, James. You don't want to do that. Can you put the gun down for me?"
+    },
+    {
+      "role": "user",
+      "content": "I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, you're going to need to do that, James, okay? You need to quit firing shots out there. You're going to hurt somebody unnecessarily, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is James."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi James. Can you stay on the phone and talk with me?"
+    },
+    {
+      "role": "user",
+      "content": "I'll just let them know. I've only got a few left."
+    },
+    {
+      "role": "assistant",
+      "content": "Just a few left, what, bullets?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why don't you just put the gun down for us, okay? What kind of gun do you have there, James?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you talk to me? Tell me what's going on, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your cell phone number, James? What number are you calling me from? Can you give me that?"
+    },
+    {
+      "role": "user",
+      "content": "Let them know that I only got a few left."
+    },
+    {
+      "role": "assistant",
+      "content": "A few bullets or what? Can you be more specific for me?"
+    },
+    {
+      "role": "user",
+      "content": "Got to go."
+    },
+    {
+      "role": "assistant",
+      "content": "Why don't you stay on the phone with me, okay?"
+    }
+  ]
+}

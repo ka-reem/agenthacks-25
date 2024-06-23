@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're on the boat right now. Our friend just got bit by a shark."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I need to know where you are bringing him in. Are you bringing him into Anna Maria, a broad and real pier?"
+    },
+    {
+      "role": "user",
+      "content": "A broad and real pier."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number in case we get disconnected?"
+    },
+    {
+      "role": "user",
+      "content": "It's 941."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you\u2019ll be there in about how many minutes?"
+    },
+    {
+      "role": "user",
+      "content": "About five minutes. We're all in here right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of boat are you in?"
+    },
+    {
+      "role": "user",
+      "content": "We're in a 26-foot Dorado."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And your friend was bitten by a shark?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, his upper left side."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are with him now."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 22."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "He is awake and conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. What part of his body was injured? You said his left side."
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's his upper left thigh."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a severe tear, or is it a clean bite?"
+    },
+    {
+      "role": "user",
+      "content": "It's a large bite, about a foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a dry cloth or towel?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we do."
+    },
+    {
+      "role": "assistant",
+      "content": "Place it directly on the wound, press down firmly, and do not lift it up to look."
+    },
+    {
+      "role": "user",
+      "content": "Got it. We are wrapping it now."
+    },
+    {
+      "role": "assistant",
+      "content": "If it bleeds through, place another towel on top without lifting the initial one."
+    },
+    {
+      "role": "user",
+      "content": "Understood. Putting another one on now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it his lower leg or upper leg that has been bitten?"
+    },
+    {
+      "role": "user",
+      "content": "His upper thigh."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How far out are you now?"
+    },
+    {
+      "role": "user",
+      "content": "We're about a mile, a mile and a half out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. How's the bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "We have two towels on it now. The first one soaked through, but the second one seems to be holding."
+    },
+    {
+      "role": "assistant",
+      "content": "Great job. Keep pressing down firmly."
+    },
+    {
+      "role": "user",
+      "content": "Got it. We're about half a mile out now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How's he doing now?"
+    },
+    {
+      "role": "user",
+      "content": "He's still positive and awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to keep him awake as best you can."
+    },
+    {
+      "role": "user",
+      "content": "Okay, will do."
+    },
+    {
+      "role": "assistant",
+      "content": "Just let me know if his condition changes at all."
+    },
+    {
+      "role": "user",
+      "content": "Will do. We should be seeing the pier soon."
+    },
+    {
+      "role": "assistant",
+      "content": "You'll probably see the fire truck when you get close."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see the pier now. We're coming up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the paramedics there with you yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "You did a great job. Good luck."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Police."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need police, fire, or medic?"
+    },
+    {
+      "role": "user",
+      "content": "Police."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you need police?"
+    },
+    {
+      "role": "user",
+      "content": "930, Railroad."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a house or a business?"
+    },
+    {
+      "role": "user",
+      "content": "It's a business."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the business?"
+    },
+    {
+      "role": "user",
+      "content": "Flying Biscuit."
+    },
+    {
+      "role": "assistant",
+      "content": "Why do you think it's being robbed?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend works there. She called me and hung up abruptly, and I can hear her yelling in the background."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your girlfriend's name?"
+    },
+    {
+      "role": "user",
+      "content": "Danielle Watson. She gets off at nine and should have been home hours ago. It sounded like there was some type of commotion in the background when she called."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll go ahead and enter a call to have an officer out there and check it out. What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Keith Smith."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "<phone number>"
+    },
+    {
+      "role": "assistant",
+      "content": "We'll give you a call back when we find out what's going on. Thank you very much."
+    },
+    {
+      "role": "user",
+      "content": "You're welcome."
+    }
+  ]
+}

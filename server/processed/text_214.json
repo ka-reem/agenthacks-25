@@ -1,0 +1,484 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There is a strange man outside our home, and he's hollering and crying out. I don't know what's going on with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anything about him? What he looks like?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's dark and raining."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have a vehicle, or is he on foot?"
+    },
+    {
+      "role": "user",
+      "content": "He's on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he come to your door or windows?"
+    },
+    {
+      "role": "user",
+      "content": "He's at our door."
+    },
+    {
+      "role": "assistant",
+      "content": "He's at your front door?"
+    },
+    {
+      "role": "user",
+      "content": "He's at our back deck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to give you to my wife. I'm going to go get my gun."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, hold on one second for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Hey, get out of there!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "He's trying to break down the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, we've got deputies headed that way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't hang up with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "No matter what happens, just don't hang up the phone. You can set it down if you have to."
+    },
+    {
+      "role": "user",
+      "content": "I think he's got a gun."
+    },
+    {
+      "role": "user",
+      "content": "Get out of the way, get out of the way."
+    },
+    {
+      "role": "user",
+      "content": "He has a gun. I don't know if that's what he's got."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can you see the gun?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know if that's what it is. He's trying to break down the door. I can't tell."
+    },
+    {
+      "role": "user",
+      "content": "We have louvers on the door and the door is shut. It's a sliding glass door."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he able to get in the door?"
+    },
+    {
+      "role": "user",
+      "content": "Not right now. He's trying."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing now, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He's asking what date it is. He's talking about Vietnam in 1969."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he talking to your husband rationally?"
+    },
+    {
+      "role": "user",
+      "content": "No, he is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your husband know him?"
+    },
+    {
+      "role": "user",
+      "content": "No, we can't even see who it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear a vehicle or anything like that pull up, or did he just walk?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't know he was there until he was at the back door. I can't tell. It's dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask your husband to look to see if it looks like he has a weapon?"
+    },
+    {
+      "role": "user",
+      "content": "I do not want to look because he's beating on the door and I'm afraid if I open the screen, he's going to come through."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's he doing now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't hear anything now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your husband still at the back door?"
+    },
+    {
+      "role": "user",
+      "content": "We're standing here in the kitchen, and he's trying to get into the sliding glass door."
+    },
+    {
+      "role": "assistant",
+      "content": "What side of the house is the sliding glass door on?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the back of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell your husband to keep talking to him if he can."
+    },
+    {
+      "role": "user",
+      "content": "He's talking about busting the door down and something about a watch. He's given us a few minutes; he's counting down."
+    },
+    {
+      "role": "assistant",
+      "content": "The guy outside the house is counting down, saying he's going to bust the door down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I don't want to hurt you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's talking about Vietnam."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he talking to your husband?"
+    },
+    {
+      "role": "user",
+      "content": "No, he is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does your husband know him?"
+    },
+    {
+      "role": "user",
+      "content": "No, we don't know who he is. We can't see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we don't want to hang up."
+    },
+    {
+      "role": "user",
+      "content": "They're on the way. We've got several officers on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell your husband to look to see if that man has a weapon."
+    },
+    {
+      "role": "user",
+      "content": "I do not want to look because he's beating on the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where's your husband right now?"
+    },
+    {
+      "role": "user",
+      "content": "We're standing here in the kitchen, and he's trying to get into the sliding glass door."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing now, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I don't hear anything now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still at the back deck?"
+    },
+    {
+      "role": "user",
+      "content": "He's at the back deck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got officers on the way, so please stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "He's saying he doesn't care who my husband is."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he talking about Vietnam?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and he's beating on the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. There should be a deputy close."
+    },
+    {
+      "role": "user",
+      "content": "I hear him walking around outside on the deck. He's trying to get through the door. You have got to get somebody here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, ma'am. I promise, okay? They're coming as fast as they can."
+    },
+    {
+      "role": "assistant",
+      "content": "What door is he beating on? The sliding glass door at the back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the sliding glass door at the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any neighbors or anything like that, that could be of help?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he talking to your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's beating on the door. I can see the glass is going to break."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear it, okay? I have officers on the way. Just stay on the phone with me. Everything's going to be alright."
+    },
+    {
+      "role": "user",
+      "content": "He's saying he doesn't care who my husband is. Are you a soldier?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "He's beating the door, and it's glass."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear him saying he doesn't care who you are."
+    },
+    {
+      "role": "user",
+      "content": "The back sliding glass door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. There should be a deputy close, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's at the back deck."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, he's getting ready to come in."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God! Oh my Lord!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am? Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He just came through and my husband shot him, but he's still moving."
+    },
+    {
+      "role": "assistant",
+      "content": "The husband shot him. Where did he shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's standing here in the kitchen to make sure he doesn't come in."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to tell your husband to put the gun down."
+    },
+    {
+      "role": "user",
+      "content": "What if he comes in to try to attack him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, if he shot him, he's not going to get up. Tell your husband to put the gun down, please."
+    },
+    {
+      "role": "user",
+      "content": "She says to put the gun down."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he laying on the ground? Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "We cannot tell."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it still dark? Is he on the back deck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's laying on the back deck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. It's going to be okay."
+    },
+    {
+      "role": "user",
+      "content": "They just turned on the light."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, there's a deputy there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the man that your husband shot?"
+    },
+    {
+      "role": "user",
+      "content": "I guess he's still out on the back deck."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to talk to your husband. Where is your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's right here."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to talk to him."
+    },
+    {
+      "role": "user",
+      "content": "Here, talk to him."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. Have you put the weapon down?"
+    },
+    {
+      "role": "user",
+      "content": "I have put the weapon down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now what happened?"
+    },
+    {
+      "role": "user",
+      "content": "He busted through my back patio door and was coming into the house. I shot two shots at him in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he laying on the back deck?"
+    },
+    {
+      "role": "user",
+      "content": "I'm pretty sure; it's dark. I hear him moaning."
+    }
+  ]
+}

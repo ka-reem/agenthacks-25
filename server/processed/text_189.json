@@ -1,0 +1,360 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is the policeway. The emergency will borrow?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address in Queens?"
+    },
+    {
+      "role": "user",
+      "content": "Go on 17.7.7."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't understand what you're saying there. What is it? What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "1.147-3."
+    },
+    {
+      "role": "assistant",
+      "content": "121-47?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're going out of the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "What are your questions, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "It says, um, time is going to live on."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at 121st Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Woo!"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you near 121st Avenue, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Hello. Good morning. 604-1-770. We're in Queens."
+    },
+    {
+      "role": "assistant",
+      "content": "I have a caller on the line. She said someone is shot. Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't think she's going to be able to answer you."
+    },
+    {
+      "role": "user",
+      "content": "I heard the shots myself. I don't know. Did you get it?"
+    },
+    {
+      "role": "assistant",
+      "content": "And there's 121-47 Garrison?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's Gregson."
+    },
+    {
+      "role": "assistant",
+      "content": "Grayson?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "What about it? Where are you in?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "121.47 Green Street."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, what street?"
+    },
+    {
+      "role": "user",
+      "content": "Great."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, my God. Hold on. Hold on. Hold on. Go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Hold on. 121."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who is shot?"
+    },
+    {
+      "role": "user",
+      "content": "My mother and my father. My mother and father are dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, ma'am. Okay, hello, ma'am. Who, I'm sorry, sir. Who shot you? Where's the person?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't have any description?"
+    },
+    {
+      "role": "user",
+      "content": "No. What is the dog doing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where were you shot?"
+    },
+    {
+      "role": "user",
+      "content": "In my shoulders."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said your parents were also shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh my gosh. Where are they?"
+    },
+    {
+      "role": "user",
+      "content": "In the room."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, don't hang up, okay? We're going to send assistance, all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a private house or apartment building?"
+    },
+    {
+      "role": "user",
+      "content": "A private house."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on for me."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS is on the way. We have an officer on the line. He said he was shot in the shoulder."
+    },
+    {
+      "role": "user",
+      "content": "Say that again?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir. Is that the police there?"
+    },
+    {
+      "role": "user",
+      "content": "Let me drop you out to the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you send the police? I've got to check."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir. You don't know what he looks like?"
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's around 5'4\"."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my shoulder."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir?"
+    },
+    {
+      "role": "user",
+      "content": "He let the door down. They got shot."
+    },
+    {
+      "role": "user",
+      "content": "Oh, Mama!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, sir. Is that the police you're talking to?"
+    },
+    {
+      "role": "assistance",
+      "content": "He said his parents are dead. 121-47, Garrison?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll send an arrest team. There's multiple people shot at that location. I'm going to send that, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with me, sir. All right?"
+    },
+    {
+      "role": "user",
+      "content": "I'm..."
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'm sorry. What's the name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Grayson?"
+    },
+    {
+      "role": "user",
+      "content": "I believe that's it."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm trying to get help to you, okay? Stay with us, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'm on the ground. What should I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person? Have they left already? Are you sure? Try not to move, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're sending help now. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "All right, no."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

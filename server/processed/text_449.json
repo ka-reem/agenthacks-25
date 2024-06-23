@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is Oz County Utilities Emergency Dispatch."
+    },
+    {
+      "role": "user",
+      "content": "We found a human skull."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh my gosh. Where is it located?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to speak right now with the representative from our field services."
+    },
+    {
+      "role": "user",
+      "content": "Hi."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, everything is recorded. How are you doing? Do you believe you found a human skull?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we believe it's human."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location, please?"
+    },
+    {
+      "role": "user",
+      "content": "It's right off of Suburban and Chickasaw in the Kelly Anthony area, right by the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a specific address for me?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's right by the school. If you go straight down, it dead ends right into the woods."
+    },
+    {
+      "role": "user",
+      "content": "It'll be on the east side of Chickasaw and Suburban."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your party's name that we're going to meet with? He's not touching this, I hope."
+    },
+    {
+      "role": "user",
+      "content": "No, he's a meter reader. Just tell him to stay at that location and stay away from everything."
+    },
+    {
+      "role": "assistant",
+      "content": "And if you can, try to stress to him to not draw attention to the area."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're from what department?"
+    },
+    {
+      "role": "user",
+      "content": "Utilities customer service. If you need any information, my phone number is..."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and send a call up for a deputy to meet with them."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we'll see you there very shortly."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of vehicle is he going to be in?"
+    },
+    {
+      "role": "user",
+      "content": "Probably a small white Colorado truck with Orange County insignia on it."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, a white Colorado truck with Orange County markings. We'll see you there very shortly."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think someone's in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you hear the front door?"
+    },
+    {
+      "role": "user",
+      "content": "I'm hearing noise from lights, like, the doors and the windows."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the front door locked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "In a closet."
+    },
+    {
+      "role": "assistant",
+      "content": "Four deputies and a canine are on the way to you, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are there, okay, but they're out front, all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're looking around your house trying to find somebody, okay? So we don't want you going out."
+    },
+    {
+      "role": "user",
+      "content": "The police are outside?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're checking, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Um, if you go down the hall, I'm the second door to the left. Um, I'm just kind of scared to be honest."
+    },
+    {
+      "role": "assistant",
+      "content": "One of the deputies is walking around your house, trying to find a way to get in so that he can get you out."
+    },
+    {
+      "role": "user",
+      "content": "They're inside. Should I go out?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a second, okay? Just stay right there."
+    },
+    {
+      "role": "assistant",
+      "content": "I let them know what bedroom you're in, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "No, they just said wait right there. If they didn't tell you to come out, then don't come out."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm not."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're taking me outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Do I hang up?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'd like to just report an incident. I'm in Rossmoor. I'm cleaning my swimming pool and two African-American guys come jumping over the wall."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the first guy?"
+    },
+    {
+      "role": "user",
+      "content": "He's a male, Black, looks like they're early 20s."
+    },
+    {
+      "role": "assistant",
+      "content": "We have units that were in the area already because someone called, so this is kind of like a secondary part of this. We're just trying to locate them."
+    },
+    {
+      "role": "assistant",
+      "content": "We have a helicopter trying to find them right now."
+    }
+  ]
+}

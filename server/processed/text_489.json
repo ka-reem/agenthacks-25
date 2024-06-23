@@ -1,0 +1,444 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi there. Um, I'd like to report something."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I took some pills and the pills made me go mad and I murdered my roommate."
+    },
+    {
+      "role": "assistant",
+      "content": "You murdered your roommate?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at? What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "52 O-9 Roots Drive, Hickory, North Carolina."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what do you mean you murdered your roommate?"
+    },
+    {
+      "role": "user",
+      "content": "I shot him three times, then I used an axe and mutilated his body."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is your roommate now? Are you still in the house with him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm right here beside him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Michael Anderson."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Michael, what did you take that made you do this?"
+    },
+    {
+      "role": "user",
+      "content": "I took, um, I OD'd on Mucinex DM. The dextromethorphan makes me feel weird, and I took too many."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your roommate's name?"
+    },
+    {
+      "role": "user",
+      "content": "Steven Starr."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you said you shot him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the gun at now?"
+    },
+    {
+      "role": "user",
+      "content": "In my hand."
+    },
+    {
+      "role": "assistant",
+      "content": "In your hand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to put the gun somewhere safe, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to do now."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, I'm going to stay on the phone with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I don't know what to do now."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I'm going to stay on the phone with you. What part of the house are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the master bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is your roommate at?"
+    },
+    {
+      "role": "user",
+      "content": "He's in his bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you take the gun and put it down on the floor and go to where the front door is?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where's your front door at? What part of the house?"
+    },
+    {
+      "role": "user",
+      "content": "You walk out the master bedroom, you turn right, it's in the front of the house right there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you lay the gun down on the floor? I don't want you to have a gun in your hand, okay? Can you lay it down on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to do now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, I'm going to help you, but what I need you to do is put that gun down, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know why I did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, we're going to get you some help, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I stopped taking my meds for ADHD when I was like 17, but I didn't think it mattered."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's okay. I'm going to help you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I started getting real bad on drugs and stuff, and then there's a, I killed my roommate. I can't believe I just killed my roommate. My life is ruined."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, I need you to put that gun down, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And I need you, can you put it on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you on a cordless phone or a cell phone that you can walk around the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to go to the room that is where the front door is, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What room is that? Is that a kitchen? What is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's kind of like a living room and a den."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there a place for you to sit down there?"
+    },
+    {
+      "role": "user",
+      "content": "There's a chair right at the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to sit down on that chair. I want you to tell me and promise me you do not have a gun or anything in your hand, no weapons."
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right. I want you to sit down on that chair, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to get some help out there for you, all right?"
+    },
+    {
+      "role": "user",
+      "content": "All right. Oh, and ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh?"
+    },
+    {
+      "role": "user",
+      "content": "There's some things to his body that you don't want them to see."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, I've got you some help on the way out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "You're not going to know who it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay on the phone with me until they get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right? Am I going to a mental hospital?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to get you some help, all right? We're going to get you some help, I promise."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Just try to calm down. I think I'm having a panic attack."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What you need to do is take a deep breath. Take a deep breath and calm down. Did you and your roommate get in an argument or did this just happen?"
+    },
+    {
+      "role": "user",
+      "content": "Um, we met at a, um, I went to, um, I was straight and I wanted to go, um, bisexual just to experiment, and I went to a gay club, and I met him, went to his house, and he took me in. I turned straight again, and he wanted to, um, touch me and stuff, and I wouldn't let him. He kept trying, and I waited until he went to sleep, and then I shot him three times, and I mutilated him very badly. I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right. We're going to get you some help, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God. Please help me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have anybody else in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, just us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "It's 5209 Roots Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "5209 Roots Drive?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 5209."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is this a house or a mobile home or?"
+    },
+    {
+      "role": "user",
+      "content": "It's a double wide."
+    },
+    {
+      "role": "assistant",
+      "content": "It's a double wide. Do you have any cars out in front?"
+    },
+    {
+      "role": "user",
+      "content": "You'll turn out of a church on a dirt road, you'll go down the dirt road until you turn in a dirt driveway where there'll be a green truck."
+    },
+    {
+      "role": "assistant",
+      "content": "A green truck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, an older green truck. And if you look in the window, it'll be manual."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And then there'll be a yellow truck and there'll be wood out there that I was chopping."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, ma'am, but the axe is inside his stomach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay on the phone with me, but you say you do not have any weapons with you, correct?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I just don't want you to have any weapons in your hands, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "All right."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry to ruin your night, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Do what?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry to ruin your night."
+    },
+    {
+      "role": "assistant",
+      "content": "You're fine. We're going to get you some help, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I've got blood all over my hands."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay where you are, okay? Just stay sitting in the chair. Take some deep breaths. We've got you some help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Listen to me. Listen to me. Tell me again you do not have a gun or anything in your hand."
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. I want you to stay on the phone till I tell you what to do, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not go outside till I tell you to."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    }
+  ]
+}

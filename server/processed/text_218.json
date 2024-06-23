@@ -1,0 +1,260 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Well, my husband's not, I can't seem to wake him up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. He was sleeping really heavily, and I was just laying here, and all of a sudden the breathing kind of, like, stopped, and I came over to try to wake him up, and I can't wake him up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with him right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 52."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And he's not awake?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. I can't hear anything. I'm trying to feel for a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see his chest rising up and down?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on, he's looking. No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to go ahead and send an ambulance. I'm going to tell you what to do until they get there, okay? Is he on the bed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to need to pull him off the bed and get him on the floor."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I have to go see if I can get my son to help me. Can you hold on?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Okay, he's on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the ambulance is already on the way. Are you right by him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen carefully. We want to lay him flat on his back on the ground and remove any pillows, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Feel next to him and look in his mouth for food or vomit. Is there anything in the mouth?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Now place your hand on his forehead. Your other hand under his neck, then tilt the head back. Put your ear next to his mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on. Let me see if I can hear him breathing. I can't, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to tell you what to do until they get there."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully, I'm going to tell you how to do the chest compressions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure he's flat on his back on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Place the heel of your hand on his breastbone in the center of his chest, right between the nipples. Place your other hand on top of that hand, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Push down firmly two inches with only the heel of your lower hand touching the chest. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Now listen carefully, we're going to pump the chest hard and fast, at least twice per second. We're going to do this 600 times or until help can take over, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Let the chest come all the way up between pumps. Count out loud so I can count with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. One, two, three, four, five, six, seven, eight, nine, ten. One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "assistant",
+      "content": "Move the dog beds."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten. One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "Straighten his legs."
+    },
+    {
+      "role": "assistant",
+      "content": "Send somebody to go open the door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, Amy, go unlock the door, get everything open, the gate and everything. You keep doing, you're doing a great job."
+    },
+    {
+      "role": "user",
+      "content": "Do I need to breathe or anything into his mouth?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, no, just keep the chest compressions going. One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "caller",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep going, you're doing a great job."
+    },
+    {
+      "role": "user",
+      "content": "Five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten."
+    },
+    {
+      "role": "user",
+      "content": "Hi. Okay, if somebody's here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll go ahead and hang up with you then."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

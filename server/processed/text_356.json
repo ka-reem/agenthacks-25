@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Police involved in an accident at I-83 northbound, near the Pepsi sign."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you clarify the location?"
+    },
+    {
+      "role": "user",
+      "content": "I-83 northbound at the Pepsi sign, near Union Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any injuries reported?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it looks like there are injuries. Someone might have fallen over a bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We have units responding. What's your current location?"
+    },
+    {
+      "role": "user",
+      "content": "I'm near the intersection of 1650 Union Avenue and the I-83 northbound exit."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the injured parties accessible, or do we need special equipment to reach them?"
+    },
+    {
+      "role": "user",
+      "content": "One person is inside the Pepsi plant. They fell off the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we will send a medic to the Pepsi plant. Please stay on the line for further instructions."
+    },
+    {
+      "role": "user",
+      "content": "There are also two injured on I-83 northbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Additional ambulances are on the way. Please ensure the area is safe for emergency responders."
+    },
+    {
+      "role": "user",
+      "content": "Understood. We are blocking off streets to make way for the ambulances."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Please guide the medics to the lower parking lot of the Pepsi plant."
+    },
+    {
+      "role": "user",
+      "content": "Will do. I'm shutting down the southbound side of 83 to one lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Medics are en route. Are the injured parties conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one person is conscious but needs medical attention immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Medics are less than 5 minutes away. Ensure your team is ready to assist them upon arrival."
+    },
+    {
+      "role": "user",
+      "content": "Copy that. We're coordinating everything on our end."
+    }
+  ]
+}

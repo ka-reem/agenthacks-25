@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, hey, I need a sheriff."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The corner of Reef and Weimus."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I got three people attacking people."
+    },
+    {
+      "role": "assistant",
+      "content": "They're attacking kids?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there any way you can get the kids away from them?"
+    },
+    {
+      "role": "user",
+      "content": "No, they have four guys here with bats."
+    },
+    {
+      "role": "user",
+      "content": "I got this kid who was badly injured."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are the kids?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they like teenagers or little kids?"
+    },
+    {
+      "role": "user",
+      "content": "They're little kids. Like toddlers."
+    },
+    {
+      "role": "user",
+      "content": "Hey, come back. You got to stay here, bud."
+    },
+    {
+      "role": "user",
+      "content": "I know, I know it hurts, my man. I know it hurts."
+    },
+    {
+      "role": "user",
+      "content": "Hey, I'm getting help over here, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "How many kids are injured, sir?"
+    },
+    {
+      "role": "user",
+      "content": "There's one kid. Just one kid."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an ambulance coming?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're getting an ambulance on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the attackers right now?"
+    },
+    {
+      "role": "user",
+      "content": "I got them. They decided to take off. They're on the road somewhere, man."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that the child I'm hearing in the background?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it is, man."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. Let me get Southwest ambulance on the line with us, okay? Stay on the line, don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "No, you're not, man. You're not."
+    },
+    {
+      "role": "user",
+      "content": "I got to."
+    }
+  ]
+}

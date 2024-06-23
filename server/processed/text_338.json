@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, excuse me, sir, some helicopters came down."
+    },
+    {
+      "role": "assistant",
+      "content": "A helicopter came down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is this?"
+    },
+    {
+      "role": "user",
+      "content": "In the Indian high school and the Indian middle school."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a crash or a landing?"
+    },
+    {
+      "role": "user",
+      "content": "The middle school, Dayton."
+    },
+    {
+      "role": "assistant",
+      "content": "You're saying it's a helicopter crash?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, helicopter crash."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, where is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, the emergency is in the Medici Field, next to Indian Park Field School."
+    },
+    {
+      "role": "assistant",
+      "content": "Indian Field School?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a helicopter just crashed."
+    },
+    {
+      "role": "assistant",
+      "content": "A helicopter just crashed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if there are any injuries?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea. I can't see that far. We saw it listing as it went over the house and heard the engine go out and it fell."
+    },
+    {
+      "role": "user",
+      "content": "Heard the big boom. Have no idea who's in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We don't see it. You want me to check it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sure. Can you, are you able to safely check?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on. I need to cross here. Oh my God. Somebody's there."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody's hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How bad are they hurt? Can you see?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, and the gasoline has come out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't go near it. Is there any fire?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's no fire here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's no fire. But where are you exactly?"
+    },
+    {
+      "role": "user",
+      "content": "You find Indian Field School?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I'm exactly in the front. On the left side of the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How big is the helicopter? Can you see if it's large or small?"
+    },
+    {
+      "role": "user",
+      "content": "Don't move it. Alright, there are two people in the helicopter."
+    },
+    {
+      "role": "assistant",
+      "content": "Can anyone safely get them out?"
+    },
+    {
+      "role": "user",
+      "content": "I think he is an instructor."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get him out?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think he can't move. We already have one lady out."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get them out of the helicopter?"
+    },
+    {
+      "role": "user",
+      "content": "We don't have to move them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, but is anyone else with you?"
+    },
+    {
+      "role": "user",
+      "content": "More workers."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you talk to the people in the helicopter? Are they conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Don't move. Stay on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Stay on the floor. Don't move it. Help is coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you talking to one of the patients?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the major complaint? What hurts?"
+    },
+    {
+      "role": "user",
+      "content": "It hurts, don't move."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, try and keep them stable. The ambulance is coming."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're taking out the girl."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, how many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Two people on the helicopter."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, everything is okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Officers are there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the officers are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "user",
+      "content": "Okay, goodbye."
+    }
+  ]
+}

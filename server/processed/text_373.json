@@ -1,0 +1,232 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the exact address, but it's near Spartan Avenue. We took a left at the light."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the name of the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in Loveland?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's near Bertha High School. You turn left from Spartan Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're off Spartan Avenue near Bertha High School?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, take a left there."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. And what is the problem?"
+    },
+    {
+      "role": "user",
+      "content": "There's been a serious car wreck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are there any injuries?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it on the corner or on the street?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the street."
+    },
+    {
+      "role": "assistant",
+      "content": "How many vehicles are involved?"
+    },
+    {
+      "role": "user",
+      "content": "Three."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone pinned inside their vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we will get help on the way. Are there confirmed injuries?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I promise."
+    },
+    {
+      "role": "assistant",
+      "content": "They're already on the way. They'll be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's an accident. We just got there and we're on our way."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "We were on our way to someone's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "Guys, where are we? Two of our guys aren't moving, but they're still breathing. Someone just hold us."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to know where you're at before I can get anyone to you."
+    },
+    {
+      "role": "user",
+      "content": "We're coming off Spartan Avenue, near the hill."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you near Bertha High School?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're just off Bertha High."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and tell me the condition of everyone. How many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "One of our guys is running around, stressed. Tyler isn't moving. They were trying to fix the flat tire and someone hit them from behind."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Two of them aren't moving. They're breathing, but barely."
+    },
+    {
+      "role": "assistant",
+      "content": "Out of seven people there, how many are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Two are severely hurt; they're on the ground. The rest are fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're coming. I just have a few more questions for you. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "I can't get out."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to check on the people not moving. Make sure they are still breathing."
+    },
+    {
+      "role": "user",
+      "content": "We can't get up; Tyler is completely out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is Tyler the one who was changing the tire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They were behind the truck and got hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they get hit as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think Tyler actually got hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, check on Tyler for me. Let me know his condition."
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s not responding."
+    },
+    {
+      "role": "assistant",
+      "content": "I want someone to stay with him and make sure he continues to breathe. Is he still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is still breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am going to keep you on the line until help arrives. Keep checking on Tyler."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not move him unless he is in immediate danger."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you guys from Bertha High School? Are you on Spartan or another road?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? Let me call back. The other caller is probably in better shape to talk."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we will stay with it. Help is on the way. Bye."
+    }
+  ]
+}

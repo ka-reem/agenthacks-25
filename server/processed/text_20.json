@@ -1,0 +1,388 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need someone to come pick me up."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm actually okay, but the emergency is at 21448, North 34th Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the emergency there?"
+    },
+    {
+      "role": "user",
+      "content": "I'd rather not say."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, if you're calling 9-1-1, it's my job to find out, so I need to know what the emergency is."
+    },
+    {
+      "role": "user",
+      "content": "I think it's a murder."
+    },
+    {
+      "role": "assistant",
+      "content": "What makes you think that?"
+    },
+    {
+      "role": "user",
+      "content": "Because I stabbed someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Circle K on 35th Avenue and Deer Valley."
+    },
+    {
+      "role": "assistant",
+      "content": "And who is it that you stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "Hugo Austin Tapia."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you stab him?"
+    },
+    {
+      "role": "user",
+      "content": "I think I stabbed him in the chest, the neck, and the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And who is this person to you?"
+    },
+    {
+      "role": "user",
+      "content": "He's Hugo Tapia's son."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know him?"
+    },
+    {
+      "role": "user",
+      "content": "He lives in the house with me."
+    },
+    {
+      "role": "assistant",
+      "content": "So he's your roommate?"
+    },
+    {
+      "role": "user",
+      "content": "He's family or a relative."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he like a cousin?"
+    },
+    {
+      "role": "user",
+      "content": "He's basically kind of like a brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what happened? Were you guys fighting?"
+    },
+    {
+      "role": "user",
+      "content": "Honestly, I just felt like killing."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you been drinking or using any drugs?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have not."
+    },
+    {
+      "role": "assistant",
+      "content": "So you weren't arguing or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "Nope."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Andrew Ward."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the front of the Circle K?"
+    },
+    {
+      "role": "user",
+      "content": "I'm inside the store."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing a black shirt and gray shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any weapons on you?"
+    },
+    {
+      "role": "user",
+      "content": "I sure do."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you have on you?"
+    },
+    {
+      "role": "user",
+      "content": "I have a knife, a Batman knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it like a steak knife, a butcher knife?"
+    },
+    {
+      "role": "user",
+      "content": "A display knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it in your pocket or are you holding it?"
+    },
+    {
+      "role": "user",
+      "content": "It's in my pocket."
+    },
+    {
+      "role": "assistant",
+      "content": "Which pocket is it in?"
+    },
+    {
+      "role": "user",
+      "content": "I believe my right pocket."
+    },
+    {
+      "role": "user",
+      "content": "I'm using someone else's phone and they have to leave."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you let them know that it's 9-1-1? It won't be too long."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'll let them know."
+    },
+    {
+      "role": "user",
+      "content": "I'm handing the phone to him now."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, this is the Phoenix police. It's really important, and I understand you have to get to class, but this is a very important situation."
+    },
+    {
+      "role": "user",
+      "content": "Well, he gave you the address. You can call him."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but it has to do with him and your..."
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to tell you. I helped out as much as I could. I was the only one on the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We're just trying to get there as fast as we can, but I don't want to let a suspect go. I want to keep them on the phone to make sure we get the right person."
+    },
+    {
+      "role": "user",
+      "content": "Well, he gave you the address and he's covered in blood, so I think you would get over here quick."
+    },
+    {
+      "role": "assistant",
+      "content": "We are getting there as quickly as we can."
+    },
+    {
+      "role": "user",
+      "content": "I'll leave my phone with him, and an officer can bring it to me at the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you go to school so we can make sure that happens?"
+    },
+    {
+      "role": "user",
+      "content": "MMI, the motorcycle mechanic school right down the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a certain room we need to go to?"
+    },
+    {
+      "role": "user",
+      "content": "Just the front office would be fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Absolutely. Thank you for your help."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Andrew, I just wanted to make sure we stayed on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "user",
+      "content": "Honestly, that was a kill for the U.S. Marshal."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. Did you work for them at all?"
+    },
+    {
+      "role": "user",
+      "content": "Honestly, it's classified."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. You don't have to tell me. Was there anybody else at the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody else."
+    },
+    {
+      "role": "assistant",
+      "content": "Just let me know if you see the officers, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright. Do you want me to stay on the phone with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "If you can, if you don't mind. Have you taken any kind of drugs today?"
+    },
+    {
+      "role": "user",
+      "content": "Not today."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you normally?"
+    },
+    {
+      "role": "user",
+      "content": "Actually, I think I'm clean."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, that's good. What did you use to take?"
+    },
+    {
+      "role": "user",
+      "content": "I'd rather not say."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't have to answer. It's not a problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt at all?"
+    },
+    {
+      "role": "user",
+      "content": "Honestly, I don't think I'm that hurt. Maybe a little cut, but not bleeding much."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So you don't need any medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "There's blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just let me know if you need medical attention. Am I going to the mental hospital or somewhere else?"
+    },
+    {
+      "role": "user",
+      "content": "Am I going to the mental hospital or somewhere else?"
+    },
+    {
+      "role": "assistant",
+      "content": "You know what? I am not an officer, so none of that is up to me. We just want to help you."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still inside the Circle K or did you go outside?"
+    },
+    {
+      "role": "user",
+      "content": "I'm still inside the Circle K. I see an SUV. Should I walk outside?"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me ask them what they want you to do, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the officers outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and walk outside. If you want to stay on the phone, you can, or if you want to hang up, that's okay."
+    }
+  ]
+}

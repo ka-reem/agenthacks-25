@@ -1,0 +1,580 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just came in and shot my daughter and my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "They shot them? Are they conscious?"
+    },
+    {
+      "role": "user",
+      "content": "She's bleeding out. Please, ma'am, she's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "She's 10."
+    },
+    {
+      "role": "assistant",
+      "content": "And where were they shot?"
+    },
+    {
+      "role": "user",
+      "content": "In the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Should I pick her up?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I want you to leave her where she is. Are they still there?"
+    },
+    {
+      "role": "user",
+      "content": "They're coming back in! They're coming back in!"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who they are?"
+    },
+    {
+      "role": "user",
+      "content": "*Incoherent shouting*"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Are you still there? Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I don't know. I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how many people were there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, ma'am. I was asleep, and I can't even move. I've been shot myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where were you shot?"
+    },
+    {
+      "role": "user",
+      "content": "I think I'm shot in the leg. I'm not sure, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you armed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Emergency services are coming. Please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Did you see any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't. I just got up, ma'am. They told us someone escaped from jail and wanted to come in, then they just shot my husband, my daughter, and me."
+    },
+    {
+      "role": "assistant",
+      "content": "You said they wanted to come in because of an escaped person?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they said the property was surrounded with Border Patrol."
+    },
+    {
+      "role": "assistant",
+      "content": "How long is it going to take for them to get here?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are on their way. Are they still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, ma'am. I'm just here bleeding like crazy, and I have this gun loaded."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, it's just a handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the house are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the kitchen, staring at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with your husband and your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't want to look at them."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicles do you have on your property?"
+    },
+    {
+      "role": "user",
+      "content": "I have a black suburban and a white truck. I don't know if they stole anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it sound like males were talking?"
+    },
+    {
+      "role": "user",
+      "content": "There was a male and a shorter, fat woman."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what did the woman look like? Was she Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "No, she was white."
+    },
+    {
+      "role": "assistant",
+      "content": "And you mentioned you have one of their guns?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I haven't touched it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't touch it."
+    },
+    {
+      "role": "user",
+      "content": "I think one of them came back for the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No, they were gone by the time I got back up."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you shoot at them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if you hit any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Did you hear any vehicles speed off?"
+    },
+    {
+      "role": "user",
+      "content": "I just heard some doors shut."
+    },
+    {
+      "role": "assistant",
+      "content": "How long until they get here?"
+    },
+    {
+      "role": "assistant",
+      "content": "They should be in the area. They're checking the surroundings."
+    },
+    {
+      "role": "user",
+      "content": "I can't move, ma'am. My leg is killing me."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep some pressure on it, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying. What am I going to do?"
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get someone to you. Okay, try to stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I think they might have been looking for money."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think it was a mistake or someone with a grudge?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Maybe. I just don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Which leg was shot?"
+    },
+    {
+      "role": "user",
+      "content": "My right leg."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep pressure on it."
+    },
+    {
+      "role": "user",
+      "content": "They said they surrounded the house. They had guns taped."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And the male, was he also white?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the female was white, and a Mexican man came in too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so there was a white male, a white female, and a Mexican male?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and they shot me. I pretended I was dead. My daughter was crying, so they shot her too."
+    },
+    {
+      "role": "assistant",
+      "content": "They shot her again after the first time you told me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, like two or three times."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, just us."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any pets in the house?"
+    },
+    {
+      "role": "user",
+      "content": "We have dogs, but they ran out when this happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with me until someone gets there. We have units in the area."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "My daughter got in a fight with a girl last week. Maybe it has something to do with it."
+    },
+    {
+      "role": "assistant",
+      "content": "Were there any drugs mentioned, or were they just looking for money?"
+    },
+    {
+      "role": "user",
+      "content": "They just said hurry up and get what we need. We don't have drugs or anything like that."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think it was a mistake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your leg feel swollen?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep some pressure on it."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Help is coming."
+    },
+    {
+      "role": "user",
+      "content": "They left behind a sawed-off shotgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't touch it."
+    },
+    {
+      "role": "user",
+      "content": "As soon as I thought they left, one came back for it, but I jumped up."
+    },
+    {
+      "role": "assistant",
+      "content": "Your husband knew how to use the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hit any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you fire shots?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots did you fire?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, a few."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they shoot back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear them leave?"
+    },
+    {
+      "role": "user",
+      "content": "I heard some doors shut."
+    },
+    {
+      "role": "assistant",
+      "content": "What about now?"
+    },
+    {
+      "role": "user",
+      "content": "I hear cars driving outside."
+    },
+    {
+      "role": "assistant",
+      "content": "They should be there soon. Please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "I hope they come soon."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember any specific details about the people?"
+    },
+    {
+      "role": "user",
+      "content": "The woman was short and fat, the man was very tall."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they wearing masks?"
+    },
+    {
+      "role": "user",
+      "content": "No, but the man's face was painted black."
+    },
+    {
+      "role": "assistant",
+      "content": "Were all their faces painted?"
+    },
+    {
+      "role": "user",
+      "content": "No, just the man's."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if he was the one who shot your husband?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you think of anyone who would want to hurt your family?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are your husband and daughter?"
+    },
+    {
+      "role": "user",
+      "content": "In the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I hear someone pulling up."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any flashing lights?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't get up."
+    },
+    {
+      "role": "assistant",
+      "content": "They should be announcing themselves."
+    },
+    {
+      "role": "user",
+      "content": "They're pulling away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay calm. Do you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear any movement outside?"
+    },
+    {
+      "role": "user",
+      "content": "Just cars driving crazily."
+    },
+    {
+      "role": "assistant",
+      "content": "Units are there. Stay with me until they reach you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Please call my family."
+    },
+    {
+      "role": "assistant",
+      "content": "We will call them. Do you hear anything else?"
+    },
+    {
+      "role": "user",
+      "content": "The gate might be locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your hands up and put the gun down."
+    },
+    {
+      "role": "user",
+      "content": "I can't get up."
+    },
+    {
+      "role": "assistant",
+      "content": "Just put the gun down and keep your hands up."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the kitchen on 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he with you now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go now."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

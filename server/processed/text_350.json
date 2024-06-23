@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please, I want, you're on, you know from gas station."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he show the gun to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, oh, my God, yes."
+    },
+    {
+      "role": "user",
+      "content": "He's told it, and I knew he was going to him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you ever seen this man before?"
+    },
+    {
+      "role": "user",
+      "content": "He's a black man. He's wearing a white t-shirt."
+    },
+    {
+      "role": "user",
+      "content": "Do you remember, I think he had a go-tee?"
+    },
+    {
+      "role": "user",
+      "content": "Did he have a go-tee like daddy?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "And, um, he's smoking a-"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Marine Road, because 143 turns into Marine Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And we're passing the Department of Agriculture."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "He told me if I moved, he was going to shoot me, but I had to move in the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I was getting out of this car, and I knew that if I didn't tell him, he would kill us."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing good."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm passing the Knights of Columbus."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the Madison County Sheriff's Office is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Come straight to the Madison County Sheriff's Office."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm coming right there."
+    },
+    {
+      "role": "assistant",
+      "content": "I will have help in the parking lot."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to have someone that has no idea where I'm going."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to have people in the parking lot of the Madison County Sheriff's Office."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God, he's coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Pull into that top parking lot all the way up front."
+    },
+    {
+      "role": "assistant",
+      "content": "I have a guy headed out there right now from inside my building."
+    },
+    {
+      "role": "user",
+      "content": "Here he comes."
+    },
+    {
+      "role": "user",
+      "content": "I'm pulling in here right now."
+    },
+    {
+      "role": "user",
+      "content": "He's going to see you guys."
+    },
+    {
+      "role": "user",
+      "content": "Oh, here he is."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "He's following me."
+    },
+    {
+      "role": "user",
+      "content": "He's pulling into the parking lot."
+    },
+    {
+      "role": "user",
+      "content": "Please, there is no."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, are you in the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "Who are you on the phone with, Robin?"
+    },
+    {
+      "role": "user",
+      "content": "No, hang up with them."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. I'm in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got officers coming out there now."
+    },
+    {
+      "role": "assistant",
+      "content": "County units, take the females in our parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. We've got officers on the way out there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sheriff's office, possibly, yes, she's screaming."
+    }
+  ]
+}

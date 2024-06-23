@@ -1,0 +1,340 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry up! Call 911. Here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I knew the ammo around."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "She is..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay, listen to me. Is the baby out of the pool?"
+    },
+    {
+      "role": "user",
+      "content": "She's out of the pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does anyone know how to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can tell you. How old is the child?"
+    },
+    {
+      "role": "user",
+      "content": "She's three."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is she laying? Is she laying on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "She's laying on the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I can tell you how to do CPR. Can you listen to me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she laying on a hard surface?"
+    },
+    {
+      "role": "user",
+      "content": "She's laying on the bed. She's throwing up."
+    },
+    {
+      "role": "assistant",
+      "content": "She's throwing up? Okay, okay. Turn her to the left, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "See if she's breathing now."
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "She's not breathing? Clean her mouth out, then."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Roll her to her side and clean out her mouth."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How long was she in the water?"
+    },
+    {
+      "role": "user",
+      "content": "She just fell in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "So was she face down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "She needs to be on a hard surface like the floor."
+    },
+    {
+      "role": "user",
+      "content": "She's on the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you clean out her mouth?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, check and see if she's breathing at all. Is her chest rising?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I'm going to tell you what to do, okay? Pinch her nose, and with the other hand, lift her chin and gently tilt her head back. Cover her mouth with yours and give two deep breaths."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, you need to check and see if her chest rises after that."
+    },
+    {
+      "role": "user",
+      "content": "No, it didn't."
+    },
+    {
+      "role": "assistant",
+      "content": "Then we need to do chest compressions."
+    },
+    {
+      "role": "user",
+      "content": "Wait a minute, ma'am, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me. Is she awake? Is she breathing? What is she doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's not awake."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you give her the two breaths?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, you need to start chest compressions. Put the heel of one hand in the center of her chest, right between her nipples, and push down about half the depth of the chest 30 times quickly."
+    },
+    {
+      "role": "user",
+      "content": "Thirty times quickly?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, 3-0."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I have them on the way to you, okay? They're on the way to help you. Keep giving breaths and doing compressions."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh, I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, ma'am. We're coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you do your 30 compressions?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Now you pinch the nose, lift the chin, and gently tilt the head back and give two breaths again. Then do 30 compressions again."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Check if she's trying to cough or if she's responding."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she's trying to."
+    },
+    {
+      "role": "assistant",
+      "content": "Check if she's breathing, is her chest rising? Check if she has a pulse."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything else blocking her airway?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, I promise. They're coming as fast as they can."
+    },
+    {
+      "role": "user",
+      "content": "Please help me, help me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is somebody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on? Is she responding?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's just trying to."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep trying to wake her up. Make sure she has a pulse and see if her chest is rising."
+    },
+    {
+      "role": "user",
+      "content": "Who's there with you?"
+    },
+    {
+      "role": "user",
+      "content": "The neighbor."
+    },
+    {
+      "role": "user",
+      "content": "I can hear the sirens, I'm going to go out and get them."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Wait a minute, please."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes?"
+    },
+    {
+      "role": "user",
+      "content": "My neighbor is with her. Ma'am, is she breathing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, hello?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you."
+    }
+  ]
+}

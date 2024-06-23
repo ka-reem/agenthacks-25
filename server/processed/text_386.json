@@ -1,0 +1,392 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, 911, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm ready for the police right out."
+    },
+    {
+      "role": "assistant",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "I'm worried for the police right out."
+    },
+    {
+      "role": "assistant",
+      "content": "You need the police?"
+    },
+    {
+      "role": "user",
+      "content": "They're chasing me. I'm running. They're chasing."
+    },
+    {
+      "role": "assistant",
+      "content": "Why are you running?"
+    },
+    {
+      "role": "user",
+      "content": "Because I want to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir? Sir?"
+    },
+    {
+      "role": "user",
+      "content": "But why talk about me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you pull over and find out what they want?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "She makes some stuff about me."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's talking about you?"
+    },
+    {
+      "role": "user",
+      "content": "My wife, she made some stuff about me."
+    },
+    {
+      "role": "assistant",
+      "content": "Your wife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, if it's not true, can you just pull over and talk to them so they can get it all straightened out?"
+    },
+    {
+      "role": "user",
+      "content": "They're not going to talk to me."
+    },
+    {
+      "role": "assistant",
+      "content": "What's that?"
+    },
+    {
+      "role": "user",
+      "content": "They're not going to talk to me."
+    },
+    {
+      "role": "assistant",
+      "content": "All they want to do is talk to you and find out what's going on so they can get your side of the story. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Tell them to talk to me right now. I'll stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, I want you to pull your car over. What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Look, please, pull out of them?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you just pull over to the side? The police are not going to hurt you. They just want to talk to you."
+    },
+    {
+      "role": "user",
+      "content": "Can you please put out of them so I can talk to them?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't put them on the phone. They're not in here with me, but I can tell them that you're going to stop and you're going to talk to them, and they won't hurt you. They just want to find out what's going on. What's your first name?"
+    },
+    {
+      "role": "user",
+      "content": "They're going to help me. Call over, please. Tell them all over, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you slowing down?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the camera."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just can you pull over? The police are not going to hurt you."
+    },
+    {
+      "role": "user",
+      "content": "You're going to stop right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to slow down. I see them slow down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me. When you stop, I want you to stay in your car, and I want you to put your hands on your steering wheel and don't get out until they come up to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "What do you ask me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me. Did you hear what I said?"
+    },
+    {
+      "role": "user",
+      "content": "Did you stop?"
+    },
+    {
+      "role": "user",
+      "content": "I'm stopping now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Did you pull your car over?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to make them crash."
+    },
+    {
+      "role": "assistant",
+      "content": "I will tell them that you're going to stop so they will slow down, okay? Just slow down and then pull off to the side."
+    },
+    {
+      "role": "user",
+      "content": "It's him. One is behind me. Tell them to the office right, so I know if you know what you're saying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can't hear you. Slow down just a little bit."
+    },
+    {
+      "role": "user",
+      "content": "Tell them, the guy behind me, tell them to turn off and say it."
+    },
+    {
+      "role": "assistant",
+      "content": "You want them to turn their lights off so you know they're going to stop?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, anything just so I can see that."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second. Let me tell them that."
+    },
+    {
+      "role": "assistant",
+      "content": "Jeff, tell the units behind him to turn their lights off for a second, and he said he'll stop."
+    },
+    {
+      "role": "assistant",
+      "content": "If they turn their lights off, you're going to pull over, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "They're telling them right now to turn the lights off, okay? So let me know when you see the lights go off."
+    },
+    {
+      "role": "user",
+      "content": "I don't see it up there."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still behind you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the police car?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's two."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's two of them, but their lights and sirens are not on anymore, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're still on."
+    },
+    {
+      "role": "assistant",
+      "content": "The lights are on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're still on."
+    },
+    {
+      "role": "assistant",
+      "content": "How fast are you going?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to slow down at a stop sign."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stop. I want you to stop right at the stop sign, okay?"
+    },
+    {
+      "role": "user",
+      "content": "They're too close, and they're not giving me a signal."
+    },
+    {
+      "role": "assistant",
+      "content": "They're not going to hit you. They can stop, okay? Just stop your car and just let me know when you have stopped, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, but tell them to slow down. They're too close."
+    },
+    {
+      "role": "assistant",
+      "content": "They will slow down. Just focus on slowing down yourself."
+    },
+    {
+      "role": "user",
+      "content": "He's really close."
+    },
+    {
+      "role": "assistant",
+      "content": "Lewis, listen. I want you to slow down to like 30 mph and start hitting your brakes."
+    },
+    {
+      "role": "user",
+      "content": "Okay, tell them to slow down."
+    },
+    {
+      "role": "assistant",
+      "content": "They're being informed as we speak. Are you slowing down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm slowing down."
+    },
+    {
+      "role": "assistant",
+      "content": "How fast are you going now?"
+    },
+    {
+      "role": "user",
+      "content": "About 50."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep slowing down. Let me know when you get down to 30."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now I want you to pull over to the side of the road."
+    },
+    {
+      "role": "user",
+      "content": "They're not going to hit me?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're not going to hit you. Just slow down and pull off."
+    },
+    {
+      "role": "user",
+      "content": "They're still too close."
+    },
+    {
+      "role": "assistant",
+      "content": "Lewis, you need to slow down and then come to a stop."
+    },
+    {
+      "role": "user",
+      "content": "They're too close. I don't want to get hit."
+    },
+    {
+      "role": "assistant",
+      "content": "They will stay close until you slow down and stop. Hit your brakes, slowly pull to the side, and stop."
+    },
+    {
+      "role": "user",
+      "content": "Back up! Tell them to back up. I'm stopping."
+    },
+    {
+      "role": "assistant",
+      "content": "When they see you slowing down, they'll back off. Are you stopping now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm stopping right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you stopped?"
+    },
+    {
+      "role": "user",
+      "content": "Stop it. Tell them to back up."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when you have stopped."
+    },
+    {
+      "role": "user",
+      "content": "Stopped."
+    },
+    {
+      "role": "assistant",
+      "content": "Lewis, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your car in park?"
+    },
+    {
+      "role": "user",
+      "content": "Open the door!"
+    },
+    {
+      "role": "assistant",
+      "content": "Lewis?"
+    }
+  ]
+}

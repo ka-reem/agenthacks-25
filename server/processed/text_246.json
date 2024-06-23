@@ -1,0 +1,432 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance for two people, somebody's been stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do we need to send the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Just come quick to 1035 North Bluebonnet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 1035 North Bluebonnet. Which city is this in?"
+    },
+    {
+      "role": "user",
+      "content": "There's a lot of blood loss."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's hurt?"
+    },
+    {
+      "role": "user",
+      "content": "My mom, my sister, and my boyfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "It's kind of a long story, but I just need somebody to get here quick, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not hang up. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "Oh, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I need you to calm down, okay? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Um..."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to tell me exactly what happened, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? What's happening over there?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, it already happened."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening? Hello? What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm woozy, I'm really woozy."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's the girl? Can you put her back on the line?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I tried. Laura tried."
+    },
+    {
+      "role": "assistant",
+      "content": "Who tried to stab you?"
+    },
+    {
+      "role": "user",
+      "content": "He's... he's gone red."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where did he stab you?"
+    },
+    {
+      "role": "user",
+      "content": "He stabbed me in the arm."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second, all right? Who stabbed you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I fought for the knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Who stabbed you, sir? Sir, who stabbed you?"
+    },
+    {
+      "role": "user",
+      "content": "My sister did."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your sister now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think she's on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "She's on the floor? How did she end up on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I need you to take a deep breath. Tell me exactly how she ended up on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Amanda Englehite."
+    },
+    {
+      "role": "assistant",
+      "content": "That's the girl's name I was just talking to?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is DeAndre Howard."
+    },
+    {
+      "role": "assistant",
+      "content": "DeAndre, Mr. Howard?"
+    },
+    {
+      "role": "user",
+      "content": "Amanda Englehite is my fianc\u00e9e. We're getting married this summer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and?"
+    },
+    {
+      "role": "user",
+      "content": "In the backyard."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "user",
+      "content": "I won't make it."
+    },
+    {
+      "role": "assistant",
+      "content": "You will make it, sir. Help is on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, DeAndre, was it her sister who stabbed you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she right now?"
+    },
+    {
+      "role": "user",
+      "content": "We fought for the knife, and I stabbed her. And she's not... she's not talking."
+    },
+    {
+      "role": "assistant",
+      "content": "She's not...? Okay, so she stabbed you, and you stabbed her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you and her the only two that are hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, my dad."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your dad?"
+    },
+    {
+      "role": "user",
+      "content": "He's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "He's dead?"
+    },
+    {
+      "role": "user",
+      "content": "He's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second. Sir, I'm dying."
+    },
+    {
+      "role": "user",
+      "content": "I'm dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, DeAndre, stay with me on the phone, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Marlene... Marlene Barre..."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm so cold."
+    },
+    {
+      "role": "user",
+      "content": "I'm so cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, DeAndre, what exactly happened? How did this start?"
+    },
+    {
+      "role": "user",
+      "content": "She wrestled me for the knife, and stabbed me in my arm."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh..."
+    },
+    {
+      "role": "user",
+      "content": "My right side."
+    },
+    {
+      "role": "assistant",
+      "content": "DeAndre, are you still with me? Hello, DeAndre?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "I think they're at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go to the door. Stay on the phone with me. Go to the door, okay? Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going to the door now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, are you with the police right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm walking to the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the knife right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "They're not here yet."
+    },
+    {
+      "role": "assistant",
+      "content": "I hear them. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Amanda."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Amanda, you're doing really good, all right? What's going on with DeAndre?"
+    },
+    {
+      "role": "user",
+      "content": "He's stabbed in the arm, really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening with him right now?"
+    },
+    {
+      "role": "user",
+      "content": "He just stopped talking to me. He keeps going in and out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he only stabbed in the arm, or is he stabbed elsewhere?"
+    },
+    {
+      "role": "user",
+      "content": "He's only stabbed in the arm, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on with your father?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he in the house?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the den."
+    },
+    {
+      "role": "assistant",
+      "content": "He's in the den with DeAndre?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And your sister?"
+    },
+    {
+      "role": "user",
+      "content": "They're all in the den."
+    },
+    {
+      "role": "assistant",
+      "content": "They're all in the den, okay. Are you hurt at all?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not hurt, okay. Do you see the police?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What's that?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. The police will speak to you first. The ambulance is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, talk with the police, Amanda, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    }
+  ]
+}

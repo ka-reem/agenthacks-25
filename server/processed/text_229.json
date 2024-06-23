@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "He's been stabbed really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "It's 318 McCrae Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "The person who stabbed him, is he there?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Take a deep breath, okay? How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 26."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Mary."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to answer these questions so we can get help on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he completely alert? Where is he injured?"
+    },
+    {
+      "role": "user",
+      "content": "In his stomach. There's so much blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there more than one wound?"
+    },
+    {
+      "role": "user",
+      "content": "I only see one wound."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm sending paramedics now. Stay on the line. I'll tell you exactly what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "If there's anything penetrating, do not pull it out, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not. I know that."
+    },
+    {
+      "role": "user",
+      "content": "He hit his head against the stairs, so I don't want to move him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. That's right. Don't move him. Just keep him still."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't let him have anything to eat or drink. It may make him sick or cause problems for the doctors."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the person is who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there somebody else there with you besides him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my roommate."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell them to get a clean dry cloth, okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's gone. I don't know where he went."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to get a clean dry cloth to try to stop the bleeding."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll use my shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Press it down firmly on the wound and don't lift it up."
+    },
+    {
+      "role": "user",
+      "content": "Can I tie it down tight?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just press it down firmly. Don't tie it."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it happen inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it happened inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Which one is the person that's cut? Your roommate or your fianc\u00e9?"
+    },
+    {
+      "role": "user",
+      "content": "My fianc\u00e9."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still alert?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. His eyes are rolling back."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep talking to him. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see his chest going up and down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "assistant",
+      "content": "Just confirm your address, ma'am. Is there an apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line and keep pressing on the wound. Help is on the way."
+    }
+  ]
+}

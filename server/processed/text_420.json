@@ -1,0 +1,368 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Gifford. Hello? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's been a shooting at Safeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what do you mean? Where specifically is this?"
+    },
+    {
+      "role": "user",
+      "content": "In Oracle, where Gabrielle Giffords was."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, was somebody shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a guy with a semi-automatic pistol started firing and then he ran."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did he run?"
+    },
+    {
+      "role": "user",
+      "content": "He ran north past the Walgreens next to the Safeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe him? What was he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He was wearing a black hoodie and blue jeans."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody injured? Did you say Gabrielle Giffords was hit?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's hit. She's still breathing, has a pulse. We have two people down, one dead."
+    },
+    {
+      "role": "assistant",
+      "content": "And there are other people injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, multiple people shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, is the shooter white, black, Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He's white, probably in his 20s or 30s. I didn't see his hair color because he had a beanie on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have help coming. What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Manuel Hernandez."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you an employee at Safeway?"
+    },
+    {
+      "role": "user",
+      "content": "No, I work for a separate company as a merchandiser. I was outside putting up product when I saw this through the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you, sir. We believe we have someone detained. I'm going to answer other 911 calls now. Thank you for your help."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm at the Wells Fargo and someone said there's a shooting at Safeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have reports of that. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's the Safeway on Oracle and... you know."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have reports of that. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Oracle Safeway. There's been shots fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have reports of that. Deputies are on the way. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Oracle and the Safeway shopping center."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I believe there's a shooting outside the front of the Safeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it?"
+    },
+    {
+      "role": "user",
+      "content": "We heard the gunshots. I'm in the Great Clips at the corner, and we heard quite a few shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "People were running around the street. We didn't see much else."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have deputies on the way. Stay inside and stay safe."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm at 7130."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this about the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, someone else told me to call."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they see anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, they only heard it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have deputies on the way. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Is this about the shooting?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Did anyone see anything or just hear it?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the back of the pharmacy, so no."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have deputies on the way. Stay safe."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, we have a lady having a panic attack. We're at 421 West Elm Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she witness anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, she just ran over here."
+    },
+    {
+      "role": "assistant",
+      "content": "One moment, I'll get you to medical dispatch."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency? Are you reporting the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it? What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I did, my name is Emma McMahon."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you witness?"
+    },
+    {
+      "role": "user",
+      "content": "I heard gunshots and saw a man shooting. People tackled him and took away his gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have deputies on the way. Stay where you are and try to get others to safety."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the Walgreens, in the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, stay safe. We're sending ambulances too."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency? Are you reporting the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it?"
+    },
+    {
+      "role": "user",
+      "content": "I did not."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have anyone there who did?"
+    },
+    {
+      "role": "user",
+      "content": "I'm asking a customer now."
+    },
+    {
+      "role": "user",
+      "content": "No, she didn't see it, she just heard it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, deputies are on the way. Stay where you are and stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency? Are you reporting the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it?"
+    },
+    {
+      "role": "user",
+      "content": "I was in the store. I saw a man down, that's all."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have deputies and medical on the way. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're in the back of the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, stay put until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

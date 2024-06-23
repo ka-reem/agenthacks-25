@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're being robbed. I've got a guy down."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please tell me your location?"
+    },
+    {
+      "role": "user",
+      "content": "West Point Trail, West Fork. Firefighter Ron Huddleston's house."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's a robbery in progress?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have the guy down. I've called several times. Hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have him restrained?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but we need help immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need to ask you some questions. Can you give me your name?"
+    },
+    {
+      "role": "user",
+      "content": "Jill Huddleston."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a stranger to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's Hispanic, maybe around 45 or 50 years old. He's beaten us with a metal pipe."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any children in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "How did he get into the house?"
+    },
+    {
+      "role": "user",
+      "content": "He came in through the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you or your husband been injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my husband is bleeding badly and may have a broken arm. I've been hit in the head several times with the pipe."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the assailant conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're holding him down."
+    },
+    {
+      "role": "assistant",
+      "content": "What does your house look like so responders can identify it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a brick house with shrubbery in front. My husband works for the Eagle Mountain Fire Department in Fort Worth."
+    },
+    {
+      "role": "assistant",
+      "content": "We have deputies and EMS en route. Is your husband still holding him down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but the guy is saying he has AIDS and we've got blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't try to use any more weapons. Do you still have the knife on you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my husband's got the pipe now. You better get here. This guy won't be alive much longer."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on, we have people coming. Did he say why he broke in?"
+    },
+    {
+      "role": "user",
+      "content": "He said he wanted money. We don't have much. Only $50 and some jewelry."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned a second suspect. Is someone else involved?"
+    },
+    {
+      "role": "user",
+      "content": "He kept telling us there was another person, but we haven't seen anyone else."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you in the house?"
+    },
+    {
+      "role": "user",
+      "content": "We're in the main living room. The front door is unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any cars in your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, our truck and a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the intruder come in through the front?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and he had a gun, but it's not loaded."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Deputies should be arriving shortly. Do you see them outside?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go to the front door while keeping him restrained?"
+    },
+    {
+      "role": "user",
+      "content": "I'm standing near him. My husband is holding him down."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you give permission for the deputies to enter the home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they can come in. The front door is unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the deputies yet?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see anything. I'm near the door."
+    },
+    {
+      "role": "assistant",
+      "content": "They're checking in on scene. They should be there any moment."
+    },
+    {
+      "role": "user",
+      "content": "I'm opening the gate for them."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the deputies now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here. Where's EMS? My husband's head is bleeding badly."
+    },
+    {
+      "role": "assistant",
+      "content": "As soon as the deputies secure the scene, they'll bring in EMS."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're arriving now."
+    }
+  ]
+}

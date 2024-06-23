@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance and police. I don't care who."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "15612 Spring Hill."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I just found my father murdered in his bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "You just what?"
+    },
+    {
+      "role": "user",
+      "content": "I just found my father murdered, tied in his bathroom, and his car has been stolen."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you don't have any idea what happened, sir?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just have been trying to get a hold of him for days and I decided to come over to his house."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at 15612 Spring Hill, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second. Let me get help started that way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

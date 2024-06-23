@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just came into my house."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "<provide address>"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem there?"
+    },
+    {
+      "role": "user",
+      "content": "They hit her in the head with something."
+    },
+    {
+      "role": "assistant",
+      "content": "What did they hit her in the head with?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Other than being stabbed in the chest, is there anything else?"
+    },
+    {
+      "role": "user",
+      "content": "I mean, stabbing in the chest and the leg."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Please let me know when the deputies are with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the deputies with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They're in here, but they went through the front door."
+    }
+  ]
+}

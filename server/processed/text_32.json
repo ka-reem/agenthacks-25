@@ -1,0 +1,40 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There\u2019s been an explosion. I need help!"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me your location?"
+    },
+    {
+      "role": "user",
+      "content": "761 Boylston Street. I see people down, there might be more devices."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Help is on the way. Are you injured?"
+    },
+    {
+      "role": "user",
+      "content": "No, but there are people hurt. I can see serious injury, and there's debris everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you try to keep yourself safe and move away from any suspicious objects? Emergency personnel are en route."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm moving away. There are people trying to help the injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, just stay clear of any potential danger. Emergency units are on their way to your location."
+    }
+  ]
+}

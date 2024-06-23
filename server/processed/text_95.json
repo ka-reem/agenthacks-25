@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Can you send a cop over here to my house?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry up, because this is a blightly. He came to knock it on my door earlier, and he left, and now he's back out there again to stare at my back door. I'm so scared. Please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. Were weapons involved or mentioned?"
+    },
+    {
+      "role": "assistant",
+      "content": "Were weapons involved or mentioned?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, no, no. I didn't open the door because I was scared. And then he laughed and now he's just been in there. I mean, I have a gun in my hand, but I'm scared to use it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. His description is he's sitting black?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's black."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "His orange shirt on. Oh, my God, now he's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Where'd he go? How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He looks about early 20s."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you have a height or weight?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, no, just get somebody out here, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did he ride in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's on a bicycle."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you or anyone else in immediate danger?"
+    },
+    {
+      "role": "user",
+      "content": "My son and my two-year-old son's here with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get yourself to safety?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where to go. Come in, Jonathan. Please care."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you in your house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my living room. I was looking out the window. He was just staring at my back door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay on the line with me. I'm going to have help on the way there. I want you to stay on the line for Sheriff's Dispatch, okay? Are your doors and windows locked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and I have my alarm system on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you in your bedroom with your son?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I just came to my bedroom. Oh, my God, please. I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "They're already on their way. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I don't know where he went. He was just standing on my back porch, and now he's gone. I don't know where he went. I got my husband's gun out, but I don't know what to do. I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand you're scared, but you don't see him anymore?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see him, but this is the second time he came."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I understand. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "While you're staying on the line, I'm transferring you to Sheriff's Dispatch as well. They have additional questions while the officers are en route."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I want to call my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Manatee County Sheriff's Office, Operator 34 on a recorded line. How can I help you?"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I live in Lepente, and I think someone's trying to come in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I just heard the window break. Hold on. What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "Huh? Cross street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your cross street?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you think someone's trying to come in right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you hearing?"
+    },
+    {
+      "role": "user",
+      "content": "Well, they kept on ringing the doorbell."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Give me one second. Let me look up your address."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my parents' bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line, don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You said someone was ringing the doorbell?"
+    },
+    {
+      "role": "user",
+      "content": "They kept on ringing the doorbell, and I've been looking out the window for cars, but there's no cars outside. And then I heard them banging on the window, and then all of a sudden I heard glass shatter."
+    },
+    {
+      "role": "assistant",
+      "content": "So you heard someone banging on the window and glass shattering?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you hearing now?"
+    },
+    {
+      "role": "user",
+      "content": "I think someone's in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you think they're at?"
+    },
+    {
+      "role": "user",
+      "content": "Towards the other side of the house, like where my bedroom and my sister's bedroom are at."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people do you hear?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's just one, but I don't hear them talking."
+    },
+    {
+      "role": "assistant",
+      "content": "What else can you hear?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I can't hear anything anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you in the bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "I'm over here towards the front of the house next to the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a closet you can go into?"
+    },
+    {
+      "role": "user",
+      "content": "There is, but there's too much stuff in it. They'll probably hear me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you in your mom's room?"
+    },
+    {
+      "role": "user",
+      "content": "In the corner. If you go through the house, you see that there's a window, and I'm right there."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you calling me from a cell phone or a landline?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from a phone from the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you hear anything else?"
+    },
+    {
+      "role": "user",
+      "content": "Not much."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear if doors are opening?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Which window broke? Where did you hear the shattering from?"
+    },
+    {
+      "role": "user",
+      "content": "My sister's window. It's on the other side of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if the deputies were coming to the front, how would they see the broken window so they know where the person possibly came in?"
+    },
+    {
+      "role": "user",
+      "content": "From the front door, if you're facing it, to your left all the way up on the far side, you'll see this window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you haven't heard any more doors open or shut?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing blue jeans and a white t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "A white t-shirt and what color pants?"
+    },
+    {
+      "role": "user",
+      "content": "Blue. Skinny jeans."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How can the deputies get into the house?"
+    },
+    {
+      "role": "user",
+      "content": "My parents always said not to let anybody in, but I'll try to unlock the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you hearing anything new?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm only 15."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he's not hearing anything right now."
+    },
+    {
+      "role": "assistant",
+      "content": "The deputies are on their way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "How many times did they ring the doorbell?"
+    },
+    {
+      "role": "user",
+      "content": "A few times over, let's say, three minutes, like over and over."
+    },
+    {
+      "role": "assistant",
+      "content": "And when you went to the door, what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't, my mom said not to open the door for anybody."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you look out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I tried to, but there's no peephole or window to look through."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you hearing anything new?"
+    },
+    {
+      "role": "user",
+      "content": "I could have sworn I heard someone walking around, but that could have just been my mind."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How are you certain they're in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I hear footsteps in the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "He's hearing footsteps in the kitchen."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I can open the door without them finding me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay quiet, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please come."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a bed you could go under?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to."
+    },
+    {
+      "role": "assistant",
+      "content": "Take the phone with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you under the bed?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying, but I'm too big."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you grab a blanket and throw it over you?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep the phone with you."
+    },
+    {
+      "role": "user",
+      "content": "I can't fit under the bed, I'm too big."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have some blankets or something to disguise yourself?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to run out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what else do you hear?"
+    },
+    {
+      "role": "user",
+      "content": "Nothing much."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are the deputies there yet?"
+    },
+    {
+      "role": "user",
+      "content": "We have one unit out in the front."
+    },
+    {
+      "role": "assistant",
+      "content": "If you hear them come in the bedroom, let me know. Stay where you are and stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, there's a deputy in the front."
+    },
+    {
+      "role": "assistant",
+      "content": "They're waiting for another unit to get there to enter the house."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hearing anything new?"
+    },
+    {
+      "role": "user",
+      "content": "Not sure. They could be looking for something or walking out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just know that the deputies are there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "He's not hearing anything right now."
+    }
+  ]
+}

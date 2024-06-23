@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. My name is Special Agent Richard A. Smith, badge number 0931 with the United States Illuminati Order."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "user",
+      "content": "Right now, I am currently stuck inside the air conditioning unit on top of the Knoxville Museum of Art, downtown at the World's Fair Park."
+    },
+    {
+      "role": "user",
+      "content": "I was here trying to complete an operation that went terribly wrong. I've got myself into a position that I can't get out of and I can't contact my superiors. I need the rescue squad to come and get me out immediately, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at again? The museum?"
+    },
+    {
+      "role": "user",
+      "content": "The Knoxville Museum of Art."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said it's next to the World's Fair Park, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, on top of the roof. There's a ventilator shaft that leads to the main air conditioning unit. I've got a rope going down to it and I'm stuck at the very bottom. It's very narrow and I can't get back up. I'll need a harness and a rope about 45 to 50 feet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your phone number, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My phone number is area code 865."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "See, your mic, give me a Tango Hotel 423. Please respond."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who are you with again?"
+    },
+    {
+      "role": "user",
+      "content": "Special Agent Richard A. Smith, badge number 0931 with the United States Illuminati Order."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, the United States what?"
+    },
+    {
+      "role": "user",
+      "content": "Illuminati Order. You won't find that on your national..."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, the Illuminati Order, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll go ahead and get this over to dispatch, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you, timely."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. This is Special Agent Richard A. Smith, badge number 0931 with the United States Illuminati Order, someone just called me from this number."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second, sir."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm just trying to find your exact location. How can I assist them with that?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, exactly, there's just one AC unit on the roof. When they get on the roof, there's only one main unit. Once they get to the front side of it where the pipe goes down into the roof, it goes down about 45 to 50 feet. I'm at the bottom of that. I can hear them on the roof."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on, sir."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. They're going to get the ladder truck up there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye-bye."
+    }
+  ]
+}

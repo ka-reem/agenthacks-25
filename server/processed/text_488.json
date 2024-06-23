@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello. We're at the Nelson Building and there's a man here with a gun who came into the board meeting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at the Nelson Building?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, on Balboa, 1311 Balboa."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is he at right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the boardroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a description? What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's white, tall, kind of heavyset. He's wearing a blue shirt, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he fired the weapon?"
+    },
+    {
+      "role": "user",
+      "content": "No, he hasn't fired it, but he pulled it out and said, 'You fired my wife!'"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. So, he's in the boardroom at the Nelson building?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, some of the board members are out of the room, but there are still others inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you find out how many people are still in the boardroom?"
+    },
+    {
+      "role": "user",
+      "content": "Several of the board members and the superintendent, probably about four or five people."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he's got about five people hostage in the boardroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's holding them hostage. The rest of us ran out quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm just updating my officers. What did he say about his wife again?"
+    },
+    {
+      "role": "user",
+      "content": "He said, 'You fired my wife,' then took out a gun and some spray paint and painted the wall. Most of us ran out after that."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Do you have a policy in place for situations like this? Should people evacuate the building?"
+    },
+    {
+      "role": "user",
+      "content": "We're behind secure doors, but those doors aren't bulletproof."
+    },
+    {
+      "role": "assistant",
+      "content": "If you can safely evacuate, do it. If it's safe to stay put, then do that. Is there a video feed of the boardroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have a video of the boardroom. He doesn't know we're live, but we can see him. The superintendent and three board members are visible."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you watching him live on the video now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are near the video feed right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if you can safely evacuate, do so. Otherwise, stay put. Is the video room secured?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's not a secure room, but everyone else is behind a secure area."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give me more details about the gunman from the video feed?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing blue jeans and a gray hoodie. He's holding the gun in his hand."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay on the line with me, okay? Has he fired any shots?"
+    },
+    {
+      "role": "user",
+      "content": "Not yet. Oh my gosh, he's firing!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Do you know if anyone has been hit?"
+    },
+    {
+      "role": "user",
+      "content": "One of the board members is down. The gunman has also been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the police there? Can you see them arriving on the video?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the police just came in. They are entering the boardroom now."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing fine. Just stay with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm okay. The police are here. They're securing the area."
+    }
+  ]
+}

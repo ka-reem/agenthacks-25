@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My 5..."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need help? What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Someone stole a car from my driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, take a deep breath. Can you tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Good Avenue and Fifth."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the vehicle for me?"
+    },
+    {
+      "role": "user",
+      "content": "It's a white Audi."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone in the car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my child is in the back seat."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get help to you right away. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I can't think straight. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with me. Do you remember the license plate number?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't remember."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "Walking down Potter Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's nearby? Can you give me an address or landmark?"
+    },
+    {
+      "role": "user",
+      "content": "I'm near Mayfield School on Potter."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you wearing so the police can identify you?"
+    },
+    {
+      "role": "user",
+      "content": "I have on a purple coat and boots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you are so the police can find you."
+    },
+    {
+      "role": "user",
+      "content": "Someone just walked up to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put that person on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, which direction did the vehicle go?"
+    },
+    {
+      "role": "user",
+      "content": "It turned south on Potter Road. I saw a black man driving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, a black man driving a white Audi heading south on Potter. Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Potter and Mayfield with the mother."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her if she knows the license plate number?"
+    },
+    {
+      "role": "user",
+      "content": "She doesn't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll try to look that up. Please stay with her until the police arrive."
+    },
+    {
+      "role": "user",
+      "content": "The police are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm releasing the line. Thank you. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

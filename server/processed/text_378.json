@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just called over to my sister's house and my nephew, who is a felon, is causing problems there. My brother-in-law had to take my sister out of the house. I need someone to go there, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you tell me more about what\u2019s happening?"
+    },
+    {
+      "role": "user",
+      "content": "He just hung up on me and called me a bitch. There\u2019s a bunch of drinking going on. My nephew is on house arrest with an ankle bracelet. He ran my sister and her husband out of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "So, you're calling to report that there's drinking and he's causing a disturbance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's almost 30 years old and there\u2019s some violence going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Why isn't your sister calling us directly?"
+    },
+    {
+      "role": "user",
+      "content": "Her husband took her out because Jay is violent. They\u2019re scared of him."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. He's on house arrest and drinking?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and he's out of control. My sister and her husband had to leave the house because of him."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, but we need your sister or someone in the house to call us directly."
+    },
+    {
+      "role": "user",
+      "content": "She called me, saying she's scared. I don\u2019t know what you want us to do."
+    },
+    {
+      "role": "assistant",
+      "content": "If he's violent and causing a disturbance right now, we can send someone over to check."
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s doing meth and other stuff. My sister's scared to death."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone currently in the house who can talk to us?"
+    },
+    {
+      "role": "user",
+      "content": "I don\u2019t know, but you need to go over there. He just hung up on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Hanging up on you isn\u2019t illegal, but we'll send someone to check if there\u2019s a problem."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. I just thought you guys would do something."
+    },
+    {
+      "role": "assistant",
+      "content": "We\u2019re on our way to check it out."
+    },
+    {
+      "role": "user",
+      "content": "Thanks a lot. I hope this helps."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. If your sister needs further assistance, she should call us directly."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I will let her know."
+    }
+  ]
+}

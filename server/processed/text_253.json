@@ -1,0 +1,360 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The paramedics is the address of your emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead, honey. Go ahead and tell the lady what's going on, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "14863."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me the number one more time."
+    },
+    {
+      "role": "user",
+      "content": "1463."
+    },
+    {
+      "role": "assistant",
+      "content": "1463, what's the street name?"
+    },
+    {
+      "role": "user",
+      "content": "Westwood Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Weak Street?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you spell your street name?"
+    },
+    {
+      "role": "user",
+      "content": "Um, W-H-E-T."
+    },
+    {
+      "role": "assistant",
+      "content": "Week Street in Kuna?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your telephone number?"
+    },
+    {
+      "role": "user",
+      "content": "Mom. Do you know the phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "My mom, she's sick and she can't wake up."
+    },
+    {
+      "role": "assistant",
+      "content": "She can't wake up?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old's your mom? Do you know if she's, like, in her 30s or if she's older than that?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-mm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on just one second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is your mom awake?"
+    },
+    {
+      "role": "user",
+      "content": "A sleep."
+    },
+    {
+      "role": "assistant",
+      "content": "She's asleep? Are her eyes closed?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "She's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to ask you a couple more questions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I just want you to tell me, answer them as best as you can, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "So when your mom, when she's breathing, is her breathing like she normally would breathe?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, mostly."
+    },
+    {
+      "role": "assistant",
+      "content": "Mostly? Does it sound different than normal?"
+    },
+    {
+      "role": "user",
+      "content": "No, just like she always breathes."
+    },
+    {
+      "role": "assistant",
+      "content": "Sounds like she always breathes?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Six."
+    },
+    {
+      "role": "assistant",
+      "content": "Six?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, cool. Okay. Is she still asleep right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah? Okay. Well, I've got the paramedics coming, so I'm going to stay on the line with you until they get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "So you can tell me what's going on."
+    },
+    {
+      "role": "user",
+      "content": "Okay. My sister's asleep, and she's just like that."
+    },
+    {
+      "role": "assistant",
+      "content": "So how old's your sister?"
+    },
+    {
+      "role": "user",
+      "content": "Um, my dad is Paul Rich."
+    },
+    {
+      "role": "assistant",
+      "content": "Your dad is Paul Rich?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know your dad's phone number?"
+    },
+    {
+      "role": "user",
+      "content": "He doesn't live here, but."
+    },
+    {
+      "role": "user",
+      "content": "But I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-uh."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm just going to keep you on the phone. Can you run and unlock the front door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah? Okay, go do that. Can you take the phone with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I can hear the phone. Is there, or is there a policeman out there?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I can hear the siren."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's a policeman coming, too, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, so where are you right now? Are you still at the front door or are you with your mom again?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting right by the blinds looking out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you see, you said you're where? Are you by the living room so you can look out?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right by the blinds. I can see out and the ambulance is just not here yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you go open the door and talk to them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me right when they're with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Can I hear you? And I see the cop."
+    },
+    {
+      "role": "assistant",
+      "content": "You see the cop?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do they see you yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, bye."
+    }
+  ]
+}

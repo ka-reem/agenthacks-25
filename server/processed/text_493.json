@@ -1,0 +1,88 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A plane crashed in Marshfield, on 17th in Lincoln, in houses."
+    },
+    {
+      "role": "assistant",
+      "content": "A plane crashed? Oh my God. Where exactly?"
+    },
+    {
+      "role": "user",
+      "content": "Right in the backyard at 17th and Devine."
+    },
+    {
+      "role": "assistant",
+      "content": "You said 17th and Devine?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the deck is on fire, and we need an ambulance and fire department."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, slow down. A plane crash in Marshfield at 17th and Devine?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, correct."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hang on."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I don't know if there's..."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everybody okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know; I just saw it crash."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it 17th and Lincoln or 17th and Devine?"
+    },
+    {
+      "role": "user",
+      "content": "They said Devine, but I\u2019m not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the house hit or just the deck?"
+    },
+    {
+      "role": "user",
+      "content": "The deck is on fire, not the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Rebecca McDowell."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "It's 715-305-5220."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got an ambulance and fire department on the way. Stay safe, okay?"
+    }
+  ]
+}

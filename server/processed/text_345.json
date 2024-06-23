@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Donna Savings, and we've just been robbed."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "10381 South De Anza Boulevard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Was there any vehicle involved?"
+    },
+    {
+      "role": "user",
+      "content": "Um, let me check with someone. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you see the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it was a light gray or silver Buick Regal, a big sedan, four doors."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get the license plate?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't. I didn't realize what was going on until it was too late."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you switch me to someone who can give me a description of the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Sure, one moment."
+    },
+    {
+      "role": "user",
+      "content": "Hello, I'm a customer. It's a black male."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old approximately?"
+    },
+    {
+      "role": "user",
+      "content": "I would say between 30 and 40 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Was there a weapon involved?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it was a handgun, an automatic."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe how tall he was?"
+    },
+    {
+      "role": "user",
+      "content": "Possibly 5'8\"."
+    },
+    {
+      "role": "assistant",
+      "content": "And his weight?"
+    },
+    {
+      "role": "user",
+      "content": "About 180 to 195 pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "What was he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "A dark-colored baseball cap, sunglasses, a mustache, and a plaid shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "What color was the plaid shirt?"
+    },
+    {
+      "role": "user",
+      "content": "Black, tan, and white."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. Please stay safe. Authorities are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please come down here."
+    },
+    {
+      "role": "assistant",
+      "content": "What address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to have to give me an address or a street marker."
+    },
+    {
+      "role": "user",
+      "content": "Just stay with me. I don't know the address."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you tell me anything that's around you? Try to think."
+    },
+    {
+      "role": "user",
+      "content": "We're behind Cal-Safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Behind Cal-Safe? How far behind Cal-Safe?"
+    },
+    {
+      "role": "user",
+      "content": "I'll be standing outside."
+    },
+    {
+      "role": "assistant",
+      "content": "How far behind Cal-Safe?"
+    },
+    {
+      "role": "user",
+      "content": "That's the number. 627, is it Sunrise Park or Cherry Street or away?"
+    },
+    {
+      "role": "assistant",
+      "content": "627, Sunrise Park."
+    },
+    {
+      "role": "user",
+      "content": "Yes, Sunrise Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I'm going to get somebody on the way, but just tell me what happened."
+    },
+    {
+      "role": "user",
+      "content": "Oh, no. They just went in there to get the... It was an accident. He shot them both."
+    },
+    {
+      "role": "assistant",
+      "content": "He shot both of them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So there are two people who have been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Just stay with me. You're there on Sunrise Park behind Cal-Safe. Where are they shot?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God. Just get down here. I don't know where they got shot. I don't want to move them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me. I've got the police department on the way, and I'm getting an ambulance on the way. What color is the house or trailer you're at?"
+    },
+    {
+      "role": "user",
+      "content": "It's a trailer."
+    },
+    {
+      "role": "assistant",
+      "content": "It's a trailer? Okay. Are you on Love Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are there several trailers around you?"
+    },
+    {
+      "role": "user",
+      "content": "Just hurry and get here."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got them on the way. I'm going to talk to you until they get there, so don't hang up. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. And you're at 627 Sunrise Park?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay right where you are and I'm going to talk to you until an officer gets there."
+    },
+    {
+      "role": "user",
+      "content": "Hurry. Oh, God."
+    },
+    {
+      "role": "assistant",
+      "content": "So they went in there to get some papers?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What happened then?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, shit. We shouldn't have gone in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What happened?"
+    },
+    {
+      "role": "user",
+      "content": "They went in, and he just came in there and shot them both."
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot them?"
+    },
+    {
+      "role": "user",
+      "content": "Matt Moore."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he?"
+    },
+    {
+      "role": "user",
+      "content": "He just left. He just booked it."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he leave on foot or in a car?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm checking right now. Oh God, I can't see."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see the police?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. The police are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Talk to the officer. The subject involved has left the area, trying to ascertain if it was by vehicle or on foot. Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "They're following me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on foot or driving?"
+    },
+    {
+      "role": "user",
+      "content": "I'm driving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just talk to me until you get to the residence and then we'll hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, just them two, but I think they're dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you said it was Matthew Moore?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see him shoot them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to tell the officers all this when they talk to you. Do you have any idea where he may have gone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I do not."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Can you tell me if he left on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "It was in a vehicle."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "A black Pontiac."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he by himself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to hang up with you now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

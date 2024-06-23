@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody was trying to rob us."
+    },
+    {
+      "role": "user",
+      "content": "She's outside right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you, what address are you at?"
+    },
+    {
+      "role": "user",
+      "content": "2150 North Milford Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what city or township are you in?"
+    },
+    {
+      "role": "user",
+      "content": "We're in Highland Township."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How are they trying to rob you?"
+    },
+    {
+      "role": "user",
+      "content": "She basically had a mask on and pointed a gun at me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And she's on the floor right now?"
+    },
+    {
+      "role": "user",
+      "content": "One of my employees is holding her down."
+    },
+    {
+      "role": "user",
+      "content": "She can't be more than 16 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's the business name?"
+    },
+    {
+      "role": "user",
+      "content": "It's called Country Lake Food Center on Milford Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and she did have a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she pointed a gun at me. I thought it was a joke at first."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you the clerk?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He's holding her down right now."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's a teenage female, you said?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a girl."
+    },
+    {
+      "role": "assistant",
+      "content": "How old does she look to be?"
+    },
+    {
+      "role": "user",
+      "content": "She doesn't look more than 16 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many people are in the store right now?"
+    },
+    {
+      "role": "user",
+      "content": "There's me and two employees."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the gun?"
+    },
+    {
+      "role": "user",
+      "content": "The gun is on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want anybody to grab that."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if it's a fake gun. I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What does she look like?"
+    },
+    {
+      "role": "user",
+      "content": "She's in all black."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she have a mask on?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she had a hoodie on and a mask."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on right now? Is your manager still holding her down?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's holding her down. She's crying."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she fighting him?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not fighting."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you ever seen her before?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She had a mask on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but she doesn't have the mask on anymore?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to stay on the line with you until the police get there. Where is she at in the store?"
+    },
+    {
+      "role": "user",
+      "content": "I was down the aisle, and I saw someone walk behind the counter."
+    },
+    {
+      "role": "user",
+      "content": "The police just came right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they are there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go so you can talk to them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I have a suicidal teenager at House 503 Nighthawk Drive. I need an ambulance immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Excuse me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down and tell me your address again."
+    },
+    {
+      "role": "user",
+      "content": "503, Nighthawk Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "It's still happening. He is trying to kill himself. I need an ambulance now."
+    },
+    {
+      "role": "assistant",
+      "content": "Ms. Roberts, yelling at me is not helping. Someone else is dispatching the unit."
+    },
+    {
+      "role": "assistant",
+      "content": "Answer my questions. How is he trying to harm himself?"
+    },
+    {
+      "role": "user",
+      "content": "He is trying to stab himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 20."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is he?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Okay. He left the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he leave on foot or did he leave in a car?"
+    },
+    {
+      "role": "user",
+      "content": "He left on foot, but I don't know where he's staying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's African American. He's not very tall. About 5'7, he has short hair."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, calm down for me."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not helping anybody by being out of control."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he with the knife?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Miss Roberts, stop. Somebody else is already dispatching help to you. My asking questions is not delaying that. It's helping them."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he leave on foot or did he leave in a car?"
+    },
+    {
+      "role": "user",
+      "content": "He left on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's African American. About 5'7, with short hair."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, ma'am, calm down. Where is your father?"
+    },
+    {
+      "role": "user",
+      "content": "Ms. Roberts, we need CPR. We need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, who needs CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? District 4 Nighthawk, Johnny Berry."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Need some help in here."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1. Do you need police, fire, or medical assistance?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I need the police and the fire department at Sundrop Bottom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the problem?"
+    },
+    {
+      "role": "user",
+      "content": "Something's gone wrong in the office."
+    },
+    {
+      "role": "assistant",
+      "content": "Something's what?"
+    },
+    {
+      "role": "user",
+      "content": "Something's wrong in the office."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean something's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just walked in and there are two women lying on the floor, bleeding like crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Two women?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think they've been shot or what?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but they're both bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're bleeding like crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm transferring you to the ambulance service. Don't hang up on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Berry County, 911."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I need an ambulance and the police department down here at Sundrop Bottom, 305 360 Carbirus Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I just walked in and found two women lying on the floor, bleeding like crazy. Please send help right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, just calm down. Stay on the phone with me. Are they breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I see a puddle of blood. I don't think one is breathing. They're not moving. One is still, but she's barely breathing, and there's a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who they are?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one works here, and the other is her daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on. County, I'm still on the phone. Yes, ma'am. We've got the police and first responders on the way. Are there any other victims?"
+    },
+    {
+      "role": "user",
+      "content": "Just those two."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, did you see anything? Anybody leaving the office or any arguments?"
+    },
+    {
+      "role": "user",
+      "content": "I saw a young boy running across the field carrying a box, but I don't know if it's related. I just came from the Chevrolet place."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you an employee there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Butch Ham's. Bruce Ham's is my real name."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it Bruce Ham?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got everybody en route, sir. Hang on. Make sure not to touch anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not touch anything and stay in the office. County, do you need to talk to him?"
+    },
+    {
+      "role": "user",
+      "content": "A boy running by said he heard two noises."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's someone there who heard something? Where is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's right here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name? Put him on the phone."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if they were gunshots. I heard two snaps."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, what is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm Don Whitfield."
+    },
+    {
+      "role": "assistant",
+      "content": "Don what?"
+    },
+    {
+      "role": "user",
+      "content": "Whitfield. W-H-I-T-F-I-E-L-D."
+    },
+    {
+      "role": "assistant",
+      "content": "You heard two snaps? Like two pops?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago was that, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Probably in the last 3 to 4 minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anyone leaving the office?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't see anything. I was down the hall."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay there and talk to the officers when they arrive. Is there anything else you could tell me that might help?"
+    },
+    {
+      "role": "user",
+      "content": "No, I was listening to music and working on my computer with my back turned. I'm down the hall, four offices away from the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we've got the police en route. Please stay there for the officers. There's an officer arriving soon."
+    },
+    {
+      "role": "user",
+      "content": "Do I need to stay on the line?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, you don't need to stay on the line. County, do you need to ask them anything else?"
+    }
+  ]
+}

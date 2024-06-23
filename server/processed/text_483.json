@@ -1,0 +1,160 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's an emergency at Fairway off of Beechville, 30188."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is that the address where the lake is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me the address again?"
+    },
+    {
+      "role": "user",
+      "content": "The Fairway."
+    },
+    {
+      "role": "assistant",
+      "content": "Fairway, and then a golf course?"
+    },
+    {
+      "role": "user",
+      "content": "Fairway."
+    },
+    {
+      "role": "assistant",
+      "content": "Fairway and where?"
+    },
+    {
+      "role": "user",
+      "content": "The Fairway and Batesville."
+    },
+    {
+      "role": "assistant",
+      "content": "Batesville and what?"
+    },
+    {
+      "role": "user",
+      "content": "Fairway is the street, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Fairway, I don't have that. Is that in Milton? What city is that in?"
+    },
+    {
+      "role": "user",
+      "content": "30188."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give me the address again?"
+    },
+    {
+      "role": "user",
+      "content": "The Fairway, 30188."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I lost her. She's in a lake."
+    },
+    {
+      "role": "assistant",
+      "content": "She's in a lake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she says she's in a lake."
+    },
+    {
+      "role": "assistant",
+      "content": "Which lake did she mention?"
+    },
+    {
+      "role": "user",
+      "content": "The Fairway at Batesville."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll transfer you to County Public Safety."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, it's Alpharetta. We have a female possible drowning. She's in a lake, giving 30188 Batesville at the Fairway."
+    },
+    {
+      "role": "assistant",
+      "content": "3.0188, is that a zip code?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. She was in distress."
+    },
+    {
+      "role": "assistant",
+      "content": "She said the Fairway. We need to find the exact location."
+    },
+    {
+      "role": "user",
+      "content": "Fairway at Batesville?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that's what she mentioned."
+    },
+    {
+      "role": "user",
+      "content": "Is there a lake there?"
+    },
+    {
+      "role": "assistant",
+      "content": "She said she's in a lake. Checking local lakes now."
+    },
+    {
+      "role": "user",
+      "content": "Do you know the exact location?"
+    },
+    {
+      "role": "assistant",
+      "content": "The Fairway is a street off Batesville. We are sending units to check."
+    },
+    {
+      "role": "user",
+      "content": "Do you know if there\u2019s a lake there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Checking with local units. They mentioned a pond by the Greenway."
+    },
+    {
+      "role": "user",
+      "content": "Okay, let me know after you check."
+    },
+    {
+      "role": "assistant",
+      "content": "We have a unit on the way. I\u2019ll call you back."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You\u2019re welcome."
+    }
+  ]
+}

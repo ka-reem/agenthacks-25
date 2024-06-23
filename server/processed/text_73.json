@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my name is Maria. I'm calling because my teacher, Mr. Haynes, he's throwing things and knocked over the table and screaming at us like he's going crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is this occurring?"
+    },
+    {
+      "role": "user",
+      "content": "In Selby Lane School in Redwood City."
+    },
+    {
+      "role": "assistant",
+      "content": "In which school?"
+    },
+    {
+      "role": "user",
+      "content": "Selby Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Selby Lane School?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said the teacher is doing this?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the teacher is going crazy. He's throwing tables."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you calling from right now? Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from my friend's phone."
+    },
+    {
+      "role": "assistant",
+      "content": "And when did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "It's happening right now."
+    },
+    {
+      "role": "assistant",
+      "content": "But you're at your friend's house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in school. I'm in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the bathroom at school?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what room at the school?"
+    },
+    {
+      "role": "user",
+      "content": "Room 505."
+    },
+    {
+      "role": "assistant",
+      "content": "Room 505?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And what teacher is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's Mr. Haynes, H-A-Y-N-E-S."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know why he's acting like this?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just started calling us names and throwing things."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Let me dispatch the officers. Don't hang up and stay where you are, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Maria."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're calling from your friend's phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, my phone ran out of battery."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Where's your friend? Is she there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's in the classroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're in which bathroom? Is there more than one girl's bathroom there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's upstairs in the biggest building. There's one bathroom at the end of the hall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what I want you to do is stay on the phone with me until we get there. We're on our way now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said room 505, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to try and leave the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "No, I want to stay here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, then stay where you feel safe. How many kids are in the classroom?"
+    },
+    {
+      "role": "user",
+      "content": "About 20-something students."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if he has any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, but I recorded him throwing a table."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on just a minute."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm still here. Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "I know you're scared. Everything's going to be fine. We're there to help you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a dog?"
+    },
+    {
+      "role": "user",
+      "content": "Wait, what?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a dog? Think happy thoughts."
+    },
+    {
+      "role": "user",
+      "content": "There are people here; I'm afraid they'll tell him what I'm doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell them to be quiet. You're doing the right thing."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me. Do you feel safe walking out towards the front of the school?"
+    },
+    {
+      "role": "user",
+      "content": "No, I want to stay here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, then stay there. Are the other people gone?"
+    },
+    {
+      "role": "user",
+      "content": "Just my friend is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you're at and keep talking to me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, but my friend needs her phone back. She has to go home soon."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay on the phone with me for a few more minutes, okay? Tell your friend she needs to wait a little bit."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Some people are saying the police are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the police are there now. If you want to stay in the bathroom, go ahead. I'll have an officer come to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll be here."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on."
+    }
+  ]
+}

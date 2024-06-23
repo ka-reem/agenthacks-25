@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, I'm at the Westfield shopping mall, Annapolis."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And I see some activity going on in the car, and I don't think it's proper."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of activity is it, sir?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like sexual activity to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is it closest to?"
+    },
+    {
+      "role": "user",
+      "content": "I'm getting ready to walk into Nordstrom's."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, is it the parking garage or an open lot?"
+    },
+    {
+      "role": "user",
+      "content": "It's an open parking lot. Right across the street, there's a bank, I think it's Marketfield Bank."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "There's a gray SUV, looks like a Lexus, and a little black Chevy. It's parked at the edge of the parking lot by the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does it look like there are naked people in the car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. It doesn't seem right to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's fine. I'm going to get an officer out there to check on them. What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I prefer not to give my name."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have the call and we're going to get an officer out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. They'll see a light blue car parked right beside them which also has a black top."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are any lights on in the vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "No, no lights."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let them know. We'll get an officer out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right. Thanks a lot."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Hello? I just called about some activity in a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I remember. Tell the police officer where you are."
+    },
+    {
+      "role": "user",
+      "content": "The officer is in the parking lot, but he's almost by the car now. He just passed it."
+    },
+    {
+      "role": "assistant",
+      "content": "Just passed the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he just passed the vehicle. Can you tell him to stop? I'm in the store, too far away to signal him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm talking to the dispatcher to inform the officer. He just passed the car, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he needs to turn back around. He has to go up the middle aisle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and which vehicle did he pass?"
+    },
+    {
+      "role": "user",
+      "content": "It's a small black Chevy, not an SUV, a small car. It's parked by a Lexus SUV."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, got it. The officer will turn around and go up the middle aisle."
+    },
+    {
+      "role": "user",
+      "content": "Yes, he'll see it when he stops and looks to his left."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, we'll inform the officer."
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    }
+  ]
+}

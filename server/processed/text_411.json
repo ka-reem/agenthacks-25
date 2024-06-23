@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's an armed robbery going on right now. I've been shot in the back and I'm bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "You've been shot in the back? Stay on the phone with me. Is the person still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Male."
+    },
+    {
+      "role": "assistant",
+      "content": "What race?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's Hispanic."
+    },
+    {
+      "role": "assistant",
+      "content": "Male Hispanic. What color shirt is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm not looking."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he wearing a mask?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a black mask?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone with me. Do not hang up. Can you see him and does he know that you're on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just be quiet then. I'll ask you yes or no questions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The person who shot you, where is he?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think he left."
+    },
+    {
+      "role": "assistant",
+      "content": "The robber left or the guy who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "I think the robber left out the back door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, lock the doors. Did you get a description from anyone who saw him?"
+    },
+    {
+      "role": "user",
+      "content": "They ran. There were two of them."
+    },
+    {
+      "role": "assistant",
+      "content": "There were two? Were they both wearing masks?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Two suspects, both wearing masks, took off out the back door on foot. Don't hang up with me. Where's the person who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "He's outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a customer or a robber?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's my manager."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to give you some instructions to help him, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Get a clean cloth and apply direct pressure to the wound. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I understand."
+    },
+    {
+      "role": "assistant",
+      "content": "Two victims, one inside and one out back. Can you tell me the condition of the person outside?"
+    },
+    {
+      "role": "user",
+      "content": "I have no clue."
+    },
+    {
+      "role": "assistant",
+      "content": "What color shirts were the suspects wearing?"
+    },
+    {
+      "role": "user",
+      "content": "One was in a blue shirt, and the other was in a dark green shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "How about pants?"
+    },
+    {
+      "role": "user",
+      "content": "The one in the blue shirt had camouflage pants."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so blue shirt with camouflage pants. The one in the green shirt?"
+    },
+    {
+      "role": "user",
+      "content": "He had tan shorts and shaggy hair."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're doing great. Just stay with me. A police officer is on their way. Let me know when they get there."
+    },
+    {
+      "role": "user",
+      "content": "A police lady is already here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, until she starts talking to you, keep talking to me. Are the suspects both Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they both looked Hispanic or black, I'm not sure. They were wearing masks."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have help on the way. You can talk to the officers now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

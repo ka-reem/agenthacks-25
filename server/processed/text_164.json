@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My name is [Caller]. My husband collapsed on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "You need to know my address to get in the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay on the line with me. Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's right next to me. He's turning blue."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "Sixty-one and in perfect health."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Barely. His tongue is swelling."
+    },
+    {
+      "role": "assistant",
+      "content": "He may be having a seizure. Can you hear him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't hang up. Stay on the line. We're going to get him some help. Did you see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "He was just sitting there, drinking his coffee, and he said 'ow' and fell forward."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he choke on anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just drank his coffee."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there a defibrillator available?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending the paramedics to help you now. Stay on the line, and I'll tell you exactly what to do next. Are you right by him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the hardest thing is getting him through the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully. Lay him flat on his back on the ground and remove any pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he\u2019s flat on his back, but he's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Kneel next to him and look in his mouth for food or vomit."
+    },
+    {
+      "role": "user",
+      "content": "There\u2019s nothing in his mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, place your hand on his forehead, your other hand under his neck, and tilt the head back."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your ear next to his mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's nothing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen carefully. I'll tell you how to do chest compressions."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure he's flat on his back. Place the heel of your hand on the breastbone in the center of his chest, right between the nipples. Put your other hand on top of that."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to pump the chest hard and fast, at least twice per second."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm doing it."
+    },
+    {
+      "role": "assistant",
+      "content": "Let the chest come all the way up between pumps. Keep going until we've done 400 compressions."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm at 100. Dear God, bring him back to life."
+    },
+    {
+      "role": "assistant",
+      "content": "You\u2019re doing great. Keep those compressions going hard and fast."
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s breathing, but it's shallow. Can you hear him?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear. It sounds like agonal breathing."
+    },
+    {
+      "role": "user",
+      "content": "What is that?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's not effective breathing, but you're doing great. Keep going. Is your front door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "No, but it's 20 feet away. I don\u2019t want to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Keep compressions going. They\u2019ll get in."
+    },
+    {
+      "role": "user",
+      "content": "His color's coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "That\u2019s a good sign. Keep those compressions going."
+    },
+    {
+      "role": "user",
+      "content": "He's got a bump on his forehead; he probably hit the rug."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going. Make sure you're in the center of his chest, between the nipples. Are they at the door?"
+    },
+    {
+      "role": "user",
+      "content": "I see the vehicles, but nobody's come in."
+    },
+    {
+      "role": "assistant",
+      "content": "They\u2019re coming up. You've done a fantastic job."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. He\u2019s breathing better now."
+    },
+    {
+      "role": "assistant",
+      "content": "That\u2019s great to hear. Keep him comfortable and stay with him until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "They're here. Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "They're going to take good care of him. God bless you."
+    }
+  ]
+}

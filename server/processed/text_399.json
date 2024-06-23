@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my fianc\u00e9 is going crazy. I think he's going to try to kill himself. I need an ambulance; they're going to have to restrain him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he hurting anyone else, or just himself?"
+    },
+    {
+      "role": "user",
+      "content": "He's not hurting anyone else, but he's screaming that he hates himself and he wants to die, and he's hitting himself in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, one second. How long has he been drinking?"
+    },
+    {
+      "role": "user",
+      "content": "No, just since like eight."
+    },
+    {
+      "role": "assistant",
+      "content": "Just since eight tonight?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this just started."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he aware of you calling?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the cell phone number you're calling from in case we get disconnected?"
+    },
+    {
+      "role": "user",
+      "content": "<provides phone number>"
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "31."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he violent right now?"
+    },
+    {
+      "role": "user",
+      "content": "Towards himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a weapon?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now in the house?"
+    },
+    {
+      "role": "user",
+      "content": "In the downstairs with my roommate and one of his friends."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they just keeping an eye on him?"
+    },
+    {
+      "role": "user",
+      "content": "One of them is holding him, trying to keep him from hitting himself."
+    },
+    {
+      "role": "assistant",
+      "content": "So you have at least one person trying to restrain him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he completely awake right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Can I go down there to check on him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, but stay on the phone with me. If you need to put the phone down, that's okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any weapons present in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, just kitchen utensils."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to keep you on the phone until the officers get there due to the seriousness of the situation. Are your friends aware that you're calling?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I really need to get down there."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and walk down there. I'll stay on the phone with you. Protect him from himself, but protect yourself first."
+    },
+    {
+      "role": "user",
+      "content": "Hey, look at me. Look at me."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got police on the way; they'll be there first to assist."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have crisis intervention officers; one of them will be arriving."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you unlock the front door and make sure they can get in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, they're there. Good luck."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

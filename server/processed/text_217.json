@@ -1,0 +1,440 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Go to the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Go to the bathroom, are you in it?"
+    },
+    {
+      "role": "user",
+      "content": "How did it 9-1-1-1?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1, what is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "East Edwards, shots have been fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you? What is the exact address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at East Edgewood."
+    },
+    {
+      "role": "user",
+      "content": "He's fired in a driveway, right across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's he shooting at?"
+    },
+    {
+      "role": "user",
+      "content": "He's shooting at me."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting at me."
+    },
+    {
+      "role": "user",
+      "content": "I've been shot. She's been shot. He's on the ground. We're in the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that?"
+    },
+    {
+      "role": "user",
+      "content": "He shot into the wall. Scott Eric Schmidt. He had a gun. He has shot me. He has shot her. He's on the ground. There are two little kids here. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they both outside?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they both outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're in the driveway. I've got the two little kids in the house. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending help now. Do you know what the exact address is?"
+    },
+    {
+      "role": "user",
+      "content": "Calm down to me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the exact address?"
+    },
+    {
+      "role": "user",
+      "content": "9-09 East Edgewood."
+    },
+    {
+      "role": "assistant",
+      "content": "That's your address, right? What's their address?"
+    },
+    {
+      "role": "user",
+      "content": "That's not. That's your address. He's still got the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where did he go?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the driveway with her."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. He's got it. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone is on the way, okay? Try to stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Everyone is everywhere. We knew he was going to do this. We knew."
+    },
+    {
+      "role": "assistant",
+      "content": "Who lives there?"
+    },
+    {
+      "role": "user",
+      "content": "My son-in-law. My daughter's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think he's out there now with her?"
+    },
+    {
+      "role": "user",
+      "content": "He shot me in the chest. He shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you there now?"
+    },
+    {
+      "role": "user",
+      "content": "No, no. I got out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He was in the driveway. He still got the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay calm. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "He still got the gun in the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a medical call now?"
+    },
+    {
+      "role": "user",
+      "content": "It's my son-in-law."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's a male, not a female?"
+    },
+    {
+      "role": "user",
+      "content": "My God! Ma'am, help me here. Is it a male or female?"
+    },
+    {
+      "role": "user",
+      "content": "A female. My daughter. She has blood everywhere. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "You've got two people that are shot or one?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, two."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you now?"
+    },
+    {
+      "role": "user",
+      "content": "He's not supposed to have any guns. He's on probation."
+    },
+    {
+      "role": "assistant",
+      "content": "What is his name?"
+    },
+    {
+      "role": "user",
+      "content": "Scott Eric Schmidt."
+    },
+    {
+      "role": "assistant",
+      "content": "And where did he go with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun is it?"
+    },
+    {
+      "role": "user",
+      "content": "A small handgun, I don't know guns."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "A navy blue fire department jacket."
+    },
+    {
+      "role": "assistant",
+      "content": "A blue fire department jacket? Okay. They're on the way, ma'am, stay with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Are you injured, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he shot me in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, you bastard. You son of a gun!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get away from him right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, ma'am, get away from him."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, he did it. He did it."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, Kelly!"
+    },
+    {
+      "role": "assistant",
+      "content": "Kelly's your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "It's my daughter. My daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "What's Kelly's last name?"
+    },
+    {
+      "role": "user",
+      "content": "Kelly Wing. Scott Schmidt."
+    },
+    {
+      "role": "user",
+      "content": "Kelly, are you all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake? Can you tell me if she's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. My God, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, then go down and look at her. I need you to tell me."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me, I need information from you. You've got to help me understand."
+    },
+    {
+      "role": "user",
+      "content": "Ask me what you want."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me if she is breathing."
+    },
+    {
+      "role": "user",
+      "content": "She just gasped?"
+    },
+    {
+      "role": "assistant",
+      "content": "So she is breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did he go?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He came out of the door with the gun, shot her. She was on the ground. She yelled at me to get out of here, but I tried to protect her and he got me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He had a plan. He knew what he was doing."
+    },
+    {
+      "role": "user",
+      "content": "Yes. That son of a bitch."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Barbara Wing."
+    },
+    {
+      "role": "assistant",
+      "content": "Barbara Wing, all right. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "I know. Stay with me. Do not engage with him, okay?"
+    },
+    {
+      "role": "user",
+      "content": "There's so much blood everywhere. I love you, honey."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he go back inside?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's by the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are on the way now."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. He shot her a couple of times and then... he got me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Check if her chest is rising for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are those two little children your grandchildren?"
+    },
+    {
+      "role": "user",
+      "content": "All of my grandchildren are here."
+    },
+    {
+      "role": "assistant",
+      "content": "They are there? Are they inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he shot me. It burns."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you talking with an officer now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to let you go then, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. There are two little kids inside. One and four years old."
+    }
+  ]
+}

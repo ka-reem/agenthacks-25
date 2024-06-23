@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. There's a house on fire on Southeast 27th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Southeast 27th Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a more specific location on Southeast 27th Street?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address here, but it's off Lakewood Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please hold while I transfer you to the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a fire on Southeast 27th Street."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I don't know if anybody is inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a better address with a cross street?"
+    },
+    {
+      "role": "user",
+      "content": "It's off Lakewood Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if there's anybody in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I was driving by and I just saw it on fire. There are three or four cars in the driveway. The whole front porch is engulfed."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name and phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, I don't know if anyone is in the house. I was just driving by and saw it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is the fire just on the front porch or spreading to the rest of the house?"
+    },
+    {
+      "role": "user",
+      "content": "It's starting to burn the whole roof now. It's getting really intense."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, help is on the way. Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are some cars in the front yard. I don't see anyone outside or any neighbors around."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anyone running out of the house?"
+    },
+    {
+      "role": "user",
+      "content": "There are some people coming out now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see if anyone else is still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw one person come out; he said there are kids inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me. Are there children inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he ran off somewhere. The house is almost half engulfed."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the person who ran out say how many kids are inside?"
+    },
+    {
+      "role": "user",
+      "content": "He mentioned a couple of kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Please ask him if there are any more children or people inside."
+    },
+    {
+      "role": "user",
+      "content": "He just said there\u2019s only one person inside now. I don't know if it's a child."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the fire department there yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they just arrived. I still see flames catching on the trees and everything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they should be handling it now. Thank you for calling. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

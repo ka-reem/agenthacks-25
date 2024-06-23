@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Well, I'm locked in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "You're locked in your car or out of your car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Woodenvale on Avondale."
+    },
+    {
+      "role": "assistant",
+      "content": "How would you be locked in your car?"
+    },
+    {
+      "role": "user",
+      "content": "Well, what happened is I got in my car and I turned on the ignition and everything died on it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you can't just manually open your door?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't open my door. I am actually locked in here and my windows are locked."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Did you try the passenger door to see if you can open it?"
+    },
+    {
+      "role": "user",
+      "content": "No, hang on. Oh, thank you. I have no idea. Oh, my worry. I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, no problem, ma'am. You're safe. Try to remain calm. How did you know that?"
+    },
+    {
+      "role": "user",
+      "content": "I'm a 911 operator, so it happens. All right. At least I can get out of here. Okay, so much."
+    }
+  ]
+}

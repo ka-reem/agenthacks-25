@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yes, this is Kirby Nicol, the mayor of Capitola. I'm calling for assistance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is this assistance needed, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'd like to have an officer come to 4850 Emerald Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "We've got a person here who is not fit to drive and needs to be taken back home."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so I just need to clarify, is the address 4850 Emerald Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 4850 Emerald Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We'll send someone over. No lights and no sirens. And who's the person that needs assistance?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Kirby Nicol. I'm the Mayor of Capitola."
+    },
+    {
+      "role": "assistant",
+      "content": "No, I mean the person that is intoxicated."
+    },
+    {
+      "role": "user",
+      "content": "The person that is ill is Jim Harris."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We will send someone to the address to assess the situation. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a fire right here off of Broadway."
+    },
+    {
+      "role": "user",
+      "content": "Broadway and 4th Street. There's a girl that's unconscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Broadway and 4th. Are you guys in a building, somewhere on the sidewalk, where?"
+    },
+    {
+      "role": "user",
+      "content": "Everybody is outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Did anybody have any weapons? Do we know how she went unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, there were guys and girls hitting her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me start the paramedics. Hang on. Don't hang up, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. I'm going to get paramedics, and then I have more questions for you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "She's breathing. She just took a deep breath in."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, is she on the sidewalk or in the street?"
+    },
+    {
+      "role": "user",
+      "content": "She's on the sidewalk. She's taking deep breaths in."
+    },
+    {
+      "role": "user",
+      "content": "There's a lot of people here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know which people were hitting her so we can try to get them?"
+    },
+    {
+      "role": "user",
+      "content": "Everybody just ran off. Security is trying to get people that ran off."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a description of those people, males, females?"
+    },
+    {
+      "role": "user",
+      "content": "They were Asians, Asian men and women."
+    },
+    {
+      "role": "assistant",
+      "content": "Roughly how old were they?"
+    },
+    {
+      "role": "user",
+      "content": "They're probably either 23, 24."
+    },
+    {
+      "role": "assistant",
+      "content": "And security is trying to get those people?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did they go?"
+    },
+    {
+      "role": "user",
+      "content": "They ran down 4th Street towards Main."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if any of those people used any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know any of these people. I just took the phone from one of her friends. She didn't know what to do. I told her to call 911, and I called for her."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a description of the injured lady?"
+    },
+    {
+      "role": "user",
+      "content": "She seems about 23 or 24 years old. She's wearing black pants, a black shirt, a jean jacket. She's Asian, Vietnamese."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she at the corner of Broadway and 4th, in front of which business?"
+    },
+    {
+      "role": "user",
+      "content": "Right in front of the Crosby."
+    },
+    {
+      "role": "assistant",
+      "content": "And her friends are with her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, her friends are with her."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw guys and girls hitting her. We just walked out of the club, and I don't know what happened. I just saw that they were hitting somebody."
+    },
+    {
+      "role": "assistant",
+      "content": "And the phone number you're calling me from is just one that you borrowed, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I don't know whose phone it is. I know that it was one of her friends because they were crying that they don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "She's still there, right at Broadway and 4th?"
+    },
+    {
+      "role": "user",
+      "content": "She's here on the sidewalk, still unconscious, but she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are already on the line with her, just to make sure that she's okay. And security is with her, correct?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's one standing around, but they're not with her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get police officers there."
+    },
+    {
+      "role": "user",
+      "content": "They didn't even know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got an officer there now. He should be pulling up right now. Do you see him at all?"
+    },
+    {
+      "role": "user",
+      "content": "I see him, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you flag him down?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does he see you guys?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's just getting out of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to go ahead and disconnect now. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

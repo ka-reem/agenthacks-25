@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm having problems with my 15-year-old son, Sean, at 3845 Westgate Circle in Magna."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's 3845 Westgate Circle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where he found it but he has his dad's gun and he's threatening us. He's saying he's going to run away."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there other weapons in the home?"
+    },
+    {
+      "role": "user",
+      "content": "I thought they were all locked up, but he's telling me he found one. Oh my God, he's holding it. Sean, get out of your sister's room!"
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in his sister's room with the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Sean, and he's leaving. He's got a big black trench coat on."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "15"
+    },
+    {
+      "role": "assistant",
+      "content": "Is he leaving the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes"
+    },
+    {
+      "role": "assistant",
+      "content": "Which way is he going?"
+    },
+    {
+      "role": "user",
+      "content": "He's going south, he has a ski mask on, and a black outfit."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of gun it is?"
+    },
+    {
+      "role": "user",
+      "content": "It's a Colt 45."
+    },
+    {
+      "role": "assistant",
+      "content": "That's a handgun. Is he coming back towards your house?"
+    },
+    {
+      "role": "user",
+      "content": "No, it looks like he's going straight and now he's heading west."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to transfer you to the dispatcher who will get officers over to your house, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, I need you to get out here as soon as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "I have several officers en route at this time. I'm just going to keep you on the line. Did he make any threats toward you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what he's going to do. He said something about breaking a lock to the storage room. I don't know if he was serious."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have any other weapons besides the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the gun was loaded?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I heard gunshots!"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you and your family safe?"
+    },
+    {
+      "role": "user",
+      "content": "We're inside the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay inside the house. Do not go out there."
+    },
+    {
+      "role": "user",
+      "content": "I can see him outside shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me, okay? Officers are on their way."
+    },
+    {
+      "role": "user",
+      "content": "I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. We're getting help to you as quickly as we can. Just stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "I hear more gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay inside and do not approach the windows. Officers are almost there."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone in the house okay right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're just scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Understandable. Stay calm, we have officers en route. Just stay on the line and keep yourself safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to go ahead and have someone come over and talk with you, okay? I'm going to disconnect the call, but someone will be over shortly to speak with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    }
+  ]
+}

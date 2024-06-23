@@ -1,0 +1,320 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, I need your help."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me where you're at."
+    },
+    {
+      "role": "user",
+      "content": "Well, the thing is, I was just flying with my buddy."
+    },
+    {
+      "role": "assistant",
+      "content": "Flying?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. We just went down."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me where you were at."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We're in the middle of the woods."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to tell me what area you were in."
+    },
+    {
+      "role": "user",
+      "content": "Past 65, heading north. I think down near the river, that's all I know."
+    },
+    {
+      "role": "user",
+      "content": "He was the experienced flight."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Tom."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom what? He's hurt badly."
+    },
+    {
+      "role": "user",
+      "content": "I'm William."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the aircraft on fire?"
+    },
+    {
+      "role": "user",
+      "content": "No, but it's leaking gas and he's stuck, and I cannot get him out."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're up near Goldsbury Road?"
+    },
+    {
+      "role": "user",
+      "content": "I\u2019m not sure, ma'am. I'm not sure. I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Are you anywhere near a mailbox or anything?"
+    },
+    {
+      "role": "user",
+      "content": "We're in the middle of a freaking cornfield."
+    },
+    {
+      "role": "assistant",
+      "content": "Medic standby for a medical run. Probably battleground."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, do you see a mailbox or a house anywhere around?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. I just see a big dirt clot and..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, see if you can see a road anywhere."
+    },
+    {
+      "role": "user",
+      "content": "Should I leave him? He's hurt badly."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to give me a location, Tom. Can you hear me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm trying to see something."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's good."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's bleeding, but I had to leave him."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. You're doing good. Try to find help as quick as you can."
+    },
+    {
+      "role": "user",
+      "content": "All right. I'll stay on the phone with you."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see a mailbox or a house?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, give me a minute. I'm looking."
+    },
+    {
+      "role": "assistant",
+      "content": "If you see a mailbox or a house, let me know."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. We're in the middle. They're in a field somewhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, are you back at the plane?"
+    },
+    {
+      "role": "user",
+      "content": "No, I see a farmhouse. Should I go to it?"
+    },
+    {
+      "role": "assistant",
+      "content": "If you can get to it safely, do it. We need a good address."
+    },
+    {
+      "role": "user",
+      "content": "I want to get help as quickly as we can. I'll try to get there."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get there within a couple of minutes? How far does it look?"
+    },
+    {
+      "role": "user",
+      "content": "Like a football field away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you think you can make it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but what about him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that's fine. If you can get help quicker, do it."
+    },
+    {
+      "role": "user",
+      "content": "All right, I'm going to put the phone in my pocket."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Help!"
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, do you see a mailbox?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm still going."
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a minute, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "All units be advised, my caller is running to the nearest farmhouse to get an address."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, you're doing good."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, hold on."
+    },
+    {
+      "role": "user",
+      "content": "I see a barn. Is there a mailbox at the end of the road?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm still getting to it."
+    },
+    {
+      "role": "user",
+      "content": "Hello! I see a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is it a red barn? Could it be a garage that looks like a barn?"
+    },
+    {
+      "role": "user",
+      "content": "It's a red barn, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, are you down in the river bottoms or up on the hill?"
+    },
+    {
+      "role": "user",
+      "content": "I'm coming down the hill."
+    },
+    {
+      "role": "assistant",
+      "content": "He advising he\u2019s coming down the hill. My complainant hears sirens approaching."
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, do you see a mailbox?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "user",
+      "content": "Help! I see help!"
+    },
+    {
+      "role": "assistant",
+      "content": "Tom, do you see the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "No, but someone is coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Goldsbury Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see a mailbox nearby?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I\u2019ll ask someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me from where you're standing, which direction?"
+    },
+    {
+      "role": "user",
+      "content": "If you go to America's and come up to Goldsbury Road, go west."
+    },
+    {
+      "role": "user",
+      "content": "I'm at 6711 Goldsbury Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so east of this residence, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're out in the field."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll disconnect now. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much. Bye."
+    }
+  ]
+}

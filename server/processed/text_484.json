@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir, I need a police car right now at night."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your location?"
+    },
+    {
+      "role": "user",
+      "content": "504 Gay Street."
+    },
+    {
+      "role": "assistant",
+      "content": "504 what?"
+    },
+    {
+      "role": "user",
+      "content": "In my house, he's wrecking my car."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Horace."
+    },
+    {
+      "role": "assistant",
+      "content": "Your address?"
+    },
+    {
+      "role": "user",
+      "content": "504 Gay Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "My phone number is 706-317-7553."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I have your name?"
+    },
+    {
+      "role": "user",
+      "content": "Horace Morgan."
+    },
+    {
+      "role": "assistant",
+      "content": "So what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "This guy's coming here, raising hell and breaking everything. He smoked into my house and started knocking the hell out of me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who this is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Frank Williams."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you at Gay Street, G-A-Y or G-E-Y?"
+    },
+    {
+      "role": "user",
+      "content": "G-A-Y, officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you safe right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's coming back. He's got a ball bat."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still have your ball bat?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I just heard you say you were going to get a ball bat."
+    },
+    {
+      "role": "user",
+      "content": "He's going to get it. I told him I'm calling the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Here he is, officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, stay on the line. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God damn you."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, God damn you."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, are you there?"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Get EMT over here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Someone's been shot 1220 Telegraph Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "1220 Telegraph Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 1220 Telegraph Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "And someone was shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's been shot?"
+    },
+    {
+      "role": "user",
+      "content": "My wife. Please come over now."
+    },
+    {
+      "role": "assistant",
+      "content": "Your wife has been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    }
+  ]
+}

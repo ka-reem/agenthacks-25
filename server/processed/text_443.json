@@ -1,0 +1,184 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The address is 1680 Ray Road. We have a baby missing out of her crib."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know who might have taken her?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 11 months old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and can you confirm your address one more time?"
+    },
+    {
+      "role": "user",
+      "content": "1680 Ray Road, yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, and your last name?"
+    },
+    {
+      "role": "user",
+      "content": "My last name is Irizari. The baby's last name is Creech."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the mother there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s her first name?"
+    },
+    {
+      "role": "user",
+      "content": "Michelle."
+    },
+    {
+      "role": "assistant",
+      "content": "What was she last seen wearing?"
+    },
+    {
+      "role": "user",
+      "content": "She was wearing pink pajamas that say 'Daddy.'"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, calm down, it's okay. The father just got home from Iraq a few hours ago?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we went into the bedroom to get the baby, and the window to the baby's room is open."
+    },
+    {
+      "role": "assistant",
+      "content": "When was the last time someone saw her?"
+    },
+    {
+      "role": "user",
+      "content": "Just after 11:30 last night when Michelle fed her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the dad just got home today and went to get the baby up, she was gone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the dad's name Ronald?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he just get home from Iraq?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Her bib is on the ground? Don't touch it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we won't touch anything."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. I need you to stay calm to help me help them. Do you know anyone who might have access to the house?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of. Michelle, do you know anyone who might have access to the house?"
+    },
+    {
+      "role": "user",
+      "content": "The bedroom window was open."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure no one touches anything near the window. Is there anything else missing?"
+    },
+    {
+      "role": "user",
+      "content": "The baby's diaper bag and some of her clothes are gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the window shut when she was put to bed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. The window was shut."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a house or a mobile home?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the window locked?"
+    },
+    {
+      "role": "user",
+      "content": "I think it was locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see anything else out of place without touching anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing else seems out of order."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell Ron not to touch anything. Are the deputies there with you now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I\u2019ll let you hang up now."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, bye."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm on Ware Street in Cambridge, and the house number is 17."
+    },
+    {
+      "role": "assistant",
+      "content": "Which street?"
+    },
+    {
+      "role": "user",
+      "content": "Sorry, it's 17 Ware Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know exactly. There's an older woman here who saw two gentlemen trying to get into a house at 17 Ware Street. They broke the screen door and finally got in."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think they might have been breaking in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They might have been, but they pushed the door in. The screen part of the front door was cut."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see if they used a key or anything to open the door?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see a key. I was a little away from the door, but they did push their way in."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if they're still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're still in the house, I believe."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the individuals?"
+    },
+    {
+      "role": "user",
+      "content": "There were two larger men. One looked kind of Hispanic, but I'm not really sure about the other one. I only saw him from a distance."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you standing outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm standing outside."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, police are on the way. Can you meet them when they get there? What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, my name is <name>. I'll wait for them."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Stay safe. Police will be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Units in the area of Newburgh and 264."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm getting out on Newburgh."
+    },
+    {
+      "role": "user",
+      "content": "Still in our police car, on town."
+    },
+    {
+      "role": "assistant",
+      "content": "Razor case subject has stolen a marked police car. He's westbound on Waterson from Newburgh."
+    },
+    {
+      "role": "user",
+      "content": "Channel."
+    },
+    {
+      "role": "assistant",
+      "content": "Be advised in reference to the hold-up alarm at Wendy's."
+    },
+    {
+      "role": "user",
+      "content": "We're 1050 and in the ditch."
+    },
+    {
+      "role": "assistant",
+      "content": "Razor K, advising 1050 at Preston in the ditch."
+    },
+    {
+      "role": "user",
+      "content": "Continuing on. He might be trying to make his way back down."
+    },
+    {
+      "role": "assistant",
+      "content": "One person highway north-south, equipment 5621 northbound."
+    },
+    {
+      "role": "user",
+      "content": "Correction on the address, 1624."
+    },
+    {
+      "role": "assistant",
+      "content": "Equipment number on the police car, 5621."
+    },
+    {
+      "role": "user",
+      "content": "The 4th Division unit, starting for Preston."
+    },
+    {
+      "role": "assistant",
+      "content": "411 Adam, on Preston."
+    },
+    {
+      "role": "user",
+      "content": "Vehicle pursuit passing Audubon Parkway, speed about 105 miles an hour."
+    },
+    {
+      "role": "assistant",
+      "content": "Northbound on Preston, passing Eastern."
+    },
+    {
+      "role": "user",
+      "content": "Subject is in a marked police car."
+    },
+    {
+      "role": "assistant",
+      "content": "Equipment number 3621. Make sure all cars know he\u2019s in a marked car."
+    },
+    {
+      "role": "user",
+      "content": "The shotgun is locked in the rack."
+    },
+    {
+      "role": "assistant",
+      "content": "Northbound on Bradley, west on Brandeis."
+    },
+    {
+      "role": "user",
+      "content": "Lost visual at first and Oak."
+    },
+    {
+      "role": "assistant",
+      "content": "Northbound on 2nd coming up on Broadway."
+    },
+    {
+      "role": "user",
+      "content": "14 Baker, gray or white car?"
+    },
+    {
+      "role": "assistant",
+      "content": "White car, lights on, northbound on 2nd."
+    },
+    {
+      "role": "user",
+      "content": "I no longer have visual."
+    },
+    {
+      "role": "assistant",
+      "content": "Last known location was northbound."
+    },
+    {
+      "role": "user",
+      "content": "Circling back onto 65, northbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Getting off Jackson Charles."
+    },
+    {
+      "role": "user",
+      "content": "Eastbound on 10th Street, passing Wall."
+    },
+    {
+      "role": "assistant",
+      "content": "Jacksonville takeover."
+    },
+    {
+      "role": "user",
+      "content": "South down on Pratt from 10th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Westbound on South Alley, back up to 10th Street."
+    },
+    {
+      "role": "user",
+      "content": "Westbound on 10th back towards 65."
+    },
+    {
+      "role": "assistant",
+      "content": "Southbound on 65."
+    },
+    {
+      "role": "user",
+      "content": "Shutting down at the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers to set up on the Kentucky side of 65."
+    },
+    {
+      "role": "user",
+      "content": "Taking Second Street bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Off at Main from Second Street."
+    },
+    {
+      "role": "user",
+      "content": "South down towards the river."
+    },
+    {
+      "role": "assistant",
+      "content": "Eastbound on Market."
+    },
+    {
+      "role": "user",
+      "content": "Westbound near Rocky's."
+    },
+    {
+      "role": "assistant",
+      "content": "Subject in the river with a squad car."
+    },
+    {
+      "role": "user",
+      "content": "Subject in the river on the Indiana side."
+    },
+    {
+      "role": "assistant",
+      "content": "134 Adam, do you have a visual?"
+    },
+    {
+      "role": "user",
+      "content": "Got him, gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "134 Adam, shots fired!"
+    },
+    {
+      "role": "user",
+      "content": "Suspect down in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "No officers injured, suspect down in the river."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my name is Andrew Komkoski. I'm CEO of the Chief Financial Credit Union headquartered in Berlin."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I just received a call a few minutes ago from one of our VPs who states that he's a victim of a home invasion overnight. His mom, who resides with him, is strapped to a bomb as well as him. He's instructing me to evacuate our branch in New Britain because one of the perpetrators is going to accompany him to collect cash. And I have no reason not to believe what he's saying or how he feels."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where does he live?"
+    },
+    {
+      "role": "user",
+      "content": "He lives in Bristol."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you need the branch in New Britain evacuated?"
+    },
+    {
+      "role": "user",
+      "content": "I am instructing the staff there to vacate the branch and come to Berlin, correct."
+    },
+    {
+      "role": "user",
+      "content": "I don't know who to talk to. This isn't a normal circumstance. I probably need to talk to some officer in charge."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, because you're either going to need to go to New Britain or you're going to have to go to Bristol. Did he contact Bristol police about what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "No, he contacted me and he told me not to contact authorities. I need the phone number."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me transfer you to Bristol, please."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "I was transferred from Berlin dispatch."
+    },
+    {
+      "role": "user",
+      "content": "Hey, Karen, can you shut my door? I'm sorry."
+    },
+    {
+      "role": "user",
+      "content": "My name is Andrew Klemkowski. I'm the president and CEO of the Chief Financial Credit Union. We have our main headquarters in Berlin. Five minutes ago, I just received a call on my cell phone from one of our VPs, who resides in Bristol, stating that he and his mom, who live together, are victims of a home invasion overnight. He states that he's strapped to a bomb, he's sitting in his car in the garage, and the perpetrators also put a bomb under his mother's bed. He's instructing me to vacate our New Britain branch because they are going to come and rob it for cash and that the employees are to leave. I have no reason not to believe him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's the address, sir, that he lives at?"
+    },
+    {
+      "role": "user",
+      "content": "He lives on Lufkin Lane. Do you know the house number? I do. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "And have you contacted your New Britain office while I have you here, or did you call us first?"
+    },
+    {
+      "role": "user",
+      "content": "I called 911 and got Berlin, so they transferred me to Bristol first because that's where he resides."
+    }
+  ]
+}

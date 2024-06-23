@@ -1,0 +1,384 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Emergency dispatcher."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the matter?"
+    },
+    {
+      "role": "user",
+      "content": "What's the matter?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need an ambulance?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you breathing okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else there with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "If there's somebody else there with you, can you put them on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this Wheeler?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "And you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. If the phone sounds like I hang up, I'm not. I'm going to be dispatching an ambulance, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Oh! "
+    },
+    {
+      "role": "user",
+      "content": "Wait a favor."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that? Is that the ambulance? Can you hear them?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get to the door and let them in?"
+    },
+    {
+      "role": "assistant",
+      "content": "Go to the door and let whoever that is talking, okay?"
+    },
+    {
+      "role": "user",
+      "content": "You can't get to the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending an ambulance. Don't hang up. You're going to hear some clicking. Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "You're calling an ambulance."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm."
+    },
+    {
+      "role": "user",
+      "content": "Mm."
+    },
+    {
+      "role": "user",
+      "content": "I warned you, Mr. Reuter."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to shake."
+    },
+    {
+      "role": "user",
+      "content": "I'm afraid."
+    },
+    {
+      "role": "user",
+      "content": "Wake up."
+    },
+    {
+      "role": "user",
+      "content": "I love you."
+    },
+    {
+      "role": "user",
+      "content": "I love you."
+    },
+    {
+      "role": "user",
+      "content": "Are you afraid like I was afraid?"
+    },
+    {
+      "role": "user",
+      "content": "You're insane."
+    },
+    {
+      "role": "user",
+      "content": "That's reality."
+    },
+    {
+      "role": "user",
+      "content": "What time is it?"
+    },
+    {
+      "role": "user",
+      "content": "The end of the world is coming here, later."
+    },
+    {
+      "role": "user",
+      "content": "You're going to hell."
+    },
+    {
+      "role": "user",
+      "content": "That's what I sound good on time."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm back."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who is that?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I talk to that person?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that in the background? Is that a relative?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why won't she come on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Cool! Just me?"
+    },
+    {
+      "role": "user",
+      "content": "Can you see why with me? "
+    },
+    {
+      "role": "user",
+      "content": "Wait a minute of this isn't really good."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "Come and be like that's something like that."
+    },
+    {
+      "role": "user",
+      "content": "That's for the wind point court."
+    },
+    {
+      "role": "user",
+      "content": "That's for those condos."
+    },
+    {
+      "role": "user",
+      "content": "I'm getting stuck in this."
+    },
+    {
+      "role": "user",
+      "content": "There's patience and actually right there."
+    },
+    {
+      "role": "user",
+      "content": "2830s and wind point."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is that person, has that person been drinking?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-mm."
+    },
+    {
+      "role": "user",
+      "content": "Mm-mm-mm-hmm"
+    },
+    {
+      "role": "user",
+      "content": "Mm."
+    },
+    {
+      "role": "user",
+      "content": "You know, why was"
+    },
+    {
+      "role": "user",
+      "content": "I'm gonna get out of this thing."
+    },
+    {
+      "role": "user",
+      "content": "Mm."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going out? What is she doing to you?"
+    },
+    {
+      "role": "user",
+      "content": "Mm."
+    },
+    {
+      "role": "user",
+      "content": "Wait, B, wait, B, because this could be home at the world."
+    },
+    {
+      "role": "user",
+      "content": "Oh, geez, but I do you could come here."
+    },
+    {
+      "role": "user",
+      "content": "What's off you in here?"
+    },
+    {
+      "role": "user",
+      "content": "See anything in here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on? What?"
+    },
+    {
+      "role": "user",
+      "content": "What's going on? I've got to see what we're really."
+    },
+    {
+      "role": "user",
+      "content": "Yes, me."
+    },
+    {
+      "role": "user",
+      "content": "Oh, no. I don't see."
+    },
+    {
+      "role": "user",
+      "content": "Oh, come."
+    },
+    {
+      "role": "user",
+      "content": "I want to hurt two."
+    },
+    {
+      "role": "user",
+      "content": "I won't hear too because you really"
+    },
+    {
+      "role": "user",
+      "content": "This is hard for me to take her school because I'm"
+    },
+    {
+      "role": "assistant",
+      "content": "There'll be someone there soon, there's an ambulance on the way, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just like you, hang on."
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    }
+  ]
+}

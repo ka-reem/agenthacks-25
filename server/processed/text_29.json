@@ -1,0 +1,400 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Should go out of now. I'll understand you know."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "56 Nantucket."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "56 Nantucket."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem there?"
+    },
+    {
+      "role": "user",
+      "content": "It's a fire. I'm pregnant."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a fire in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please come."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, get outside the residence."
+    },
+    {
+      "role": "user",
+      "content": "I can't. I can't get out."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't get out of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, please."
+    },
+    {
+      "role": "assistant",
+      "content": "On the front, do I have somebody else get on the phone here?"
+    },
+    {
+      "role": "user",
+      "content": "No. I don't know. I'm here. I'm in my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the fire?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm upstairs. Please, help. Please. Please. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a residential house fire at 56 Nantucket with somebody trapped in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you in the bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? Hello? Hello? Stay on. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am? Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem? Do you have a house on fire? Get out of the house."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am. Get out of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go to a bedroom window?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Close the bedroom door, first of all."
+    },
+    {
+      "role": "user",
+      "content": "It is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay low. Go to the floor. The air is better down lower to the floor."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get to the window? Can you open the window?"
+    },
+    {
+      "role": "user",
+      "content": "I did."
+    },
+    {
+      "role": "user",
+      "content": "Please help me. Get me here. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to. Are you in the house by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "We just want to make sure nobody else is in the house."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if my dad's in here. I don't know. I was sleeping."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know if your dad may be in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, get to the window. Are you by the window?"
+    },
+    {
+      "role": "user",
+      "content": "My head is out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're able to breathe out now, right?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Now that window, does it face the back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "It's in front of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "It's in front of the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, as long as you can breathe, you're okay, right?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, please let me get me out."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, there's people on the way. Just remain calm. You have to stay composed. As long as you can breathe, you're okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If it gets to a point where you can't breathe, then climb out the window. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "I'm pregnant. I'm nine months."
+    },
+    {
+      "role": "assistant",
+      "content": "They're going to do their best to help you out, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Now, you said your father may be in the house. What room would he be in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think he might be in the basement. Please get me out."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what room would your father be in?"
+    },
+    {
+      "role": "user",
+      "content": "He might be in the basement or his bedroom. His bedroom is right next door to my room."
+    },
+    {
+      "role": "assistant",
+      "content": "Is his bedroom door closed or you don't know?"
+    },
+    {
+      "role": "user",
+      "content": "I can't open my door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me, okay? We'll get some people to help you."
+    },
+    {
+      "role": "user",
+      "content": "Please, I heard a falling noise. My dad might be trying to get here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stop. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "What if my dad's in the basement or in his room? Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you have to stay on the phone. Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "I'm not. Please help me. Help me get out of here."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if my dad is here."
+    },
+    {
+      "role": "user",
+      "content": "Dad! Dad! Please, my dad!"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my dad! Oh, my God! Oh, he's in there! Please!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Calm down. Is there firemen with you yet?"
+    },
+    {
+      "role": "user",
+      "content": "No. Only one. The house is big. We need more of them."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming, ma'am. Please, you have to calm down, okay? If you want to help your father, you need to listen to me."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to help your father by staying calm and following instructions."
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "The firemen are checking, okay? Now you can breathe, you're okay, right?"
+    },
+    {
+      "role": "user",
+      "content": "I need to call my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get to that. Right now, focus on staying safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the fire started?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have your head out the window?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have my head out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, as long as you can breathe, you'll be okay. Can you fit out the window if necessary?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't. I'm pregnant. I can't climb out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "You're okay, ma'am. As long as you can get air, you're okay."
+    },
+    {
+      "role": "user",
+      "content": "Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, do you know where the fire started?"
+    },
+    {
+      "role": "user",
+      "content": "Please get in here."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the firemen there with you yet?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see. There's smoke. My dad! Help! Get him out!"
+    },
+    {
+      "role": "user",
+      "content": "Please, I need help. Help my dad!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Is there someone with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to see the firemen?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see them. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, ma'am. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I don't know where my dad is."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me. Help is coming."
+    },
+    {
+      "role": "user",
+      "content": "Please get me out."
+    }
+  ]
+}

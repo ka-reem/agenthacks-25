@@ -1,0 +1,336 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I haven't got a hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "At the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Where? What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "Is it 400?"
+    },
+    {
+      "role": "user",
+      "content": "4-6?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. At the hospital, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "3200."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "Someone has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Inside the hospital?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a male or female?"
+    },
+    {
+      "role": "user",
+      "content": "A male."
+    },
+    {
+      "role": "assistant",
+      "content": "White or black?"
+    },
+    {
+      "role": "user",
+      "content": "White."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing with it?"
+    },
+    {
+      "role": "user",
+      "content": "He shot a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "He shot a gun in the hospital?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did he shoot, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. No one, but he shot it off, and I don't know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said he's in the NICU?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a description of what he's wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a hat. He's a heavy-set man with a beard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And anything else?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's in room 3201."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he in 3201?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "user",
+      "content": "Can you please send someone?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're on the way. Just stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's injured?"
+    },
+    {
+      "role": "user",
+      "content": "I do not believe so. We heard the gun go off. We didn't know what was going on. We thought it was an oxygen tank or something."
+    },
+    {
+      "role": "user",
+      "content": "Then we went in there."
+    },
+    {
+      "role": "assistant",
+      "content": "You're hiding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm hiding in a room right now, so I don't even know what's going on."
+    },
+    {
+      "role": "user",
+      "content": "I hear them making an announcement right now. We couldn't figure it out. We all went in the room because we thought it came from there."
+    },
+    {
+      "role": "user",
+      "content": "We thought it was an oxygen tank. Then we saw him sitting there with a gun and he was like, you know, loading it or whatever."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he was loading the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he was like doing something like that and then we all left."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know, is he there visiting family?"
+    },
+    {
+      "role": "user",
+      "content": "I had been in the room earlier and he wasn't there. He looked like he was sitting in the chair."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What kind of patients are up there in 3201?"
+    },
+    {
+      "role": "user",
+      "content": "It's a neuro ICU."
+    },
+    {
+      "role": "assistant",
+      "content": "Neuro ICU? Adult?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, adults."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone. We had several officers coming to you guys."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's injured?"
+    },
+    {
+      "role": "user",
+      "content": "I do not believe so."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I should get up and see."
+    },
+    {
+      "role": "assistant",
+      "content": "No, I wouldn't. Stay exactly where you're at."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Just a patient."
+    },
+    {
+      "role": "user",
+      "content": "I hear someone yelling."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay exactly where you're at. Did you lock the door?"
+    },
+    {
+      "role": "user",
+      "content": "I have it closed, but I don't know if it's locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put something in front of the door?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's nothing to put in front of the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in 3206, like five rooms down. I hear screaming out there. I don't know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a patient with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's out of it, though. I hear people yelling."
+    },
+    {
+      "role": "user",
+      "content": "I hear commotion. Are you a staff, a nurse?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I should be going up there. I don't know. Should I go?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, stay exactly where you're at. You're doing good. Just let me know when you hear anything, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I hear a commotion. People are running."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I think they need help out there."
+    },
+    {
+      "role": "assistant",
+      "content": "No, you need to stay where you're at. You're doing good."
+    },
+    {
+      "role": "user",
+      "content": "I think someone's coding or something."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay right where you're at, okay? We have several officers coming there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I got to go in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the person with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you don't want to get in the middle of it."
+    }
+  ]
+}

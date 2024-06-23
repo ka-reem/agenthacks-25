@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "125 Signal Hill Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on over there?"
+    },
+    {
+      "role": "user",
+      "content": "Someone was murdered, I think?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly?"
+    },
+    {
+      "role": "user",
+      "content": "My house."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to listen to me and stay calm. Where do you think someone was murdered?"
+    },
+    {
+      "role": "user",
+      "content": "In my house."
+    },
+    {
+      "role": "assistant",
+      "content": "In your house? Okay, what's in your house?"
+    },
+    {
+      "role": "user",
+      "content": "Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'm sending officers right now. I need to know more about what's going on. What makes you think someone was murdered?"
+    },
+    {
+      "role": "user",
+      "content": "My husband is in a pool of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Your husband is in a pool of blood?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. Did you just get home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else home with you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see anyone."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with your children right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see my son. He's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "22."
+    },
+    {
+      "role": "assistant",
+      "content": "He's 22. What does he look like? This is really important."
+    },
+    {
+      "role": "user",
+      "content": "Normal, but I think he had some problems."
+    },
+    {
+      "role": "assistant",
+      "content": "Go over to your husband for me. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Are they on their way?"
+    },
+    {
+      "role": "assistant",
+      "content": "They've been on the way since you called. Is your husband breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you right next to him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get close to him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but not really with the cord."
+    },
+    {
+      "role": "assistant",
+      "content": "His face is bludgeoned?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a weapon nearby?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see one. Wait, yes, a pick or a hammer."
+    },
+    {
+      "role": "assistant",
+      "content": "A pick or a hammer? Okay. Ma'am, they're on the way. I need you to stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I can't believe this."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, ma'am. What I'm going to tell you is very important. I do not want you to touch anything."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you certain that your husband is not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "If you want, put the phone down and try to get as close to him as possible without touching the pick or hammer."
+    },
+    {
+      "role": "user",
+      "content": "There's so much blood."
+    },
+    {
+      "role": "assistant",
+      "content": "I know, but this is important. Is he moving?"
+    },
+    {
+      "role": "user",
+      "content": "He's not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "If you call his name, does he respond?"
+    },
+    {
+      "role": "user",
+      "content": "Ed. Ed. No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm staying here with you until they get there. You're at 125 Signal Hill Road, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Mrs. Ramsey?"
+    },
+    {
+      "role": "assistant",
+      "content": "How soon will they be there?"
+    },
+    {
+      "role": "user",
+      "content": "I can't do this."
+    },
+    {
+      "role": "assistant",
+      "content": "If you think he's beyond help, you can leave the house if you want."
+    },
+    {
+      "role": "user",
+      "content": "No, I'm staying here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think he's beyond help?"
+    }
+  ]
+}

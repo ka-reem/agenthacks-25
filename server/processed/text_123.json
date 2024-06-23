@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, somebody is coming into my house."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "It's, um, 5908."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't hear you clearly, could you repeat your address?"
+    },
+    {
+      "role": "user",
+      "content": "5908, 722 and they have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "5908. Is that 70 and 2nd Street?"
+    },
+    {
+      "role": "user",
+      "content": "Let me out. Let me out."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Get out of my house. Get out."
+    },
+    {
+      "role": "assistant",
+      "content": "You stay in your house, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They have a gun. Get away from me."
+    },
+    {
+      "role": "user",
+      "content": "Let me. Get away. Get away."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, ma'am, did you say 5908 70th and 2nd Street?"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me. I need to know your address."
+    },
+    {
+      "role": "user",
+      "content": "Do you take 70 seconds?"
+    },
+    {
+      "role": "assistant",
+      "content": "How many subjects are in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Get out."
+    },
+    {
+      "role": "assistant",
+      "content": "How many subjects are in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Missing."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I cannot understand you. Please take a deep breath for me."
+    },
+    {
+      "role": "user",
+      "content": "I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "How many subjects are in the house? Are you saying there's two people in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I can't. I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "Please take a deep breath so I can understand you."
+    },
+    {
+      "role": "user",
+      "content": "I can't. I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think someone broke into my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone broke into your house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It was probably with the garage."
+    }
+  ]
+}

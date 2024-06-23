@@ -1,0 +1,344 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My brother is having a breakdown in open."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is anybody injured?"
+    },
+    {
+      "role": "user",
+      "content": "My brother, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of breakdown is he having?"
+    },
+    {
+      "role": "user",
+      "content": "Um, uh, he's acting nice."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "21."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he done anything harmful?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, seriously."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending you help, but tell me more. What's your brother's name?"
+    },
+    {
+      "role": "user",
+      "content": "Kyle Miller."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is he right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's downstairs right now."
+    },
+    {
+      "role": "assistant",
+      "content": "So what made you call? What did he do?"
+    },
+    {
+      "role": "user",
+      "content": "I just woke up to my mom screaming because my brother has a knife, and he's trying to cut himself and stuff."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on the phone with me. Don't go anywhere."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, probably."
+    },
+    {
+      "role": "assistant",
+      "content": "So Kyle still has the knife?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure right now. I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of knife is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's just a... just a kitchen knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Like a pocket knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, a pocket knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have access to any other weapons that you know of?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's screaming?"
+    },
+    {
+      "role": "user",
+      "content": "It's my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anybody been injured yet? Has Kyle hurt anybody else?"
+    },
+    {
+      "role": "user",
+      "content": "He hurt himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did he cut himself?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know what part? He has a gun. It's a BB gun, but it's a..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So what part of the house is he in?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's out in the garage or out in the front yard now."
+    },
+    {
+      "role": "assistant",
+      "content": "Does anybody know where exactly he is?"
+    },
+    {
+      "role": "user",
+      "content": "My mom doesn't know. I'm going to go look for him right now, but..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I don't want you to put yourself in danger, but we have people coming to help. They're going to need to know where he is, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If you can sort of peek out the door or something, is there a safe way for you to look out?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, in the meantime, can I get your name real quick?"
+    },
+    {
+      "role": "user",
+      "content": "Alex Miller."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so what is Kyle wearing today?"
+    },
+    {
+      "role": "user",
+      "content": "A white shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "A white shirt and what else? Shorts or jeans?"
+    },
+    {
+      "role": "user",
+      "content": "Basketball shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What does he look like? Is he tall, short, thin, heavy?"
+    },
+    {
+      "role": "user",
+      "content": "He's taller, medium build."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, has he done anything else you haven't mentioned?"
+    },
+    {
+      "role": "user",
+      "content": "No, not really."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where he is now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the front yard right now, talking to my mom and the neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have the BB gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's actually an airsoft gun. It's a different gun than I thought, but yeah, he's right out front."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he heading towards Aspen Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's heading down there now."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have the airsoft gun in his hand?"
+    },
+    {
+      "role": "user",
+      "content": "No, he put it down."
+    },
+    {
+      "role": "assistant",
+      "content": "What about the pocket knife? Does he still have that?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure if he does or not."
+    },
+    {
+      "role": "assistant",
+      "content": "So when you said he hurt himself or cut himself earlier, do you know where he cut himself?"
+    },
+    {
+      "role": "user",
+      "content": "The only thing I saw was his arm with the knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He doesn't have the gun anymore?"
+    },
+    {
+      "role": "user",
+      "content": "No, but he still has the airsoft gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way you can let them know he's holding the airsoft gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, the officers are trained in this type of situation. They're not going to go around shooting people, okay? They understand and just want to keep everyone safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still see him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he took off down the road towards Aspen Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he took off running down the road towards Aspen Street and you can't see him anymore?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got some officers who are nearby. They will make sure Kyle is under control and safe. Probable follow-up officers will come to talk to you shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Just wait at your house, officers will be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is Kristen Pritz. I'm on Aspen Street. There's an officer that has stopped his car and has a citizen. He's holding him with a gun. I mean, he's got his gun pointed out."
+    },
+    {
+      "role": "assistant",
+      "content": "We know."
+    },
+    {
+      "role": "user",
+      "content": "I just wanted to make sure that you know he needed backup."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we know. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

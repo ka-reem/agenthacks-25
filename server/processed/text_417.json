@@ -1,0 +1,444 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hang on."
+    },
+    {
+      "role": "user",
+      "content": "They're okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're just about out there. Are they just about here?"
+    },
+    {
+      "role": "user",
+      "content": "You sure you see us?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, they see you. They've got your location pinpointed."
+    },
+    {
+      "role": "user",
+      "content": "Keith."
+    },
+    {
+      "role": "user",
+      "content": "Keith."
+    },
+    {
+      "role": "assistant",
+      "content": "You okay?"
+    },
+    {
+      "role": "user",
+      "content": "Cram!"
+    },
+    {
+      "role": "user",
+      "content": "Ah!"
+    },
+    {
+      "role": "assistant",
+      "content": "You okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. We're cramping up bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on a sandbar, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're on something. Trying to make a stand."
+    },
+    {
+      "role": "assistant",
+      "content": "I see debris. We're here."
+    },
+    {
+      "role": "user",
+      "content": "At least they got a trail to you."
+    },
+    {
+      "role": "assistant",
+      "content": "They've got a trail to you if you're leaving debris."
+    },
+    {
+      "role": "user",
+      "content": "They're in the drink. They're in the drink. They're coming."
+    },
+    {
+      "role": "user",
+      "content": "They see us, Otis, they're coming."
+    },
+    {
+      "role": "assistant",
+      "content": "How's Otis doing, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "He's rough. He's rough."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have the lifejackets?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's hanging on. But it's rough."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming, they're on their way. It's only a matter of minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "You have to maintain your calm. You have two choices: live or die, and you're going to live."
+    },
+    {
+      "role": "assistant",
+      "content": "You're still with us, right?"
+    },
+    {
+      "role": "user",
+      "content": "We're here, Keith."
+    },
+    {
+      "role": "user",
+      "content": "I took a tail off for this."
+    },
+    {
+      "role": "assistant",
+      "content": "You guys fishing or hunting, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "Hunting?"
+    },
+    {
+      "role": "assistant",
+      "content": "That's a nice duck."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. They're coming any minute."
+    },
+    {
+      "role": "user",
+      "content": "I don't see you. You are in the water, right?"
+    },
+    {
+      "role": "user",
+      "content": "They're in the water coming in."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't let go of that jacket. Hang on as tight as you can."
+    },
+    {
+      "role": "user",
+      "content": "We don't see the rest. Five nice mallards!"
+    },
+    {
+      "role": "assistant",
+      "content": "The sheriff's boat is in the water. Is there anything left with you, Keith, other than that gas can?"
+    },
+    {
+      "role": "user",
+      "content": "We've got a blue jacket. We lost the gas can."
+    },
+    {
+      "role": "user",
+      "content": "Lost the decoys."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your boat under too?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they see us. They're coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down. They'll get you out of this."
+    },
+    {
+      "role": "assistant",
+      "content": "They're right behind you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to drown. I promise."
+    },
+    {
+      "role": "assistant",
+      "content": "Just hang on a few more minutes."
+    },
+    {
+      "role": "user",
+      "content": "It's almost over, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Keep talking to them."
+    },
+    {
+      "role": "user",
+      "content": "It's over, and we're going to live."
+    },
+    {
+      "role": "user",
+      "content": "Okay? Hang on. Grab on."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to try to stand right here. We're making a stand now. God willing, we get out."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still on the end of the tree line? You're fine. I'm not going to let you go."
+    },
+    {
+      "role": "assistant",
+      "content": "Keith, are you still on the end of the tree line?"
+    },
+    {
+      "role": "user",
+      "content": "Just hang on. We're not moving, and we're not going anywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still off the end of the tree line?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we can see it."
+    },
+    {
+      "role": "assistant",
+      "content": "So, you're a little south of the tree line now?"
+    },
+    {
+      "role": "user",
+      "content": "About even with it."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on the south end of the lake, right?"
+    },
+    {
+      "role": "user",
+      "content": "Well, south of the dock."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any houses looking straight ahead?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they on the east side or the west side of the lake?"
+    },
+    {
+      "role": "user",
+      "content": "We're on the east side."
+    },
+    {
+      "role": "user",
+      "content": "You see the farmhouse on the south side of the tree line with the dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Southside with the farmhouse?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see it?"
+    },
+    {
+      "role": "user",
+      "content": "Even with the farm, hang on!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything outstanding about that farm? A couple silos, blue house, anything?"
+    },
+    {
+      "role": "user",
+      "content": "One you can see."
+    },
+    {
+      "role": "user",
+      "content": "No, you have to, please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "We're here, Keith."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the boat coming?"
+    },
+    {
+      "role": "user",
+      "content": "Have the boat right over there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the boat, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "I see something."
+    },
+    {
+      "role": "user",
+      "content": "You're like so straight to walk right over."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way are they from you?"
+    },
+    {
+      "role": "user",
+      "content": "They're north."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll keep heading them that way."
+    },
+    {
+      "role": "assistant",
+      "content": "Your spotters still see them?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on to that."
+    },
+    {
+      "role": "user",
+      "content": "100 yards north of them. Tell them to keep going."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't get too crazy, Keith. Save something for the tank."
+    },
+    {
+      "role": "user",
+      "content": "Two guys in a boat."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see a boat on your right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they see two guys in a boat."
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction do they need to go to get to you? Keith, which way are they?"
+    },
+    {
+      "role": "user",
+      "content": "Northwest of you. They need to come southeast."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see them, Keith?"
+    },
+    {
+      "role": "user",
+      "content": "I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "They got to come closer to you. They're going to get there soon."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still coming toward you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Have your spotters still got them in sight?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are they guiding the boat in now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on, Keith. Dig deep for me."
+    },
+    {
+      "role": "assistant",
+      "content": "They see you, Keith."
+    },
+    {
+      "role": "user",
+      "content": "Hang on, buddy."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with us until you're in the boat. I want to hear that you're safe."
+    },
+    {
+      "role": "user",
+      "content": "He can't swim!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay there. Stay there."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I tried to get a hold of Bob and Corey. I didn't have any luck, but we'll keep trying."
+    },
+    {
+      "role": "user",
+      "content": "Okay, sounds good."
+    },
+    {
+      "role": "assistant",
+      "content": "Nice job. We need to get them out of there."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "You bet. Bye."
+    }
+  ]
+}

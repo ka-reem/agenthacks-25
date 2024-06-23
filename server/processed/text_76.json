@@ -1,0 +1,344 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's Braybrook, that's B-R-A-Y, B-R-O-O-K-E, Place. Fayetteville, North Carolina, 28314."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and just repeat that address for me for verification, please."
+    },
+    {
+      "role": "user",
+      "content": "It's Braybrook Place, B-R-A-Y, B-R-O-O-K-E, Place, Fayetteville, North Carolina, 28314."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Tell me what's going on."
+    },
+    {
+      "role": "user",
+      "content": "I guess there's a fight that's broken out, and a lady came running outside saying that some man is in there hitting everyone, going crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is that where it's happening?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. There's been screaming and everything. She came out of her house wanting help. She ran out of the house."
+    },
+    {
+      "role": "user",
+      "content": "That\u2019s her son. She said it's her nephew hitting the mother. She said she got hit. Are you guys sending someone?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to get someone out there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the line with me for a moment."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that her son?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's just the lady and her son, and then I guess she said it's her nephew that went crazy and he's hitting his mother. Another lady got hit that ran outside. She just came back and asked if the police were on their way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you near there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we live right across the street. It's a townhome subdivision."
+    },
+    {
+      "role": "assistant",
+      "content": "Are any weapons involved or mentioned?"
+    },
+    {
+      "role": "user",
+      "content": "I don't, she didn't mention any."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know how many people are involved?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I don't know, I assume maybe four."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anyone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the lady's still outside. She's in the middle of the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the nephew or the son?"
+    },
+    {
+      "role": "user",
+      "content": "The son came running outside, but the nephew is still inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know what the person who's doing the hitting looks like?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I think they're Asian, maybe Japanese or Korean."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they arrive in a vehicle? Do you know?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're in a Toyota. It's white. It's still parked in the driveway. Everyone is outside except for the nephew."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a sedan?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's an SUV. Maybe a Highlander or a RAV4, it's white."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any children present that you can see?"
+    },
+    {
+      "role": "user",
+      "content": "No, not small children."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anyone involved been using alcohol or drugs?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The woman came over here screaming saying she thinks the nephew is on drugs or something."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone injured or sick?"
+    },
+    {
+      "role": "user",
+      "content": "Well, the nephew was hitting his mother, and the lady that lives there says she got hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. An officer will be dispatched as soon as possible. If anything changes or you have any further information, what's your name? Do you want to be contacted by officers?"
+    },
+    {
+      "role": "user",
+      "content": "Oh God, oh God. Are you guys coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we are sending someone. What's going on now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if the guy is chasing after her. Is anyone on their way?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, help is on the way. Please stay calm. What's going on now?"
+    },
+    {
+      "role": "user",
+      "content": "The dog is barking. All the lights are on in the house. Did you send someone?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, stay calm. Does your husband know what is going on?"
+    },
+    {
+      "role": "user",
+      "content": "I need to check on my husband. He's outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay inside and lock your door."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to go check on my husband. Someone's coming into my house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, stay where you are. Can you lock yourself in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in the bathroom. Someone is in my house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay there. Is your husband with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, he was outside. I don't know where he is now. Someone is hitting the door!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person chasing after him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, oh my God. Someone is shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "Did anyone get hit?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think my husband is hurt. Please send help quickly!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, we have officers on the way. Can you see your husband?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see him. I'm too scared to leave the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in the bathroom. The officers are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, there is blood everywhere. My back door is broken."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay calm. Can you see anyone outside the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "I think someone is laying in front of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the person?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's my husband. He's not moving!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are on the way. Stay in the bathroom until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "I can't hear anything over the dog barking. Where are the police?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are on their way. Stay calm and stay in the bathroom."
+    },
+    {
+      "role": "user",
+      "content": "My husband is on the floor, bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I'm so scared. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. The officers are almost there."
+    },
+    {
+      "role": "user",
+      "content": "I don't see anyone. I'm too scared to leave the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Stay where you are. They are coming. Just hold on a little longer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, have you seen any police officers arrive yet?"
+    },
+    {
+      "role": "user",
+      "content": "No. I'm too scared to look."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Just stay where you are until you hear the police announce themselves."
+    },
+    {
+      "role": "user",
+      "content": "I'm so scared. My husband might be dead."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay to be scared. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I don't know how much longer I can hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Just stay with me. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "I can hear someone at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "It's probably the police. Can you call out to them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Okay. I heard voices. I think they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and call out to them if you feel it's safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    }
+  ]
+}

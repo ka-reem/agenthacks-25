@@ -1,0 +1,428 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a gun and it went off in an alley. Someone just got shot. I don't even know what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you repeat that one more time?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, as soon as you can."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this an apartment or a house?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "What apartment number are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Where is the person shot? Oh my God. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person shot?"
+    },
+    {
+      "role": "user",
+      "content": "In the chest. I think she's dead. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "It's a female?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a female."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on the line with me. Is she inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "She's inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a white female or black female?"
+    },
+    {
+      "role": "user",
+      "content": "She's white. I think her name is Linda."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is [Caller Name]."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the phone with 911. I don't know what to do!"
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the line with me, okay? We have police and an ambulance coming."
+    },
+    {
+      "role": "user",
+      "content": "What do we do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Officers are pulling up now. I'm going to transfer you over to the ambulance, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1 EMS, what is the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somehow a gun went off and a girl was shot in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Somehow a gun went off and the girl was shot in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's around 20."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, she's not responsive at all."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the attacker still nearby?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody attacked her, this was an accident."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending paramedics to help you now. Stay on the line, I'll tell you exactly what to do next."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Get a clean, dry cloth or towel to stop the bleeding."
+    },
+    {
+      "role": "user",
+      "content": "I think the paramedics or police officers just got here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let them take over."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, we have someone shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just calm down and talk to me. Did you see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just heard it. There's a girl who got shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just saw blood."
+    },
+    {
+      "role": "assistant",
+      "content": "What else is going on?"
+    },
+    {
+      "role": "user",
+      "content": "It was an accidental discharge. She is in the house with me."
+    },
+    {
+      "role": "assistant",
+      "content": "We have people coming, okay? Just calm down."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to tell you. My friend was messing around with a gun and it accidentally went off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said your friend is still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to say."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, you're going to have to tell the officers when they get there. Just stay on the phone with me until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she his girlfriend?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone until the officers get there."
+    },
+    {
+      "role": "user",
+      "content": "I can't deal with this. Just send an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "They are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Someone got shot in the arm."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "Herde's Grove."
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot them?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "What were they shot with?"
+    },
+    {
+      "role": "user",
+      "content": "An AK-74."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it a guy or a girl who got shot?"
+    },
+    {
+      "role": "user",
+      "content": "Both, a guy and a girl."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was the girl shot?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, I need to check."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just heard about it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have officers in the area. The guy who got shot, where is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's outside in the front."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, officers will make contact with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A gun went off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm transferring you to EMS. Do not hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1 EMS, what's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Did you kill her?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know how it happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please tell me the address?"
+    },
+    {
+      "role": "user",
+      "content": "I need someone here."
+    },
+    {
+      "role": "assistant",
+      "content": "We need the address to send help."
+    },
+    {
+      "role": "user",
+      "content": "Alright, it's [Address]."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

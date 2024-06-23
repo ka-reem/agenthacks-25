@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, you need to get the police."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Just ran over and they said that the young boy just shot his mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to get my cordless phone. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Just stay with me on the line."
+    },
+    {
+      "role": "user",
+      "content": "We've had the police here before."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Is anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "The kid said that the youngest kid shot his mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the shooter still there?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. The boy who was shot is in my front yard."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the boy?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's young, probably a teenager."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the mother is alright?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just heard the kids say he just shot our mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have officers on the way. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "My husband is hearing a different story now, saying maybe the mom shot the kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the mother still outside?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're inside. We don't know who has the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anyone outside?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see from here. We're staying inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the family involved?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's four children and a mom."
+    },
+    {
+      "role": "assistant",
+      "content": "And do you know the ages of the children?"
+    },
+    {
+      "role": "user",
+      "content": "Ranging in age from 11 to 17."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they all boys, or a mix of boys and girls?"
+    },
+    {
+      "role": "user",
+      "content": "Two girls and two boys."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any police in the area now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see a couple of units and a helicopter."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay inside until the police make contact with you."
+    },
+    {
+      "role": "user",
+      "content": "Will do. I'm going into the bathroom to hide."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Just stay safe, and keep the line open."
+    },
+    {
+      "role": "user",
+      "content": "I can hear them yelling outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Just keep low and remain inside."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, she's still out there shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay down and stay away from windows and doors."
+    },
+    {
+      "role": "user",
+      "content": "More gunshots. We cannot believe someone is not here by now."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I have units out there. Just stay inside."
+    },
+    {
+      "role": "user",
+      "content": "Are you done with me?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I need you to stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "The wife is back on the phone. She's still over there shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots do you hear now?"
+    },
+    {
+      "role": "user",
+      "content": "It's been at least six."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just hold on. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Should I let you go?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, stay on the line. We need to know what's happening."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who has the gun now?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's too dark to see clearly."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay inside until the police give you the all-clear."
+    },
+    {
+      "role": "user",
+      "content": "The mother is Tanya."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the names of the children?"
+    },
+    {
+      "role": "user",
+      "content": "Joel, Pebbles, Jacks or Romeo, and another girl but I don't know her name."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Just stay safe and keep hidden."
+    },
+    {
+      "role": "user",
+      "content": "The lights are all off in our house now."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. The units should be arriving shortly."
+    },
+    {
+      "role": "user",
+      "content": "I hear more shots again. Oh my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay down and keep quiet. Help is arriving."
+    },
+    {
+      "role": "user",
+      "content": "Do you need any more information?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're good for now. Just stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "I need to call my work to inform them."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on this line for now. We might need more information."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you heard any other noises or seen anything else?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing new. Just staying hidden."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. If anything changes, let me know immediately."
+    },
+    {
+      "role": "user",
+      "content": "Understood."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for your help. Stay safe."
+    }
+  ]
+}

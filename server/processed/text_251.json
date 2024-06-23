@@ -1,0 +1,620 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's been a bunch of gunshots in my house, and I think a bunch of people were shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Where at?"
+    },
+    {
+      "role": "user",
+      "content": "2112 East Republican."
+    },
+    {
+      "role": "assistant",
+      "content": "2112 East Republican?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "In your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm fine. I saw a bunch of people walking my friend. It looked like a drive-by or something, but then I heard a bunch of gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are shot?"
+    },
+    {
+      "role": "user",
+      "content": "At least four or five. It\u2019s really messed up. There are a bunch of people drunk."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the suspects?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He was outside. I don't have any description."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any vehicle description?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. I've been inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have roommates in your home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are six of us in total."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your first name?"
+    },
+    {
+      "role": "user",
+      "content": "There was just another gunshot. I\u2019m hiding in the basement with two other people."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you don't know what\u2019s going on now?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see anything. I don't know if anybody else is talking to another operator."
+    },
+    {
+      "role": "assistant",
+      "content": "We have a lot of calls right now, but I'm going to keep you on the phone because you're inside the house."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I\u2019m with two other people. They had nothing to do with it and just ran down here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know your roommates?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I know every single one of them."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you leaving the room. You need to stay in there. Hold on just one second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me exactly where in the house you are so officers can find you?"
+    },
+    {
+      "role": "user",
+      "content": "There's two ways to get here. One is by the back door. If you go all the way downstairs into the basement, we're in a room there."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the basement, in the back of the basement?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in the back of the basement. It\u2019s like a mother-in-law suite."
+    },
+    {
+      "role": "assistant",
+      "content": "How many of you are there?"
+    },
+    {
+      "role": "user",
+      "content": "There are three of us back here in total, including two other males."
+    },
+    {
+      "role": "assistant",
+      "content": "So, there are three more roommates upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, five of us were here. One isn't home. I saw one of them outside in a big fur coat."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you to move. I just want you to stay where you're at."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm kind of drunk, and this is freaking me out."
+    },
+    {
+      "role": "assistant",
+      "content": "The other two guys are still there with you, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear officers coming through?"
+    },
+    {
+      "role": "user",
+      "content": "I hear them telling people to put their hands up."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. They\u2019re not going to freak out on you. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I hope they don't freak out on me. They can't see us from behind the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it officers you hear?"
+    },
+    {
+      "role": "user",
+      "content": "Sounds like it. Sounds like there are other people outside the door, though."
+    },
+    {
+      "role": "user",
+      "content": "Hello? I'm on the phone with the 911 operator."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just follow their instructions."
+    },
+    {
+      "role": "user",
+      "content": "I'm right here. I'm on the phone with 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Everyone, hands up! Just follow their instructions."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Someone\u2019s been shot at my friend's house. We were upstairs, and I heard several gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s the address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address. I can't look it up right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Who else is in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend. We\u2019re hiding in the upstairs bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the shooting in the house you're in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, downstairs. He tried to get into the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is..."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your cell phone number?"
+    },
+    {
+      "role": "user",
+      "content": "This is my girlfriend's phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she there with you? Is she injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is here. She is not injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me. What are you hearing now?"
+    },
+    {
+      "role": "user",
+      "content": "I hear police officers talking downstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, okay? Are you still in the bathroom upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the door locked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hearing officers telling you to come out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me for a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured? Is your girlfriend injured?"
+    },
+    {
+      "role": "user",
+      "content": "No. No, she is okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are coming up there now. Tell them where you are."
+    },
+    {
+      "role": "user",
+      "content": "We\u2019re in the bathroom. The door has bullet holes. Let me unlock it."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Someone is shooting people at 2112 East Republican."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "They\u2019re outside, on our porch."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did they shoot?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. I just saw shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they drive by or walk?"
+    },
+    {
+      "role": "user",
+      "content": "They were just on the porch."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address again?"
+    },
+    {
+      "role": "user",
+      "content": "2112 East Republican."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a good look at the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "He was a white male, about six foot five."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know his name? How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "Late 20s, maybe a little shorter than 6'5."
+    },
+    {
+      "role": "assistant",
+      "content": "What was he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Regular clothes, like jeans and a shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see what color shirt?"
+    },
+    {
+      "role": "user",
+      "content": "I don't remember. Not wearing a hat."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he come in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Probably, but I didn\u2019t see it."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We have officers responding."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There was a bunch of fireworks or gunshots, and there are people hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s the address?"
+    },
+    {
+      "role": "user",
+      "content": "2112 East Republican."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a house or apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s a house."
+    },
+    {
+      "role": "assistant",
+      "content": "And someone is shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are males and females injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person who did the shooting still there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have responders on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we got someone else over here. Someone's been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone in need of medics?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I\u2019m getting the medics on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The police just got here. We have one person at our doorstep who has been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "2112 East Republican."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the medics?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "The shooter might have shot himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the medics anywhere?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need the police. There are shots fired across the street from me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see someone with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can hear gunshots. There was a party. I see someone down in the yard."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the house across the street?"
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s blue."
+    },
+    {
+      "role": "assistant",
+      "content": "One of our cars just pulled up."
+    },
+    {
+      "role": "user",
+      "content": "There is a man down in the yard."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a description of the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "No, I heard a shotgun blast, then saw the man in the yard."
+    },
+    {
+      "role": "assistant",
+      "content": "I will let the officers know."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There are shots fired on East Republican. Someone is down on the porch."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still firing shots?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see who's shooting?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have police in the area."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've been hearing gunshots all morning, and there are people hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many people have been shot?"
+    },
+    {
+      "role": "user",
+      "content": "I think six people might have been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I could hear the shots even more after the initial one."
+    },
+    {
+      "role": "assistant",
+      "content": "We have responders on the way."
+    }
+  ]
+}

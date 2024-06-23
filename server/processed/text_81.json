@@ -1,0 +1,344 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm reporting an airplane crash at SFO."
+    },
+    {
+      "role": "assistant",
+      "content": "An airplane crash at SFO?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we were hiking on a trail outside of Pacifica, and we just heard a giant explosion. We're with a couple other hikers, and they saw that an airplane had crashed right there at SFO."
+    },
+    {
+      "role": "assistant",
+      "content": "Actually, at the airport?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, yeah, yeah, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Jared Foster."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, Jared, hang on the line. I'll transfer you over to the police department at SFO, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911 emergency, what are you reporting?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, there was an airplane crash at SFO."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we did get the call."
+    },
+    {
+      "role": "user",
+      "content": "You did?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we did. We are responding. Trust me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, we're at the San Francisco Airport, and our airplane just crashed upon landing. We need help here as soon as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what runway are you on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the runway. We just ran out of the airplane."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of airplane were you in?"
+    },
+    {
+      "role": "user",
+      "content": "Asiana Airlines."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a bunch of fire trucks and a couple of ambulances. There are a lot of people injured, and we need more help."
+    },
+    {
+      "role": "user",
+      "content": "My name is Sang Duong."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where on the runway you are?"
+    },
+    {
+      "role": "user",
+      "content": "I see FFP, but I'm looking around trying to see something, but I don't really see much else."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in a field?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're in the middle of the runway. I can see the main terminal, but I don't know much more. Sorry, I'm not familiar with this airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on the line. Let me get you over there. Don't disconnect."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see tons of cops and ambulances coming now, but not too many ambulances."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we do have ambulances and the fire department on the way. Can you tell me if there are people trapped on the plane?"
+    },
+    {
+      "role": "user",
+      "content": "Most people got off. I think there are at least a handful of people behind me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you guys actually trapped, or are people just slowly getting off?"
+    },
+    {
+      "role": "user",
+      "content": "Most people are off. Some emergency crews are going into the plane now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sorry for the misunderstanding. Are the passengers all safely getting off the slide?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, almost everyone is out. The majority of people are out of the airplane."
+    },
+    {
+      "role": "user",
+      "content": "I don't know the specific runway, but we are next to some wreckage. I see signs that say 'Monitor 120.5.'"
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. What kind of aircraft is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's an Asiana plane. Sorry, I'm really not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Are you safe where you are?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're way past the field, at least 100 yards out."
+    },
+    {
+      "role": "assistant",
+      "content": "California Highway Patrol, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, we are at the San Francisco International Airport, and we just got in a plane crash. There are a lot of people that need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with any of the ambulances that are there?"
+    },
+    {
+      "role": "user",
+      "content": "No, they haven't found us yet, and there are people here who are burned really badly."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're out on the outskirts, not towards the airport itself, more in the field where planes land."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. Let me get you over to medical."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ambulance emergency, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the San Francisco International Airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need help?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we just got in a plane crash, and there are people who still need help. There's not enough medics out here."
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way. You said there's a woman very severely burned?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she needs help immediately. She will probably die soon if we don't get help."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm your phone number, please?"
+    },
+    {
+      "role": "user",
+      "content": "831-234-681."
+    },
+    {
+      "role": "assistant",
+      "content": "Where on the runway are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're next to a United airplane near the beginning of the runway where the plane debris is."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "About 25 or 24. She's severely burned."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll ask you some questions and see if I can provide instructions."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm seeing a fire from the side of the road in Burlingame."
+    },
+    {
+      "role": "assistant",
+      "content": "What road are you on?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on 101 North."
+    },
+    {
+      "role": "assistant",
+      "content": "Near what exit?"
+    },
+    {
+      "role": "user",
+      "content": "Near Broadway."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see it to the right or left of the freeway?"
+    },
+    {
+      "role": "user",
+      "content": "To the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me get fire department on the line with us."
+    },
+    {
+      "role": "assistant",
+      "content": "Ambulance emergency, what's the location?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the San Francisco International Airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need help?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we just had a plane crash. There are people seriously injured on the tarmac, and we need ambulances here."
+    },
+    {
+      "role": "assistant",
+      "content": "We're aware of the situation and have units responding."
+    },
+    {
+      "role": "user",
+      "content": "There are people laying on the tarmac with critical injuries, and we're trying to help them."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Cindy Stone."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from, Cindy?"
+    },
+    {
+      "role": "user",
+      "content": "831-583-021."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me transfer you to San Francisco Medical."
+    },
+    {
+      "role": "assistant",
+      "content": "Ambulance emergency, what are you reporting?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is CHP with a transfer. She's part of the crash at San Francisco Airport. Go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Hello? Hello."
+    }
+  ]
+}

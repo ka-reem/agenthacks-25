@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Fire alarm office."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, this is county."
+    },
+    {
+      "role": "user",
+      "content": "It's a medical emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat the address?"
+    },
+    {
+      "role": "user",
+      "content": "5657 E-L-A-M."
+    },
+    {
+      "role": "assistant",
+      "content": "5657 E-L-A-M?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's an apartment, and there's something wrong with their child."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem with the child? Are they breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's in the water. I'm not sure if she's okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she drown?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she was riding a bicycle near the water."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she breathing now? How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's here now. We just took her out of the water."
+    },
+    {
+      "role": "assistant",
+      "content": "We have an ambulance on the way. Do you need any other assistance?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What's our number? I'm going to get someone to help with this language barrier."
+    },
+    {
+      "role": "user",
+      "content": "I believe it's Spanish."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, sir."
+    },
+    {
+      "role": "user",
+      "content": "My God, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "May I have your personal code, please?"
+    },
+    {
+      "role": "user",
+      "content": "B-007."
+    },
+    {
+      "role": "assistant",
+      "content": "B as in boy, 007?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I don't know if she needs to go to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a serious situation."
+    },
+    {
+      "role": "user",
+      "content": "It's been maybe a half hour since she was in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on a moment, please."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll get her to the hospital as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, apparently a girl fell in the water about a half hour ago, and she's almost dying. An ambulance is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the girl nine years old, or was she in the water for nine hours?"
+    },
+    {
+      "role": "user",
+      "content": "I heard it was about a half hour."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for clarifying. We've got help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, good."
+    },
+    {
+      "role": "assistant",
+      "content": "We have emergency personnel en route."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if there's nothing else, I'll end this call now. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "That's all. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Have a good day. Goodbye."
+    }
+  ]
+}

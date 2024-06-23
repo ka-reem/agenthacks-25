@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Chairfield, Connecticut, 833 Thompson Hill Road. My wife has handcuffed me. I need assistance right away."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "My wife has handcuffed me. She's attacking me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's attacking you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's handcuffed me, she has a record of violence. Please come and help me get out of here."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, where is she now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm holding her down so I can call you. Please send someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way that you can lock yourself in another room?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's handcuffed herself to me. Please send police!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she hurting you, sir? Do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't need an ambulance. I need police."
+    },
+    {
+      "role": "assistant",
+      "content": "I got that already, sir. What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Helen. She has a history of violence. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any drinking involved?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Any drugs?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "And your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Robert Drabba."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any weapons in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, knives and such. I don't know what she grabbed before she handcuffed me."
+    },
+    {
+      "role": "assistant",
+      "content": "What is she doing now, sir?"
+    },
+    {
+      "role": "user",
+      "content": "She's biting my arms!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way that you can put something between her so she can't bite you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm just trying to use every hand to keep her away from me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. They've been on the way since you first gave me the address. I'm just trying to keep you on the phone to make sure that everything's okay. Does she have any knives or anything that she can grab?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what she has."
+    },
+    {
+      "role": "assistant",
+      "content": "I already have the address. They've been on the way for a couple of minutes now."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, thank you. I'm so sorry. It just came out of nowhere and she handcuffed me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the house are you?"
+    },
+    {
+      "role": "user",
+      "content": "In the back bedroom. First floor."
+    }
+  ]
+}

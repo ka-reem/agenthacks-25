@@ -1,0 +1,96 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, see, uh, a good thing, man. I got it, uh, you know, I gotta put you on something. Hold on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm here. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "There's a shooting at 242 Lines Avenue. Multiple gunshots. Two people shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and now I'm getting some more details. Can you clarify the address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 163, 155 Kevin. It's near Weekway Avenue. Multiple people shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. You mentioned Weekway Avenue and Lines Avenue. How many people are injured?"
+    },
+    {
+      "role": "user",
+      "content": "At least three people shot. I see people on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Are you in a safe location?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm inside a store nearby. There's a guy shot in the head inside here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please confirm the store's name?"
+    },
+    {
+      "role": "user",
+      "content": "It's the chicken store on Weekway and Clinton Place."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS and police are on the way. Can you confirm if there's a police officer shot as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I believe a police officer was shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay where you are. Help is coming. Can you provide any description of the shooters?"
+    },
+    {
+      "role": "user",
+      "content": "I couldn't see them clearly. It happened so fast."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We've got multiple units responding. Please avoid the crime scene and stay on the line if safe to do so."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thanks. There's a lot of people gathering outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you move to a back area or somewhere safe and secluded in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm moving to the back now."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. You're doing the right thing. Help is on its way, stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay with me until the authorities arrive."
+    }
+  ]
+}

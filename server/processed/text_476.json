@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, we're on the Great Salt Lake, and our boat has tipped over."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're near the Saltair Marina, a little northwest of it."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are with you?"
+    },
+    {
+      "role": "user",
+      "content": "Just two of us."
+    },
+    {
+      "role": "assistant",
+      "content": "What are your names?"
+    },
+    {
+      "role": "user",
+      "content": "I'm Jason, and my friend is Aaron."
+    },
+    {
+      "role": "assistant",
+      "content": "Jason, can you see the marina from where you are?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can see the marina."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your cell phone number?"
+    },
+    {
+      "role": "user",
+      "content": "864-2988."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have life preservers on?"
+    },
+    {
+      "role": "user",
+      "content": "No, we do not."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the water or on top of the boat?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting on top of the flipped-over boat. My friend is barely hanging on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting someone out to you. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry. It's freezing, and the waves are crashing over us."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if you're floating towards or away from the marina?"
+    },
+    {
+      "role": "user",
+      "content": "We're floating back out, kind of west but still north of the marina."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on. We're getting more help."
+    },
+    {
+      "role": "user",
+      "content": "We're behind the Saltair building, where they hold concerts, about a mile north of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. We're sending a rescue team now. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Okay, just hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "It's hard to hear. The wind is howling."
+    },
+    {
+      "role": "assistant",
+      "content": "We're almost there. Hang tight and try to stay calm. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "We're trying. It's really cold and the waves are big."
+    },
+    {
+      "role": "assistant",
+      "content": "I know. Just hang on. You might not see help until they're right on top of you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we'll try to hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is coming from multiple directions, so stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Alright, please hurry."
+    }
+  ]
+}

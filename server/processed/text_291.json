@@ -1,0 +1,288 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my name's Mickey. I'm the manager at the McDonald's on Vine Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on, Mickey?"
+    },
+    {
+      "role": "user",
+      "content": "There's a woman here; she has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "She has a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and I need to evacuate the whole building."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is she at? Is she inside?"
+    },
+    {
+      "role": "user",
+      "content": "She's right here in front of me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me what she looks like."
+    },
+    {
+      "role": "user",
+      "content": "She's about five-three, maybe 120 pounds, brown hair, maybe 45 to 50 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "And she's standing right in front of you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at the first counter?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right at the first counter."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she say what's wrong with her?"
+    },
+    {
+      "role": "user",
+      "content": "No, she said she doesn't want anybody to come in, that she wants to talk to somebody outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Will she go outside when they get there?"
+    },
+    {
+      "role": "user",
+      "content": "I'll go halfway. She said I have to stay with her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Mickey."
+    },
+    {
+      "role": "assistant",
+      "content": "Mickey, who else is in there?"
+    },
+    {
+      "role": "user",
+      "content": "Right now I have customers and about 10 crew people."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get everyone to leave. Can you do that?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to lock the doors. I've got some people coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other employees in there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are other employees in the back."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to ask them to leave, okay? Stand by."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to get everyone out. She is still with me at the front of the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Will she tell you her name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Noelle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does she want to talk to the police or anyone else?"
+    },
+    {
+      "role": "user",
+      "content": "She wants to talk to someone in person but does not want to come outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe what she's wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure; she's standing behind me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the employees heading out the side door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep them going, don't let anyone else inside."
+    },
+    {
+      "role": "user",
+      "content": "Noelle, do you want to tell me what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I just want to make a statement."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she want to talk to a police officer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she wants to talk to a police officer at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see if she has a gun on her?"
+    },
+    {
+      "role": "user",
+      "content": "It's in my back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Mickey, just stay calm and keep listening to me. We're going to help you both."
+    },
+    {
+      "role": "user",
+      "content": "Noelle says she has mental illness and she's been struggling."
+    },
+    {
+      "role": "assistant",
+      "content": "Mickey, just keep her calm. Let her talk and keep listening to her."
+    },
+    {
+      "role": "user",
+      "content": "Noelle, you're going to be okay."
+    },
+    {
+      "role": "user",
+      "content": "I've had these feelings of paranoia, like people are in my apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Mickey, is she still standing behind you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she wants me to go outside now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you feel safe doing that?"
+    },
+    {
+      "role": "user",
+      "content": "As long as she comes with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me as long as you can."
+    },
+    {
+      "role": "user",
+      "content": "We're outside. I don't want to hurt anybody."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm and keep talking to her."
+    },
+    {
+      "role": "assistant",
+      "content": "Mickey? Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're outside but far from the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone as long as you can. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "I hear shots."
+    },
+    {
+      "role": "assistant",
+      "content": "What is happening now?"
+    },
+    {
+      "role": "user",
+      "content": "More shots. People are down."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm, Mickey. Rescue is coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Mickey, stay on the phone. Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the parking lot. All employees are out and safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with your crew. Go near their cars and wait for the officers."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the officers are calling me over."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Mickey. Go talk to the officers. You're safe now."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Take care."
+    }
+  ]
+}

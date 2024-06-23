@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God! Oh my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. I need you to stop screaming so I can hear you."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God! My boyfriend, he\u2019s been hurt! He needs an ambulance!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's wrong with him? What happened?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, he was shot in the head with a gun!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to calm down so I can understand you and send help. Take a deep breath. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry! Hurry! He\u2019s not breathing!"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I'm going to transfer you to the paramedics. They're going to give you CPR instructions. Do not hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I understand. Please hurry!"
+    },
+    {
+      "role": "user",
+      "content": "Baby, baby! Oh my God, no!"
+    },
+    {
+      "role": "assistant",
+      "content": "This is the fire department. What's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Come quick! He needs help!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need your phone number."
+    },
+    {
+      "role": "user",
+      "content": "It's [phone number]. Please, come quick!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, help is on the way. Why exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "He was joking with a gun, and it went off. Oh my God, help!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'm sending the paramedics to you now."
+    },
+    {
+      "role": "user",
+      "content": "Right away, please! He put the gun to his head and it just went off."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. Stay with him and don't hang up the phone."
+    }
+  ]
+}

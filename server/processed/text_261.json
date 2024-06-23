@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, 10, he's running from Argonne, 1522 Argonne running back towards you guys."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly is he now?"
+    },
+    {
+      "role": "user",
+      "content": "He was at a house, 1522 Argonne. Unknown location right now. He had his back towards me. Unable to tell if he had a weapon or not."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not pursue him by yourself. Set up a perimeter."
+    },
+    {
+      "role": "user",
+      "content": "Roger that. He's cutting through the wood line, heading back towards the road that leads to Argonne."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Keep the perimeter contained. A K9 unit should be arriving shortly."
+    },
+    {
+      "role": "user",
+      "content": "Copy, I can't confirm if he has a weapon, only saw his back."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers behind the residence at 1522 Argonne. What do you see?"
+    },
+    {
+      "role": "user",
+      "content": "Shots fired! Officer down, officer down!"
+    },
+    {
+      "role": "assistant",
+      "content": "Officer down at 1522 Argonne. We need all available units here, ASAP."
+    },
+    {
+      "role": "user",
+      "content": "We can't get to him. We don't know where the suspect is."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I need someone on foot. Fire and EMS are on standby."
+    },
+    {
+      "role": "user",
+      "content": "We need a medic. Officer has a shotgun wound."
+    },
+    {
+      "role": "assistant",
+      "content": "Medics are en route. What's the officer's location?"
+    },
+    {
+      "role": "user",
+      "content": "He's at 1522 Argonne. What about the suspect?"
+    },
+    {
+      "role": "assistant",
+      "content": "Move the officer to a safe location. Suspect last seen on Argonne moving towards Ruby."
+    },
+    {
+      "role": "user",
+      "content": "He's back on Argonne, heading towards Ruby."
+    },
+    {
+      "role": "user",
+      "content": "We're taking heavy fire. We need reinforcements."
+    },
+    {
+      "role": "assistant",
+      "content": "Units, assist with heavy fire at 1509 Argonne. Suspect is there."
+    },
+    {
+      "role": "user",
+      "content": "We need more units at 1509 Argonne."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS, approach on Ruby Road to Argonne."
+    },
+    {
+      "role": "user",
+      "content": "Medics, we have a wounded officer here at the bottom of the hill."
+    },
+    {
+      "role": "assistant",
+      "content": "Units, hold your positions. EMS is on the way."
+    },
+    {
+      "role": "user",
+      "content": "We have civilians assisting with the officer but they are limited."
+    },
+    {
+      "role": "assistant",
+      "content": "Medics, enter from Ruby Road to Argonne. Move cautiously."
+    },
+    {
+      "role": "user",
+      "content": "Suspect is still behind 1509 Argonne. We are holding perimeter."
+    },
+    {
+      "role": "assistant",
+      "content": "Units, reinforce perimeter at 1509 Argonne. Suspect is behind the house."
+    },
+    {
+      "role": "user",
+      "content": "We need EMS at Ruby and Amber."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS, proceed to Ruby and Amber."
+    },
+    {
+      "role": "user",
+      "content": "We have detained two in front of 1509 and a vehicle attempting to leave."
+    },
+    {
+      "role": "assistant",
+      "content": "Confirm the vehicle and detain all occupants. Suspect could still be inside."
+    },
+    {
+      "role": "user",
+      "content": "Suspect last seen in the back room of 1509 Argonne."
+    },
+    {
+      "role": "assistant",
+      "content": "All units, maintain cover and hold perimeter. Await further orders."
+    },
+    {
+      "role": "user",
+      "content": "We need medics for a male with shotgun wound to the leg."
+    },
+    {
+      "role": "assistant",
+      "content": "Medics, proceed to Ruby and Argonne."
+    },
+    {
+      "role": "user",
+      "content": "We're evacuating nearby houses."
+    },
+    {
+      "role": "assistant",
+      "content": "All units, assist with evacuation while maintaining perimeter at 1509 Argonne."
+    }
+  ]
+}

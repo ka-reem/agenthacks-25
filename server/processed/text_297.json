@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your emergency, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I live at 201 Rushing Way, Building 1042 in Myrtle Beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And my neighbor just knocked on my door, and her husband is missing."
+    },
+    {
+      "role": "user",
+      "content": "We went down to where the mailbox is at, and there's blood and his glasses are there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Which building are you in? Your phone cut out, sir."
+    },
+    {
+      "role": "user",
+      "content": "Building 1042."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "It's 201 Rushing Way, Building 1042."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's over there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's her in the background, crying in my car."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, talk to me, please."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the neighbor came over to me, said her husband was missing."
+    },
+    {
+      "role": "user",
+      "content": "So I went and looked for him and didn't see him. He never does this. He's not that kind of guy."
+    },
+    {
+      "role": "user",
+      "content": "She noticed that the keys to the mailbox were missing. We went over there and saw blood on the ground and his glasses."
+    },
+    {
+      "role": "user",
+      "content": "We didn't touch anything. But we noticed it looks like a trail."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, blood on the ground and the glasses are there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and the trail leads towards the bushes but we didn't go look in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "So there's a trail of blood leading back to the woods?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right. We didn't touch anything. I made her get back in the car and drove her back here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending somebody."
+    },
+    {
+      "role": "user",
+      "content": "All right. Can you give me directions on how to get here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sure, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "River Oaks Drive into Berkshire Forest. Turn left on Augusta Plantation."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and then keep going straight?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, take another left at Mary Lee Bone and come around past the swimming pool, and it's a townhouse at 201 Rushing Way."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Were there mailboxes or anything like that on the way?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't see anything else."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, what's the missing person's name?"
+    },
+    {
+      "role": "user",
+      "content": "Fred Ingalls. F-R-E-D I-N-G-L-E-S."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's about six-foot, six-foot-three, tall. Last seen a little while ago."
+    },
+    {
+      "role": "assistant",
+      "content": "It's 12:45 in the morning. What time did she last see him?"
+    },
+    {
+      "role": "user",
+      "content": "Around 10 PM. They had pizza together inside the house."
+    },
+    {
+      "role": "assistant",
+      "content": "You still there, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I'll get that arranged. Can you give me your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Rickerson. R-I-C-K-E-R-S-O-N."
+    },
+    {
+      "role": "assistant",
+      "content": "First name?"
+    },
+    {
+      "role": "user",
+      "content": "Thomas. First name Thomas."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Thomas. Do you know of any reason why he would be missing? Is he involved in anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, no. We're not that kind of people."
+    },
+    {
+      "role": "assistant",
+      "content": "All right."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she's really upset."
+    },
+    {
+      "role": "assistant",
+      "content": "We're not going down there without the police. Police are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Have you tried calling out for him or anything?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we've done that."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have his wallet or anything? Is that missing, or does he have it with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he has all that. He just went to check the mail."
+    },
+    {
+      "role": "assistant",
+      "content": "And there's blood and glasses on the ground?"
+    },
+    {
+      "role": "user",
+      "content": "That's correct."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are coming in now. Talk with them, all right?"
+    },
+    {
+      "role": "user",
+      "content": "All right, thanks."
+    }
+  ]
+}

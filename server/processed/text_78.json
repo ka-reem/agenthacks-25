@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've been robbed. We've been beaten. I'm bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Seven hundred."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, listen to me. How many subjects were there?"
+    },
+    {
+      "role": "user",
+      "content": "One."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Male. Black male. Big."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, he has her car? What kind of car is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a 2007 Honda Civic. It's blue."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, listen to me. I'm going to get you an ambulance, okay? Give me one second."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm bleeding from my head. He beat me with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to ask you a few questions, okay? How many people are there with you?"
+    },
+    {
+      "role": "user",
+      "content": "It's me and another woman. She's my manager."
+    },
+    {
+      "role": "assistant",
+      "content": "What was the black male wearing? It's very important."
+    },
+    {
+      "role": "user",
+      "content": "He had a black long-sleeve shirt, black jogger pants. He had a kind of a ski mask that only covered his mouth. He had short hair, almost like a little tiny fro. And he was heavy-set."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun was it? Was it a black gun, silver gun, small gun, or big gun?"
+    },
+    {
+      "role": "user",
+      "content": "Black gun. Big."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it a rifle or a handgun?"
+    },
+    {
+      "role": "user",
+      "content": "Handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did he take off in your car? Which way did he go?"
+    },
+    {
+      "role": "user",
+      "content": "He made us lay on the floor. I'm too scared to get up."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Just take a deep breath, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's wrong with your manager? What are her injuries?"
+    },
+    {
+      "role": "user",
+      "content": "She was hit in the head with a gun. She's talking to me. I'm holding her hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Listen to me, the ambulance and the fire department are on their way. Police are in the area. I need you to stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please tell us when they contact us."
+    },
+    {
+      "role": "assistant",
+      "content": "Chris, is law enforcement there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're there. Okay, I'm going to go ahead and let you go. You need to speak with them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The ambulance is on its way."
+    }
+  ]
+}

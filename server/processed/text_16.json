@@ -1,0 +1,56 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Just received a 911 call from a male."
+    },
+    {
+      "role": "user",
+      "content": "I think he just shot someone on his porch."
+    },
+    {
+      "role": "user",
+      "content": "Then he hung up."
+    },
+    {
+      "role": "assistant",
+      "content": "We're trying to reach that number. Sending units now."
+    },
+    {
+      "role": "assistant",
+      "content": "Units responding, we have the male on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "He's trying to get further information."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's a Dolphin in Outer Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy Dolphin and Outer Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Rescue 10 is on scene."
+    },
+    {
+      "role": "assistant",
+      "content": "We have reports of a black female down on the porch."
+    },
+    {
+      "role": "user",
+      "content": "Copy. Black female."
+    }
+  ]
+}

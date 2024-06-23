@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I need the police to come to my house right away."
+    },
+    {
+      "role": "user",
+      "content": "My daughter's boyfriend is here."
+    },
+    {
+      "role": "user",
+      "content": "He's in the room, and he has a gun."
+    },
+    {
+      "role": "user",
+      "content": "I have a restraining order against him, and he's not supposed to be here."
+    },
+    {
+      "role": "user",
+      "content": "He's in our apartment."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the room right now, and he has a gun."
+    },
+    {
+      "role": "user",
+      "content": "He has a gun in his pocket, and he's in one of our bedrooms."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He held it up to my daughter's head and is threatening her."
+    },
+    {
+      "role": "user",
+      "content": "He's in our apartment and won't get out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'm going to get some information from you. I want you to stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see him take the gun out?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just got home and he's here. He's locked himself in."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know that he has a gun?"
+    },
+    {
+      "role": "user",
+      "content": "He's here. Do you want to talk to my daughter?"
+    },
+    {
+      "role": "assistant",
+      "content": "I thought she was in the room with him."
+    },
+    {
+      "role": "user",
+      "content": "No, we're in a separate bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Let me talk to her."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, does he have a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did he hold it to your head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I have a restraining order against him, and he's not supposed to be here."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you get away from him?"
+    },
+    {
+      "role": "user",
+      "content": "We were just talking and then he put it down. I was trying to be nice and say I would do what he said."
+    },
+    {
+      "role": "assistant",
+      "content": "What room are you all locked in?"
+    },
+    {
+      "role": "user",
+      "content": "We're locked in my mom's room."
+    },
+    {
+      "role": "user",
+      "content": "But I have a restraining order against him, and he's not supposed to be around me and my kids."
+    },
+    {
+      "role": "user",
+      "content": "I was trying to be nice and let him talk to the kids, but he took it too far."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your date of birth, sweetie?"
+    },
+    {
+      "role": "user",
+      "content": "January 28, 1987."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you see him put the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He put it back in his pocket, his right pocket I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still in your bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe what your boyfriend is wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a black shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "What about his pants?"
+    },
+    {
+      "role": "user",
+      "content": "Long black shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Long black shorts?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he wearing sandals?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name? Is he white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He's black."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know his date of birth?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of gun it is?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know anything about guns."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a black gun, a silver gun?"
+    },
+    {
+      "role": "user",
+      "content": "It was a little handgun."
+    },
+    {
+      "role": "user",
+      "content": "Where are you going, Mommy? No, stay. What if he finds you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I have officers in the area, but I need you all to stay in one room, so I know where everybody's at."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Stay here, she said stay."
+    },
+    {
+      "role": "assistant",
+      "content": "If I'm at your front door, where is he in relation to the house?"
+    },
+    {
+      "role": "user",
+      "content": "Once you come in the door, you go around by the TV and make a right. It's the first door straight ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "You said past the TV?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, once you come in, the TV is on your right. Then there's a hallway to the right, keep going straight to the first door."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you in relation to the front door?"
+    },
+    {
+      "role": "user",
+      "content": "He's in here. Hurry up, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's he doing?"
+    }
+  ]
+}

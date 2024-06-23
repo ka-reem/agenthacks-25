@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Communications, Mrs. Graham? This is Allison Ward, the principal at Snipes Academy. We have a dead body right out in front of our school on the grass area, but we're at the Dorothy B. Johnson location."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "1100 McCray Street."
+    },
+    {
+      "role": "assistant",
+      "content": "1100 McCray, and it's a person out there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my custodian found a young man. His body is stiff."
+    },
+    {
+      "role": "assistant",
+      "content": "And are you sure he's deceased?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he kicked him, and he's stiff. He didn't move. He appears to be in rigor. There's blood coming out of his nose. I mean, I'm not going to touch him, but I'd say he's definitely dead."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. How old does he appear to be?"
+    },
+    {
+      "role": "user",
+      "content": "He looks like he's probably between 18 to 22. We're right down from the Wilmington Police Department, but we don't have a school resource officer."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at 1100 McCray?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am, and I'm the principal here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone for one minute, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am, not a problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me go ahead and get some help started over there."
+    },
+    {
+      "role": "user",
+      "content": "Okay. We're going to need the medical examiner or whatever, I guess."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a black or white male? Can you tell?"
+    },
+    {
+      "role": "user",
+      "content": "He's an African American male. We're covering the body so that if we have kids come."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on a second. Let's make sure you're allowed to touch him. And he has blood coming from where?"
+    },
+    {
+      "role": "user",
+      "content": "He's coming out of his right nostril, that kind of ran down his nose."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, yeah, don't touch him."
+    },
+    {
+      "role": "user",
+      "content": "So can we step in? I don't know how we're going to..."
+    },
+    {
+      "role": "assistant",
+      "content": "And you say he's stiff?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. He's definitely stiff."
+    },
+    {
+      "role": "user",
+      "content": "We're trying to figure out how to keep kids from coming on campus until we can at least get this scene secured so they're not looking at this."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and I can tell you how to do CPR, do you think it's..."
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, he's definitely beyond CPR, and we have several of us standing here trained first responders, but he is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Holy cow. Did anybody see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, we just... I came in the dark this morning. I was here at 5:15, 5:20, and I didn't see anything."
+    },
+    {
+      "role": "user",
+      "content": "My head custodian came at about six or so, and my assistant principal just drove in, and she said there's somebody sleeping out in front of the school."
+    },
+    {
+      "role": "user",
+      "content": "We have to wait until they come to the scene. It looks like something came out of the nose."
+    },
+    {
+      "role": "user",
+      "content": "We may need help stopping buses and parent traffic; I don't think we should let kids or anybody on here until we have this cordoned off."
+    },
+    {
+      "role": "assistant",
+      "content": "You have an SRO on site?"
+    },
+    {
+      "role": "user",
+      "content": "Not at the moment. Maybe we can get to lock cars, but we've got to get the paramedics in here first."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll notify the SROs and maybe they can get over there to help you out."
+    },
+    {
+      "role": "user",
+      "content": "That would be great. Deputy McMillan is at Virgo and Deputy Curry is ours, and I know Sergeant Sears is here quite frequently."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at Snipes Academy, right?"
+    },
+    {
+      "role": "user",
+      "content": "That's the name of the school but we're at the Dorothy B. Johnson site."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but it's 1100 McCray Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have everybody on the way over there. I'm going to go ahead and let you go. Just keep everybody away from him, away from the area as much as possible."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "They need to investigate the surrounding area, just don't let anybody keep going up to them and walking around that area."
+    },
+    {
+      "role": "user",
+      "content": "Okay, great."
+    },
+    {
+      "role": "assistant",
+      "content": "They should be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "If anything changes before they get there, just call us back."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. Thank you."
+    }
+  ]
+}

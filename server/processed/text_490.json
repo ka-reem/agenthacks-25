@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm out here right now, and I locked my keys in my car."
+    },
+    {
+      "role": "user",
+      "content": "Is there any way that someone can come out here and unlock my car?"
+    },
+    {
+      "role": "assistant",
+      "content": "Commercial services are available in town to do that. Police and fire cannot assist with that."
+    },
+    {
+      "role": "user",
+      "content": "What do you mean by commercial services?"
+    },
+    {
+      "role": "assistant",
+      "content": "I mean you'll have to pay to have it done."
+    },
+    {
+      "role": "user",
+      "content": "Okay, what's the closest service?"
+    },
+    {
+      "role": "assistant",
+      "content": "The closest is Massings. Their number is 987."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Good day."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's not an emergency. The only way I know how to get in touch with this woman is through Officer Bourbon County."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to call back on a non-emergency line."
+    },
+    {
+      "role": "user",
+      "content": "How do I do that? What's the number?"
+    },
+    {
+      "role": "assistant",
+      "content": "859-987-2100."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's some raccoons in my attic, and it sounds like they've made their way into the attic somehow from outside."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like they're trying to scratch their way into the house."
+    },
+    {
+      "role": "assistant",
+      "content": "You dialed 911 for raccoons in your attic?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, because animal control came out one other time and said they could go up there and get the raccoons."
+    },
+    {
+      "role": "user",
+      "content": "The animal control people came out last year when a snake got in the house."
+    },
+    {
+      "role": "user",
+      "content": "I haven't called my landlord yet. Should I call her first?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name and phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Teresa. My number is 749."
+    },
+    {
+      "role": "assistant",
+      "content": "You definitely need to call your landlord. Next time, call on the administrative line. This is taking up an emergency line."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, what's the administrative line?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's 987-2100."
+    },
+    {
+      "role": "user",
+      "content": "2100? Okay, I'll call that line. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get a hold of animal control. Uh-huh. All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency? I hear you breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, but the fireworks are still going on."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, you cannot call 911 for that."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

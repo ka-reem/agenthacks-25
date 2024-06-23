@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a fire in the center of Lake Megantic."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. At Lake Megantic, what is the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's on Laval Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What is burning?"
+    },
+    {
+      "role": "user",
+      "content": "It's a huge fire. Several buildings are burning."
+    },
+    {
+      "role": "assistant",
+      "content": "Are these residential buildings or something else?"
+    },
+    {
+      "role": "user",
+      "content": "It's the center of the complex."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. Emergency services are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw a train that exploded on Rue Millette."
+    },
+    {
+      "role": "assistant",
+      "content": "A train exploded on Rue Millette?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Emergency services are already aware and on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There are explosions on Rue Millette near Lake Megantic."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, you're at least the 30th person that has called. Emergency services are responding."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I made a call about a fire earlier, and it's on Rue Millette."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we are aware. Emergency services are already there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a fire on Rue Laval near the school."
+    },
+    {
+      "role": "assistant",
+      "content": "On Rue de Lour near the school secretary? Is this close to Rue Laval?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's just down the road from there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, emergency services are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, I'm right in front of it."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's an enormous fire at Lake Megantic."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay away from the fire. Emergency services are coming."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a house on fire near Lake Megantic, on Champlain Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the house number?"
+    },
+    {
+      "role": "user",
+      "content": "4784 Champlain."
+    },
+    {
+      "role": "assistant",
+      "content": "Emergency services are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've been evacuated due to a train explosion. We're in the center of the city."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you safe? Are you able to leave the city?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are evacuating now."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay safe and follow the instructions of emergency personnel."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

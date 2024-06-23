@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please help me. I'm at County Road 900 North and 600 East."
+    },
+    {
+      "role": "user",
+      "content": "We were building a TV tower and two of my guys fell off. They're dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I need you to stay on the line with me. Do not hang up. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. Just hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "I am hurrying. Are you by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, there are other people here. The other three are okay, but two of the guys are dead."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm getting you some help. Stay with me. Do you have any electrical lines down?"
+    },
+    {
+      "role": "user",
+      "content": "No, there are no power lines down. The gym pole fell and knocked them off."
+    },
+    {
+      "role": "assistant",
+      "content": "How far did they fall?"
+    },
+    {
+      "role": "user",
+      "content": "They fell 350 feet."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a good job. Help is coming, but I need to keep you on the phone. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "It's David."
+    },
+    {
+      "role": "assistant",
+      "content": "David, where are you from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not from here."
+    },
+    {
+      "role": "assistant",
+      "content": "We know where you are, David. Just hang tight. How are the other men who are not hurt?"
+    },
+    {
+      "role": "user",
+      "content": "They're okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I need someone to watch for the responders. Can they see you from the road?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're not visible from the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, someone will need to wave them down. Where are you guys from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm from Indiana. Junior's from Texas, and David's from Georgia."
+    },
+    {
+      "role": "assistant",
+      "content": "How long have you been working in the area?"
+    },
+    {
+      "role": "user",
+      "content": "About two weeks."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me how the accident happened."
+    },
+    {
+      "role": "user",
+      "content": "We were building the tower. The gen pole was going up, and suddenly it came down and knocked them off."
+    },
+    {
+      "role": "assistant",
+      "content": "It's important that nobody touches anything around the accident area. Are you all doing okay?"
+    },
+    {
+      "role": "user",
+      "content": "David is sitting down. We're watching him."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. I'm very sorry this happened. Help is coming, and they will take care of you all."
+    },
+    {
+      "role": "user",
+      "content": "I hear the sirens coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Wave your arms to signal them if you're by the road."
+    },
+    {
+      "role": "user",
+      "content": "Someone's here in a truck now."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, are you with them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're first responders."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to hang up now. They'll take care of you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

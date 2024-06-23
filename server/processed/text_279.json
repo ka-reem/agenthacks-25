@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Wetdale Place."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat that address?"
+    },
+    {
+      "role": "user",
+      "content": "W-E-T-D-A-L-E Place."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "House."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "It's [Name]."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling you from my cell, which is [Number]."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Something is going on. There's a man screaming for about 30 minutes on the front porch. He goes in and screams that he's God. I mean, it's like delusional stuff."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the house number?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't."
+    },
+    {
+      "role": "user",
+      "content": "He stood on the porch and started a monologue. This is not typical at all. This is not a kid; this is a grown man."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think he might be under the influence of alcohol or drugs?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so. I don't know, I could be wrong. It's just scary because he comes out and screams. At one point, I thought he was talking to someone, but he dropped his pants out there, screaming that he's God, and then slams the door."
+    },
+    {
+      "role": "assistant",
+      "content": "How long has this been going on?"
+    },
+    {
+      "role": "user",
+      "content": "This has been going on for about half an hour. He goes back out on the porch, and it's a little scary."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if he uses alcohol or drugs?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Late 30s or 40s, maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he white, Black, Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He's white."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Last time I saw him, he was in a t-shirt and nothing else."
+    },
+    {
+      "role": "assistant",
+      "content": "So he was only wearing a t-shirt?"
+    },
+    {
+      "role": "user",
+      "content": "Well, he had something. I haven't actually walked out there. I'm afraid to walk out there. He was in a t-shirt and then he pulled down his pants while screaming, 'I am God.' It's like he's flipped out."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want the police to come by and speak with you after they investigate?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see a reason for that."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's fine. The police will be out there as quickly as possible."
+    },
+    {
+      "role": "user",
+      "content": "I have heard this guy say in the past that he has a gun. Not in a threatening way, but he has mentioned it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "We had a neighborhood disturbance once, and he made an offhand comment about having a gun. I'm a bit worried now."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did he mention the gun?"
+    },
+    {
+      "role": "user",
+      "content": "A few months ago. It was just an offhand comment."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. The police will be out there as quickly as possible. Stay safe inside your home."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I will. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Have a good night."
+    },
+    {
+      "role": "user",
+      "content": "You too."
+    }
+  ]
+}

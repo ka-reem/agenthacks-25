@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Police, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you need them?"
+    },
+    {
+      "role": "user",
+      "content": "51 Redwood Drive in North York."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "A house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I'm about to kill people."
+    },
+    {
+      "role": "assistant",
+      "content": "You're about to kill people?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I have a deadly weapon and I intend to use it."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of weapon?"
+    },
+    {
+      "role": "user",
+      "content": "It's a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "My mother."
+    },
+    {
+      "role": "assistant",
+      "content": "And you want to kill your mother?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why do you want to kill your mother?"
+    },
+    {
+      "role": "user",
+      "content": "I'm very evil."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Sylvia Clibbingaitis."
+    },
+    {
+      "role": "assistant",
+      "content": "Sylvia, can you spell your last name for me?"
+    },
+    {
+      "role": "user",
+      "content": "G-L-I-B-I-N-G-A-I-T-I-S."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "August 11, 1959."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of knife do you have?"
+    },
+    {
+      "role": "user",
+      "content": "About a foot long."
+    },
+    {
+      "role": "assistant",
+      "content": "A foot long? Is it like a machete or just a big long blade?"
+    },
+    {
+      "role": "user",
+      "content": "Just a big long blade."
+    },
+    {
+      "role": "assistant",
+      "content": "What room is your mother in?"
+    },
+    {
+      "role": "user",
+      "content": "Her bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "What room are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Her bedroom where the phone is."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're in your mother's bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she in the bedroom with you now?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Why don't you get out of your mother's room and walk to the front door?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put down the knife, please?"
+    },
+    {
+      "role": "user",
+      "content": "I'm holding it."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please put it down?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your mother know that you want to kill her?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you leaving your mother's bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you been diagnosed with any psychiatric problems?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, bipolar."
+    },
+    {
+      "role": "assistant",
+      "content": "Did something happen that made you want to kill her?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "So what made you pick up the knife today? Sylvia, what made you pick up the knife?"
+    },
+    {
+      "role": "user",
+      "content": "Something must have made me decide to do that."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you get the knife from?"
+    },
+    {
+      "role": "user",
+      "content": "(no response)"
+    }
+  ]
+}

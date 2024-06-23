@@ -1,0 +1,352 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we need somebody at the Center Middle School gym."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "We have an athlete who is on the court, moaning on his back. Could be dehydrated, could be having a seizure."
+    },
+    {
+      "role": "assistant",
+      "content": "This is at the high school?"
+    },
+    {
+      "role": "user",
+      "content": "No, this is at the middle school."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's called the Center Middle School?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the actual address there, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, does anybody know the address here? 700 East 4th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "And this is in the gym?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And your name?"
+    },
+    {
+      "role": "user",
+      "content": "Greg Hall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "We had basketball tryouts today, the first day of tryouts, and at the end of practice, he just collapsed on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "They're on the way, right? Yeah. They're on the way, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the patient now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He is 13 or 14 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "They're on their way here, guys. He's awake, but barely."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Is he breathing, Mike? Very erratic."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And so he just collapsed, like he fainted almost?"
+    },
+    {
+      "role": "user",
+      "content": "Almost, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing completely normal?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, sir. Is he breathing completely normal? No, he is not. His eyes are rolled back a bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he changing color?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Mike, what do you say? He's changing color. Flip. Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What color?"
+    },
+    {
+      "role": "user",
+      "content": "They're starting to go blue a little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a history of heart problems that you're aware of?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. Nobody's aware of heart problems with this guy, right? No. He's a first-year player. He should have passed a physical, too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there a defibrillator on site and ready to use?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there is a defibrillator."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Have someone grab that in case we need it later. Now, you said he is not alert. Is he conscious or unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "What do you say, is he conscious or unconscious, Mike? He's semi-conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're getting no movement. What I want you to do is get him flat on his back, nothing under his head."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Yeah, that's where he's at now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to kneel next to him, look in his mouth. Is there any food or vomit?"
+    },
+    {
+      "role": "user",
+      "content": "Look in his mouth. Is there food or vomit? There's nothing. No, there isn't."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No. He has stopped breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Place your hand on his forehead. Your other hand under his neck, then tilt his head back."
+    },
+    {
+      "role": "user",
+      "content": "Yep, it's back."
+    },
+    {
+      "role": "assistant",
+      "content": "Now I want you to put your ear next to his mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to tell you how to give mouth to mouth."
+    },
+    {
+      "role": "user",
+      "content": "Okay, mouth to mouth. Go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "If you're trained in CPR, you can certainly perform CPR."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Yep, we're doing it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're doing that now?"
+    },
+    {
+      "role": "user",
+      "content": "Yep, we're doing it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have the defibrillator?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to put the defibrillator on the floor next to his head, on the side closest to you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now you want to remove his shirt."
+    },
+    {
+      "role": "user",
+      "content": "Now we have it pulled up. Do we need to remove it or can we just pull it up?"
+    },
+    {
+      "role": "assistant",
+      "content": "As long as you've got his bare chest."
+    },
+    {
+      "role": "user",
+      "content": "Okay. We've got fluid coming out of his mouth. We turned him to the side."
+    },
+    {
+      "role": "assistant",
+      "content": "Clean out his mouth."
+    },
+    {
+      "role": "user",
+      "content": "Is there someone there that can open the AED and get it set up?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have three people here."
+    },
+    {
+      "role": "user",
+      "content": "Do you have paramedics there now?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, not yet."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the pads already plugged into the machine, sir?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, someone needs to install the pads, plug the pads in. There should be instructions as part of the machine."
+    },
+    {
+      "role": "user",
+      "content": "Okay. We're working on it. Can somebody help me out with the pads, you guys? We got CPR going on. We need to get the pads and stuff."
+    },
+    {
+      "role": "assistant",
+      "content": "The engine is getting really close."
+    },
+    {
+      "role": "user",
+      "content": "What do they need out of here to use?"
+    },
+    {
+      "role": "assistant",
+      "content": "The pads should usually be in a flat foil or plastic package."
+    },
+    {
+      "role": "user",
+      "content": "Can't see the pads? Yeah, if they're not plugged in, they're usually in a foil package or some sort of plastic package."
+    },
+    {
+      "role": "assistant",
+      "content": "It could be underneath the unit itself."
+    },
+    {
+      "role": "user",
+      "content": "I'm doing my best. I am. Do you find them? We're looking. We've got tons of fluid coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "Tilt his head to the side and clean out the fluid in his mouth."
+    },
+    {
+      "role": "user",
+      "content": "We're doing that as much as we can."
+    },
+    {
+      "role": "assistant",
+      "content": "You got the ETA on these guys?"
+    },
+    {
+      "role": "assistant",
+      "content": "The engine is pulling up now, but you need to keep working on him."
+    },
+    {
+      "role": "user",
+      "content": "Here they are, guys. Here they are."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go. Thank you."
+    }
+  ]
+}

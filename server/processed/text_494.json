@@ -1,0 +1,244 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need someone out at Glenwood Gardens as soon as possible. There's a lady that looks like she fainted or had a heart problem."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "What's the address here? Do you know the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's Glenwood Gardens. It's right on the corner of the... I don't know the exact address."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Where's the patient located within the building?"
+    },
+    {
+      "role": "user",
+      "content": "The patient is in the dining room of the main building."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's your cell phone number in case we get disconnected?"
+    },
+    {
+      "role": "user",
+      "content": "Let me find out. Hold on, I'm going to the front."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, what's the name of this building?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, it's building A."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the cell phone number? Do you know?"
+    },
+    {
+      "role": "user",
+      "content": "The number here is 587-0021."
+    },
+    {
+      "role": "assistant",
+      "content": "And who am I speaking with?"
+    },
+    {
+      "role": "user",
+      "content": "This is Amy."
+    },
+    {
+      "role": "assistant",
+      "content": "Just to confirm, the patient is in the dining room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "She just started passing out while she was eating."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the patient now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm close to her."
+    },
+    {
+      "role": "assistant",
+      "content": "About how old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's in her 80s."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Barely."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Hang on just a second here. I've got help started, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a defibrillator available, Amy? Do you have one there?"
+    },
+    {
+      "role": "user",
+      "content": "No, we don't."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got help on the way. I want you to stay on the line. I'll tell you exactly what to do next. Are you right by her now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully. I want you to lay her flat on her back on the ground and remove any pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay, wait, we're going to get Colleen."
+    },
+    {
+      "role": "assistant",
+      "content": "No, we can't wait. We need to get her flat on her back right now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. I need the phone to stay next to them. Let me know as soon as she's flat on her back on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Colleen."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Colleen, do we have her flat on her back on the ground yet?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to her right now. She's in the dining room."
+    },
+    {
+      "role": "assistant",
+      "content": "We can't wait. I need the phone next to the patient immediately."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Flat on her back on the ground, no pillows. Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's breathing, but very slowly."
+    },
+    {
+      "role": "assistant",
+      "content": "Place your hand on her forehead, your other hand under her neck, and tilt the head back to open the airway. Put your ear next to her mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's breathing, but it's like five breaths a minute."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to get CPR started. Can someone there do it?"
+    },
+    {
+      "role": "user",
+      "content": "No, we can't do CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "If you can't do it, I need you to hand the phone to a passerby or anyone willing to help."
+    },
+    {
+      "role": "user",
+      "content": "I understand, but there are other senior citizens who don't know CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone there who's willing to help?"
+    },
+    {
+      "role": "user",
+      "content": "Not at this time. No one will touch her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there any staff, a gardener, or a passerby who can help her?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have anyone. We have residents who are too old to help."
+    },
+    {
+      "role": "assistant",
+      "content": "Can we flag someone down in the street? A stranger might be willing to help."
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. I'll check."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anyone gone to look for help?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm looking now."
+    },
+    {
+      "role": "user",
+      "content": "They're here right now."
+    }
+  ]
+}

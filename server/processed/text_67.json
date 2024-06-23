@@ -1,0 +1,208 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know what emergency do you need..."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need the police, the fire department, or an ambulance, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please, please."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I... Please, please, yes, I need help."
+    },
+    {
+      "role": "assistant",
+      "content": "For what? Why do you need help?"
+    },
+    {
+      "role": "user",
+      "content": "Two persons... robber, my apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are they there now?"
+    },
+    {
+      "role": "user",
+      "content": "Please, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, take a deep breath. Answer the questions. Are they there now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What is going on there? What happened?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me, my English is not good. Two robbers."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they hurt you?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "One lady and two robbers, broken my door."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "You need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need a hospital?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what injuries do you have?"
+    },
+    {
+      "role": "user",
+      "content": "Sorry, my English is not good. I am sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "It's hard for me to help you if I can't understand what you're saying. Are you alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You are alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I live alone."
+    },
+    {
+      "role": "assistant",
+      "content": "What language do you speak?"
+    },
+    {
+      "role": "user",
+      "content": "The language in Polish."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is the ring number to get into your place? How do we buzz in?"
+    },
+    {
+      "role": "user",
+      "content": "14 or 2."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that the buzzer number to get into the building?"
+    },
+    {
+      "role": "user",
+      "content": "I don't understand."
+    },
+    {
+      "role": "assistant",
+      "content": "How do we buzz in? The ringer number, how do police get into the building downstairs if it's locked?"
+    },
+    {
+      "role": "user",
+      "content": "133 is the ring number."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. How did they get in? Did they break the door?"
+    },
+    {
+      "role": "user",
+      "content": "It's broken, my door."
+    },
+    {
+      "role": "assistant",
+      "content": "How come you didn't get your door fixed?"
+    },
+    {
+      "role": "user",
+      "content": "I don't understand."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, don't hang up. I'll stay with you until the police arrive."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are police there? Can you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see the police. They are downstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when the police are in the building."
+    },
+    {
+      "role": "user",
+      "content": "Yes, okay, the police is called a minute. Can I speak with them?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, wait until they are with you. Let me know when they are in your apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Are police there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see the police coming up."
+    }
+  ]
+}

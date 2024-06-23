@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're at Westport Shopping Center, right outside Norton Immediate Care Center. We had somebody that looked like they had heat exhaustion out on our lawn crew, and he's in pretty rough shape right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address you're at?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, hang on. Alberta, what's the address on the building? 1321. 1321, Her Lane."
+    },
+    {
+      "role": "user",
+      "content": "1321, Her Lane. It's at the Westport Shopping Center, right outside the Norton Immediate Care Center."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "502-548-0889."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Daniel Rout."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay Daniel, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "We were doing a job, lawn crew, and I noticed that he was shaking. So we got him out of the sun and gave him some water to drink. As time progressed, he started getting worse."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got EMS started, I need to ask a few more questions. Has he ever had a heart attack or angina?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's never had a heart attack, I don't think."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending the paramedics to help you now. Stay on the line and I'll tell you exactly what to do next."
+    },
+    {
+      "role": "user",
+      "content": "All right. Thank you, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What I want you to do is remove him from any sources of heat. Remove his outer clothing, apply cool water to his entire skin surface while fanning him."
+    },
+    {
+      "role": "user",
+      "content": "All right. We can do that."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any water that you can put on him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Put cool water on his skin and try to fan him."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to stay on the line with you. Is he still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Lay him flat on his back."
+    },
+    {
+      "role": "user",
+      "content": "That's going to be a little hard. We're going to have to extract him from the back of the truck in order to do that, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he in the backseat?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's in the back seat."
+    },
+    {
+      "role": "user",
+      "content": "Not to sound rude or anything, ma'am, but we need the ambulance like right now."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, they're on the way. My talking to you is not delaying the ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to try to get him flat on his back. If he's not awake, we need to maintain his airway."
+    },
+    {
+      "role": "user",
+      "content": "Okay, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to lay him across the back seat?"
+    },
+    {
+      "role": "user",
+      "content": "He was laid across the back seat, but now we're trying to get him on his back."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to look into his mouth for any food or vomit. Is there anything in his mouth?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's nothing in his mouth."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to help him but I really need someone here."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I am trying to help. Follow my instructions. Is he on his back now, and are you cooling him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. I need you to call me back if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "The ambulance is coming, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Stay with him until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "I will. Thank you."
+    }
+  ]
+}

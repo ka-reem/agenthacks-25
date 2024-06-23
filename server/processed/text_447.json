@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yeah, I need an ambulance at 233 Pat Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "233 Pat Lane?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, man, I don't know what this kid has done, and she's like going into a seizure or something."
+    },
+    {
+      "role": "assistant",
+      "content": "233 Pat Lane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm..."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, no, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No. Come on, baby. Wake up. No breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my. I don't know what to do, ma'am. I'm panicking."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm trying to talk to the officers to get them out there as well as the ambulance, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know how to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Um, no, and this ain't even my kid. How old is this person?"
+    },
+    {
+      "role": "user",
+      "content": "Two, two, two. Come on, please, hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay. I need you to be calm for me. Alright?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not being calm. Believe me, man. I'm just like slapping her and everything. I'm trying to wake her up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me. Is she lying flat?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you try to get some breaths into her mouth? Cover her nose completely and cover her whole mouth with yours and try to blow some breaths into her. Is anything going in?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, and it's going right back out, ma'am. Her eyes are rolling into the back of her head."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you feel a pulse on her anywhere?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I can feel her heart beating."
+    },
+    {
+      "role": "assistant",
+      "content": "You can feel her heart beating. That's good."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, what do I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Has she had anything to eat that she could have choked on?"
+    },
+    {
+      "role": "user",
+      "content": "She was just eating in her room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is anything blocking her airway?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing, but where are they? Do you have the door open?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the door is open."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Baby, please, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you feeling any breath coming out of her at all?"
+    },
+    {
+      "role": "user",
+      "content": "She just took a deep breath in. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. Is she responding to you at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, her eyes are just rolling, like she's not even here."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she had seizures before?"
+    },
+    {
+      "role": "user",
+      "content": "She had one a couple of days ago, but it was real short, and I didn\u2019t think anything of it. She hit her head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me. The officers are there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, okay. I see them. Thank you. Thank you."
+    }
+  ]
+}

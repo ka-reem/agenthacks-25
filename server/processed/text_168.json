@@ -1,0 +1,380 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're, um, at the corner of 119 and County Road 1. We just saw a plane go down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly?"
+    },
+    {
+      "role": "user",
+      "content": "The corner of 119 and County Road 1."
+    },
+    {
+      "role": "assistant",
+      "content": "Right there in the intersection?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what direction from McLean?"
+    },
+    {
+      "role": "user",
+      "content": "I'm facing south right now. It's in the south field on that intersection."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see any smoke or flames?"
+    },
+    {
+      "role": "user",
+      "content": "No, but we heard it go boom. We don't see any smoke or flames yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it go down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Sabrina."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get a phone number, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of plane was it, do you think?"
+    },
+    {
+      "role": "user",
+      "content": "It looks just a white, maybe a two-seater."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you pulled over? Can you see it?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at work on lunch right now. We could see it go down from across where we're at."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you very much. We're on our way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Longmont, Colorado, about three miles to the south of Union Reservoir. A plane just crashed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said three miles south of Union Reservoir?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're on 1640 Bluefield. I'm sitting on my porch and it spiraled down below the treetops and I heard the impact."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We actually have other calls and we're going to head that way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, very good. Thanks."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm calling from Highway 119 and County Road 1."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is this about the plane?"
+    },
+    {
+      "role": "user",
+      "content": "It is."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you actually close enough to where the plane crashed?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it crashed a couple hundred feet in front of me as I was driving."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you seen anyone get out of the plane?"
+    },
+    {
+      "role": "user",
+      "content": "I have not."
+    },
+    {
+      "role": "assistant",
+      "content": "I just want to confirm it was a small white plane, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And is it southeast of your location?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's north of me. A police officer just showed up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go. Should I go talk to him about what I saw?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, go ahead and contact them. They'll probably be going to the plane crash first."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, are you calling about the plane crash?"
+    },
+    {
+      "role": "assistant",
+      "content": "We do have it, sir, but did you witness it?"
+    },
+    {
+      "role": "user",
+      "content": "I did see it go down, but I didn't see it crash."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Brian Larche."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you very much. What's a phone number you can be reached at?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me where you saw it go down?"
+    },
+    {
+      "role": "user",
+      "content": "I was at the country club, and it looks like it is right behind some houses there."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it to the north?"
+    },
+    {
+      "role": "user",
+      "content": "South of 119 and west of the county line."
+    },
+    {
+      "role": "assistant",
+      "content": "So southwest corner?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but more behind those houses there."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think it's behind Walmart to the south of Walmart?"
+    },
+    {
+      "role": "user",
+      "content": "It's definitely quite a bit further west of Walmart."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's south and west?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see any smoke or flames?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw some dust come up. I definitely heard it hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, thank you very much. We're on our way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, this is the city of Longmont over at Public Works. There's been a plane crash in our area."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "375 St. Vrain Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on for me just one moment."
+    },
+    {
+      "role": "assistant",
+      "content": "Dispatch, this is Beth."
+    },
+    {
+      "role": "user",
+      "content": "Hey Beth, it's Jan from Estes. I heard about a Cessna that went down."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am, but I'm not able to take your call right now. I believe we've got a second plane crash. You'll need to call back, I'm sorry."
+    },
+    {
+      "role": "user",
+      "content": "Are you with what agency?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm with Estes. My sergeant's son is up in a Cessna."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, I'm working two plane crashes right now. Please call back in a few."
+    },
+    {
+      "role": "user",
+      "content": "No worries. Alright, bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks for holding. Are you calling about a plane crash at the airport?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you involved?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm an employee."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're an employee? Where did it crash?"
+    },
+    {
+      "role": "user",
+      "content": "Into the back of our yard on the south side of our facility."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "375 South Airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Any injuries?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a lady. They pulled her out of the plane. She's conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her now?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it?"
+    },
+    {
+      "role": "user",
+      "content": "I did not."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we're on our way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh, bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's a restaurant."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, let me, I'm, uh, being so, I'm the attention, and I'm, because there's, they're in the box. Like, how, are two? So, four, five, and then that's, discrimination. I go, no, it's a restaurant."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, let's start over. Are you at a restaurant right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's called Chico's Tacos. I'm security."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Marco, what's going on at the restaurant?"
+    },
+    {
+      "role": "user",
+      "content": "There are two men kissing, and they're being aggressive because they're saying we are discriminating them and calling the police."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. We'll send a unit as soon as possible, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I'd like to see if you can send out an officer to the Chico's Tacos?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chico's Tacos? Which one?"
+    },
+    {
+      "role": "user",
+      "content": "Montwood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "We came to eat, and a couple that's with us, they're two males, and they're boyfriends, and they're kissing, and they're kicking us out."
+    },
+    {
+      "role": "assistant",
+      "content": "They're kicking you out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're saying that it's not allowed for them to kiss here, and they want to kick us out."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Carlos."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Carlos, we'll go ahead and send an officer out. Please wait for them to arrive."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Sir, this is my fifth time calling. I'm at Chico's Tacos on Montwood."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. We are aware of your call. The police are a little busy, but they'll be there as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I'm sorry to bother you. I called about a complaint at Chico's Tacos on Montwood and Treywood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me one second. You said Montwood and Treywood?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. They are going to close soon and we have an issue with the security guard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, it looks like we still have your call in the system. Someone will be sent out as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Is it going to take a while? They close soon."
+    },
+    {
+      "role": "assistant",
+      "content": "It's difficult to say, but they'll be there as soon as possible. There's a lot happening tonight, especially with the weather."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    }
+  ]
+}

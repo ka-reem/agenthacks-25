@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My wife is dying and the nurses don't want to help her out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what do you mean she's dying? What's wrong with her?"
+    },
+    {
+      "role": "user",
+      "content": "She's vomiting blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and why aren't they helping her?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, they're just watching her. They're not doing anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, you need to contact a nurse or a doctor and let them know she's vomiting blood. Paramedics are not going to pick up someone from a hospital."
+    },
+    {
+      "role": "user",
+      "content": "They don't let me. They won't let me in."
+    },
+    {
+      "role": "assistant",
+      "content": "If she's in the emergency room, you need to speak with the hospital staff or security. Paramedics cannot intervene inside a hospital."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This lady is in the emergency room at Martin Luther King, and they are overlooking her. They keep discharging her, and she's definitely sick."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you're already at a hospital. If you're not satisfied with the care, you need to speak with the hospital supervisors."
+    },
+    {
+      "role": "user",
+      "content": "But it's an emergency. They're not helping her."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand your concern, but 911 is for life-threatening emergencies. You need to address this with the hospital administration."
+    },
+    {
+      "role": "user",
+      "content": "You're not helping me!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I cannot do anything about the quality of care at the hospital. Please contact the hospital supervisors."
+    },
+    {
+      "role": "user",
+      "content": "May God strike you for acting the way you do."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry you feel that way, but this line is for emergency purposes only."
+    }
+  ]
+}

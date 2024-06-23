@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, 8011 Hollyway Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "What's wrong? Are you there?"
+    },
+    {
+      "role": "user",
+      "content": "There's a guy here with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the address? Hollyway Drive isn't showing 8011."
+    },
+    {
+      "role": "user",
+      "content": "It's 2601 Holloway Drive, between Holloway and Plant Side."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. What's happening there?"
+    },
+    {
+      "role": "user",
+      "content": "There's a guy with a gun. He's wearing black and white plaid pants and a white shirt or black t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he inside the building?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's walking around in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "What business is this?"
+    },
+    {
+      "role": "user",
+      "content": "Linden Millwork. I ran into their shop across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he do anything or just walking around with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "He was looking for someone and pulled a gun from his pocket."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a black male, white male, Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He's a white guy, maybe in his early 20s."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, let me get someone started out there. Hang on."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "2360 Ampire Drive. There's a man on the property with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "And that's where the person is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's looking for a girl he had trouble with."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the business?"
+    },
+    {
+      "role": "user",
+      "content": "Linden Millwork."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you provide a description of him?"
+    },
+    {
+      "role": "user",
+      "content": "He's 5'5\" or 5'6\" with a crew cut, wearing a black shirt and plaid shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got officers on the way. Anything else you can tell me?"
+    },
+    {
+      "role": "user",
+      "content": "He's kind of a round-face fellow carrying a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we'll get someone out there. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Bob Capitello, I own the business."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. We'll get help to you."
+    },
+    {
+      "role": "user",
+      "content": "He just shot somebody!"
+    },
+    {
+      "role": "assistant",
+      "content": "Did anyone get hit?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so. He fired but missed."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, they're on their way. Stay safe and keep down."
+    },
+    {
+      "role": "user",
+      "content": "He's now inside the building!"
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get officers there as fast as we can. Where inside is he?"
+    },
+    {
+      "role": "user",
+      "content": "In the main office at the front of the building."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Officers are close. Stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at 2360 Ampire Drive. The shooter is my cousin's ex-boyfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Brian McDonald."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Brian. Officers are en route. Can you stay on the phone and keep safe?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's wearing a black shirt and blue plaid shorts. He's in the office."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Can you get to a safe place?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside, not going back in."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay where you are. Officers are arriving."
+    },
+    {
+      "role": "user",
+      "content": "I see them, they're here. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've been shot. Please get an officer to 6701 Northwest 7th Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got the address. Which police department do you belong to?"
+    },
+    {
+      "role": "user",
+      "content": "Miami Police."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay with me on the line. Where's the person that shot you?"
+    },
+    {
+      "role": "user",
+      "content": "They fled."
+    },
+    {
+      "role": "assistant",
+      "content": "He fled?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I'm Joseph."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Joseph is my last name."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your unit number?"
+    },
+    {
+      "role": "user",
+      "content": "33, 43. I'm a headquarters unit. Please stay with me on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in front of the address?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in the back of the church."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending help your way. Are you sure the person that shot you is gone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're gone. Three black males."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember if they fled on foot or in a car?"
+    },
+    {
+      "role": "user",
+      "content": "They fled on foot. About 5'7, light complexion, wearing black and red."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I have help on the way. Just hang in there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire Rescue, this is County. I need fire rescue to respond to one of our off-duty officers that's been shot at 6701 Northwest 7 Avenue. He is behind the church."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "It's 305-669-7837."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're sure the offender has left the area?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they fled on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll send them right out. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

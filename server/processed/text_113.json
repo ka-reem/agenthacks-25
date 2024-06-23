@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a... Okay. I'm at Wildcat Haven. We've had one of our keepers get attacked. I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to get you over to the correct fire dispatch. Just one moment for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I understand, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't dispatch medical for that area. I'm transferring you. Stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "We are hurrying."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm with medical transfer, 31369 Southwest Heater Road at Wildcat Haven. I'm going to stay on the line and monitor in case any police need information. Go ahead, sir."
+    },
+    {
+      "role": "user",
+      "content": "Hello? I'm going on. I have a keeper at Wildcat Haven who was attacked, I guess. I just got home here, and I think she's dead, but please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "How was she attacked?"
+    },
+    {
+      "role": "user",
+      "content": "We have cougars. We rescue them."
+    },
+    {
+      "role": "assistant",
+      "content": "By a cougar, I believe?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I'm going back down. I need you guys here. I've got to go back down to her."
+    },
+    {
+      "role": "assistant",
+      "content": "She's down in the enclosure?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I'm going down to get her."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can hear you. I'm on a cordless phone. It's going to run out in a minute here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's in the cat enclosure?"
+    },
+    {
+      "role": "user",
+      "content": "She's in the cat enclosure. I'm going to get her out if I can. I'm going to lose you here."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear you, yes. We're on our way. How do we get in the gate?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see. I'm going back down. It's dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a safe position to be able to go in by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we don't want you to get hurt."
+    },
+    {
+      "role": "user",
+      "content": "I hear what you're saying. Get out of here! Oh my God! Oh my God, oh my God, oh my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way over there to you. Are you in the enclosure right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm back out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your friend still in the enclosure?"
+    },
+    {
+      "role": "user",
+      "content": "I got her out."
+    },
+    {
+      "role": "assistant",
+      "content": "Can we try CPR or is she beyond help?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Mark Powell."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else in danger at this point?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody's in danger."
+    },
+    {
+      "role": "assistant",
+      "content": "So you think that she is beyond help?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry. Can I start getting support over for you to talk to, like a chaplain or something? Can I call somebody for you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    }
+  ]
+}

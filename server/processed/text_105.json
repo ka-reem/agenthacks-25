@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "650 for Belmore, an auto accident, a car hit a telephone transformer."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm your location?"
+    },
+    {
+      "role": "user",
+      "content": "Belmar Avenue and Merrick Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "They're shooting at us!"
+    },
+    {
+      "role": "assistant",
+      "content": "Repeat your location."
+    },
+    {
+      "role": "user",
+      "content": "Claxton and Belmont Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "What is happening there?"
+    },
+    {
+      "role": "user",
+      "content": "A man is shooting at the vehicle that got into the accident. He has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Use caution, there's a male shooting a gun at Claxton and Belmar Avenue."
+    },
+    {
+      "role": "user",
+      "content": "I'm on the phone with 911 now."
+    },
+    {
+      "role": "assistant",
+      "content": "All units stand by unless urgent. Stage at Merrick Road and Belmore Avenue."
+    },
+    {
+      "role": "user",
+      "content": "We have a gunshot victim here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the victim on the way to the hospital?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the victim is on the way to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is transporting the shooting victim?"
+    },
+    {
+      "role": "user",
+      "content": "Secure one with the medical center."
+    },
+    {
+      "role": "assistant",
+      "content": "All units are to stay off Belmar Avenue. The scene is not secure."
+    },
+    {
+      "role": "user",
+      "content": "We're staging at Station 2 until further notice."
+    },
+    {
+      "role": "assistant",
+      "content": "All units, repeat, stage at Station 2 until further notice."
+    },
+    {
+      "role": "user",
+      "content": "Copy, all units are to stage at station number two."
+    },
+    {
+      "role": "assistant",
+      "content": "Belmore Avenue and Marion Street, auto accident with injury. Is that the same location?"
+    },
+    {
+      "role": "user",
+      "content": "It may be. Marion's only one block down, so I'll check it out."
+    },
+    {
+      "role": "assistant",
+      "content": "Stand by. We will notify the fire department for an ambulance."
+    },
+    {
+      "role": "user",
+      "content": "It's possibly a DWI."
+    },
+    {
+      "role": "assistant",
+      "content": "Any 7th Precinct units respond to 2485 Belmore Avenue for shots fired."
+    },
+    {
+      "role": "user",
+      "content": "K-9-3 is on the air."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you responding as well to 2485 Belmore Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "10-4, K-9-3 responding."
+    },
+    {
+      "role": "assistant",
+      "content": "Received. Shots fired, Belmore Avenue. Do we have an ETA for BSO?"
+    },
+    {
+      "role": "user",
+      "content": "Still waiting on BSO. One person is still armed in the vehicle."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, one person armed in the vehicle. Still awaiting BSO."
+    },
+    {
+      "role": "user",
+      "content": "743 advising, shooting shots fired at Belmore Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Confirmed, shots fired at Belmore Avenue. Anyone else on scene?"
+    },
+    {
+      "role": "user",
+      "content": "716 on scene. Location is Belmore Avenue and Marion Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Notify ESU, outer perimeter at Merrick Road and Belmore Avenue."
+    },
+    {
+      "role": "user",
+      "content": "2434 on scene, Merrick Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold the ambulance outside the perimeter at Merrick Road and Belmore Avenue."
+    },
+    {
+      "role": "user",
+      "content": "Received, holding at perimeter."
+    },
+    {
+      "role": "assistant",
+      "content": "One Fillmore Fire Department member was shot and is on the way to the hospital."
+    },
+    {
+      "role": "user",
+      "content": "117 responding to the hospital to secure the person."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, the scene is now clear for the bus to respond."
+    },
+    {
+      "role": "user",
+      "content": "Sending a stretcher down the block now."
+    },
+    {
+      "role": "assistant",
+      "content": "All units stand by for further instructions."
+    },
+    {
+      "role": "user",
+      "content": "6751 operators are responding down."
+    }
+  ]
+}

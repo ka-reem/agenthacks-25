@@ -1,0 +1,324 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from 1109 East Alameda. There's been a shooting. I just shot a man who was attacking me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he injured?"
+    },
+    {
+      "role": "user",
+      "content": "He's down and hurt bad."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Edwin Waters."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the telephone number you're calling from, sir?"
+    },
+    {
+      "role": "user",
+      "content": "970-209-6887. Please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still have the gun in your hand?"
+    },
+    {
+      "role": "user",
+      "content": "I set it on the table right here. Please come quick."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, we're going to get someone out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you verify the address for me one more time?"
+    },
+    {
+      "role": "user",
+      "content": "1109 East Alameda."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the patient now?"
+    },
+    {
+      "role": "user",
+      "content": "His brother is. I'm about 15 feet away."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the patient?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to guess 45."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. His brother is talking to him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. This is crazy. I've never done this kind of stuff before."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. I just need to ask these questions, okay? Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sure. I don't know. I shot until the gun quit shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he completely alert?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea. I have not gone over."
+    },
+    {
+      "role": "assistant",
+      "content": "What part of the body was injured?"
+    },
+    {
+      "role": "user",
+      "content": "It's dark out here. I think I shot him in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there more than one wound?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sure. I just started shooting until it quit."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. I'm going to give you some instructions for the ambulance, okay? Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not pull out the bullet. Reassure him that help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Help is on the way. The ambulance is coming right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't let him have anything to eat or drink. It might make him sick or cause problems for the doctor."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm sure he doesn't want to eat or drink now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not move him unless it's absolutely necessary. Tell him to stay still and wait for help."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to watch him closely. If he becomes less awake or vomits, turn him on his side."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Have someone meet the paramedics, and if he gets worse in any way, call us back immediately."
+    },
+    {
+      "role": "user",
+      "content": "I hear the ambulance coming."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll stay on the line with you until they get there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You said you put the weapon down, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I put the gun down and ejected and dropped the clip out of it. It's laying here on the table."
+    },
+    {
+      "role": "assistant",
+      "content": "What caliber is the gun?"
+    },
+    {
+      "role": "user",
+      "content": "A .22."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this in your house or outside?"
+    },
+    {
+      "role": "user",
+      "content": "It was right at the back door, where I was in."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he laying now?"
+    },
+    {
+      "role": "user",
+      "content": "He's laying on the ground about eight feet away, still outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Which is the easiest way for them to enter the house?"
+    },
+    {
+      "role": "user",
+      "content": "Come up into the driveway. I'll put the porch light on. He's right behind the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Come up Alameda. You said you unloaded the weapon, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I unloaded it fully, but I dropped the clip."
+    },
+    {
+      "role": "assistant",
+      "content": "Just leave the weapon there and do not touch it."
+    },
+    {
+      "role": "user",
+      "content": "I will not touch it."
+    },
+    {
+      "role": "assistant",
+      "content": "What was he doing? Why was he at your back door?"
+    },
+    {
+      "role": "user",
+      "content": "He broke into my house while I was gone at my dad's funeral, and he's been yelling at me all day from across the parking lot. He was drinking with his friends and came rushing at me."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing now? Is he still with his brother?"
+    },
+    {
+      "role": "user",
+      "content": "His brother is there with him, and another friend is around him too."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the person you shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's the brother-in-law of the people I'm working for."
+    },
+    {
+      "role": "assistant",
+      "content": "Did anybody else have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know when they're there."
+    },
+    {
+      "role": "user",
+      "content": "They must be close because there's all kinds of noise outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it 1115 East Alameda or 1109?"
+    },
+    {
+      "role": "user",
+      "content": "1109."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and they're in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Come through quickly. It's right here on the table."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they there with you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's an officer here right now."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to let you go now that the officers are there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome. Goodbye."
+    }
+  ]
+}

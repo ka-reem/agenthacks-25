@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm calling because I'm on my way to work going northbound on Redwood Road."
+    },
+    {
+      "role": "user",
+      "content": "Right around just a little south of the Harvest Hills area on the west side of Redwood, I saw a man walking with a samurai sword."
+    },
+    {
+      "role": "assistant",
+      "content": "How many minutes ago was this?"
+    },
+    {
+      "role": "user",
+      "content": "About 5 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "And he was on the west side of the road?"
+    },
+    {
+      "role": "user",
+      "content": "Yep. He was walking in the direction of Walmart."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe him for me? How old did he look?"
+    },
+    {
+      "role": "user",
+      "content": "He looked young, maybe between 20 and 30 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "What race was he?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, but he might have been black or Polynesian."
+    },
+    {
+      "role": "assistant",
+      "content": "About how tall did he seem?"
+    },
+    {
+      "role": "user",
+      "content": "It's hard to say, but he wasn't overly tall. Maybe around six feet."
+    },
+    {
+      "role": "assistant",
+      "content": "Could you estimate his weight?"
+    },
+    {
+      "role": "user",
+      "content": "He was fairly skinny, probably around 150 pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "What color hair did he have?"
+    },
+    {
+      "role": "user",
+      "content": "Black. It was kind of an afro style, but pulled back a little bit, like a giant bun on the back of his head."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said he had a red shirt? What color pants?"
+    },
+    {
+      "role": "user",
+      "content": "I don't remember the color of his pants."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. And your name, sir?"
+    },
+    {
+      "role": "assistant",
+      "content": "Got a phone number we can reach you at?"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We'll go ahead and get this out to an officer, and we'll have them go check the area. If they have any questions, they will contact you by phone."
+    },
+    {
+      "role": "user",
+      "content": "Sounds good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

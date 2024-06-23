@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, is this a place?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is 911."
+    },
+    {
+      "role": "user",
+      "content": "911?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, what is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My dad has been physically and emotionally abusing me."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "He said I was acting perfect to my psychiatrist."
+    },
+    {
+      "role": "assistant",
+      "content": "What address are you at?"
+    },
+    {
+      "role": "user",
+      "content": "Well, listen, at my psychiatrist, he, last month gave me a fever of 104 from stress, throwing up in a fever, and the psychiatrist said I could have died, and he laughed, and I just killed him."
+    },
+    {
+      "role": "user",
+      "content": "And he's dead right now, because I can't take the physical abuse."
+    },
+    {
+      "role": "user",
+      "content": "2645 Hamlin, 2645 Hamlin."
+    },
+    {
+      "role": "assistant",
+      "content": "2645 Hamlin?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm being physically and mentally abused."
+    },
+    {
+      "role": "user",
+      "content": "They know me in Arlington Heights. I can't take the physical and mental abuse. I'm being totally abused."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your dad right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's dead. He's lying on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you at 2645 Hamlin right now?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Displains. This is Northwest Central. Do you have a 2645 Hamlin in your town?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon? 4645 Hamlin?"
+    },
+    {
+      "role": "user",
+      "content": "My dad has been mentally abusive. He could have killed me with 105 fever from stress."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, sir."
+    },
+    {
+      "role": "user",
+      "content": "And he abuses me every day, and I can't take it anymore, and I took a knife to him, and I killed him."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my house. I killed him because he was abusing me, and my psychiatrist said he could have killed me."
+    },
+    {
+      "role": "user",
+      "content": "My mom told my dad that the psychiatrist said he could have killed me, and he said he didn't care if I died or not."
+    },
+    {
+      "role": "assistant",
+      "content": "We are starting to trace the call now, sir."
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes. 2645 Hamlin. I mean Stratford, Stratford."
+    },
+    {
+      "role": "assistant",
+      "content": "In what city?"
+    },
+    {
+      "role": "user",
+      "content": "Arlington Heights."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, thank you. We have dispatched the police. Stay on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "assistant",
+      "content": "Your call has been forwarded to an automatic voice message system."
+    }
+  ]
+}

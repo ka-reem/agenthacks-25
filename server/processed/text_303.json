@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Listen, please. Don't hang up and listen to me. I've been taken out of my house at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "Please, I am on the road. He's got me with my kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is the address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm heading to the police department. I was able to escape."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you need to slow down because I don't know where you are. Which police department?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, please. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, ma'am. Just stay on the line."
+    },
+    {
+      "role": "dispatcher",
+      "content": "Plantation Police Department, this is Sunrise with a transfer. It sounds like it's possibly going to be a signal 24, signal zero."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "dispatcher",
+      "content": "She doesn't have the address. I'm trying to look it up."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is Plantation Police Department?"
+    },
+    {
+      "role": "user",
+      "content": "Tell somebody to intercept me on 6th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He took me out of my shower. I'm on the road now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, his name is Carlos."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he armed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "He's accelerating on me!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay calm. What kind of car are you in?"
+    },
+    {
+      "role": "dispatcher",
+      "content": "Plantation, what car are you dispatching?"
+    },
+    {
+      "role": "dispatcher",
+      "content": "Stand by, I'm relaying."
+    },
+    {
+      "role": "dispatcher",
+      "content": "Hello Plantation? Shots fired."
+    },
+    {
+      "role": "user",
+      "content": "Help, he's going to shoot me!"
+    }
+  ]
+}

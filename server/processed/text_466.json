@@ -1,0 +1,316 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just stabbed my baby. Please get here."
+    },
+    {
+      "role": "assistant",
+      "content": "They just did what?"
+    },
+    {
+      "role": "user",
+      "content": "Stabbed my baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who it was, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's my ex, my boyfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "1415 Cane."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he need an ambulance, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No, I mean, no, he doesn't need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Shavon Thomas."
+    },
+    {
+      "role": "assistant",
+      "content": "Shavon, what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "You know what? I'm lying. I did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he need an ambulance, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No, he doesn't need one."
+    },
+    {
+      "role": "assistant",
+      "content": "You said your baby was stabbed. Is it your son?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's two."
+    },
+    {
+      "role": "assistant",
+      "content": "He is the one that was stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "He was stabbed with what?"
+    },
+    {
+      "role": "user",
+      "content": "A knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he bleeding? Where is he bleeding from?"
+    },
+    {
+      "role": "user",
+      "content": "Not much."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he bleeding from?"
+    },
+    {
+      "role": "user",
+      "content": "Not much. He's not bleeding that much."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your boyfriend at?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's coming through the back door."
+    },
+    {
+      "role": "assistant",
+      "content": "So your boyfriend stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who else is in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody."
+    },
+    {
+      "role": "assistant",
+      "content": "And your boyfriend is outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You guys were fighting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we're going to send officers out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at 1415 Cane Avenue, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll send somebody up there. Stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "You know what? I did it. I did it, okay? I did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have to find some money. I don't care."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Nope."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "I knew it."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem?"
+    },
+    {
+      "role": "user",
+      "content": "I knew it."
+    },
+    {
+      "role": "assistant",
+      "content": "You knew what?"
+    },
+    {
+      "role": "user",
+      "content": "I knew it."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need the police?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you, Shavon?"
+    },
+    {
+      "role": "user",
+      "content": "33."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you live?"
+    },
+    {
+      "role": "user",
+      "content": "1058."
+    },
+    {
+      "role": "assistant",
+      "content": "Who lives at 1415 Cane?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody."
+    },
+    {
+      "role": "assistant",
+      "content": "My boyfriend is right here."
+    },
+    {
+      "role": "user",
+      "content": "Can I speak to him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you take medication?"
+    },
+    {
+      "role": "user",
+      "content": "I used to. Prozac."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still take it?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't take it today."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I did take it today."
+    },
+    {
+      "role": "assistant",
+      "content": "Shavon?"
+    },
+    {
+      "role": "user",
+      "content": "I ain't hanging up."
+    },
+    {
+      "role": "assistant",
+      "content": "Who do you live with?"
+    },
+    {
+      "role": "user",
+      "content": "Keep thinking that."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you home by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Does anyone live with you?"
+    },
+    {
+      "role": "user",
+      "content": "Keep thinking that."
+    }
+  ]
+}

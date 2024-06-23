@@ -1,0 +1,160 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have been kidnapped, and we are being followed."
+    },
+    {
+      "role": "user",
+      "content": "He's going to kill me if they keep following him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the car with him?"
+    },
+    {
+      "role": "user",
+      "content": "He has me in the back."
+    },
+    {
+      "role": "assistant",
+      "content": "He has a guy, and he's got a nine-millimeter."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any other weapons in there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of weapons he has?"
+    },
+    {
+      "role": "user",
+      "content": "I think he has two others. He's got a rifle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what else?"
+    },
+    {
+      "role": "user",
+      "content": "He says that he's taking me home. He said if they try to stop him before then, I'm going to get hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to put him on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Can I talk to him for a second?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Get them off my ass."
+    },
+    {
+      "role": "user",
+      "content": "Hey."
+    },
+    {
+      "role": "user",
+      "content": "They can follow me at a distance. I will drive around 80 or 90, safely. She is going home."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, why don't you just pull over so we can end this peacefully?"
+    },
+    {
+      "role": "user",
+      "content": "That's not going to happen. Maybe you didn't hear me. Back them up or I start opening fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, why are you running?"
+    },
+    {
+      "role": "user",
+      "content": "You're risking this woman's life. We're heading south. You've got three officers ganging up on me right now, and I have enough ammunition to kill her and myself."
+    },
+    {
+      "role": "user",
+      "content": "Get out of my ass now! They are more than welcome to follow me at a distance. If they continue to do this, people are going to get hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "If the officer following me does not break off pursuit, then people will be hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "I don't even know what officer's following you."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you let me know where you are so I can let the officer know?"
+    },
+    {
+      "role": "user",
+      "content": "We're going south on I-95. If they continue to follow me, I will fire a warning shot. The third shot will not be a warning."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a weapon on you?"
+    },
+    {
+      "role": "user",
+      "content": "You guys don't seem to want to believe me."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm just asking you a question. What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I am going to take this young lady back to her home. You will not interfere. Is that understood?"
+    },
+    {
+      "role": "assistant",
+      "content": "So you're going where?"
+    },
+    {
+      "role": "user",
+      "content": "They are welcome to follow me at a distance, but I'm not telling you where. You understand?"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't really understand the situation that's going on."
+    },
+    {
+      "role": "user",
+      "content": "You don't need to. Either the police stay off of my ass and they stay well back, or I'm going to hurt people."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, good deal."
+    }
+  ]
+}

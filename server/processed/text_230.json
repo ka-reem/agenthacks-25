@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Good morning."
+    },
+    {
+      "role": "assistant",
+      "content": "Police, is this an emergency or can you hold?"
+    },
+    {
+      "role": "user",
+      "content": "It's an emergency. I think it's an emergency."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like we have gunshots off of Southwest 9 in Vermont."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we've got calls about Creston. There's a fellow on Creston Avenue that's shooting weapons. Just stay inside your house, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Hi, did you call 911?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my husband's on the phone. There's a guy here with an assault rifle shooting at police and aiming at our house."
+    },
+    {
+      "role": "assistant",
+      "content": "You said he's trying to shoot at your house?"
+    },
+    {
+      "role": "user",
+      "content": "He was aimed at the house and now cars are going up and down Elston."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots has he fired?"
+    },
+    {
+      "role": "user",
+      "content": "He's fired at least 30 or 40 shots. He's out there again."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a description of him?"
+    },
+    {
+      "role": "user",
+      "content": "He's got blonde hair. I see him in the driveway now."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, stay in your house and lock your doors, okay? We're on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, this is the police department. We got a call from this number. Is everything okay?"
+    },
+    {
+      "role": "user",
+      "content": "There's a wild man across the street with an assault rifle. He set off at least 30 rounds."
+    },
+    {
+      "role": "user",
+      "content": "Jesus, he's aiming the gun now and he's out in front of the house."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting at cars in the street."
+    },
+    {
+      "role": "assistant",
+      "content": "He's shooting at somebody in the cars?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he just shot at a car that was driving by. He laid down the rifle. He has camouflage pants on."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly where he is and what he's doing."
+    },
+    {
+      "role": "user",
+      "content": "He's on the northeast corner of his house facing north, sitting on the back end of a white van."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me the gun he has?"
+    },
+    {
+      "role": "user",
+      "content": "He's got at least two guns. Definitely an assault rifle of some type."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, stay inside and lock your doors. Officers are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? 9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need to report a neighbor firing a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "And you saw him do this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he was on his back deck, firing the gun towards his yard."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me his name if you know it?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Steve Vogel."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still out there now?"
+    },
+    {
+      "role": "user",
+      "content": "Jesus, yes. He's in his driveway now, wearing a black and yellow sweatshirt."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, stay on the line with me. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thanks. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've just been shot at."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured?"
+    },
+    {
+      "role": "user",
+      "content": "No, but my car windows have two holes from the bullets."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in and where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a sky blue Nissan Altima and I'm on Broad Street, near Southwest 7th."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on the way. Just stay where you are."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thanks. Bye."
+    }
+  ]
+}

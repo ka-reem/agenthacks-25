@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is calling from Captain Doug's Airboat Tour's Everglade City."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Our address is 905 DuPont Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "We've had an airboat accident. I'm not sure if there are injuries."
+    },
+    {
+      "role": "user",
+      "content": "I don't know to what extent right now. We've got somebody bringing the injured back to our dock. We just need a deputy and EMS."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many people were on board?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know how many people were on the boat. I don't know how many were injured."
+    },
+    {
+      "role": "user",
+      "content": "I've got a captain from another company bringing the injured to my dock now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "He had a total of six people on his boat when he left the dock."
+    },
+    {
+      "role": "assistant",
+      "content": "So, there were six people on board?"
+    },
+    {
+      "role": "user",
+      "content": "I just don't know how many are injured. Sorry, we're crazy right here."
+    },
+    {
+      "role": "assistant",
+      "content": "That's all right."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I think the boats are coming in now."
+    },
+    {
+      "role": "assistant",
+      "content": "If you could just tell me the extent of the injuries."
+    },
+    {
+      "role": "user",
+      "content": "I don't have any idea. No, I mean, they're still out in the water."
+    },
+    {
+      "role": "user",
+      "content": "Oh wait a minute, here comes a captain with them now. Hold on. Let me get outside."
+    },
+    {
+      "role": "user",
+      "content": "Oh, Jesus Christ, here's my boat captain. It looks like he's lost his hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it the boat captain himself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's the boat captain himself. He's lost his hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get a dry, clean cloth?"
+    },
+    {
+      "role": "user",
+      "content": "I am now. Yeah, I've got two captains out there with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it totally off?"
+    },
+    {
+      "role": "user",
+      "content": "The way it looks to me, yes. Like I said, I'm trying to get two calls while they're out there."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone conscious?"
+    },
+    {
+      "role": "user",
+      "content": "He's conscious. Two men are with him, holding his hand up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just have them lay down or sit on the floor."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're getting him in here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Mrs. Plurton, 860 Miller Avenue."
+    },
+    {
+      "role": "user",
+      "content": "I believe there's a robbery in progress, shots fired."
+    },
+    {
+      "role": "user",
+      "content": "They're requesting as many units as possible."
+    },
+    {
+      "role": "user",
+      "content": "Pleasant Hills, units available, pending it."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you head that way as well?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll repeat the location. It's going to be 860 Miller Avenue."
+    },
+    {
+      "role": "user",
+      "content": "A complainant stated a neighbor was being held at gunpoint."
+    },
+    {
+      "role": "user",
+      "content": "Suspect was last seen running towards Bull Street."
+    },
+    {
+      "role": "user",
+      "content": "I don't have a description at this time."
+    },
+    {
+      "role": "user",
+      "content": "534, we moved in."
+    },
+    {
+      "role": "user",
+      "content": "Myself and 84, clear that transport."
+    },
+    {
+      "role": "user",
+      "content": "Sheriff's advising to get a warrant."
+    },
+    {
+      "role": "user",
+      "content": "Copy 22, 6.5."
+    },
+    {
+      "role": "user",
+      "content": "2512, run reduction E1P3."
+    },
+    {
+      "role": "user",
+      "content": "2255."
+    },
+    {
+      "role": "user",
+      "content": "Yes, code 2255 Jefferson."
+    },
+    {
+      "role": "user",
+      "content": "Pleasant Hills units, use caution."
+    },
+    {
+      "role": "user",
+      "content": "There's an update here requesting a medic for an officer possibly down."
+    },
+    {
+      "role": "user",
+      "content": "2154. Sorry, 2160 had to declare."
+    },
+    {
+      "role": "user",
+      "content": "Downey 2534."
+    },
+    {
+      "role": "user",
+      "content": "There's a request for help on the radio."
+    },
+    {
+      "role": "user",
+      "content": "Sir, it's 22-506. I'm talking to myself, a 34-32 will be en route."
+    },
+    {
+      "role": "user",
+      "content": "Another unit, it's 51-8-37."
+    },
+    {
+      "role": "user",
+      "content": "Left turn on to St. Clair."
+    },
+    {
+      "role": "user",
+      "content": "Can you confirm the location again?"
+    },
+    {
+      "role": "user",
+      "content": "Show me en route."
+    },
+    {
+      "role": "user",
+      "content": "22 to finish."
+    },
+    {
+      "role": "user",
+      "content": "E-mail, one-one-five-five to three."
+    },
+    {
+      "role": "user",
+      "content": "E-mail, one-one-five-five-two-three."
+    },
+    {
+      "role": "user",
+      "content": "Mr. Walton with the police requested by one-month-law."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat?"
+    },
+    {
+      "role": "user",
+      "content": "2259."
+    },
+    {
+      "role": "user",
+      "content": "Let's switch over to my county south for our response."
+    },
+    {
+      "role": "user",
+      "content": "Be advised they are out of 102."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to provide the update in bar."
+    },
+    {
+      "role": "user",
+      "content": "2415, you're on scene."
+    },
+    {
+      "role": "user",
+      "content": "2300, 420, 420, 200."
+    },
+    {
+      "role": "user",
+      "content": "All units not operating, clear the area, revert to your backup channel."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to close the channel."
+    },
+    {
+      "role": "user",
+      "content": "Revert to your backup channel, 2300."
+    },
+    {
+      "role": "user",
+      "content": "34 from 30, confirm direction one more time, please."
+    },
+    {
+      "role": "user",
+      "content": "Round 837, same clock."
+    },
+    {
+      "role": "user",
+      "content": "40 cut out."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired on the mountain."
+    },
+    {
+      "role": "user",
+      "content": "Dead end on Miller."
+    },
+    {
+      "role": "user",
+      "content": "Pleasant Hills units, when you come in, give me two more units in the back, we got more."
+    },
+    {
+      "role": "user",
+      "content": "Confirmed, left onto Miller off of St. Clair, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, if you're coming from St. Clair Avenue."
+    },
+    {
+      "role": "user",
+      "content": "Left on St. Clair, all the way to 860 Miller."
+    },
+    {
+      "role": "user",
+      "content": "It'll be on your left, you'll see all the cars."
+    },
+    {
+      "role": "user",
+      "content": "Capitalization 8,000, mileage 115524, 115-5-2-2."
+    },
+    {
+      "role": "user",
+      "content": "Okay. 24?"
+    },
+    {
+      "role": "user",
+      "content": "2304."
+    },
+    {
+      "role": "user",
+      "content": "90."
+    },
+    {
+      "role": "user",
+      "content": "It can be 597 en route."
+    },
+    {
+      "role": "user",
+      "content": "597 en route."
+    },
+    {
+      "role": "user",
+      "content": "1822, 1822, Hill Hall Road in Jefferson."
+    },
+    {
+      "role": "user",
+      "content": "Next to Coy County."
+    },
+    {
+      "role": "user",
+      "content": "No. 507-409."
+    },
+    {
+      "role": "user",
+      "content": "507."
+    },
+    {
+      "role": "user",
+      "content": "We're at Miller and Farnsworth now."
+    },
+    {
+      "role": "user",
+      "content": "Which house is it? We're here."
+    },
+    {
+      "role": "user",
+      "content": "Clearing the house now, 860 Miller Avenue."
+    },
+    {
+      "role": "user",
+      "content": "Got it."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, Chairman."
+    },
+    {
+      "role": "user",
+      "content": "Clarendon is tied up."
+    },
+    {
+      "role": "user",
+      "content": "I'd like to set up at least a six-block perimeter around this house until we get it cleared."
+    },
+    {
+      "role": "user",
+      "content": "Then we can possibly contain it."
+    },
+    {
+      "role": "user",
+      "content": "Look on a map and set up a perimeter around this neighborhood, a six-block radius."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

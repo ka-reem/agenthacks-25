@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "Sorry, 763 South, 475 East."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Um, we have somebody, sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Um, my, okay, hold on just one second."
+    },
+    {
+      "role": "user",
+      "content": "We got robbed, and we were cooperating with the guy, and my husband was finally able to get to his gun and shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Avonable units respond to 763 South, 475 East, possible home invasion, weapons involved, one shot fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me where the suspect is?"
+    },
+    {
+      "role": "user",
+      "content": "He's in our bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He's dead. He's dead. My husband is taking the bullets out of the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'd like him just to set it down and take a deep breath. Is there only one suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Only one that I know of."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the individual?"
+    },
+    {
+      "role": "user",
+      "content": "No. I woke up to him in our room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Does anybody need an ambulance other than the person that was shot?"
+    },
+    {
+      "role": "user",
+      "content": "No. You and your husband are okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we're okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other suspects that you're concerned about in your home?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of. He came in alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He came in alone as far as we know."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't know who he is or anything about him?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'd like you to put the gun somewhere obvious to the officer. It's on the table."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I think my husband went to the bathroom, but it's on the table. I can see it, and I'm standing by the front door unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. The gun holder has taken the bullets out and set the gun on the table. Please step away from the weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to keep you on the phone just to make sure that you're safe, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, honey, don't touch anything. Don't touch anything and don't touch him."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you certain he is deceased?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am positive he is deceased. My husband checked his pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, alright. Just keep away from him just in case, okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's upstairs right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Did that person have a weapon, too?"
+    },
+    {
+      "role": "user",
+      "content": "He said he did, but we never saw one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I have officers there. I want you to unlock your door."
+    },
+    {
+      "role": "user",
+      "content": "We're right here by the front door. It's unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, open your door. You should have an officer there."
+    },
+    {
+      "role": "user",
+      "content": "Yes, right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go. They're going to take over from here, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

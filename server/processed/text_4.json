@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Well, hi, I'm an emergency. This is Ramigran. I'm at Gracewood Deli."
+    },
+    {
+      "role": "user",
+      "content": "I specifically asked for little turkey and little ham and a lot of cheese and a lot of mayonnaise. And they give me a hard time with him and he stopped by and just..."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is this?"
+    },
+    {
+      "role": "user",
+      "content": "This is Ramigran. I was just wondering if you could just..."
+    },
+    {
+      "role": "assistant",
+      "content": "You're calling 9-1-1 because you don't like the way they're making your sandwich?"
+    },
+    {
+      "role": "user",
+      "content": "Exactly. So they don't buy it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just walk away and don't buy it if they don't want to make it the way you want it."
+    },
+    {
+      "role": "user",
+      "content": "She's telling me she won't make it for me again, and it's because of that, you know. So, I mean, I just want to solve this the right way. She's giving me a hard time."
+    },
+    {
+      "role": "user",
+      "content": "Her system made it, but she left. They played games with me. So I was just wondering if you can come by."
+    },
+    {
+      "role": "assistant",
+      "content": "Do they work there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they work here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "McLean, capital M-C, capital L-E-N-N-O-N."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said your first name is?"
+    },
+    {
+      "role": "user",
+      "content": "Rather, capital R-O-T-H-R."
+    },
+    {
+      "role": "user",
+      "content": "I just want to resolve, and I want to be able to come back here and get my regular sandwiches that I asked for. I already told her, I already asked her, maybe I have to come down before they make it and get my sandwiches that way, because it seems like they're not listening to me. They just put down anything they want and then they expect me to pay for it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, in the future, just don't, you can stay there, stay outside, I'll send somebody."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "And in the future, just don't buy the sandwich."
+    },
+    {
+      "role": "assistant",
+      "content": "Look at it before you buy it, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right. Thank you, ma'am. Bye."
+    }
+  ]
+}

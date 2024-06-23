@@ -1,0 +1,328 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, yes, I'm on North Rice Avenue. There's a man shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell if there's anybody injured? We have the fire department and officers en route."
+    },
+    {
+      "role": "user",
+      "content": "No, he didn't shoot my grandma's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the fire department is en route."
+    },
+    {
+      "role": "user",
+      "content": "Hello, hello. He's coming immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is in your house, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "We're two houses down."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he at your house right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's shooting! What's your address?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, ma'am, I need to know your address."
+    },
+    {
+      "role": "user",
+      "content": "It's 1129 Oak Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay on the phone with me. Do not hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's outside and my mom's house is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, take a deep breath, okay? Officers are outside."
+    },
+    {
+      "role": "user",
+      "content": "Is he still shooting?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still shooting?"
+    },
+    {
+      "role": "user",
+      "content": "No, he was."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are there and the fire department is en route."
+    },
+    {
+      "role": "user",
+      "content": "I can't recognize him but I have a feeling I know who it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Who do you think it is?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Bruce."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is he to you?"
+    },
+    {
+      "role": "user",
+      "content": "He's my ex-brother-in-law. They're going through a distress right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still there?"
+    },
+    {
+      "role": "user",
+      "content": "My house is on fire. My mom's house is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department is there. Who is in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Send an ambulance!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're there, ma'am. Who is all inside the house that's on fire?"
+    },
+    {
+      "role": "user",
+      "content": "1141 is my address. Some of my family is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 1141. Hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "Some of my family is doing..."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are there, okay? They are trying to get to you."
+    },
+    {
+      "role": "user",
+      "content": "My daughter is here. She's been shot in the face."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers and paramedics are almost there. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I don't know who else is alive."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. The officers are just making sure it's safe to enter."
+    },
+    {
+      "role": "user",
+      "content": "My wife and family...it's pretty deep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The officers are there. They're trying to get to you."
+    },
+    {
+      "role": "user",
+      "content": "My younger five-year-old is here."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are right outside. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "My name is Leticia."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Leticia. An officer named Sergeant Eddings is coming to your house right now."
+    },
+    {
+      "role": "user",
+      "content": "Please send Sergeant upstairs. I don't know where my son is."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, Leticia. You're doing very well."
+    },
+    {
+      "role": "user",
+      "content": "I can't keep it together."
+    },
+    {
+      "role": "assistant",
+      "content": "I know, I know. You're doing perfect. It's going to be okay."
+    },
+    {
+      "role": "user",
+      "content": "Please, I hope it's positive. I want my family to be safe."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers will help your family. Just stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Can I give her some water? She's in pain."
+    },
+    {
+      "role": "assistant",
+      "content": "Just wait. The officers and paramedics will be there soon."
+    },
+    {
+      "role": "user",
+      "content": "What is he wearing? He changed his clothes from a Santa Claus suit."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing now?"
+    },
+    {
+      "role": "user",
+      "content": "All black. He's knocking on neighbor's doors."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on. Lock all your doors. Do not let him in."
+    },
+    {
+      "role": "user",
+      "content": "He came in with a shotgun. We all started panicking and running."
+    },
+    {
+      "role": "assistant",
+      "content": "Who else is in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "My two daughters, my husband, my nephews, nieces, and my nephew's girlfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's about 15 people. The officers are there making sure it's safe to enter."
+    },
+    {
+      "role": "user",
+      "content": "My daughter was shot in the face. She's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "I let the officers know. Just stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I'm at 1141. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "1141, hold on one second. They're almost there."
+    },
+    {
+      "role": "user",
+      "content": "My daughter is in pain. Can I give her Motrin?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, wait for the paramedics to arrive. You're doing great."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. Stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Can she have some water?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second. Let me check."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, I'm still here. The officers are almost to you."
+    },
+    {
+      "role": "user",
+      "content": "Can we put her head up? She's losing a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, get her a pillow. Keep her head elevated."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. She's in a lot of pain."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Just keep talking to me."
+    },
+    {
+      "role": "user",
+      "content": "My daughter is bleeding heavily."
+    },
+    {
+      "role": "assistant",
+      "content": "The paramedics are on their way. Hold on a little longer."
+    },
+    {
+      "role": "user",
+      "content": "What's going on outside? I see lights."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are there. Just keep calm and stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I need to know what's happening."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. The officers are ensuring everything is safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Please hurry."
+    }
+  ]
+}

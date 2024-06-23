@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, there's a dead man in a car on Forest Circle!"
+    },
+    {
+      "role": "assistant",
+      "content": "You're on Forest Circle? What happened?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know exactly. I just found him, please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is James. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me more about what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I shot the guy. He was going to kill me. I had to do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, hold on just a second. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "James."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now? Are you in Corbin or Williamsburg?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Corbin, up on the hill on Forest Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the man still there with you? Is he okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's shot. He's dead. I killed him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Stay on the line, I'm going to transfer you."
+    },
+    {
+      "role": "assistant",
+      "content": "Corbin Dispatch."
+    },
+    {
+      "role": "user",
+      "content": "Hello, this is James."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your emergency, James?"
+    },
+    {
+      "role": "user",
+      "content": "I just shot a guy on Forest Circle. He threatened to kill me, so I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, where exactly are you on Forest Circle?"
+    },
+    {
+      "role": "user",
+      "content": "I'm up on the hill at 11034 Forest Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Bill Cox."
+    },
+    {
+      "role": "assistant",
+      "content": "Why did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "He's been hitting my daughter. He threatened to kill me. I had no choice."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Ryan Abner."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still see him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your gun now?"
+    },
+    {
+      "role": "user",
+      "content": "I gave it back to the neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my white truck, parked near the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I\u2019m going to let the officers know. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About five minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "How many times did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "I think just once, in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. I've informed the officers, they're on their way."
+    },
+    {
+      "role": "user",
+      "content": "Okay. He's been beating my daughter and I couldn't take it anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Stay calm, they're almost there."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm sitting in the truck, waiting for them."
+    },
+    {
+      "role": "assistant",
+      "content": "When the officers arrive, keep your hands where they can see them, and follow their instructions."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you walking outside now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, here they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and hang up once you're with them."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hanging up now."
+    }
+  ]
+}

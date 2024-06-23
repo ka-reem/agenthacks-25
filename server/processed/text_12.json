@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's 188 and 92 Indian Springs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I just shot my mother and my nephew."
+    },
+    {
+      "role": "assistant",
+      "content": "You shot your mother and your nephew?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I committed a double homicide."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know if they are alive at this point?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so. I shot them multiple times."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Adrian Graham Wallace."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at my home."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you shoot them with?"
+    },
+    {
+      "role": "user",
+      "content": "A rifle."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the gun now?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the ground, near the homicide scene."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it inside the house or outside?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the front of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the garage, smoking a cigarette. My last cigarette, I suppose."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you armed at all now?"
+    },
+    {
+      "role": "user",
+      "content": "No. If the cops treat me with respect, I'll go ahead and be a prisoner."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I ask your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "I don't remember. 1971, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So you said that you went crazy, you had some kind of mental break?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I'm going to open the garage door. I can't believe I did what I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want to help you as much as I can. Whatever you need to tell me..."
+    },
+    {
+      "role": "user",
+      "content": "No, I did what I did. People are dead. It's a criminal act, I committed a crime."
+    },
+    {
+      "role": "assistant",
+      "content": "We don't know that. We might be able to help them still."
+    },
+    {
+      "role": "user",
+      "content": "People are dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm trying to help you."
+    },
+    {
+      "role": "user",
+      "content": "Multiple repeated crimes, child abuse, stuff like that."
+    },
+    {
+      "role": "assistant",
+      "content": "Against you?"
+    },
+    {
+      "role": "user",
+      "content": "Why are you asking me this stuff? Just arrest me. Throw me in a cage."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I'm sending people to come help you, okay? They are on the way."
+    },
+    {
+      "role": "user",
+      "content": "I just committed a double homicide."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. They are coming to help you."
+    },
+    {
+      "role": "user",
+      "content": "Just give me a cop. I surrender."
+    },
+    {
+      "role": "assistant",
+      "content": "They are coming as fast as they can, I promise you that."
+    },
+    {
+      "role": "user",
+      "content": "I was an abused child. My family lied about it, and I snapped."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I hear you. I'm sending officers to you."
+    },
+    {
+      "role": "user",
+      "content": "Just kill me because I'm not going to kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "We don't want to kill you either."
+    },
+    {
+      "role": "user",
+      "content": "Yes, you do."
+    },
+    {
+      "role": "assistant",
+      "content": "No, sir, we do not. What has happened to you is horrible."
+    },
+    {
+      "role": "user",
+      "content": "What part of double homicide do you not understand?"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. I know that you had to be hurting to do what you did."
+    },
+    {
+      "role": "user",
+      "content": "I used to be the good guy. I used to help people. Now I'm a murderer."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that you have done something wrong."
+    },
+    {
+      "role": "user",
+      "content": "Do you understand that I just killed two people?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I do. I'm hearing you."
+    },
+    {
+      "role": "user",
+      "content": "Then a bunch of scumbags made it impossible for me. Betrayed me for the last time."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. And like I said, officers are on the way."
+    },
+    {
+      "role": "user",
+      "content": "They're not going to sneak up on me."
+    },
+    {
+      "role": "assistant",
+      "content": "They know that you're aware they are coming."
+    },
+    {
+      "role": "user",
+      "content": "Give me handcuffs and a prison cell. Shoot me in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Nobody wants to kill you."
+    },
+    {
+      "role": "user",
+      "content": "Yes, you do."
+    },
+    {
+      "role": "assistant",
+      "content": "Nobody wants you dead. What has happened to you is horrible."
+    }
+  ]
+}

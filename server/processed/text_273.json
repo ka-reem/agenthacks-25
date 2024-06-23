@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I've shot somebody on 10th Street, I'm in front of the court."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you did?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he ran up on my car."
+    },
+    {
+      "role": "user",
+      "content": "He opened up my door and he attacked me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, ma'am, calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "Here's what I need you to do."
+    },
+    {
+      "role": "user",
+      "content": "He tried to hit me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I understand. Ma'am, are you still at Thornton?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am. I'm blocking traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a black Suzuki."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, here's what I need you to do. You need to put the gun down on the passenger side of your car."
+    },
+    {
+      "role": "user",
+      "content": "It is. I'm out of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep your hands on either the hood or the roof of the car where they can see them and just stay like that until the police get there so that there's no mishaps, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I put it under my seat."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the phone with me until they get there."
+    },
+    {
+      "role": "user",
+      "content": "I'm fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Don't hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Yolanda Parris."
+    },
+    {
+      "role": "user",
+      "content": "I'm getting the information. I'm on 911 with the..."
+    },
+    {
+      "role": "user",
+      "content": "I'm away from the car."
+    },
+    {
+      "role": "user",
+      "content": "She put the weapon back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just, Yolanda, what's your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "10/26/68."
+    },
+    {
+      "role": "assistant",
+      "content": "What is it?"
+    },
+    {
+      "role": "user",
+      "content": "10/26/68."
+    },
+    {
+      "role": "user",
+      "content": "Let me put you on hold."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, calm down."
+    },
+    {
+      "role": "user",
+      "content": "It's a fire department man I'm trying to talk to."
+    },
+    {
+      "role": "user",
+      "content": "The weapon is under the seat."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    }
+  ]
+}

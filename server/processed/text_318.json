@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm seeing a plane."
+    },
+    {
+      "role": "assistant",
+      "content": "Good morning. Can you describe what you're seeing?"
+    },
+    {
+      "role": "user",
+      "content": "We just saw a big airliner being escorted by two fighter planes."
+    },
+    {
+      "role": "assistant",
+      "content": "Two fighter planes? Can you give me more details?"
+    },
+    {
+      "role": "user",
+      "content": "It was flying low over the Medical Center. I thought it might crash into us."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second. Let me check. [Pause] Hello? There's nothing going on, they're just testing."
+    },
+    {
+      "role": "user",
+      "content": "All right. Thank you. I'll let you know if something else happens."
+    },
+    {
+      "role": "user",
+      "content": "For whatever it's worth, I'm a motorist with a cell phone. I was coming through Journal Square just now. A four-engine passenger plane was making a sharp bank, and there was a military fighter plane flying right alongside it."
+    },
+    {
+      "role": "assistant",
+      "content": "A passenger plane and a military plane were flying over Journal Square?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they were high up, and the passenger plane was making a sharp turn. The military plane was right alongside it. It didn't look right, so I thought I'd let someone know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. We will notify the relevant authorities. Thank you for letting us know."
+    },
+    {
+      "role": "user",
+      "content": "The F-18 chasing a big commercial plane round and round over downtown Jersey?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we're aware of it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Well, there's a plane."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. Please don't worry. It's just a test."
+    },
+    {
+      "role": "user",
+      "content": "No, no, it's impossible. There's still fighter planes."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, the planes are just doing tests. There's nothing to worry about."
+    },
+    {
+      "role": "user",
+      "content": "No, that was a fighter and a commercial airplane. It went to Newark, and it came back towards me. I got pictures of it."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, ma'am. There's nothing to worry about. It's just testing, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I just had two unusual aircraft fly really close over my building. Is there something going on?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they're testing. There's nothing to be alarmed about."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "This is Wayne T. Garden from the 30 Hudson building in Jersey City."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we're aware. They're doing tests. The police are aware of it."
+    },
+    {
+      "role": "user",
+      "content": "Hold on because my building is starting to evacuate."
+    },
+    {
+      "role": "assistant",
+      "content": "No, you don't have to evacuate. They're doing testing, and the police are aware of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear you. Your building is evacuating?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but you say it's a test?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it's just a test. There's nothing to worry about."
+    },
+    {
+      "role": "user",
+      "content": "Okay, and it is a test? Who's testing?"
+    },
+    {
+      "role": "assistant",
+      "content": "The authorities are conducting test runs. There's nothing to worry about."
+    },
+    {
+      "role": "user",
+      "content": "Hi, do you know why there's an airplane flying low?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. The police are well aware of it. They're doing test runs."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thanks."
+    },
+    {
+      "role": "user",
+      "content": "I'm in number 480 Washington Boulevard building and we're seeing a big jumbo plane circling around this area."
+    },
+    {
+      "role": "assistant",
+      "content": "They're testing. There's nothing to worry about."
+    },
+    {
+      "role": "user",
+      "content": "Hello, my name is Elsa Salazar."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The emergency is an airplane."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, it's a test run. The police are aware of it. There's nothing for you to worry about."
+    },
+    {
+      "role": "user",
+      "content": "What's going on with this airplane?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's a test run. The police are aware of it. Have a good day."
+    },
+    {
+      "role": "user",
+      "content": "I'm at a building in Jersey City, 77 Hudson Street, and there's an airliner circling."
+    },
+    {
+      "role": "assistant",
+      "content": "They're doing testing on the planes. There's nothing to worry about."
+    },
+    {
+      "role": "user",
+      "content": "There's a whole crew here in emergency mode."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are aware of it, sir. We have numerous calls on it."
+    },
+    {
+      "role": "user",
+      "content": "Hi, do you know why there are planes hovering above?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. They're doing test runs."
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is a call from Plaza 5 downtown. We have a complaint."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it's a test. There's nothing to worry about. You can see it on the news."
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is Danelle Dash. I live over here by Carquest."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like gunshots are being fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know where they are coming from?"
+    },
+    {
+      "role": "user",
+      "content": "No, it was two different sets. The first set went off, and now we just heard the second set."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "104."
+    },
+    {
+      "role": "user",
+      "content": "The man ran past Pac-Man's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have a gun? Can you see what he had?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just ran past."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Danelle Dashlet. D-O-N-N-E-L-L."
+    },
+    {
+      "role": "assistant",
+      "content": "I have Danelle Dashlet on the phone. She believes she heard gunshots near Carquest and saw a man run past Pac-Man's house."
+    },
+    {
+      "role": "user",
+      "content": "A pickup truck just went down Hazeldale at high speed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Mr. Bob, get the kids down! My car's been shot. I had 3-23 rounds, came 7 meters from my head. They went through my squad. He is shooting down!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can I put you on hold for a second?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Hey, Cullen, Fuller's calling 911. Shots are being fired, one went past my head and through my squad."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to put you on hold, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We need units in the pad now!"
+    },
+    {
+      "role": "user",
+      "content": "Your call has been forwarded to an automatic voice message system."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "No, somebody in a black Toyota Tundra just peeled out of here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a license number?"
+    },
+    {
+      "role": "user",
+      "content": "No, we are inside the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did it go?"
+    },
+    {
+      "role": "user",
+      "content": "It went down Hazeldale towards Tyler's Ripper stand."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll put you back on hold again."
+    },
+    {
+      "role": "assistant",
+      "content": "All units, be advised, we have a report of a black Toyota Tundra leaving Hazeldale area at high speed heading towards Tyler's drive-in after shots were fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear anything else?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's been quiet here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "user",
+      "content": "There's someone standing on the porch at Hazeldale on the shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Do they have a gun?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell, I'm at 206, it's kitty corner."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who it is?"
+    },
+    {
+      "role": "user",
+      "content": "No, but there are two Native Americans that live on the lower level. I'm not saying it's them. A black Chevy pickup left the Suburban there."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it leave at a high rate of speed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it did."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, stay away from your windows."
+    },
+    {
+      "role": "user",
+      "content": "We will."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we have a shooting outside our apartment building."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Behind Trisha's Treasures at 107 North Lake Ave. Someone is sobbing and they need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Isn't that near the post office and city police?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "April Aubrey. We're in our apartment with the doors locked, looking out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay away from the windows, April. An ambulance is on its way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if it's cops or not, but someone's walking down the street with a rifle on Hazeldale."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell if it's an officer?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. We'll send someone to check it."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Robert Dashlett. My wife called earlier about the pickup truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we had many calls coming in at that time."
+    },
+    {
+      "role": "user",
+      "content": "Do you need a description? It was a navy blue Chevy with a silver toolbox behind the cab."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We have officers in the area."
+    },
+    {
+      "role": "user",
+      "content": "Okay. There were around 20 shots fired, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Robert."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Elder Pagel. Is it safe for my family? We've got a lot of people here and just want to be sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Elder, we recommend that everyone stays inside and uses their best judgment. We cannot release more information right now."
+    },
+    {
+      "role": "user",
+      "content": "All right. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, a friend of mine said they saw Tyler driving a black Chevy with a silver toolbox on P near Argonne."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know which way he was heading?"
+    },
+    {
+      "role": "user",
+      "content": "No, only that it was near Bud Isens' place on P."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, we'll notify the officers."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, may I help you?"
+    },
+    {
+      "role": "user",
+      "content": "This is Special Agent Jody Wormick from DCI. You can disregard the request for EMS or METFlight. The subject is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Donna Dashlet. We are up here on County N. With all this commotion, should we evacuate our home?"
+    },
+    {
+      "role": "assistant",
+      "content": "We haven't received any evacuation orders. If you don't feel safe, you may leave, but there might be road closures."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Please keep us updated if anything changes."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll do our best. Stay safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Forest County 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Phil McCorkal. My granddaughter Katrina was involved in the shooting this morning. Her car is now out here on Stetsney Lane. I don't know if the suspect is nearby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll inform the officers. Thank you."
+    }
+  ]
+}

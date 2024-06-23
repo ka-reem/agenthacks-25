@@ -1,0 +1,296 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just broke into my vehicle, man."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need to know where you're at. What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Sheridan, 10th and Sheridan. The guys who did it just sped off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "Right now I'm at home, trying to recover because I got hit with some glass shards."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to send an officer to take a report. Are you going to wait there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me where exactly you are so I can send an officer out."
+    },
+    {
+      "role": "user",
+      "content": "I'm at 29th and Harlan."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that in Denver or Lakewood?"
+    },
+    {
+      "role": "user",
+      "content": "It's in Lakewood."
+    },
+    {
+      "role": "assistant",
+      "content": "Did this happen in Denver or Lakewood, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "It happened on Sheridan, 10th and Sheridan."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it on the east or west side of Sheridan? That's the border between Denver and Lakewood."
+    },
+    {
+      "role": "user",
+      "content": "I was going northbound on Sheridan, so it must be Denver."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we need you to be in Denver so we can send an officer out. Can you come back into Denver?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can come back."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you going to start coming back right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm coming back right now. Can you stay on the phone with me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'll stay on the phone with you. Just tell me when you're on the east side of Sheridan so we can send an officer. What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "720-494-1993."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me what happened."
+    },
+    {
+      "role": "user",
+      "content": "We were driving to my brother's house and a red Jeep pulled up next to us. We passed them at the red light, and they threw a bottle through my windshield."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a look at their license plate?"
+    },
+    {
+      "role": "user",
+      "content": "I caught part of it, 936 WU, but I couldn't get the rest. They were speeding and throwing more bottles."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they throwing anything else besides bottles?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they were also throwing bottle rockets."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep driving safely. Tell me when you are back in Denver."
+    },
+    {
+      "role": "user",
+      "content": "I will. I'm just crossing 38th now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What kind of vehicle are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm driving a white Dodge Charger."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "No, I thought I was bleeding, but it's just my energy drink. I don't need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "This is a rental car, but they threw big beer bottles, 40s."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Just a minute before I called you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said it was a red Jeep, going northbound, license plate 936 WU or something similar?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They had weapons too; one pulled out a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun did you see?"
+    },
+    {
+      "role": "user",
+      "content": "It was a black handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know them at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know why they did this."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe them for me? What race were they?"
+    },
+    {
+      "role": "user",
+      "content": "They were Hispanic, and there were four of them."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe what they were wearing?"
+    },
+    {
+      "role": "user",
+      "content": "One was wearing red. They all got out and started throwing more things and one pulled out a weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think they were drunk or on drugs?"
+    },
+    {
+      "role": "user",
+      "content": "They seemed drunk, they were throwing beer bottles."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you guys been drinking or taking any drugs tonight?"
+    },
+    {
+      "role": "user",
+      "content": "No, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just wait right there at 29th and Sheridan. Are you on the east side of Sheridan?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Turn your hazard lights on so they can find you easier."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "user",
+      "content": "Hey, this is Rand's friend. Are you guys coming to help us?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we're sending an officer. Can you put Rand back on?"
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "user",
+      "content": "Hello? They're back! They're shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get away from them?"
+    },
+    {
+      "role": "user",
+      "content": "We can't! My friend got shot!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get away. Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "We're still at 29th and Sheridan. My brother got shot!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting help out there. Are the attackers still there?"
+    },
+    {
+      "role": "user",
+      "content": "No, they drove off east on 29th."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your brother conscious?"
+    },
+    {
+      "role": "user",
+      "content": "He's 25. He's awake but in bad shape. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's bleeding a lot!"
+    },
+    {
+      "role": "assistant",
+      "content": "We've got officers on the way. Stay with me. Is he still awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's awake. The officers are here now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get an ambulance out there as well. Hang tight and stay safe."
+    }
+  ]
+}

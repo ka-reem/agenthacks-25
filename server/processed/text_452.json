@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Building fire. Residential fire at 3722 Caracas Court."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 3722 Caracas Court, cross street of Cornwood, beat 803."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we're dispatching units now. Battalion 2, engine 2, engine 8, truck 2, fireman 1, and volunteers are on the way. Are you safe?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but there's an active shooting as well. Officer down, need EMS immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Everyone back away from the scene immediately. All units, clear all traffic, emergency only. Active shooting in progress. Officer down. Do you have a location for the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "Shooter is on the corner of Caraway and Caracas."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. All units, be advised, shooter located at Caraway and Caracas. Proceed with caution. Engine 2, have you cleared the scene?"
+    },
+    {
+      "role": "user",
+      "content": "Engine 2 has cleared the scene. No injuries reported."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. All units, give me a par."
+    },
+    {
+      "role": "user",
+      "content": "Engine 2 and truck 2 have par, no injuries reported."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. Fireman 1, county EMS is responding with two units. Everyone stay off the channel except for the first responding unit."
+    },
+    {
+      "role": "user",
+      "content": "Fireman 1 here. We have picked up Truck 2's company and evacuated the area. Standing by at Bentley and Woodhill."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, Bentley and Woodhill. EMS, are you on scene?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're here. We're trying to reach the officer down now."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. Med units, proceed with caution. Scene is secure for medics."
+    },
+    {
+      "role": "user",
+      "content": "Med unit approaching the officer down. Do we have another medic?"
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, another medic is on the way. All TFD units, back out of the area. Shooter is still active."
+    },
+    {
+      "role": "user",
+      "content": "We have a visual on the shooter. We're backing away now."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. All units, back away from the scene immediately."
+    },
+    {
+      "role": "user",
+      "content": "Units are out of the area. Waiting for further instructions."
+    },
+    {
+      "role": "assistant",
+      "content": "Command, Fire Med 1, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Shooter is down. Scene is secure. Need units to move in. Suspect has been hit several times."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. All units, proceed with caution. Secure the scene and assist the injured."
+    },
+    {
+      "role": "user",
+      "content": "Med unit approaching the officer down. Shooter is secure."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. Engine 2, are you back on scene?"
+    },
+    {
+      "role": "user",
+      "content": "Engine 2 arriving back on scene. Laying line now for the house fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. All units, continue with fire suppression and assist with any injuries."
+    }
+  ]
+}

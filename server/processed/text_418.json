@@ -1,0 +1,184 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, yes, I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I'm on Hardstone, in Rhode."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me what's happening there."
+    },
+    {
+      "role": "user",
+      "content": "Um, my friend is passed out and he's not waking up at all."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 12."
+    },
+    {
+      "role": "assistant",
+      "content": "What caused him to pass out?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Um, he's coughing up orange stuff over and over and he won't wake up at all."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he take any medication?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you don't know what he was doing prior to this happening?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "I have help on the way. Don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he foaming at the mouth?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's foaming at the mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he doing?"
+    },
+    {
+      "role": "user",
+      "content": "He's lying on his back, coughing really bad, so we put him on his side."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he take an overdose? Can you tell me what happened when you found him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he wasn't on the floor. He was just sleeping. He was coughing really bad, so we went in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he sick before today?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, we have help on the way. Don't give him anything to eat or drink; it might make him sick or cause problems for the doctor, okay?"
+    },
+    {
+      "role": "user",
+      "content": "That's the thing. He won't wake up."
+    },
+    {
+      "role": "assistant",
+      "content": "But he is breathing, though?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know he's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Because he's coughing, and you can see his chest moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I just want to make sure that he's breathing. If he's not breathing, then I need to stay on the phone with you. As long as he's breathing, we can wait for help to arrive. Is he still breathing now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "You can see his chest rising and falling normally, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "So you just heard him coughing, and then you went into the room and he was passed out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. I'm not stopping them from coming. Is there anything else that's happening right now?"
+    },
+    {
+      "role": "user",
+      "content": "I have to roll him over on his side. His mom can't do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is his mom okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on one second. Don't hang up."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, hi. I have a kind of a particular emergency here."
+    },
+    {
+      "role": "user",
+      "content": "My cat attacked our seven-month-old child, and I kicked the cat in the rear, and it has gone off the edge. We aren't safe around the cat."
+    },
+    {
+      "role": "user",
+      "content": "It's a very large Himalayan, and we're trapped in our bedroom. He won't let us out of the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does the child need medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "No. He has some marks on his forehead, but the cat, we don't know what to do about the cat. He's trying to attack us. He's very, very hostile. I tried to get hold of animal control."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on just a second. You guys are inside your bedroom right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. And if I leave the bedroom to let the police in, I'm going to have to fight this cat."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on just a second. When you say the cat is large, how large?"
+    },
+    {
+      "role": "user",
+      "content": "22 pounds, maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address there? What apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "[address redacted]"
+    },
+    {
+      "role": "assistant",
+      "content": "I need to put you on hold for just a moment to run something by my supervisor, but I'll be right back, okay? Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said your child does not need medical attention, right?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's just got a couple of small punctures."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and do you think the cat is ill?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think the cat has a history of violence. He's kind of a violent cat already."
+    },
+    {
+      "role": "user",
+      "content": "He's charging us. He's at our bedroom door."
+    },
+    {
+      "role": "assistant",
+      "content": "One moment, okay?"
+    },
+    {
+      "role": "user",
+      "content": "You hear him?"
+    },
+    {
+      "role": "assistant",
+      "content": "I hear him. Hold on, keep your door shut, okay? If you need anything, call us back. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

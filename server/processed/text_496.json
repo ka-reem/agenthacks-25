@@ -1,0 +1,80 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My home! 340 Doyle."
+    },
+    {
+      "role": "assistant",
+      "content": "What township or borough are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Town Borough."
+    },
+    {
+      "role": "assistant",
+      "content": "What borough?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, Dale Town."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to get out of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm disabled."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "She won't get out of the house. She says she's disabled."
+    },
+    {
+      "role": "user",
+      "content": "I did."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what\u2019s your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The line was open, but I can't hear anything."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't hang up and try to call you back. But it's still showing that you are on the call, yet I can't hear anything at all."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like she was trying to put the fire out within."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    }
+  ]
+}

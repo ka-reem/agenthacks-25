@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need medical."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in UCF, Lake Claire, building 57, third floor, room 311."
+    },
+    {
+      "role": "user",
+      "content": "My friend was drinking, and she woke me up, and she's sick, and now she's not responding. Her eyes were just open, now they're closed."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, hold on one second. I'm going to transfer you over to the medical department. Do not hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at building 57 at UCF?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Building 57, room 311 at Lake Claire Apartments on campus."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your friend is not responding now?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not. She's purple and clammy and told me her heart hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, listen to me. You need to lay her down flat, okay? Take any pillows or anything out from underneath her head."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put one hand on her forehead and one hand under her neck, and tilt her head back. See if that helps with her breathing. How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 18 years old. She's unconscious and not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, put your ear close to her mouth and look at her chest to see if you hear or feel any breathing."
+    },
+    {
+      "role": "user",
+      "content": "I don't hear or feel anything. Her chest isn't rising."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we need to help her. Are you able to give her some breaths until help arrives?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep her head tilted back, pinch her nose shut, put your mouth over hers, and give her two breaths of air. Did you see her chest rise?"
+    },
+    {
+      "role": "user",
+      "content": "No, it didn't."
+    },
+    {
+      "role": "assistant",
+      "content": "Readjust her head, and then give her two more breaths."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it rose this time."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Is she breathing on her own now?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, put one hand in the middle of her chest, right between her nipples, and push down firmly about two inches."
+    },
+    {
+      "role": "user",
+      "content": "She's gasping for air now."
+    },
+    {
+      "role": "assistant",
+      "content": "If she's gasping, let's start compressions. Can you get her onto the floor, or will you need to do this on the bed?"
+    },
+    {
+      "role": "user",
+      "content": "I can't get her onto the floor. I'll do it on the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, do the best you can. With the heel of your hand, press down in the middle of her chest. We're going to pump hard and fast, at least twice per second. Do this until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight..."
+    },
+    {
+      "role": "assistant",
+      "content": "If she's breathing, you need to stop and check her pulse."
+    },
+    {
+      "role": "user",
+      "content": "I can barely feel a pulse. She's gasping for air every few seconds."
+    },
+    {
+      "role": "assistant",
+      "content": "I hear the ambulance. Go open the door if you can."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I hear them but don't see them yet."
+    },
+    {
+      "role": "user",
+      "content": "They are here now. Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Are they with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, take care. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "Goodbye."
+    }
+  ]
+}

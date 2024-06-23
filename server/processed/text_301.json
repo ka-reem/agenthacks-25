@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the entrance to the airport, south entrance just before the turn."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you by the south U-turn or near the main entrance?"
+    },
+    {
+      "role": "user",
+      "content": "There's a TSA agent that looks like he's having a heart attack or a stroke."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're on the road that goes into the airport, right before the major turn."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on the bridge?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're before the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way were you coming from?"
+    },
+    {
+      "role": "user",
+      "content": "We're coming from 360 onto the airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on a minute. You said you think he's having a heart attack?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he slumped over in his truck."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, please hold."
+    },
+    {
+      "role": "assistant",
+      "content": "Fort Worth Police in 002, this is Donna with the airport fire department, police and fire. We need an ambulance for a TSA agent having a heart attack at the south entrance."
+    },
+    {
+      "role": "assistant",
+      "content": "We're aware of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. An ambulance is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Fort Worth Police in 002, this is Donna with the airport fire department, police and fire. Do you have an ETA for your fire people for the accident?"
+    },
+    {
+      "role": "assistant",
+      "content": "Um, I don\u2019t. Hang on just a second. Let me find the call. It\u2019s Trinity, and they're en route right now. I don't have an ETA, though. I just know they\u2019re en route."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, very good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Fort Worth Police, 0034."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, this is Amber at Airport DPS. That call we transferred earlier about a one-car collision with a male subject possible heart attack, we have two officers out with him now. He is unconscious with shallow breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an officer en route?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, at Eamon Carter, the transition to International Parkway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got it at 820 in Trinity. Is that it?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, it\u2019s actually Eamon Carter and International Parkway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me update that. What kind of vehicle?"
+    },
+    {
+      "role": "assistant",
+      "content": "It is a 2008 Toyota pickup with a disabled plate."
+    },
+    {
+      "role": "assistant",
+      "content": "I\u2019ll add that to the call."
+    },
+    {
+      "role": "assistant",
+      "content": "Amber, this is Stephanie. I've got an accident at Eamon and International; is MedStar en route?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it\u2019s a male TSA employee, and he was unconscious when officers arrived on the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "We're sending an ambulance now. Do you need anything else?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I think we're good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

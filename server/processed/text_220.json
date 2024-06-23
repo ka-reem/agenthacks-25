@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's 291 Stevens Drive, apartment 202."
+    },
+    {
+      "role": "assistant",
+      "content": "What is it?"
+    },
+    {
+      "role": "user",
+      "content": "He came into my apartment and I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "You shot someone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did you shoot?"
+    },
+    {
+      "role": "user",
+      "content": "Someone just got into my apartment and I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Was it a male?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he at?"
+    },
+    {
+      "role": "user",
+      "content": "He's in my apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at 291 Stevens Drive, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he breaking into your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he came in with a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know who he was?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "So he came into your apartment with a knife and tried to attack you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he was trying to kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he in the house?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "In the living room, by the couch."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, we've got everybody on the way, okay? Where is the gun?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the living room, I dropped it."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was he when you shot him?"
+    },
+    {
+      "role": "user",
+      "content": "He was by the couch, coming at me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, calm down. You said the gun is by him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where you shot him?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't want to look."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is this apartment 202?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, apartment 202."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, don't worry, help is on the way. Just stay where you are."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "So the door was unlocked and this person came in. Do you live alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm the only one here."
+    },
+    {
+      "role": "assistant",
+      "content": "Where were you when he came in?"
+    },
+    {
+      "role": "user",
+      "content": "I was in the bathroom, then I heard yelling."
+    },
+    {
+      "role": "assistant",
+      "content": "And where did you keep the gun?"
+    },
+    {
+      "role": "user",
+      "content": "The gun was in my bedroom. I ran to get it."
+    },
+    {
+      "role": "assistant",
+      "content": "So, after he came in, he was yelling at you and you ran to the bedroom to get the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and when I turned around, he was coming at me with the knife."
+    },
+    {
+      "role": "assistant",
+      "content": "He had a knife and was coming after you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he was."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Kat Jackson."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you spell your last name?"
+    },
+    {
+      "role": "user",
+      "content": "J-A-C-K-S-O-N."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you, Kat?"
+    },
+    {
+      "role": "user",
+      "content": "38."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Kat, just stay on the line with me until help arrives, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

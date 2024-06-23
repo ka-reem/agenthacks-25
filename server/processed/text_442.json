@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, ma'am. My name is Jarius Jackson. I'm calling on behalf of my mother. She's on the phone right now."
+    },
+    {
+      "role": "user",
+      "content": "I'm in another country, Canada. She's at my home in Texas at 2711 Driftwood Drive, and she was a witness of a kidnapping tonight."
+    },
+    {
+      "role": "assistant",
+      "content": "Who was kidnapped?"
+    },
+    {
+      "role": "user",
+      "content": "A woman she works with named Suzanne. She doesn't know her last name or too much about her. They just worked together and started talking today. The woman seemed very nervous all day."
+    },
+    {
+      "role": "user",
+      "content": "As they were walking to their cars, probably about 30-40 minutes ago, around 9:16, they were outside the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did this kidnapping occur?"
+    },
+    {
+      "role": "user",
+      "content": "It was near the Bed Bath and Beyond in Pearland, right by Walmart and Chase Bank."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where do you all work at?"
+    },
+    {
+      "role": "user",
+      "content": "They work at Catherine's."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you provide directions to your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, if you are coming off 288, take the South Fork exit. Head into Silver Creek subdivision. Turn right at the first stop sign by the car dealership. Continue to the second entrance, which is Coral Drive, C-O-R-A-L. Make a left onto Coral, then a right at the next stop sign, which I think is Tumbling Falls. Follow it to the next stop sign, make another right, and continue until you can make a left."
+    },
+    {
+      "role": "user",
+      "content": "When you make that left, go to the stop sign. You will then make another right, and then a left onto Skyline Drive, which eventually turns into Driftwood. 2711 Driftwood, second house on the left."
+    },
+    {
+      "role": "user",
+      "content": "My mom is scared to death because these people kidnapped Suzanne. They parked near my mom and had a guy with a mask, gloves, and a gun."
+    },
+    {
+      "role": "user",
+      "content": "The guy asked my mom if she had a cell phone, and she said she didn't have one. He then told Suzanne to get into the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the guy have a mask on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he had a mask, gloves, and a silver gun. He told Suzanne to get into the car, and she complied. My mom quickly drove off after that."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mom still on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, her name is Karen Jackson."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let her know we have an officer on the way to your house."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Hello? They're sending an officer to the house now."
+    }
+  ]
+}

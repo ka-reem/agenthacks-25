@@ -1,0 +1,328 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, can I get help from the police department?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is the police department. How can I help you?"
+    },
+    {
+      "role": "user",
+      "content": "Can I get some assistance at Walnut Creek Apartments?"
+    },
+    {
+      "role": "assistant",
+      "content": "Walnut Creek Apartments? What's going on over there?"
+    },
+    {
+      "role": "user",
+      "content": "We got an officer down."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean you have an officer down?"
+    },
+    {
+      "role": "user",
+      "content": "If y'all don't clear this up, all the officers are going to be down."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you verify your identity?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, forget it."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you need, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we got a..."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "We got a backpack with bombs all around downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you going to put the bomb?"
+    },
+    {
+      "role": "user",
+      "content": "We're going to put them downtown and blow everything up."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "APD"
+    },
+    {
+      "role": "assistant",
+      "content": "To what location?"
+    },
+    {
+      "role": "user",
+      "content": "Walnut Creek Apartments."
+    },
+    {
+      "role": "assistant",
+      "content": "Building and apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "Building three, apartment 187."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I saw an officer shot down."
+    },
+    {
+      "role": "assistant",
+      "content": "You saw an officer being shot down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a dude was shooting at him."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About 30 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the officer still there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm looking through the window."
+    },
+    {
+      "role": "assistant",
+      "content": "And the person who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You said this was 30 minutes ago?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he wore all black."
+    },
+    {
+      "role": "assistant",
+      "content": "A white male wearing all black?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a reason why you didn't call earlier?"
+    },
+    {
+      "role": "user",
+      "content": "I was scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still see the officer there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he right now?"
+    },
+    {
+      "role": "user",
+      "content": "Laying down screaming for help."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "APD."
+    },
+    {
+      "role": "assistant",
+      "content": "How can I help you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "We got an officer down."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry?"
+    },
+    {
+      "role": "user",
+      "content": "I've seen a cop get shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Downtown, 6th Street, off Netches."
+    },
+    {
+      "role": "assistant",
+      "content": "You saw an officer get shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me get the ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS, what's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "6th Street and Netches."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat that to make sure I have it correct?"
+    },
+    {
+      "role": "user",
+      "content": "This is an anonymous caller. Officer down."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the telephone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Anonymous."
+    },
+    {
+      "role": "assistant",
+      "content": "If we get disconnected, you need to call us back at 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Officer was shot because he stopped a person."
+    },
+    {
+      "role": "assistant",
+      "content": "APD, are you on the line?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a record of this?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "EMS?"
+    },
+    {
+      "role": "assistant",
+      "content": "We received a terroristic threat earlier from this number."
+    },
+    {
+      "role": "assistant",
+      "content": "His location showed East Austin, not downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have officers en route over there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we do."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you sending anyone to 6th and Netches?"
+    },
+    {
+      "role": "user",
+      "content": "It doesn't look like it."
+    },
+    {
+      "role": "assistant",
+      "content": "Are officers checking the location from the earlier call?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have officers there. No confirmed officers down."
+    },
+    {
+      "role": "assistant",
+      "content": "If you find anything, please call us."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any other calls about an officer down?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

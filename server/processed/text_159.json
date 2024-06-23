@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, hi, I'm on Daniel Street Southeast. I'm at around 68 Daniel Street Southeast. There's been a demolition of a house and there is a woman inside. We need someone to come."
+    },
+    {
+      "role": "assistant",
+      "content": "You said 68 Daniel Street Southeast? How did the house get demolished?"
+    },
+    {
+      "role": "user",
+      "content": "The house is being demolished by city order. There's a woman inside the house, we need an ambulance immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Hold on for a second. You say she's trapped inside?"
+    },
+    {
+      "role": "user",
+      "content": "She's inside underneath the rubble of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, let me get everybody started first. I need to get some more information from you. They're trying to dig her out now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can I have your name?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my name is Devin Joyner. I don't know the exact address of the demolished house, but my address is 68 Daniel Street. The house is just a couple of houses away from mine. If you send someone to my address, I'll guide them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're coming to 68 Daniel Street Southeast and you\u2019ll show them exactly where to go?"
+    },
+    {
+      "role": "user",
+      "content": "I'll be in front of my house and guide them once they get here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know anything about the woman?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know anything about her. She\u2019s just under the rubble. We need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got fire and police started. I'll get an ambulance started here in just a second. We do have fire and PD started."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If we need to call you back, is this the best number to reach you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Atlanta Operator 5296, I have 68 Daniel Avenue Southeast. A woman is trapped inside a house that\u2019s being demolished by the city."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your operator number again?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's 703. Have they already started the demolition?"
+    },
+    {
+      "role": "assistant",
+      "content": "The house is already demolished, she's trapped inside."
+    },
+    {
+      "role": "assistant",
+      "content": "I just wanted to clarify. We\u2019ve got police and fire started."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm 703. I'll get someone en route."
+    },
+    {
+      "role": "assistant",
+      "content": "Atlanta 911 emergency, Operator 3659."
+    },
+    {
+      "role": "user",
+      "content": "We need an ambulance immediately to the corner of Daniel Street and Gartrell. A woman is under the rubble of a house that's being demolished. We called 10 minutes ago, we need an ambulance now."
+    },
+    {
+      "role": "assistant",
+      "content": "Daniel Street and Gartrell Southeast intersection?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's trapped under the rubble."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll start the fire department while you speak with the ambulance operator. One moment."
+    },
+    {
+      "role": "assistant",
+      "content": "Grady EMS, Operator 768. What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's the corner of Daniel Street and Gartrell Southeast. We need an ambulance immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Repeat the address to make sure I have it correct."
+    },
+    {
+      "role": "user",
+      "content": "52 Daniel Street, Southeast. There's a woman in a house that's being demolished; the roof is on top of her. We called 10 minutes ago and she\u2019s buried in the rubble. We\u2019re waiting for an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "We're on the way, sir."
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire and PD are already en route. Did you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I heard you."
+    },
+    {
+      "role": "assistant",
+      "content": "They gave us a different address, but we have 68 Daniel Avenue. I\u2019ll let them know about the new address, 52 Daniel Street and Gartrell."
+    },
+    {
+      "role": "assistant",
+      "content": "I\u2019ll let them know to respond to that location. Daniel Avenue is different."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, thank you."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, this is Arsbury County."
+    },
+    {
+      "role": "user",
+      "content": "We just had a robbery. They took a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on for the sheriff's office, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they leave the residence?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am, they left the residence."
+    },
+    {
+      "role": "user",
+      "content": "They came in the house and told all of us to lay on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "And they took the baby."
+    },
+    {
+      "role": "user",
+      "content": "Hello, ma'am. Excuse me."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Tell me what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me what happened, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "They came into the house and told us to lay on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who came in? How many?"
+    },
+    {
+      "role": "user",
+      "content": "Four of them."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they male or female? Black or white?"
+    },
+    {
+      "role": "user",
+      "content": "They were all black."
+    },
+    {
+      "role": "assistant",
+      "content": "You said four of them, were they males or females?"
+    },
+    {
+      "role": "user",
+      "content": "Males."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did they have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "How many?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, ma'am, excuse me, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, you need to slow down. Did they have any guns?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what did they leave in?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What did they leave in?"
+    },
+    {
+      "role": "user",
+      "content": "I can't talk to multiple people at once."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to stay on the line and not switch the phone from person to person."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. What did they leave in?"
+    },
+    {
+      "role": "user",
+      "content": "They were driving a Green Explorer."
+    },
+    {
+      "role": "user",
+      "content": "I didn't get the tag number, but there was also a little red car."
+    },
+    {
+      "role": "assistant",
+      "content": "A green Explorer and a red what?"
+    },
+    {
+      "role": "user",
+      "content": "A little red car. I don't know the make or model."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have an emergency here."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the hazard?"
+    },
+    {
+      "role": "user",
+      "content": "I just got burned by gasoline, please, hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't hear you clearly. Can you speak up?"
+    },
+    {
+      "role": "user",
+      "content": "I'm burnt. All my body was covered in gasoline. Please send an ambulance, quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm trying to get help to you, but you need to calm down and tell me exactly what's going on."
+    },
+    {
+      "role": "user",
+      "content": "Please get help out here. I am burning and it hurts so much."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened to you?"
+    },
+    {
+      "role": "user",
+      "content": "I was near my brother and gasoline spilled on me and I caught fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me. Can you hang on while I get rescue for you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on, and please don't hang up, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "What address is the patient at?"
+    },
+    {
+      "role": "user",
+      "content": "Pearson, yes, and Pearson."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I got burnt by gasoline. I need help right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have help on the way. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 17."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said you were burned by gasoline?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, all my body is covered in gasoline. I need to be rushed to a hospital right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you burned?"
+    },
+    {
+      "role": "user",
+      "content": "Everywhere. All my body, my face is burnt."
+    },
+    {
+      "role": "assistant",
+      "content": "Your whole body is burned?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "They are on the way. I need to get more information for the responders. Did you accidentally pour gasoline on yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, my brother was involved. There was gasoline and I caught on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "So you did catch on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my whole body caught on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay with me. What's the nearest intersecting road near you?"
+    },
+    {
+      "role": "user",
+      "content": "Pernado Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the exact address you're at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Pearson Street, near Pernado."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in front of a house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in front of a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's [caller gives phone number]."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have help on the way. Do you want me to stay on the phone with you until they get there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. Has anyone there been drinking tonight?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she just spill the gasoline or did she catch on fire as well?"
+    },
+    {
+      "role": "user",
+      "content": "Fire and gasoline maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she on fire right now?"
+    },
+    {
+      "role": "user",
+      "content": "She doesn't speak a lot of English."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have help on the way. Do you need me to stay on the phone until the paramedics get there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "They've been on the way since you called, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If anything changes, call us back. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

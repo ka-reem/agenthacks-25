@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a gunshot victim here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "He was breaking into the house. I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "It's [phone number]."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 30."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "He's outside. I believe he's shot in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you just send somebody here, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to tell me what happened, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "He was breaking into the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who it was?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's my roommate."
+    },
+    {
+      "role": "assistant",
+      "content": "And how did he get the gunshot wound?"
+    },
+    {
+      "role": "user",
+      "content": "From me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the gun now?"
+    },
+    {
+      "role": "user",
+      "content": "It's here at the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I've not been out there. Please, come on."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, please."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to have somebody sent that way. I just need you to answer my questions as best you can, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way you could go out and check on him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "If you feel comfortable doing so."
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's breathing, but he's struggling."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he is breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is the gunshot wound?"
+    },
+    {
+      "role": "user",
+      "content": "It's to the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's bleeding. He's unconscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there more than one wound?"
+    },
+    {
+      "role": "user",
+      "content": "No, just the one wound."
+    },
+    {
+      "role": "assistant",
+      "content": "When did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Just now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way you could put the gun away or lock it up?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can do that."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a .22 pistol."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "James Lang."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's the roommate's name?"
+    },
+    {
+      "role": "user",
+      "content": "Richard Bartlett."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he armed or did he have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "No, no weapons. Just very violent."
+    },
+    {
+      "role": "assistant",
+      "content": "If you could just stay on the line for me, I'm going to give the responders some instructions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you able to put the gun away?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any way you could get outside to the patient with the phone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have a cordless phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm alone."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to get to the patient if able. Lay him flat on his back to keep his airway open."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will do that."
+    },
+    {
+      "role": "assistant",
+      "content": "If able, get a clean, dry cloth or towel and place it firmly on the wound. Don't lift it up to look."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I can do that."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he sounds like he's gurgling."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to keep his airway open. Make sure he is flat on his back with no pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Check his mouth for food or vomit."
+    },
+    {
+      "role": "user",
+      "content": "He's not vomiting."
+    },
+    {
+      "role": "assistant",
+      "content": "How long will it be until responders arrive?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are on their way as quickly as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't put direct pressure if there is any visible fracture. Just apply firm pressure around the wound."
+    },
+    {
+      "role": "user",
+      "content": "There doesn\u2019t appear to be a large amount of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ensure his head is tilted back to maintain the airway?"
+    },
+    {
+      "role": "user",
+      "content": "I can't do that and come back to the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with him and monitor his breathing. Is there no way to bring the phone any closer?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with him and ensure he continues breathing. I'm staying on the line."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there, sir? Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "The main thing is to monitor that as best you can. They're here. Thank God."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay separated from the weapon."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when they're right there with you."
+    },
+    {
+      "role": "user",
+      "content": "Do you want me to step to the door?"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when they're with you. Just make sure to stay separated from the gun."
+    },
+    {
+      "role": "user",
+      "content": "They're on the porch."
+    },
+    {
+      "role": "assistant",
+      "content": "If they're there with you, go ahead and step outside."
+    },
+    {
+      "role": "user",
+      "content": "Should I hold on, or they're asking questions?"
+    },
+    {
+      "role": "assistant",
+      "content": "If you could just let me know when they're with you and stay separated from the weapon."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, please help me."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I love me. I just don't know where we are."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you at a house or a business?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you find a piece of mail or ask someone there for the address?"
+    },
+    {
+      "role": "assistant",
+      "content": "What city are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Santaquin."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there someone there that knows the address?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, I was just on Main Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see a number on a business or anything around you?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're not near a building, we're in the road."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, it's a lady's phone."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the emergency there?"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to take a deep breath and tell me what's wrong."
+    },
+    {
+      "role": "user",
+      "content": "Nobody took us, nobody took us."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand what's going on. What happened?"
+    },
+    {
+      "role": "user",
+      "content": "He took us in his car."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone took you in his car?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the car?"
+    },
+    {
+      "role": "user",
+      "content": "No, we got out of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the person that took you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where they went."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to take a deep breath. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Amber."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the street?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're in the street."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did he leave?"
+    },
+    {
+      "role": "user",
+      "content": "Like, 10 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car was it?"
+    },
+    {
+      "role": "user",
+      "content": "It was a red car, I think an SUV."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the license plate number?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know the license plate number."
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction did they go?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where we are."
+    },
+    {
+      "role": "assistant",
+      "content": "Do they go towards the freeway?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where that is."
+    },
+    {
+      "role": "assistant",
+      "content": "Amber, I have some help coming to you. Are you by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, they have my friend too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 16."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the officer with you right now?"
+    },
+    {
+      "role": "user",
+      "content": "Not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Amber, what's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "How do you spell it?"
+    },
+    {
+      "role": "user",
+      "content": "What's your friend's name?"
+    },
+    {
+      "role": "user",
+      "content": "Bree."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you spell Bree's name?"
+    },
+    {
+      "role": "user",
+      "content": "B-R-E-E."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. My friend is hurt, but I think she's okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see a police car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is here now."
+    }
+  ]
+}

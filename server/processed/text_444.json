@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a little girl who fell in the pool and I think she's unconscious right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's 886 East Florida Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "What city are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Denver, Colorado."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, let me get you in touch with Denver. Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on one moment."
+    },
+    {
+      "role": "user",
+      "content": "I will stay on the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Jennifer 911, 8274. How may I help you?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Diva with Aurora. I've got a lady on the phone who might possibly have an unconscious child. 886 East Florida Avenue. Is that going to be yours?"
+    },
+    {
+      "role": "assistant",
+      "content": "East Florida? Yes. Is the child breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's 12 years old. She's not breathing. She's not doing anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, ma'am, hold on. I'm getting some help for you. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "She's not doing anything. What do we do? Is there anything we can do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she out of the pool?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's out of the pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to lay her on her back."
+    },
+    {
+      "role": "user",
+      "content": "We did. We laid her on her back."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she on a flat surface?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's on a flat surface."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, place one hand on her forehead and your other hand under her chin. Tilt her head back to open her airway."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm doing that."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'm going to give you instructions to help her breathe. Can you do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think I can do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there someone else there who can?"
+    },
+    {
+      "role": "user",
+      "content": "I'm the only one here and there's a little child only."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give the phone to the child, or can I walk you through CPR?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see anybody else. It's just the child and she's my neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you try to do CPR? I will guide you through it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will try."
+    },
+    {
+      "role": "assistant",
+      "content": "First, lay her flat on her back on a hard surface. Tilt her head back to open her airway. Can you do that?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I already did that."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I think she is."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see her chest rising and falling?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the color of her face and lips?"
+    },
+    {
+      "role": "user",
+      "content": "Her lips are red and her face looks normal."
+    },
+    {
+      "role": "assistant",
+      "content": "But she's still unconscious, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. I want to make sure she is breathing though. Is it normal breathing or is she gasping for air?"
+    },
+    {
+      "role": "user",
+      "content": "She's gasping for air."
+    },
+    {
+      "role": "assistant",
+      "content": "Right now she is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Describe to me how she is breathing."
+    },
+    {
+      "role": "user",
+      "content": "She's gasping and breathing hard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Help is on the way."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Ronald 911 with the location of the emergency."
+    },
+    {
+      "role": "user",
+      "content": "This is Callow. We're at the Best Western off of 114. Someone has been shot in the neck. They're going to need medical assistance."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead, sir."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me get Denton County on the line to get you an ambulance. What room are they in?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, what room are they in?"
+    },
+    {
+      "role": "user",
+      "content": "They're not in a room, we're out at the pool right now. The pool area."
+    },
+    {
+      "role": "assistant",
+      "content": "Denton County 911."
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. This is Brooke up at the transfer. We need an ambulance. We have a shooting at the Best Western."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, what's the address there?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I'm not sure of the exact address. It's 377 and 114."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm an off-duty officer. Somebody got a hold of my gun. It's 801 West Byron Nelson."
+    },
+    {
+      "role": "assistant",
+      "content": "801 West Byron Nelson?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. It's 377 and 114, but somebody got a hold of my gun and shot somebody."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so somebody took your weapon and shot somebody else in the neck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where's the weapon at now, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I have it in my custody."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you have it in your custody. Where's the person that did the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "He is right here next to me. It's... It's fine. He didn't understand it was an off-duty weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "I have an ambulance on the way. What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, what's going on? There's an argument."
+    },
+    {
+      "role": "user",
+      "content": "Why, God! Why!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, who is yelling?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? Hello, who did you have me call?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, who is yelling?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I need to talk to you. I don't need to talk to him. The person that is shot."
+    },
+    {
+      "role": "assistant",
+      "content": "The person that was shot, where are they?"
+    },
+    {
+      "role": "user",
+      "content": "She's right on the ground and a nurse is doing CPR on her."
+    },
+    {
+      "role": "assistant",
+      "content": "CPR is in progress?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A guy stopped me. Something's wrong with his wife."
+    },
+    {
+      "role": "assistant",
+      "content": "He's doing what?"
+    },
+    {
+      "role": "user",
+      "content": "Something's wrong with his wife. He doesn't speak very good English."
+    },
+    {
+      "role": "assistant",
+      "content": "Medically wrong?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "On Garfield, right by 22 miles, off the side of the road."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on Garfield, just south of 22?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "It's a red jeep."
+    },
+    {
+      "role": "assistant",
+      "content": "Red jeep. She just had a baby?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby completely out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. And there's blood and..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay. The baby's not crying. Is the child breathing?"
+    },
+    {
+      "role": "user",
+      "content": "The baby's not crying. It's not breathing right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need to try to stimulate the baby's breathing. Rub his back with your fingertips."
+    },
+    {
+      "role": "user",
+      "content": "Rub his back with the fingertips?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is the umbilical cord still attached?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to keep the baby's head supported. Hold the baby so the head is supported, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hold them this way. You keep the head supported?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, keep the neck and head supported."
+    },
+    {
+      "role": "user",
+      "content": "Got it."
+    },
+    {
+      "role": "assistant",
+      "content": "You got any blankets or anything to try to wrap the baby up?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's got a blanket."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The cord is not around the neck, right?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby full term?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the baby start breathing with the back rubs?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's still not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "How's its color?"
+    },
+    {
+      "role": "user",
+      "content": "Pale, very pale."
+    },
+    {
+      "role": "assistant",
+      "content": "The cord is not wrapped around its neck or anything, is it?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we need to do some CPR. Is the baby laying on its back?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure his mouth is open and nothing's blocking his airway."
+    },
+    {
+      "role": "user",
+      "content": "Nothing's blocking."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, put one hand on his forehead and the fingers of your other hand just under the bony part of his chin. Tilt his head back just a little, but not too much, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the baby make any movement?"
+    },
+    {
+      "role": "user",
+      "content": "No, baby's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you willing to do rescue breaths?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Cover the baby's mouth and nose with your mouth. Put two little puffs of air into his mouth, okay? Two slow breaths."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I did two slow breaths."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see his chest move?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby moving?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to do chest compressions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Wait, yes, the baby is moving!"
+    },
+    {
+      "role": "assistant",
+      "content": "The baby's moving? Is it crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's like whimpering."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, let me check."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your ear by her mouth to hear if she's breathing."
+    },
+    {
+      "role": "user",
+      "content": "Okay. She's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "She's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Got her wrapped up?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "The umbilical cord is still attached, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't cut it. The baby's still breathing and whimpering?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, still breathing and whimpering."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have towels or blankets to keep the baby warm?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have a blanket."
+    },
+    {
+      "role": "assistant",
+      "content": "How's mom doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's okay, just worried about the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep an eye on the baby's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the umbilical cord pulsating at all?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell."
+    },
+    {
+      "role": "user",
+      "content": "I can hear the ambulance coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, my partner has dispatched everyone as soon as we started talking. Is the baby still breathing and crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the baby is okay, still breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Great job. Is mom still doing okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, mom's okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you'll have officers and deputies arriving soon to help you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. They're here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Very good. They will take care of you all."
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Great job."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

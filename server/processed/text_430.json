@@ -1,0 +1,176 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Cushing Police Department. We've got a little boy missing. Have you had any reports on one?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, ma'am. We haven't. How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "Four."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "722 East 3rd."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. His mother does. This is his grandmother."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What color is his hair?"
+    },
+    {
+      "role": "user",
+      "content": "It's brown. Brown hair, blue eyes. He's autistic and can't talk."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who am I speaking to?"
+    },
+    {
+      "role": "user",
+      "content": "Tom Pennington."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's his mother?"
+    },
+    {
+      "role": "user",
+      "content": "Cheryl Ryan Pennington."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan Pennington?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they were asleep in the living room. He's autistic and doesn't sleep regular patterns, so he was up all night. They needed some sleep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Have you checked all the closets, under the beds, and other places?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They just woke up."
+    },
+    {
+      "role": "assistant",
+      "content": "Is his mom out looking for him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Blake."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does she have a cell phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I don't know her number."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you have 722 East 3rd, an autistic 4-year-old boy with no clothing description at this time. I'm trying to get more information."
+    },
+    {
+      "role": "user",
+      "content": "Yes, Connie Pennington's the grandmother."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Has she found him?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Connie, do you know how long he's been gone?"
+    },
+    {
+      "role": "user",
+      "content": "No. Still haven't found him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is that Ryan? Let me talk to Ryan right quick, Connie."
+    },
+    {
+      "role": "user",
+      "content": "She's hysterical."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Were the doors unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Let me talk to Ryan."
+    },
+    {
+      "role": "assistant",
+      "content": "Connie, let me talk to Ryan."
+    },
+    {
+      "role": "user",
+      "content": "She's gone down the hall."
+    },
+    {
+      "role": "assistant",
+      "content": "Ask her to look in all the closets and under the bed. Also, ask her if she knows what he was wearing."
+    },
+    {
+      "role": "user",
+      "content": "What was he wearing? Connie, I need to talk to Ryan. We're wasting valuable time with her acting like this."
+    },
+    {
+      "role": "user",
+      "content": "She needs to talk to you, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "Sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she leave again?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. She's refusing to talk to me to provide any further information. Still no clothing description at this time. Brown hair, blue eyes, name of Blake."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We are dispatching help to 722 East 3rd."
+    }
+  ]
+}

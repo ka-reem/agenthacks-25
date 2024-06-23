@@ -1,0 +1,264 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, um, they just broke into my house. They had guns. They told us to just stay on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "I was with my uncle and my little brother and sister."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, I'm eleven."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you home alone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm with my uncle."
+    },
+    {
+      "role": "assistant",
+      "content": "How many intruders did you see?"
+    },
+    {
+      "role": "user",
+      "content": "I saw two of them, but my uncle thinks there were four."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they male or female?"
+    },
+    {
+      "role": "user",
+      "content": "They were all male."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they leave on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They just told me to stay on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on just a second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your uncle?"
+    },
+    {
+      "role": "user",
+      "content": "He's right next to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Did your uncle see if they left on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "He doesn't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your uncle know these people?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just came from Pennsylvania."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe what they were wearing?"
+    },
+    {
+      "role": "user",
+      "content": "They had bandanas on their faces. One had a black one, they had hats on, one had a green shirt under a black hoodie with red and white letters."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they wearing all black clothing?"
+    },
+    {
+      "role": "user",
+      "content": "One of them had jeans. The other one had a black hoodie."
+    },
+    {
+      "role": "assistant",
+      "content": "The other person, what did they wear?"
+    },
+    {
+      "role": "user",
+      "content": "He had a black hoodie too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Please stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they skinny or larger?"
+    },
+    {
+      "role": "user",
+      "content": "They were skinny."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they tall or short?"
+    },
+    {
+      "role": "user",
+      "content": "They were tall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me until my deputies come to your door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a white or silver car in your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's white. It's my dad's car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know if the intruders left through the front door?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. I heard glass break too, like a window."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay away from the front door."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your uncle speak English?"
+    },
+    {
+      "role": "user",
+      "content": "He speaks Spanish."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and he doesn't know the intruders?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just came from Pennsylvania."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a good job. Hold on just a minute for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a back door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you and everyone to exit through the back door. My deputies are all around the house."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else at home besides you and your uncle?"
+    },
+    {
+      "role": "user",
+      "content": "My little brother and sister are here too."
+    },
+    {
+      "role": "assistant",
+      "content": "I need all of you to go out the back door now."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when you are outside."
+    },
+    {
+      "role": "user",
+      "content": "My little sister is putting on her shoes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just let me know when you are outside."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, you\u2019re doing a great job. Stay on the phone until the deputies reach you."
+    }
+  ]
+}

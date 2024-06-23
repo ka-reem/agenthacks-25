@@ -1,0 +1,100 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Seizures on Sunset and Larrabee, please come here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, calm down a little bit, okay? What's the address where you need us?"
+    },
+    {
+      "role": "user",
+      "content": "It's Sunset and Larrabee. It's the Viper Room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "It's the Viper Room. It's cold!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir? Sir, calm down a little bit, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, it's my brother. Please come here."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 23."
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down, okay? If you can't calm down, get the phone to somebody else."
+    },
+    {
+      "role": "user",
+      "content": "No, there's no one else around."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm fine. I think he's had a problem or something. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's with him right now?"
+    },
+    {
+      "role": "user",
+      "content": "Um, my sister and some other people."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you talk to her from where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to give him mouth-to-mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, calm down. Tell her not to give him mouth-to-mouth unless he's not breathing."
+    },
+    {
+      "role": "user",
+      "content": "Don't give him mouth-to-mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "You only give him mouth-to-mouth if he's not breathing. What's he doing? Does it seem like he's sleeping right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it just looks like he's sleeping."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's very normal after a seizure. Sometimes they do actually go to sleep. If he goes into another seizure, just let him have it. Don't try to restrain him, alright?"
+    },
+    {
+      "role": "user",
+      "content": "What about putting something in his mouth?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do not put anything in his mouth, okay? He will not swallow his tongue, believe me. Just let him go ahead and have another seizure if it happens. Paramedics are on the way, they should be there shortly."
+    }
+  ]
+}

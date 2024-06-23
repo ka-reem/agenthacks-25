@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is 911. Do you have an emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am? Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay? What happened to you?"
+    },
+    {
+      "role": "user",
+      "content": "Get off me! No! No!"
+    },
+    {
+      "role": "user",
+      "content": "Hello! Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? What is going on?"
+    },
+    {
+      "role": "user",
+      "content": "I'm scared. I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "What is happening? Can you tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'm scared. I'm gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, I'm sending help."
+    },
+    {
+      "role": "assistant",
+      "content": "Are we getting another bid on her, 1020?"
+    },
+    {
+      "role": "user",
+      "content": "Oh no, let me see, hold on."
+    },
+    {
+      "role": "user",
+      "content": "Same thing. Somebody must go by."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear that? Hello?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the street right now."
+    },
+    {
+      "role": "assistant",
+      "content": "The line is still open, but I don't hear anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone for just a second, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Has it rebid yet for address?"
+    },
+    {
+      "role": "user",
+      "content": "No, it was the same."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, hold on just a second."
+    },
+    {
+      "role": "user",
+      "content": "Get out of here! The dog's barking."
+    },
+    {
+      "role": "user",
+      "content": "Jeff, are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm still here. The phone is still open."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we found them. I'm sorry, we've just been busy up here, but we can go ahead and hang up, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, no problem."
+    }
+  ]
+}
