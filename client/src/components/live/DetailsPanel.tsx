@@ -1,4 +1,3 @@
-import Image from "next/image";
 import {
     Ambulance,
     CircleEllipsisIcon,
@@ -30,7 +29,7 @@ const EmergencyInfoItem = ({
     </div>
 );
 
-const EmergencyPanel = () => {
+const DetailsPanel = () => {
     const emergency = {
         title: "House Fire in Lincoln Ave.",
         status: "CRITICAL",
@@ -45,7 +44,7 @@ const EmergencyPanel = () => {
     return (
         <Card className="h-fit w-[500px] rounded-none border-b border-l border-gray-400 px-2">
             <CardHeader className="px-2 py-[6px]">
-                <p>Emergency</p>
+                <p>Details</p>
                 <Separator />
             </CardHeader>
             <CardContent className="space-y-2 p-2">
@@ -132,4 +131,4 @@ const EmergencyPanel = () => {
     );
 };
 
-export default EmergencyPanel;
+export default DetailsPanel;
