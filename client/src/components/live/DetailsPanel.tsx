@@ -139,7 +139,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
 
                 <Separator />
 
-                <div className="px-3">
+                <div className="px-2">
                     <p className="text-sm text-black text-opacity-50">
                         Summary
                     </p>
@@ -157,7 +157,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                     </ScrollArea>
                 </div>
             </CardContent>
-            <CardFooter className="pt-2">
+            <CardFooter className="px-4 pb-4 pt-2">
                 <div className="flex w-full flex-col space-y-2">
                     <p className="text-lg font-semibold">
                         Dispatch first responders:
