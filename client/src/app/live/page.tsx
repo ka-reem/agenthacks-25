@@ -115,7 +115,7 @@ const Page = () => {
     const [selectedId, setSelectedId] = useState<string | undefined>();
 
     const handleSelect = (id: string) => {
-        setSelectedId(id);
+        setSelectedId(id === selectedId ? undefined : id);
     };
 
     useEffect(() => {
@@ -157,7 +157,12 @@ const Page = () => {
             <Header connected={connected} />
 
             <div className="flex h-full justify-between">
-                <EventPanel data={data} handleSelect={handleSelect} />
+                <EventPanel
+                    data={data}
+                    selectedId={selectedId}
+                    handleSelect={handleSelect}
+                />
+
                 {selectedId && data ? (
                     <div className="flex">
                         <EmergencyPanel />
@@ -165,6 +170,7 @@ const Page = () => {
                     </div>
                 ) : null}
             </div>
+
             <Map
                 center={{
                     lng: -122.272507,
