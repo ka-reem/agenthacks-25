@@ -10,7 +10,7 @@ const Header = () => {
     const currentTime = new Date();
 
     return (
-        <div className="flex h-[50px] w-full items-center bg-gray-300 px-7">
+        <div className="flex h-[50px] w-full items-center border-b-2 border-gray-400 bg-gray-300 px-7">
             <div className="flex-between w-full text-sm font-bold uppercase text-gray-800">
                 <h1>Location</h1>
 
