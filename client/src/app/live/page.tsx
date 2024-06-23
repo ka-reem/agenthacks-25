@@ -27,7 +27,7 @@ export type Call = {
     name: string;
     phone: string;
     recommendation: string;
-    severity: string;
+    severity: "CRITICAL" | "MODERATE" | "RESOLVED";
     summary: string;
     time: string; // ISO Date String
     title: string;
@@ -55,7 +55,7 @@ const MESSAGES: Record<string, Call> = {
         name: "John Doe",
         phone: "555-123-4567",
         recommendation: "Monitor situation and provide updates",
-        severity: "Moderate",
+        severity: "MODERATE",
         summary:
             "Power outage reported in Springfield area. Estimated restoration by 5:00 PM.",
         time: "2023-07-15T14:15:00Z",

@@ -64,6 +64,9 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                         .filter(([_, emergency]) =>
                             emergency.title.includes(search),
                         )
+                        .sort(([_, a], [__, b]) =>
+                            new Date(a.time) < new Date(b.time) ? 1 : -1,
+                        )
                         .map(([_, emergency]) => (
                             <Card
                                 key={emergency.id}
@@ -86,7 +89,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                                         size={24}
                                     />
                                 )}
-                                {emergency.severity === "SAFE" && (
+                                {emergency.severity === "RESOLVED" && (
                                     <ShieldCheck
                                         className="mr-3 min-w-6 text-green-500"
                                         size={24}
