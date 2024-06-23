@@ -49,7 +49,7 @@ export interface CallProps {
 }
 
 const wss = new WebSocket(
-    "wss://fitting-correctly-lioness.ngrok-free.app/ws?client_id=1234",
+    "wss://planned-halimeda-wecracked2-c8137aa7.koyeb.app/ws?client_id=1234",
 );
 
 const MESSAGES: Record<string, Call> = {
