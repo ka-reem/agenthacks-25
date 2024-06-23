@@ -1,12 +1,13 @@
+import { CallProps } from "@/app/live/page";
 import { CheckCircle2Icon } from "lucide-react";
 
 import { Progress } from "../ui/progress";
 import { Separator } from "../ui/separator";
-import ChatInterface, { MessagesProps } from "./ChatInterface";
+import ChatInterface from "./ChatInterface";
 
-interface TranscriptPanelProps extends MessagesProps {}
+interface TranscriptPanelProps extends CallProps {}
 
-const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
+const TranscriptPanel = ({ call }: TranscriptPanelProps) => {
     return (
         <div className="w-[400px] bg-white">
             <p className="px-2 py-[6px]">Live Transcript</p>
@@ -57,7 +58,7 @@ const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
                         </p>
                     </div>
 
-                    <ChatInterface messages={messages} />
+                    <ChatInterface call={call} />
                 </div>
             </div>
         </div>
