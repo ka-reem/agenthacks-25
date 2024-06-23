@@ -75,7 +75,7 @@ const Map: React.FC<MapProps> = ({ center, pins }) => {
             map.current.getZoom(),
             {
                 animate: true,
-                duration: 2,
+                duration: 1,
             },
         );
 
