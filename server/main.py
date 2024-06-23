@@ -5,7 +5,7 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 import uvicorn
-from server.socket_manager import ConnectionManager
+from server.socket_manager import manager
 from server.retell.server import router as retell_router
 from server.hume.agent import router as hume_router
 
@@ -19,7 +19,6 @@ app.include_router(hume_router)
 
 origins = ["*"]
 
-manager = ConnectionManager()
 
 app.add_middleware(
     CORSMiddleware,
@@ -37,8 +36,6 @@ def read_root():
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = None):
-    global events
-
     if client_id is None:
         client_id = websocket.query_params.get("client_id")
 
@@ -51,13 +48,19 @@ async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = No
         while True:
             data = await websocket.receive_json()
             event = data["event"]
+            print(event)
             if event == "get_db":
-
                 # Retrieve all calls from the database
                 all_calls = get_all_calls()
-
+                message = {
+                    "event": "db_response",
+                    "data": all_calls,
+                }
                 # Send the calls data back to the client
-                await websocket.send_json({"event": "db_response", "data": all_calls})
+                await manager.send_personal_message(
+                    message,
+                    websocket,
+                )
 
     except WebSocketDisconnect:
         print("Disconnecting...", client_id)

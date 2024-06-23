@@ -5,6 +5,13 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 import inflect
 from fastapi import WebSocket, APIRouter, WebSocketDisconnect
+from server.evals import eval, hume_eval
+import asyncio
+import json
+import uuid
+from datetime import datetime
+from server.db import update_call, get_call, get_all_calls
+from server.socket_manager import manager
 
 SYSTEM_PROMPT2 = """
 You are an AI assistant simulating an emergency dispatcher. Your primary role is to quickly and efficiently gather critical information from callers and provide appropriate guidance until help arrives. Follow these guidelines:
@@ -53,7 +60,8 @@ async def hume_endpoint(websocket: WebSocket):
     await websocket.accept()
 
     agent = Agent(system_prompt=SYSTEM_PROMPT2)
-
+    last_history = []
+    id = str(uuid.uuid4())
     try:
         while True:
             # Wait for a text message from the WebSocket, then asynchronously receive it.
@@ -64,19 +72,40 @@ async def hume_endpoint(websocket: WebSocket):
 
             # Parse the received message to extract the last user message and the chat history.
             # This is necessary for understanding the context of the conversation
-            message, chat_history = agent.parse_hume_message(hume_socket_message)
-            print(chat_history)
-
-            # Print the last message and the entire chat history for logging purposes.
-            print(message)
-            print(chat_history)
+            message, chat_history, transcript = agent.parse_hume_message(
+                hume_socket_message
+            )
+            last_history = chat_history
 
             # Generate responses based on the last message and the chat history.
-            responses = agent.get_responses(message, chat_history)
+            responses = agent.get_responses(message, last_history)
 
             # Send the generated responses back to the client via the WebSocket connection.
             async for response in responses:
                 await websocket.send_text(response)
+
+            current_data = str(get_call(id))
+            print(current_data)
+            hume_task = hume_eval(message)
+            eval_task = eval(message, current_data)
+            results = await asyncio.gather(hume_task, eval_task)
+
+            updated_data = {
+                "id": id,
+                "time": datetime.now().isoformat(),
+                "transcript": transcript,
+                "emotions": results[0],
+                **json.loads(results[1]),
+            }
+            update_call(id, updated_data)
+            all_calls = get_all_calls()
+            await manager.broadcast(
+                {
+                    "event": "db_response",
+                    "data": all_calls,
+                }
+            )
+
     except WebSocketDisconnect:
         print("WebSocket connection has been closed.")
 
@@ -117,6 +146,9 @@ class Agent:
 
         yield json.dumps({"type": "assistant_end"})
 
+    def convert_history_to_text(self, chat_history):
+        return "\n".join([message.content for message in chat_history])
+
     def parse_hume_message(self, messages_payload: dict) -> [str, list[any]]:
         messages = messages_payload["messages"]
         last_user_message = messages[-1]["message"]["content"]
@@ -124,6 +156,7 @@ class Agent:
         chat_history = [SystemMessage(content=self.system_prompt)]
         last_role = None
         combined_utterance = ""
+        standard_chat_history = []
 
         # Iterate through each message in the data except the last one
         for message in messages[:-1]:
@@ -155,14 +188,32 @@ class Agent:
             if current_role == "user":
                 if last_role == "assistant" and combined_utterance:
                     chat_history.append(AIMessage(content=combined_utterance))
+                    standard_chat_history.append(
+                        {
+                            "role": "assistant",
+                            "content": message_object["content"],
+                        }
+                    )
                     combined_utterance = ""
                 chat_history.append(HumanMessage(content=contextualized_utterance))
+                standard_chat_history.append(
+                    {
+                        "role": "user",
+                        "content": message_object["content"],
+                    }
+                )
             elif current_role == "assistant":
                 if last_role == "assistant":
                     combined_utterance += " " + message_object["content"]
                 else:
                     if combined_utterance:
                         chat_history.append(AIMessage(content=combined_utterance))
+                        standard_chat_history.append(
+                            {
+                                "role": "assistant",
+                                "content": message_object["content"],
+                            }
+                        )
                         combined_utterance = message_object["content"]
                     else:
                         combined_utterance = message_object["content"]
@@ -173,7 +224,7 @@ class Agent:
         if combined_utterance:
             chat_history.append(AIMessage(content=combined_utterance))
 
-        return [last_user_message, chat_history]
+        return [last_user_message, chat_history, standard_chat_history]
 
     def generate_response(self, *, prompt: str):
         pass
