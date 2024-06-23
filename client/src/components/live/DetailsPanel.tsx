@@ -43,27 +43,10 @@ const EmergencyInfoItem = ({
 
 interface DetailsPanelProps {
     call: Call | undefined;
-    selectedId: string | undefined;
+    handleResolve: (id: string) => void;
 }
 
-const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
-    const [isVisible, setIsVisible] = useState(false);
-
-    useEffect(() => {
-        let timer: NodeJS.Timeout;
-        if (selectedId) {
-            timer = setTimeout(() => {
-                setIsVisible(true);
-            }, 500);
-        } else {
-            setIsVisible(false);
-        }
-
-        return () => {
-            if (timer) clearTimeout(timer);
-        };
-    }, [selectedId]);
-
+const DetailsPanel = ({ call, handleResolve }: DetailsPanelProps) => {
     const emergency = {
         title: "House Fire in Lincoln Ave.",
         status: "CRITICAL",
@@ -76,6 +59,11 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
     };
 
     const { toast } = useToast();
+    const [clicked, setClicked] = useState<number>(1);
+
+    if (!call) {
+        return null;
+    }
 
     return (
         <Card className="h-fit w-[400px] rounded-none border-0 border-r border-gray-300">
@@ -91,14 +79,14 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
 
                     {call?.severity ? (
                         <Badge
-                            variant={
+                            className={cn(
+                                "w-fit",
                                 call.severity === "CRITICAL"
-                                    ? "destructive"
+                                    ? "bg-hover:bg-red-500/80 bg-red-500"
                                     : call.severity === "MODERATE"
-                                      ? "secondary"
-                                      : "default"
-                            }
-                            className="w-fit"
+                                      ? "bg-yellow-500 hover:bg-yellow-500/80"
+                                      : "bg-hover:bg-green-500/80 bg-green-500",
+                            )}
                         >
                             {call.severity}
                         </Badge>
@@ -166,13 +154,17 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                         <Button
                             variant="default"
                             className="max-w-fit flex-1 items-center justify-center rounded-md bg-blue-500 px-2 hover:bg-blue-600"
-                            onClick={() =>
+                            onClick={() => {
                                 toast({
                                     title: "Dispatched: Police",
                                     description: `Officers were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "police",
-                                })
-                            }
+                                });
+
+                                handleResolve(call.id);
+                                setClicked((prev) => prev * 2);
+                            }}
+                            disabled={clicked % 2 === 0}
                         >
                             <Siren className="mr-2" />
                             <p className="overflow-clip text-ellipsis">
@@ -182,13 +174,17 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                         <Button
                             variant="default"
                             className="flex-1 items-center justify-center rounded-md bg-red-500 px-2 hover:bg-red-600"
-                            onClick={() =>
+                            onClick={() => {
                                 toast({
                                     title: "Dispatched: Firefighters",
                                     description: `Firefighters were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "firefighter",
-                                })
-                            }
+                                });
+
+                                handleResolve(call.id);
+                                setClicked((prev) => prev * 3);
+                            }}
+                            disabled={clicked % 3 === 0}
                         >
                             <FireExtinguisher className="mr-2 min-w-fit" />
                             <p className="overflow-clip text-ellipsis">
@@ -198,13 +194,16 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                         <Button
                             variant="default"
                             className="flex-1 items-center justify-center rounded-md bg-green-500 px-2 hover:bg-green-600"
-                            onClick={() =>
+                            onClick={() => {
                                 toast({
                                     title: "Dispatched: Paramedics",
                                     description: `Paramedics were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "paramedic",
-                                })
-                            }
+                                });
+
+                                setClicked((prev) => prev * 5);
+                            }}
+                            disabled={clicked % 5 === 0}
                         >
                             <Ambulance className="mr-2" />
                             <p className="overflow-clip text-ellipsis">
