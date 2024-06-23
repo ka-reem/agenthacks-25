@@ -22,6 +22,7 @@
     "@radix-ui/react-toast": "^1.2.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "framer-motion": "^11.2.11",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.396.0",
     "next": "^14.0.3",
