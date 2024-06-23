@@ -126,7 +126,7 @@ export default async function Home() {
 
             <div
                 style={{
-                    height: "100vh",
+                    height: "120vh",
                     width: "100vw",
                     backgroundColor: "#1E1E1E",
                     alignContent: "center",
@@ -155,7 +155,7 @@ export default async function Home() {
                             display: "flex",
                             flexDirection: "row",
                             gap: "12px",
-                            padding: "36px",
+                            padding: "56px",
                         }}
                     >
                         <img src="/action.png" style={{ width: "100%" }} />
@@ -164,6 +164,45 @@ export default async function Home() {
                         <img src="/moderate.png" style={{ width: "100%" }} />
                     </div>
                 </FadeIn>
+            </div>
+            {/* ending */}
+            <div
+                className={styles.container}
+                style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "12px",
+                    alignContent: "center",
+                    justifyContent: "center",
+                }}
+            >
+                <h1
+                    className={styles.heading}
+                    style={{ color: "black", textAlign: "center" }}
+                >
+                    Start personalizing your emergency response system. Start
+                    with Dispatch.
+                </h1>
+                <div className="space-x-4" style={{display:"flex", alignContent:"center", justifyContent:"center"}}>
+                    <Button
+                        variant="outline"
+                        style={{
+                            fontSize: "22px",
+                            padding: "24px 22px",
+                        }}
+                    >
+                        Try demo
+                    </Button>
+                    <Button
+                        style={{
+                            backgroundColor: "#0075FF",
+                            fontSize: "22px",
+                            padding: "24px 22px",
+                        }}
+                    >
+                        Start now
+                    </Button>
+                </div>
             </div>
         </div>
     );
