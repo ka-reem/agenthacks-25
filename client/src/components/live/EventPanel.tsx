@@ -1,109 +1,54 @@
-import React from "react";
+import { ChangeEvent, useState } from "react";
 import { Call } from "@/app/live/page";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import { cn } from "@/lib/utils";
 import { AlertCircle, AlertTriangle, Search, ShieldCheck } from "lucide-react";
 
-const emergencies = [
-    {
-        id: 1,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "CRITICAL",
-    },
-    {
-        id: 2,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "CRITICAL",
-    },
-    {
-        id: 3,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "MODERATE",
-    },
-    {
-        id: 4,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "MODERATE",
-    },
-    {
-        id: 5,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "MODERATE",
-    },
-    {
-        id: 6,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "MODERATE",
-    },
-    {
-        id: 7,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "SAFE",
-    },
-    {
-        id: 8,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "SAFE",
-    },
-    {
-        id: 9,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "SAFE",
-    },
-    {
-        id: 10,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "SAFE",
-    },
-    {
-        id: 11,
-        title: "House Fire in Blair Hills",
-        time: "10:31AM",
-        status: "SAFE",
-    },
-];
-
 interface EventPanelProps {
-    data: Call[];
+    data: Record<string, Call> | undefined;
+    handleSelect: (id: string) => void;
 }
 
-const EventPanel = ({ data }: EventPanelProps) => {
+const EventPanel = ({ data, handleSelect }: EventPanelProps) => {
+    const [search, setSearch] = useState("");
+
+    const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+        setSearch(e.currentTarget.value);
+    };
+
     return (
-        <div className="mr-auto h-full max-w-md rounded-none bg-white p-4 shadow-lg">
+        <div className="mr-auto h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg">
             <div className="mb-4 flex items-center justify-between">
                 <h2 className="text-xl font-bold">Emergencies</h2>
-                <span className="text-gray-500">Alerts</span>
             </div>
 
-            <div className="relative mb-4">
-                <Search
-                    className="absolute left-3 top-1/2 -translate-y-1/2 transform text-gray-400"
-                    size={20}
+            <div className="mb-4 flex items-center space-x-4">
+                <Input
+                    className="w-full"
+                    placeholder="Search a location"
+                    startIcon={Search}
+                    onChange={handleChange}
                 />
-                <Input className="pl-10" placeholder="Search a location" />
-                <span className="absolute right-3 top-1/2 -translate-y-1/2 transform text-gray-500">
-                    Filter
-                </span>
+                <span className="pr-8 text-gray-500">Filter</span>
             </div>
 
             <div className="mb-4 flex justify-between">
                 <div>
-                    <div className="text-2xl font-bold">123</div>
+                    <div className="text-2xl font-bold">
+                        {data ? Object.keys(data).length : "x"}
+                    </div>
                     <div className="text-sm text-gray-500">Total</div>
                 </div>
                 <div>
-                    <div className="text-2xl font-bold">34</div>
+                    <div className="text-2xl font-bold">
+                        {data
+                            ? Object.entries(data).filter(
+                                  ([_, value]) => value.severity === "CRITICAL",
+                              ).length
+                            : "x"}
+                    </div>
                     <div className="text-sm text-gray-500">Critical</div>
                 </div>
                 <div>
@@ -112,49 +57,60 @@ const EventPanel = ({ data }: EventPanelProps) => {
                 </div>
             </div>
 
-            <div className="space-y-2">
-                {emergencies.map((emergency) => (
-                    <Card key={emergency.id} className="flex items-center p-3">
-                        {emergency.status === "CRITICAL" && (
-                            <AlertCircle
-                                className="mr-3 text-red-500"
-                                size={24}
-                            />
-                        )}
-                        {emergency.status === "MODERATE" && (
-                            <AlertTriangle
-                                className="mr-3 text-orange-500"
-                                size={24}
-                            />
-                        )}
-                        {emergency.status === "SAFE" && (
-                            <ShieldCheck
-                                className="mr-3 text-green-500"
-                                size={24}
-                            />
-                        )}
-                        <CardContent className="flex-grow p-0">
-                            <div className="font-semibold">
-                                {emergency.title}
-                            </div>
-                            <div className="text-sm text-gray-500">
-                                {emergency.time}
-                            </div>
-                        </CardContent>
-                        <Badge
-                            variant={
-                                emergency.status === "CRITICAL"
-                                    ? "destructive"
-                                    : emergency.status === "MODERATE"
-                                      ? "secondary"
-                                      : "default"
-                            }
-                            className="ml-2"
-                        >
-                            {emergency.status}
-                        </Badge>
-                    </Card>
-                ))}
+            <div className="h-[calc(100dvh-250px)] space-y-2 overflow-y-scroll">
+                {data &&
+                    Object.entries(data)
+                        .filter(([_, emergency]) =>
+                            emergency.title.includes(search),
+                        )
+                        .map(([_, emergency]) => (
+                            <Card
+                                key={emergency.id}
+                                className="flex items-center p-3"
+                                onClick={() => handleSelect(emergency.id)}
+                            >
+                                {emergency.severity === "CRITICAL" && (
+                                    <AlertCircle
+                                        className="mr-3 min-w-6 text-red-500"
+                                        size={24}
+                                    />
+                                )}
+                                {emergency.severity === "MODERATE" && (
+                                    <AlertTriangle
+                                        className="mr-3 min-w-6 text-orange-500"
+                                        size={24}
+                                    />
+                                )}
+                                {emergency.severity === "SAFE" && (
+                                    <ShieldCheck
+                                        className="mr-3 min-w-6 text-green-500"
+                                        size={24}
+                                    />
+                                )}
+                                <CardContent className="flex-grow p-0">
+                                    <div className="font-semibold">
+                                        {emergency.title}
+                                    </div>
+                                    <div className="text-sm text-gray-500">
+                                        {new Date(
+                                            emergency.time,
+                                        ).toLocaleTimeString()}
+                                    </div>
+                                </CardContent>
+                                <Badge
+                                    className={cn(
+                                        "min-w-fit",
+                                        emergency.severity === "CRITICAL"
+                                            ? "bg-red-500 hover:bg-red-500/80"
+                                            : emergency.severity === "MODERATE"
+                                              ? "bg-yellow-500 hover:bg-yellow-500/80"
+                                              : "bg-green-500 hover:bg-green-500/80",
+                                    )}
+                                >
+                                    {emergency.severity}
+                                </Badge>
+                            </Card>
+                        ))}
             </div>
         </div>
     );

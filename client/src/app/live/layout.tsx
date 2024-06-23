@@ -13,7 +13,7 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <div className="flex h-[100dvh] min-w-[100dvw]">
+        <div className="flex h-[100dvh] max-h-[100dvh] min-w-[100dvw] overflow-hidden">
             <Sidebar />
             <div className="max-h-[100dvh] w-full">{children}</div>
         </div>
