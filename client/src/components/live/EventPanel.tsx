@@ -38,7 +38,7 @@ const EventPanel = () => {
     console.log(searchValue);
 
     return (
-        <div className="h-full w-[450px] bg-gray-300 p-5">
+        <div className="h-full w-[450px] bg-gray-300 p-5 pt-[6px]">
             <Tabs defaultValue="emergencies">
                 <TabsList>
                     <TabsTrigger value="emergencies">Emergencies</TabsTrigger>
