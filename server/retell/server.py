@@ -14,26 +14,26 @@ from .custom_types import (
 )
 from .twilio_server import TwilioClient
 from .llm import LlmClient  # or use .llm_with_func_calling
+import uuid
+from datetime import datetime
+from server.db import update_call, get_call, get_all_calls
+from server.socket_manager import manager
+from server.evals import eval, hume_eval
+from server.geocoding import geocode, street_view
 
 print(os.path.join(os.path.dirname(__file__), ".env"))
-load_dotenv(
-    override=True,
-    dotenv_path=os.path.join(os.path.dirname(__file__), ".env")
-)
+load_dotenv(override=True, dotenv_path=os.path.join(os.path.dirname(__file__), ".env"))
 retell = Retell(api_key=os.environ["RETELL_API_KEY"])
 
 # Custom Twilio if you want to use your own Twilio API Key
 twilio_client = TwilioClient()
-# twilio_client.create_phone_number(213, "68978b1c2935ff9c7d7107e61524d0bb")
-# twilio_client.delete_phone_number("+12133548310")
-# twilio_client.register_inbound_agent("+13392016322", "68978b1c2935ff9c7d7107e61524d0bb")
-# twilio_client.create_phone_call("+13392016322", "+14157122917", "68978b1c2935ff9c7d7107e61524d0bb")
 
 router = APIRouter(
     prefix="/retell",
     tags=["retell"],
     responses={404: {"description": "Not found"}},
 )
+
 
 # Handle webhook from Retell server. This is used to receive events from Retell server.
 # Including call_started, call_ended, call_analyzed
@@ -188,10 +188,60 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
                     f"""Received interaction_type={request_json['interaction_type']}, response_id={response_id}, last_transcript={request_json['transcript'][-1]['content']}"""
                 )
 
+                response_completed = True
                 async for event in llm_client.draft_response(request):
                     await websocket.send_json(event.__dict__)
                     if request.response_id < response_id:
+                        response_completed = False
                         break  # new response needed, abandon this one
+
+                if response_completed:
+                    # Update call data in database
+                    updated_data = {
+                        "id": call_id,
+                        "time": datetime.now().isoformat(),
+                        "transcript": request_json["transcript"],
+                    }
+                    update_call(call_id, updated_data)
+
+                    # Broadcast updated calls to all connected clients
+                    all_calls = get_all_calls()
+                    await manager.broadcast(
+                        {
+                            "event": "db_response",
+                            "data": all_calls,
+                        }
+                    )
+
+                    # Perform additional evaluations
+                    current_data = str(get_call(call_id))
+                    hume_task = hume_eval(request_json["transcript"][-1]["content"])
+                    eval_task = eval(
+                        request_json["transcript"][-1]["content"], current_data
+                    )
+                    results = await asyncio.gather(hume_task, eval_task)
+
+                    updated_data = {
+                        "emotions": results[0],
+                        **json.loads(results[1]),
+                    }
+
+                    if updated_data.get("location_name"):
+                        res = geocode(updated_data["location_name"])
+                        updated_data["location_coords"] = res[0]["geometry"]["location"]
+                        updated_data["street_view"] = street_view(
+                            updated_data["location_coords"]["lat"],
+                            updated_data["location_coords"]["lng"],
+                        )
+
+                    update_call(call_id, updated_data)
+                    all_calls = get_all_calls()
+                    await manager.broadcast(
+                        {
+                            "event": "db_response",
+                            "data": all_calls,
+                        }
+                    )
 
         async for data in websocket.iter_json():
             asyncio.create_task(handle_message(data))
@@ -199,7 +249,7 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
     except WebSocketDisconnect:
         print(f"LLM WebSocket disconnected for {call_id}")
     except ConnectionTimeoutError as e:
-        print("Connection timeout error for {call_id}")
+        print(f"Connection timeout error for {call_id}")
     except Exception as e:
         print(f"Error in LLM WebSocket: {e} for {call_id}")
         await websocket.close(1011, "Server error")
