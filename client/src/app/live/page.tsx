@@ -48,7 +48,9 @@ export interface CallProps {
     selectedId: string | undefined;
 }
 
-const wss = new WebSocket("wss://3a2ee56343fd.ngrok.app/ws?client_id=1234");
+const wss = new WebSocket(
+    "wss://fitting-correctly-lioness.ngrok-free.app/ws?client_id=1234",
+);
 
 const MESSAGES: Record<string, Call> = {
     "1234": {
@@ -145,6 +147,7 @@ const Page = () => {
     const [connected, setConnected] = useState(false);
     const [data, setData] = useState<Record<string, Call>>(MESSAGES);
     const [selectedId, setSelectedId] = useState<string | undefined>();
+    const [resolvedIds, setResolvedIds] = useState<string[]>([]);
 
     const [center, setCenter] = useState<{ lat: number; lng: number }>({
         lat: 37.867989,
@@ -155,10 +158,37 @@ const Page = () => {
         setSelectedId(id === selectedId ? undefined : id);
     };
 
+    const handleResolve = (id: string) => {
+        setResolvedIds((prev) => {
+            const newResolvedIds = [...prev, id];
+
+            const newData = { ...data };
+            Object.keys(newData).forEach((key) => {
+                if (newResolvedIds.includes(newData[key].id)) {
+                    newData[key].severity = "RESOLVED";
+                }
+            });
+
+            setData(newData);
+            return newResolvedIds;
+        });
+    };
+
+    const handleTransfer = (id: string) => {
+        console.log("transfer: ", id);
+
+        wss.send(
+            JSON.stringify({
+                event: "transfer",
+                id: id,
+            }),
+        );
+    };
+
     useEffect(() => {
         if (!selectedId) return;
 
-        if (!data[selectedId].location_coords) return;
+        if (!data[selectedId]?.location_coords) return;
 
         setCenter(
             data[selectedId].location_coords as { lat: number; lng: number }, // TS being lame, so type-cast
@@ -185,6 +215,13 @@ const Page = () => {
 
                 if (data) {
                     console.log("Got data");
+
+                    Object.keys(data).forEach((key) => {
+                        if (resolvedIds?.includes(data[key].id)) {
+                            data[key].severity = "RESOLVED";
+                        }
+                    });
+
                     setData(data);
                 } else {
                     console.warn("Received unknown message");
@@ -197,8 +234,6 @@ const Page = () => {
             };
         };
     }, []);
-
-    console.log(selectedId);
 
     return (
         <div className="h-full max-h-[calc(100dvh-50px)]">
@@ -214,12 +249,13 @@ const Page = () => {
                 {selectedId && data ? (
                     <div className="absolute right-0 z-50 flex">
                         <DetailsPanel
-                            selectedId={selectedId || undefined}
                             call={selectedId ? data[selectedId] : emptyCall}
+                            handleResolve={handleResolve}
                         />
                         <TranscriptPanel
                             call={selectedId ? data[selectedId] : emptyCall}
                             selectedId={selectedId || undefined}
+                            handleTransfer={handleTransfer}
                         />
                     </div>
                 ) : null}

@@ -28,7 +28,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
             <div className="mb-4 flex items-center space-x-4 px-2">
                 <Input
                     className="w-[85%]"
-                    placeholder="Search a location"
+                    placeholder="Filter calls..."
                     startIcon={Search}
                     onChange={handleChange}
                 />
@@ -77,7 +77,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                             <Card
                                 key={emergency.id}
                                 className={cn(
-                                    "m-2 flex items-center p-3",
+                                    "m-2 flex cursor-pointer items-center p-3",
                                     selectedId === emergency.id &&
                                         "ring-2 ring-blue-500 ring-offset-2",
                                 )}
