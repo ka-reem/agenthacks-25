@@ -22,11 +22,6 @@ const TranscriptPanel = ({ call }: TranscriptPanelProps) => {
                 </div>
 
                 <div className="space-y-2">
-                    {/* <div>
-                        <p className="text-xs font-medium uppercase leading-3 text-black text-opacity-50">
-                            Caller Emotions
-                        </p>
-                    </div> */}
                     <div className="flex h-full space-x-2">
                         <EmotionCard
                             emotion="Distress"

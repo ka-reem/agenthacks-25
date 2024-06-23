@@ -42,32 +42,29 @@ const DetailsPanel = () => {
     };
 
     return (
-        <Card className="h-fit w-[500px] rounded-none border-b border-l border-gray-400 px-2">
-            <CardHeader className="px-2 py-[6px]">
-                <p>Details</p>
-                <Separator />
-            </CardHeader>
-            <CardContent className="space-y-2 p-2">
-                <div className="space-y-2">
+        <Card className="h-fit w-[500px] rounded-none border-0 border-r border-gray-400">
+            <p className="px-2 py-[6px]">Details</p>
+            <Separator />
+
+            <CardContent className="space-y-3 p-2">
+                <div className="space-y-1 px-2">
                     <div className="flex-between">
                         <p className="text-xl font-bold">{emergency.title}</p>
                         <CircleEllipsisIcon className="text-black text-opacity-50" />
                     </div>
 
-                    <div className="h-6 w-fit">
-                        <Badge
-                            variant={
-                                emergency.status === "CRITICAL"
-                                    ? "destructive"
-                                    : emergency.status === "MODERATE"
-                                      ? "secondary"
-                                      : "default"
-                            }
-                            className="ml-2"
-                        >
-                            {emergency.status}
-                        </Badge>
-                    </div>
+                    <Badge
+                        variant={
+                            emergency.status === "CRITICAL"
+                                ? "destructive"
+                                : emergency.status === "MODERATE"
+                                  ? "secondary"
+                                  : "default"
+                        }
+                        className="w-fit"
+                    >
+                        {emergency.status}
+                    </Badge>
                 </div>
 
                 {/* Placeholder for image */}
