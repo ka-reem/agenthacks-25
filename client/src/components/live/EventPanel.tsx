@@ -20,7 +20,7 @@ const emergencies = [
 
 const EventPanel = () => {
   return (
-    <div className="h-full max-w-md mx-auto p-4 bg-white shadow-lg rounded-lg">
+    <div className="h-full max-w-md mx-auto p-4 bg-white shadow-lg rounded-lg rounded-none">
       <div className="flex items-center justify-between mb-4">
         <h2 className="text-xl font-bold">Emergencies</h2>
         <span className="text-gray-500">Alerts</span>
