@@ -12,6 +12,7 @@ import uuid
 from datetime import datetime
 from server.db import update_call, get_call, get_all_calls
 from server.socket_manager import manager
+from server.geocoding import geocode, street_view
 
 SYSTEM_PROMPT2 = """
 You are an AI assistant simulating an emergency dispatcher. Your primary role is to quickly and efficiently gather critical information from callers and provide appropriate guidance until help arrives. Follow these guidelines:
@@ -118,8 +119,18 @@ async def hume_endpoint(websocket: WebSocket):
             results = await asyncio.gather(hume_task, eval_task)
 
             updated_data = {
+                "emotions": results[0],
                 **json.loads(results[1]),
             }
+
+            if updated_data["location_name"]:
+                res = geocode(updated_data["location_name"])
+                updated_data["location_coords"] = res[0]["geometry"]["location"]
+                updated_data["street_view"] = street_view(
+                    updated_data["location_coords"]["lat"],
+                    updated_data["location_coords"]["lng"],
+                )
+
             update_call(id, updated_data)
             all_calls = get_all_calls()
             await manager.broadcast(
