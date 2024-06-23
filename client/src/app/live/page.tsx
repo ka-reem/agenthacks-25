@@ -60,10 +60,10 @@ const Page = () => {
         <div className="h-full max-h-[calc(100dvh-50px)]">
             <div className="flex h-full justify-between">
                 <EventPanel />
-                {/* <div className="absolute right-80 top-24">
+                <div className="flex">
                     <EmergencyPanel />
-                </div> */}
-                <TranscriptPanel messages={messages} />
+                    <TranscriptPanel messages={messages} />
+                </div>
             </div>
             <Map />
         </div>
