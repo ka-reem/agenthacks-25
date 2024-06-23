@@ -8,9 +8,10 @@ export default async function Home() {
     const styles = {
         container: "max-w-4xl mx-auto px-4 py-8",
         heading:
-            "text-4xl md:text-5xl font-bold font-helvetica-neue text-white mb-4",
+            "text-3xl md:text-4xl font-semibold font-helvetica-neue text-white mb-4",
         subheading: "text-lg md:text-xl font-inter text-gray-300",
         span: "text-[#69D2FF]",
+        tealsubheading: "text-[#69D2FF] text-md font-semibold",
     };
     return (
         <div>
@@ -103,10 +104,13 @@ export default async function Home() {
                     width: "100%",
                     height: "100vh",
                     backgroundColor: "#1E1E1E",
-                    padding:"22px 0"
+                    padding: "22px 0",
                 }}
             >
-                <div className={styles.container} style={{width: "50%", marginLeft: "600px"}}>
+                <div
+                    className={styles.container}
+                    style={{ width: "50%", marginLeft: "600px" }}
+                >
                     <h1 className={styles.heading}>
                         82% of 911 Call Centers are
                         <span className={styles.span}> Understaffed</span>
@@ -117,6 +121,49 @@ export default async function Home() {
                         guaranteed to them.
                     </p>
                 </div>
+            </div>
+            {/* features */}
+
+            <div
+                style={{
+                    height: "100vh",
+                    width: "100vw",
+                    backgroundColor: "#1E1E1E",
+                    alignContent: "center",
+                    justifyContent: "center",
+                }}
+            >
+                <hr
+                    style={{
+                        border: "1px solid #3B3B3B",
+                        width: "100%",
+                        marginBottom: "56px",
+                    }}
+                />
+                <p
+                    className={styles.tealsubheading}
+                    style={{ textAlign: "center" }}
+                >
+                    THE SOLUTION
+                </p>
+                <h1 className={styles.heading} style={{ textAlign: "center" }}>
+                    We offer personalized support that everyone deserves.
+                </h1>{" "}
+                <FadeIn>
+                    <div
+                        style={{
+                            display: "flex",
+                            flexDirection: "row",
+                            gap: "12px",
+                            padding: "36px",
+                        }}
+                    >
+                        <img src="/action.png" style={{ width: "100%" }} />
+
+                        <img src="/communicate.png" style={{ width: "100%" }} />
+                        <img src="/moderate.png" style={{ width: "100%" }} />
+                    </div>
+                </FadeIn>
             </div>
         </div>
     );
