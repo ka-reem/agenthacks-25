@@ -31,7 +31,7 @@ async def eval(message: str, current_data: str):
         "name": str,
         "title": str,
         "summary": str,
-        "location_name": str (valid us address)
+        "location_name": str (valid address nearby San Francisco Bay Area)
     }
     """
 
