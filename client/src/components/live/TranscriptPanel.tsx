@@ -14,8 +14,8 @@ const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
 
             <div className="space-y-8 p-2">
                 <div className="-mb-2 flex items-center space-x-1">
-                    <CheckCircle2Icon className="h-[14px] w-[14px]" />
-                    <p className="text-xs font-semibold">
+                    <CheckCircle2Icon className="text-green-600" size={24} />
+                    <p className="text-md font-semibold text-green-600">
                         AI Operator Connected
                     </p>
                 </div>
