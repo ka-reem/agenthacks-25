@@ -22,12 +22,12 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
 
     return (
         <div
-            className={`w-[500px] bg-white transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-full"} ${selectedId ? "visible" : "hidden"}`}
+            className={`w-[400px] bg-white transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-full"} ${selectedId ? "visible" : "hidden"}`}
         >
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
-            <div className="space-y-8 p-2">
+            <div className="mb-3 space-y-8 p-2 pb-3">
                 <div className="-mb-2 flex items-center space-x-1">
                     <CheckCircle2Icon className="text-green-600" size={24} />
                     <p className="text-md font-semibold text-green-600">
@@ -50,7 +50,7 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
                     </div>
                 </div>
 
-                <div className="space-y-2">
+                <div className="mb-3 space-y-2">
                     <div>
                         <p className="text-xs font-medium uppercase leading-3 text-black text-opacity-50">
                             Call Transcript
