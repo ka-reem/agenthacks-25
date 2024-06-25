@@ -49,7 +49,7 @@ export interface CallProps {
 }
 
 const wss = new WebSocket(
-    "wss://planned-halimeda-wecracked2-c8137aa7.koyeb.app/ws?client_id=1234",
+    `wss://planned-halimeda-wecracked2-c8137aa7.koyeb.app/ws?client_id=${Math.random().toString(36).substring(7)}`,
 );
 
 const MESSAGES: Record<string, Call> = {
