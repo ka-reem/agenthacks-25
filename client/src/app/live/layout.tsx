@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
-import Header from "./Header";
-import Sidebar from "./Sidebar";
+import Header from "../../components/live/Header";
+import Sidebar from "../../components/live/Sidebar";
 
 export const metadata: Metadata = {
     title: "Live — DispatcherAI",
