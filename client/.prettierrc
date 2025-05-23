@@ -2,8 +2,8 @@
     "tabWidth": 4,
     "useTabs": false,
     "plugins": [
-        "@ianvs/prettier-plugin-sort-imports",
-        "prettier-plugin-tailwindcss"
+        "prettier-plugin-tailwindcss",
+        "@ianvs/prettier-plugin-sort-imports"
     ],
     "importOrder": [
         "^(react/(.*)$)|^(react$)",
