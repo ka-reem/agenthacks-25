@@ -3,13 +3,16 @@ import { Inter } from "next/font/google";
 
 import "./globals.css";
 
+import Providers from "@/components/Providers";
+
 const inter = Inter({
     subsets: ["latin"],
     variable: "--font-sans",
 });
 
-export const metadata: Metadata = {
-    title: "DispatcherAI",
+export const metadata = {
+    title: "kTemp",
+    description: "A template repository with a setup I love",
     icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
@@ -20,9 +23,11 @@ export default function RootLayout({
 }) {
     return (
         <html lang="en">
-            <body className={inter.className}>
-                <main>{children}</main>
-            </body>
+            <Providers>
+                <body className={inter.className}>
+                    <main>{children}</main>
+                </body>
+            </Providers>
         </html>
     );
 }
