@@ -5,9 +5,12 @@ from fastapi import FastAPI, WebSocket, WebSocketDisconnect, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from typing import Optional
 import uvicorn
-from socket_manager import ConnectionManager
+from server.socket_manager import ConnectionManager
+from .retell.server import router as retell_router
 
 app = FastAPI()
+
+app.include_router(retell_router)
 
 origins = ["*"]
 
