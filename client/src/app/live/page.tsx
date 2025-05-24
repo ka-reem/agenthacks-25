@@ -12,44 +12,44 @@ const Map = dynamic(() => import("@/components/live/map/Map"), {
 
 const MESSAGES: Message[] = [
     {
-        sender: "user",
-        text: "Hello, I need to report a power outage in my neighborhood.",
+        role: "user",
+        content: "Hello, I need to report a power outage in my neighborhood.",
     },
     {
-        sender: "dispatcher",
-        text: "Hello! I'm sorry to hear that. Can you provide your address?",
+        role: "assistant",
+        content: "Hello! I'm sorry to hear that. Can you provide your address?",
     },
     {
-        sender: "user",
-        text: "It's 1234 Oak Street, Springfield.",
+        role: "user",
+        content: "It's 1234 Oak Street, Springfield.",
     },
     {
-        sender: "dispatcher",
-        text: "Thank you. When did the outage start?",
+        role: "assistant",
+        content: "Thank you. When did the outage start?",
     },
     {
-        sender: "user",
-        text: "About 30 minutes ago, around 2:15 PM.",
+        role: "user",
+        content: "About 30 minutes ago, around 2:15 PM.",
     },
     {
-        sender: "dispatcher",
-        text: "I've found a reported outage in your area. Crews are working on it.",
+        role: "assistant",
+        content: "I've found a reported outage in your area. Crews are working on it.",
     },
     {
-        sender: "user",
-        text: "Any estimate on when power will be restored?",
+        role: "user",
+        content: "Any estimate on when power will be restored?",
     },
     {
-        sender: "dispatcher",
-        text: "We estimate power will be restored by 5:00 PM. For updates, call 555-123-4567.",
+        role: "assistant",
+        content: "We estimate power will be restored by 5:00 PM. For updates, call 555-123-4567.",
     },
     {
-        sender: "user",
-        text: "Thanks for your help.",
+        role: "user",
+        content: "Thanks for your help.",
     },
     {
-        sender: "dispatcher",
-        text: "You're welcome. Stay safe, and contact us if you need further assistance.",
+        role: "assistant",
+        content: "You're welcome. Stay safe, and contact us if you need further assistance.",
     },
 ];
 
@@ -58,9 +58,9 @@ const Page = () => {
 
     return (
         <div className="h-full max-h-[calc(100dvh-50px)]">
-            <div className="flex h-full justify-between">
+            <div className="flex h-full">
                 <EventPanel />
-                <div className="flex">
+                <div className="flex flex-grow justify-end">
                     <EmergencyPanel />
                     <TranscriptPanel messages={messages} />
                 </div>

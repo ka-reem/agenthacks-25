@@ -5,8 +5,8 @@ import { cn } from "@/lib/utils";
 import { Bot, User } from "lucide-react";
 
 export interface Message {
-    text: string;
-    sender: "user" | "dispatcher";
+    role: "assistant" | "user";
+    content: string;
 }
 
 export interface MessagesProps {
