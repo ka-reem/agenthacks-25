@@ -1,6 +1,13 @@
 import { useEffect, useState } from "react";
 import { CallProps } from "@/app/live/page";
-import { CheckCircle2Icon, HeadsetIcon, PhoneIcon } from "lucide-react";
+import { cn } from "@/lib/utils";
+import {
+    ArrowLeftRightIcon,
+    CheckCircle2Icon,
+    HeadsetIcon,
+    Loader2Icon,
+    PhoneIcon,
+} from "lucide-react";
 
 import { Button } from "../ui/button";
 import { Separator } from "../ui/separator";
@@ -16,16 +23,8 @@ const TranscriptPanel = ({
     selectedId,
     handleTransfer,
 }: TranscriptPanelProps) => {
-    const [isVisible, setIsVisible] = useState(false);
-
-    useEffect(() => {
-        // console.warn("X", call, selectedId);
-        if (call && selectedId) {
-            setIsVisible(true);
-        } else {
-            setIsVisible(false);
-        }
-    }, [call, selectedId]);
+    const [transferred, setTransferred] = useState(false);
+    const [loading, setLoading] = useState(false);
 
     const emotions = call?.emotions?.sort((a, b) =>
         a.intensity < b.intensity ? 1 : -1,
@@ -35,16 +34,41 @@ const TranscriptPanel = ({
         return null;
     }
 
+    const doTransfer = (id: string) => {
+        handleTransfer(id);
+        setLoading(true);
+
+        setTimeout(() => {
+            setTransferred(true);
+            setLoading(false);
+        }, 1000);
+    };
     return (
-        <div className={`w-[400px] bg-white`}>
+        <div
+            className={cn("w-[400px] bg-white", transferred && "brightness-90")}
+        >
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
             <div className="mb-3 space-y-4 p-2 pb-3">
                 <div className="flex items-center space-x-1">
-                    <CheckCircle2Icon className="text-green-600" size={24} />
-                    <p className="text-md font-semibold text-green-600">
-                        AI Operator Connected
+                    {transferred ? (
+                        <HeadsetIcon className="text-blue-500" size={24} />
+                    ) : (
+                        <CheckCircle2Icon
+                            className="text-green-500"
+                            size={24}
+                        />
+                    )}
+                    <p
+                        className={cn(
+                            "text-md font-semibold",
+                            transferred ? "text-blue-500" : "text-green-500",
+                        )}
+                    >
+                        {transferred
+                            ? "Human Operator Connected"
+                            : "AI Operator Connected"}
                     </p>
                 </div>
 
@@ -70,12 +94,26 @@ const TranscriptPanel = ({
 
                     <ChatInterface call={call} selectedId={selectedId} />
 
-                    <Button
-                        onClick={() => handleTransfer(call.id)}
-                        className="w-full space-x-2 bg-green-500 hover:bg-green-500/80"
-                    >
-                        <HeadsetIcon /> <p>Transfer</p>
-                    </Button>
+                    {transferred ? (
+                        <Button
+                            variant={"outline"}
+                            className="pointer-events-none w-full space-x-2 border-2 border-blue-500 text-black"
+                        >
+                            <HeadsetIcon /> <p>Transfered to Human Operator</p>
+                        </Button>
+                    ) : loading ? (
+                        <Button className="w-full space-x-2 bg-green-500 text-white hover:bg-green-500/80">
+                            <Loader2Icon className="animate-spin" />
+                            <p>Transferring...</p>
+                        </Button>
+                    ) : (
+                        <Button
+                            onClick={() => doTransfer(call.id)}
+                            className="w-full space-x-2 bg-green-500 text-white hover:bg-green-500/80"
+                        >
+                            <ArrowLeftRightIcon /> <p>Transfer</p>
+                        </Button>
+                    )}
                 </div>
             </div>
         </div>
