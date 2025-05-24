@@ -1,4 +1,4 @@
-import { ChangeEvent, useState } from "react";
+import { ChangeEvent, useEffect, useState } from "react";
 import { Call } from "@/app/live/page";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
@@ -20,7 +20,9 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
     };
 
     return (
-        <div className="absolute left-0 z-50 h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg">
+        <div
+            className={`absolute left-0 z-50 h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg`}
+        >
             <div className="mb-4 flex items-center justify-between px-3">
                 <h2 className="text-xl font-bold">Emergencies</h2>
             </div>

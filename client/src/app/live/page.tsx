@@ -23,7 +23,11 @@ export type Call = {
         intensity: number;
     }[];
     id: string;
-    location: string;
+    location_name: string;
+    location_coords: {
+        lat: number;
+        lng: number;
+    };
     name: string;
     phone: string;
     recommendation: string;
@@ -40,6 +44,7 @@ export type Call = {
 
 export interface CallProps {
     call: Call;
+    selectedId: string | undefined;
 }
 
 const wss = new WebSocket("wss://3a2ee56343fd.ngrok.app/ws?client_id=1234");
@@ -51,7 +56,11 @@ const MESSAGES: Record<string, Call> = {
             { emotion: "Frustration", intensity: 0.3 },
         ],
         id: "1234",
-        location: "1234 Oak Street, Springfield",
+        location_name: "1234 Oak Street, Springfield",
+        location_coords: {
+            lat: 37.867989,
+            lng: -122.271507,
+        },
         name: "John Doe",
         phone: "555-123-4567",
         recommendation: "Monitor situation and provide updates",
@@ -111,14 +120,44 @@ const MESSAGES: Record<string, Call> = {
     },
 };
 
+const emptyCall: Call = {
+    emotions: [],
+    id: "",
+    location_name: "",
+    location_coords: {
+        lat: 0,
+        lng: 0,
+    },
+    name: "",
+    phone: "",
+    recommendation: "",
+    severity: "RESOLVED",
+    summary: "",
+    time: "",
+    title: "",
+    transcript: [],
+    type: "",
+};
+
 const Page = () => {
     const [connected, setConnected] = useState(false);
     const [data, setData] = useState<Record<string, Call>>(MESSAGES);
     const [selectedId, setSelectedId] = useState<string | undefined>();
 
+    const [center, setCenter] = useState<{ lat: number; lng: number }>({
+        lat: 37.867989,
+        lng: -122.271507,
+    });
+
     const handleSelect = (id: string) => {
         setSelectedId(id === selectedId ? undefined : id);
     };
+
+    useEffect(() => {
+        if (selectedId) {
+            setCenter(data[selectedId].location_coords);
+        }
+    }, [selectedId, data]);
 
     useEffect(() => {
         wss.onopen = () => {
@@ -161,22 +200,22 @@ const Page = () => {
             <div className="relative flex h-full justify-between">
                 <EventPanel
                     data={data}
-                    selectedId={selectedId}
+                    selectedId={selectedId || undefined}
                     handleSelect={handleSelect}
                 />
 
-                {selectedId && data ? (
-                    <div className="absolute right-0 z-50 flex">
-                        <DetailsPanel />
-                        <TranscriptPanel call={data[selectedId]} />
-                    </div>
-                ) : null}
+                {/* {selectedId && data ? ( */}
+                <div className="absolute right-0 z-50 flex">
+                    <DetailsPanel selectedId={selectedId || undefined} />
+                    <TranscriptPanel
+                        call={selectedId ? data[selectedId] : emptyCall}
+                        selectedId={selectedId || undefined}
+                    />
+                </div>
+                {/* ) : null} */}
 
                 <Map
-                    center={{
-                        lng: -123.272507,
-                        lat: 37.866989,
-                    }}
+                    center={center}
                     pins={[
                         {
                             coordinates: [37.867989, -122.271507],
