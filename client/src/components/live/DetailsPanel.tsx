@@ -42,7 +42,7 @@ const EmergencyInfoItem = ({
 );
 
 interface DetailsPanelProps {
-    call: Call;
+    call: Call | undefined;
     selectedId: string | undefined;
 }
 
@@ -89,42 +89,53 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                         <CircleEllipsisIcon className="text-black text-opacity-50" />
                     </div>
 
-                    <Badge
-                        variant={
-                            call.severity === "CRITICAL"
-                                ? "destructive"
-                                : call.severity === "MODERATE"
-                                  ? "secondary"
-                                  : "default"
-                        }
-                        className="w-fit"
-                    >
-                        {call.severity}
-                    </Badge>
+                    {call?.severity ? (
+                        <Badge
+                            variant={
+                                call.severity === "CRITICAL"
+                                    ? "destructive"
+                                    : call.severity === "MODERATE"
+                                      ? "secondary"
+                                      : "default"
+                            }
+                            className="w-fit"
+                        >
+                            {call.severity}
+                        </Badge>
+                    ) : null}
                 </div>
 
                 {/* Placeholder for image */}
-                <div className="duration-5000 h-[200px] w-full animate-pulse bg-gray-500" />
+                {call?.street_view ? (
+                    <img
+                        src={`data:image/png;base64, ${call.street_view}`}
+                        className="h-[200px] w-full bg-cover bg-no-repeat"
+                    />
+                ) : (
+                    <div className="duration-5000 h-[200px] w-full animate-pulse bg-gray-500" />
+                )}
 
-                <div className="grid grid-cols-2">
-                    {/* <EmergencyInfoItem
+                {call && (
+                    <div className="grid grid-cols-2">
+                        {/* <EmergencyInfoItem
                         label="Distance"
                         // value={call.distance}
                         value={"8 miles"}
                         side="right"
                     />
                     <EmergencyInfoItem label="Type" value={call.type} /> */}
-                    <EmergencyInfoItem
-                        label="Time of Call"
-                        value={new Date(call.time).toLocaleTimeString()}
-                        side="right"
-                    />
-                    <EmergencyInfoItem
-                        label="Location"
-                        value={call.location_name}
-                        side="left"
-                    />
-                </div>
+                        <EmergencyInfoItem
+                            label="Time of Call"
+                            value={new Date(call.time).toLocaleTimeString()}
+                            side="right"
+                        />
+                        <EmergencyInfoItem
+                            label="Location"
+                            value={call.location_name}
+                            side="left"
+                        />
+                    </div>
+                )}
 
                 <Separator />
 
@@ -137,7 +148,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                         className="max-h-[80px] overflow-y-scroll"
                     >
                         <p className="text-base leading-snug">
-                            {call.summary}
+                            {call?.summary}
                             {/* afdslfkajdslfjasldjlfdaslkjflaskdjflaskdjflaskjdfladksjflaskjdflaksjdflaksjdlfjsadlkfjaslkjflaskjdflkasjdflkj
                             fadsfasdf fadsfasdfasdf
                             afdslfkajdslfjasldjlfdaslkjflaskdjflaskdjflaskjdfladksjflaskjdflaksjdflaksjdlfjsadlkfjaslkjflaskjdflkasjdflkjasdf
@@ -158,7 +169,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                             onClick={() =>
                                 toast({
                                     title: "Dispatched: Police",
-                                    description: `Officers were dispatched${call.location_name ? ` to ${call.location_name}` : ""}.`,
+                                    description: `Officers were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "police",
                                 })
                             }
@@ -174,7 +185,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                             onClick={() =>
                                 toast({
                                     title: "Dispatched: Firefighters",
-                                    description: `Firefighters were dispatched${call.location_name ? ` to ${call.location_name}` : ""}.`,
+                                    description: `Firefighters were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "firefighter",
                                 })
                             }
@@ -190,7 +201,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
                             onClick={() =>
                                 toast({
                                     title: "Dispatched: Paramedics",
-                                    description: `Paramedics were dispatched${call.location_name ? ` to ${call.location_name}` : ""}.`,
+                                    description: `Paramedics were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                     variant: "paramedic",
                                 })
                             }

@@ -18,7 +18,7 @@ interface ServerMessage {
 }
 
 export type Call = {
-    emotions: {
+    emotions?: {
         emotion: string;
         intensity: number;
     }[];
@@ -32,7 +32,7 @@ export type Call = {
     name: string;
     phone: string;
     recommendation: string;
-    severity: "CRITICAL" | "MODERATE" | "RESOLVED";
+    severity?: "CRITICAL" | "MODERATE" | "RESOLVED";
     summary: string;
     time: string; // ISO Date String
     title?: string;
@@ -44,7 +44,7 @@ export type Call = {
 };
 
 export interface CallProps {
-    call: Call;
+    call?: Call;
     selectedId: string | undefined;
 }
 
@@ -226,20 +226,34 @@ const Page = () => {
 
                 <Map
                     center={center}
-                    pins={[
-                        {
-                            coordinates: [37.867989, -122.271507],
-                            popupHtml: "<b>Richard Davis</b><br>ID: #272428",
-                        },
-                        {
-                            coordinates: [33.634023, -117.851286],
-                            popupHtml: "<b>Sophia Jones</b><br>ID: #121445",
-                        },
-                        {
-                            coordinates: [33.634917, -117.862744],
-                            popupHtml: "<b>Adam Smith</b><br>ID: #920232",
-                        },
-                    ]}
+                    pins={
+                        // {
+                        //     coordinates: [37.867989, -122.271507],
+                        //     popupHtml: "<b>Richard Davis</b><br>ID: #272428",
+                        // },
+                        // {
+                        //     coordinates: [33.634023, -117.851286],
+                        //     popupHtml: "<b>Sophia Jones</b><br>ID: #121445",
+                        // },
+                        // {
+                        //     coordinates: [33.634917, -117.862744],
+                        //     popupHtml: "<b>Adam Smith</b><br>ID: #920232",
+                        // },
+                        Object.entries(data)
+                            .filter(
+                                ([_, call]) =>
+                                    call.location_coords && call.location_name,
+                            )
+                            .map(([_, call]) => {
+                                return {
+                                    coordinates: [
+                                        call.location_coords?.lat as number, // type-cast cuz TS trolling
+                                        call.location_coords?.lng as number, // type-cast cuz TS trolling
+                                    ],
+                                    popupHtml: `<b>${call.title}</b><br>Location: ${call.location_name}`,
+                                };
+                            })
+                    }
                 />
             </div>
         </div>
