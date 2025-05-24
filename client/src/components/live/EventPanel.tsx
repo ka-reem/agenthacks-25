@@ -8,10 +8,11 @@ import { AlertCircle, AlertTriangle, Search, ShieldCheck } from "lucide-react";
 
 interface EventPanelProps {
     data: Record<string, Call> | undefined;
+    selectedId: string | undefined;
     handleSelect: (id: string) => void;
 }
 
-const EventPanel = ({ data, handleSelect }: EventPanelProps) => {
+const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
     const [search, setSearch] = useState("");
 
     const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
@@ -20,11 +21,11 @@ const EventPanel = ({ data, handleSelect }: EventPanelProps) => {
 
     return (
         <div className="mr-auto h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg">
-            <div className="mb-4 flex items-center justify-between">
+            <div className="mb-4 flex items-center justify-between px-3">
                 <h2 className="text-xl font-bold">Emergencies</h2>
             </div>
 
-            <div className="mb-4 flex items-center space-x-4">
+            <div className="mb-4 flex items-center space-x-4 px-3">
                 <Input
                     className="w-full"
                     placeholder="Search a location"
@@ -34,7 +35,7 @@ const EventPanel = ({ data, handleSelect }: EventPanelProps) => {
                 <span className="pr-8 text-gray-500">Filter</span>
             </div>
 
-            <div className="mb-4 flex justify-between">
+            <div className="mb-4 flex justify-between px-3">
                 <div>
                     <div className="text-2xl font-bold">
                         {data ? Object.keys(data).length : "x"}
@@ -66,7 +67,11 @@ const EventPanel = ({ data, handleSelect }: EventPanelProps) => {
                         .map(([_, emergency]) => (
                             <Card
                                 key={emergency.id}
-                                className="flex items-center p-3"
+                                className={cn(
+                                    "m-2 flex items-center p-3",
+                                    selectedId === emergency.id &&
+                                        "ring-2 ring-[#D7D7D7] ring-offset-2",
+                                )}
                                 onClick={() => handleSelect(emergency.id)}
                             >
                                 {emergency.severity === "CRITICAL" && (
