@@ -1,16 +1,37 @@
 "use client";
 
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import { CallProps } from "@/app/live/page";
 import { cn } from "@/lib/utils";
 import { Bot, User } from "lucide-react";
 
+import { ScrollArea } from "../ui/scroll-area";
+
 interface ChatInterfaceProps extends CallProps {}
 
 const ChatInterface = ({ call }: ChatInterfaceProps) => {
+    const ref = useRef<HTMLDivElement>(null);
+    useEffect(() => {
+        const scrollIntoViewInterval = () => {
+            if (ref.current) {
+                ref.current.scrollIntoView({
+                    behavior: "smooth",
+                    block: "end",
+                });
+            }
+        };
+
+        scrollIntoViewInterval();
+
+        return () => scrollIntoViewInterval();
+    }, [call]);
+
     return (
-        <div className="mx-auto flex h-[calc(100dvh-295px)] max-w-md flex-col bg-gray-100">
-            <div className="flex-1 space-y-4 overflow-y-auto p-4">
+        <ScrollArea className="mx-auto flex h-[calc(100dvh-264px)] flex-col bg-gray-100">
+            <div
+                className="flex-1 space-y-4 overflow-y-auto p-4 pb-5"
+                ref={ref}
+            >
                 {call?.transcript.map((message, index) => {
                     return (
                         <div
@@ -59,7 +80,7 @@ const ChatInterface = ({ call }: ChatInterfaceProps) => {
                     );
                 })}
             </div>
-        </div>
+        </ScrollArea>
     );
 };
 

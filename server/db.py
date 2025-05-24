@@ -17,7 +17,7 @@ def generate_sample_data():
                 {"role": "user", "content": "There's a fire in my apartment building!"},
                 {
                     "role": "assistant",
-                    "content": "I understand there's a fire. What's your location?",
+                    "content": "I understand there's a fire. What's your location_name?",
                 },
                 {"role": "user", "content": "123 Main Street, Apartment 4B"},
             ],
@@ -33,7 +33,7 @@ def generate_sample_data():
             "name": "John Doe",
             "title": "Apartment Fire on Main Street",
             "summary": "Caller reported a fire in their apartment building. Immediate evacuation required.",
-            "location": "123 Main Street, Apartment 4B",
+            "location_name": "123 Main Street, Apartment 4B",
         },
         {
             "id": "2",
@@ -64,7 +64,7 @@ def generate_sample_data():
             "name": "Jane Smith",
             "title": "Suspected Heart Attack on Oak Avenue",
             "summary": "Caller reported a suspected heart attack for their neighbor. Immediate medical assistance required.",
-            "location": "456 Oak Avenue, House number 7",
+            "location_name": "456 Oak Avenue, House number 7",
         },
         {
             "id": "3",
@@ -92,13 +92,13 @@ def generate_sample_data():
                 {"emotion": "anxiety", "intensity": 0.6},
             ],
             "phone": "555-246-8135",
-            "recommendation": "Do not approach or confront the suspects. Stay in a safe location.",
+            "recommendation": "Do not approach or confront the suspects. Stay in a safe location_name.",
             "severity": "MODERATE",
             "type": "police",
             "name": "Mike Johnson",
             "title": "Break-in at Convenience Store on Pine Street",
             "summary": "Caller reported an ongoing break-in at a convenience store. Police assistance required immediately.",
-            "location": "789 Pine Street",
+            "location_name": "789 Pine Street",
         },
         {
             "id": "4",
@@ -132,7 +132,7 @@ def generate_sample_data():
             "name": "Sarah Lee",
             "title": "Multi-car Accident on Highway 101",
             "summary": "Caller reported a multi-car accident on Highway 101. Emergency services dispatched for potential injuries and traffic control.",
-            "location": "Highway 101, Mile Marker 25",
+            "location_name": "Highway 101, Mile Marker 25",
         },
         {
             "id": "5",
@@ -160,7 +160,7 @@ def generate_sample_data():
             "name": "Tom Brown",
             "title": "Gas Leak Reported on Elm Street",
             "summary": "Caller reported smelling gas in their house. Evacuation and fire department response required.",
-            "location": "1010 Elm Street",
+            "location_name": "1010 Elm Street",
         },
         {
             "id": "6",
@@ -194,7 +194,7 @@ def generate_sample_data():
             "name": "Emily Chen",
             "title": "Suspicious Person Near Central Elementary",
             "summary": "Caller reported a suspicious person near a school playground. Police dispatched to investigate.",
-            "location": "Central Elementary School, East side playground",
+            "location_name": "Central Elementary School, East side playground",
         },
         {
             "id": "7",
@@ -222,7 +222,7 @@ def generate_sample_data():
             "name": "Alex Rodriguez",
             "title": "Child Choking Emergency on Maple Drive",
             "summary": "Caller reported their child choking on food. Immediate medical assistance and guidance provided.",
-            "location": "2020 Maple Drive",
+            "location_name": "2020 Maple Drive",
         },
     ]
 
