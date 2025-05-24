@@ -16,11 +16,11 @@ from server.prompts import SYSTEM_PROMPT
 
 class LlmClient:
     def __init__(self):
-        # self.client = AsyncOpenAI(
-        #     organization=os.environ["OPENAI_ORGANIZATION_ID"],
-        #     api_key=os.environ["OPENAI_API_KEY"],
-        # )
-        self.mistral = ChatMistralAI(api_key=os.environ["MISTRAL_API_KEY"])
+        self.client = AsyncOpenAI(
+            # organization=os.environ["OPENAI_ORGANIZATION_ID"],
+            api_key=os.environ["OPENAI_API_KEY"],
+        )
+        # self.mistral = ChatMistralAI(api_key=os.environ["MISTRAL_API_KEY"])
 
     def draft_begin_message(self):
         response = ResponseResponse(
@@ -64,16 +64,17 @@ class LlmClient:
 
     async def draft_response(self, request: ResponseRequiredRequest):
         prompt = self.prepare_prompt(request)
-        # stream = await self.client.chat.completions.create(
-        #     model="gpt-4-turbo-preview",  # Or use a 3.5 model for speed
-        #     messages=prompt,
-        #     stream=True,
-        # )
-        async for chunk in self.mistral.astream(input=prompt):
-            if chunk.content is not None:
+        stream = await self.client.chat.completions.create(
+            model="gpt-4o",  # Or use a 3.5 model for speed
+            messages=prompt,
+            stream=True,
+        )
+        # async for chunk in self.mistral.astream(input=prompt):
+        async for chunk in stream:
+            if chunk.choices[0].delta.content is not None:
                 response = ResponseResponse(
                     response_id=request.response_id,
-                    content=chunk.content,
+                    content=chunk.choices[0].delta.content,
                     content_complete=False,
                     end_call=False,
                 )
