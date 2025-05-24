@@ -18,24 +18,23 @@ interface ServerMessage {
 }
 
 export type Call = {
-    emotions?: {
+    emotions: {
         emotion: string;
         intensity: number;
     }[];
     id: string;
     location_name: string;
-    location_coords?: {
+    location_coords: {
         lat: number;
         lng: number;
     };
-    street_view?: string; // base 64
     name: string;
     phone: string;
     recommendation: string;
-    severity?: "CRITICAL" | "MODERATE" | "RESOLVED";
+    severity: "CRITICAL" | "MODERATE" | "RESOLVED";
     summary: string;
     time: string; // ISO Date String
-    title?: string;
+    title: string;
     transcript: {
         role: "assistant" | "user";
         content: string;
@@ -44,7 +43,7 @@ export type Call = {
 };
 
 export interface CallProps {
-    call?: Call;
+    call: Call;
     selectedId: string | undefined;
 }
 
@@ -129,7 +128,6 @@ const emptyCall: Call = {
         lat: 0,
         lng: 0,
     },
-    street_view: "", // base 64
     name: "",
     phone: "",
     recommendation: "",
@@ -156,13 +154,9 @@ const Page = () => {
     };
 
     useEffect(() => {
-        if (!selectedId) return;
-
-        if (!data[selectedId].location_coords) return;
-
-        setCenter(
-            data[selectedId].location_coords as { lat: number; lng: number }, // TS being lame, so type-cast
-        );
+        if (selectedId) {
+            setCenter(data[selectedId].location_coords);
+        }
     }, [selectedId, data]);
 
     useEffect(() => {
@@ -181,7 +175,8 @@ const Page = () => {
                 const message = JSON.parse(event.data) as ServerMessage;
                 console.log("message:", message);
                 const data = message.data;
-                console.log("data:", data);
+
+                console.log(data);
 
                 if (data) {
                     console.log("Got data");
@@ -198,8 +193,6 @@ const Page = () => {
         };
     }, []);
 
-    console.log(selectedId);
-
     return (
         <div className="h-full max-h-[calc(100dvh-50px)]">
             <Header connected={connected} />
@@ -211,49 +204,32 @@ const Page = () => {
                     handleSelect={handleSelect}
                 />
 
-                {selectedId && data ? (
-                    <div className="absolute right-0 z-50 flex">
-                        <DetailsPanel
-                            selectedId={selectedId || undefined}
-                            call={selectedId ? data[selectedId] : emptyCall}
-                        />
-                        <TranscriptPanel
-                            call={selectedId ? data[selectedId] : emptyCall}
-                            selectedId={selectedId || undefined}
-                        />
-                    </div>
-                ) : null}
+                {/* {selectedId && data ? ( */}
+                <div className="absolute right-0 z-50 flex">
+                    <DetailsPanel selectedId={selectedId || undefined} />
+                    <TranscriptPanel
+                        call={selectedId ? data[selectedId] : emptyCall}
+                        selectedId={selectedId || undefined}
+                    />
+                </div>
+                {/* ) : null} */}
 
                 <Map
                     center={center}
-                    pins={
-                        // {
-                        //     coordinates: [37.867989, -122.271507],
-                        //     popupHtml: "<b>Richard Davis</b><br>ID: #272428",
-                        // },
-                        // {
-                        //     coordinates: [33.634023, -117.851286],
-                        //     popupHtml: "<b>Sophia Jones</b><br>ID: #121445",
-                        // },
-                        // {
-                        //     coordinates: [33.634917, -117.862744],
-                        //     popupHtml: "<b>Adam Smith</b><br>ID: #920232",
-                        // },
-                        Object.entries(data)
-                            .filter(
-                                ([_, call]) =>
-                                    call.location_coords && call.location_name,
-                            )
-                            .map(([_, call]) => {
-                                return {
-                                    coordinates: [
-                                        call.location_coords?.lat as number, // type-cast cuz TS trolling
-                                        call.location_coords?.lng as number, // type-cast cuz TS trolling
-                                    ],
-                                    popupHtml: `<b>${call.title}</b><br>Location: ${call.location_name}`,
-                                };
-                            })
-                    }
+                    pins={[
+                        {
+                            coordinates: [37.867989, -122.271507],
+                            popupHtml: "<b>Richard Davis</b><br>ID: #272428",
+                        },
+                        {
+                            coordinates: [33.634023, -117.851286],
+                            popupHtml: "<b>Sophia Jones</b><br>ID: #121445",
+                        },
+                        {
+                            coordinates: [33.634917, -117.862744],
+                            popupHtml: "<b>Adam Smith</b><br>ID: #920232",
+                        },
+                    ]}
                 />
             </div>
         </div>

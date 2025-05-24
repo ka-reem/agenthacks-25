@@ -64,7 +64,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                 {data &&
                     Object.entries(data)
                         .filter(([_, emergency]) =>
-                            emergency.title?.includes(search),
+                            emergency.title.includes(search),
                         )
                         .sort(([_, a], [__, b]) =>
                             new Date(a.time) < new Date(b.time) ? 1 : -1,
@@ -107,21 +107,18 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                                         ).toLocaleTimeString()}
                                     </div>
                                 </CardContent>
-                                {emergency.severity ? (
-                                    <Badge
-                                        className={cn(
-                                            "min-w-fit uppercase",
-                                            emergency.severity === "CRITICAL"
-                                                ? "bg-red-500 hover:bg-red-500/80"
-                                                : emergency.severity ===
-                                                    "MODERATE"
-                                                  ? "bg-yellow-500 hover:bg-yellow-500/80"
-                                                  : "bg-green-500 hover:bg-green-500/80",
-                                        )}
-                                    >
-                                        {emergency.severity}
-                                    </Badge>
-                                ) : null}
+                                <Badge
+                                    className={cn(
+                                        "min-w-fit uppercase",
+                                        emergency.severity === "CRITICAL"
+                                            ? "bg-red-500 hover:bg-red-500/80"
+                                            : emergency.severity === "MODERATE"
+                                              ? "bg-yellow-500 hover:bg-yellow-500/80"
+                                              : "bg-green-500 hover:bg-green-500/80",
+                                    )}
+                                >
+                                    {emergency.severity}
+                                </Badge>
                             </Card>
                         ))}
             </div>
