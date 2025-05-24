@@ -174,7 +174,7 @@ const Page = () => {
 
                 <Map
                     center={{
-                        lng: -122.272507,
+                        lng: -123.272507,
                         lat: 37.866989,
                     }}
                     pins={[
