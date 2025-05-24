@@ -6,7 +6,7 @@ import { Separator } from "../ui/separator";
 
 const EmergencyPanel = () => {
     return (
-        <div className="w-[400px] bg-white">
+        <div className="h-fit w-[400px] border-r-2 border-gray-400 bg-white pb-2">
             <p className="px-2 py-[6px]">Emergency</p>
             <Separator />
             <div className="space-y-2 p-2">

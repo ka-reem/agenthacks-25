@@ -8,7 +8,7 @@ interface TranscriptPanelProps extends MessagesProps {}
 
 const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
     return (
-        <div className="w-[400px] border-l-2 border-gray-400 bg-white">
+        <div className="w-[400px] bg-white">
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
