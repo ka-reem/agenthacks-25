@@ -9,7 +9,7 @@ const Sidebar = () => {
     const pathname = usePathname();
 
     return (
-        <div className="flex w-12 flex-col items-center space-y-5 bg-gray-200 py-4">
+        <div className="flex w-12 flex-col items-center space-y-5 border-r-2 border-gray-400 bg-gray-200 py-4">
             <div className="flex-center aspect-square h-8 w-8 flex-col bg-black">
                 <HeartPulseIcon className="m-auto text-white" />
             </div>
