@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import FadeIn from "react-fade-in";
 
-export default async function Home() {
+export default function Home() {
     const styles = {
         container: "max-w-4xl mx-auto px-4 py-8",
         heading:
@@ -14,6 +14,7 @@ export default async function Home() {
         span: "text-[#69D2FF]",
         tealsubheading: "text-[#69D2FF] text-md font-semibold",
     };
+
     return (
         <div>
             <nav
