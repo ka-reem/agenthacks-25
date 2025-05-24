@@ -27,7 +27,7 @@ const ChatInterface = ({ call }: ChatInterfaceProps) => {
     }, [call]);
 
     return (
-        <ScrollArea className="mx-auto flex h-[calc(100dvh-264px)] flex-col bg-gray-100">
+        <ScrollArea className="mx-auto flex h-[calc(100dvh-308px)] flex-col bg-gray-100">
             <div
                 className="flex-1 space-y-4 overflow-y-auto p-4 pb-5"
                 ref={ref}
