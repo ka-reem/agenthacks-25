@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import FadeIn from "react-fade-in";
@@ -69,30 +70,39 @@ export default async function Home() {
                                 Human-in-the-loop emergency response system
                             </p>
                             <div className="space-x-4">
-                                <Button
-                                    variant="outline"
-                                    style={{
-                                        fontSize: "22px",
-                                        padding: "24px 22px",
-                                    }}
-                                >
-                                    Try demo
-                                </Button>
-                                <Button
-                                    style={{
-                                        backgroundColor: "#0075FF",
-                                        fontSize: "22px",
-                                        padding: "24px 22px",
-                                    }}
-                                >
-                                    Start now
-                                </Button>
+                                <Link href="/live">
+                                    <Button
+                                        variant="outline"
+                                        style={{
+                                            fontSize: "22px",
+                                            padding: "24px 22px",
+                                        }}
+                                    >
+                                        Try demo
+                                    </Button>
+                                </Link>
+                                <Link href="/live">
+                                    <Button
+                                        style={{
+                                            backgroundColor: "#0075FF",
+                                            fontSize: "22px",
+                                            padding: "24px 22px",
+                                        }}
+                                    >
+                                        Start now
+                                    </Button>
+                                </Link>
                             </div>
                         </FadeIn>
                     </div>
-                    <div className="flex h-full w-full items-center justify-center md:w-3/5">
+                    <FadeIn
+                        className="flex h-full w-full items-center justify-center md:w-3/5"
+                        transitionDuration={1000}
+                    >
+                        {/* <div className="flex h-full w-full items-center justify-center md:w-3/5"> */}
                         <img src="../dispatcherHero.png" alt="" />
-                    </div>
+                        {/* </div>{" "} */}
+                    </FadeIn>
                 </main>
             </div>
             {/* problem */}
@@ -183,25 +193,36 @@ export default async function Home() {
                     Start personalizing your emergency response system. Start
                     with Dispatch.
                 </h1>
-                <div className="space-x-4" style={{display:"flex", alignContent:"center", justifyContent:"center"}}>
-                    <Button
-                        variant="outline"
-                        style={{
-                            fontSize: "22px",
-                            padding: "24px 22px",
-                        }}
-                    >
-                        Try demo
-                    </Button>
-                    <Button
-                        style={{
-                            backgroundColor: "#0075FF",
-                            fontSize: "22px",
-                            padding: "24px 22px",
-                        }}
-                    >
-                        Start now
-                    </Button>
+                <div
+                    className="space-x-4"
+                    style={{
+                        display: "flex",
+                        alignContent: "center",
+                        justifyContent: "center",
+                    }}
+                >
+                    <Link href="/live">
+                        <Button
+                            variant="outline"
+                            style={{
+                                fontSize: "22px",
+                                padding: "24px 22px",
+                            }}
+                        >
+                            Try demo
+                        </Button>
+                    </Link>
+                    <Link href="/live">
+                        <Button
+                            style={{
+                                backgroundColor: "#0075FF",
+                                fontSize: "22px",
+                                padding: "24px 22px",
+                            }}
+                        >
+                            Start now
+                        </Button>
+                    </Link>
                 </div>
             </div>
         </div>
