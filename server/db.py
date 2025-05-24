@@ -217,7 +217,7 @@ def generate_sample_data():
             ],
             "phone": "555-753-9514",
             "recommendation": "Perform the Heimlich maneuver if the child is over 1 year old. For infants, use back blows and chest thrusts.",
-            "severity": "SAFE",
+            "severity": "CRITICAL",
             "type": "hospital",
             "name": "Alex Rodriguez",
             "title": "Child Choking Emergency on Maple Drive",

@@ -24,8 +24,8 @@ async def eval(message: str, current_data: str):
         
     Output a json in the following format:
     {
-        "recomendation": str,
-        "severity": "DISPATCHED" | "LOW" | "MEDIUM" | "HIGH" | "CRITICAL",
+        "recommendation": str,
+        "severity": "MODERATE" | "CRITICAL",
         "type": "Fire" | "Hospital" | "Police",
         "name": str,
         "title": str,

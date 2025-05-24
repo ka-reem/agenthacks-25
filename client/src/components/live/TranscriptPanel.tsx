@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { CallProps } from "@/app/live/page";
 import { CheckCircle2Icon } from "lucide-react";
 
@@ -8,22 +7,9 @@ import EmotionCard from "./EmotionCard";
 
 interface TranscriptPanelProps extends CallProps {}
 
-const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
-    const [isVisible, setIsVisible] = useState(false);
-
-    useEffect(() => {
-        // console.warn("X", call, selectedId);
-        if (call && selectedId) {
-            setIsVisible(true);
-        } else {
-            setIsVisible(false);
-        }
-    }, [call, selectedId]);
-
+const TranscriptPanel = ({ call }: TranscriptPanelProps) => {
     return (
-        <div
-            className={`w-[500px] bg-white transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-full"} ${selectedId ? "visible" : "hidden"}`}
-        >
+        <div className="w-[500px] bg-white">
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
@@ -57,7 +43,7 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
                         </p>
                     </div>
 
-                    <ChatInterface call={call} selectedId={selectedId} />
+                    <ChatInterface call={call} />
                 </div>
             </div>
         </div>
