@@ -118,12 +118,7 @@ const DetailsPanel = ({ call, handleResolve }: DetailsPanelProps) => {
                         <EmergencyInfoItem label="Type" value={call.type} /> */}
                             <EmergencyInfoItem
                                 label="Time of Call"
-                                value={new Date(
-                                    new Date(call.time).getTime() -
-                                        7 * 60 * 60 * 1000,
-                                ).toLocaleTimeString("en-US", {
-                                    timeZone: "America/Los_Angeles",
-                                })}
+                                value={new Date(call.time).toLocaleTimeString()}
                                 side="right"
                             />
                             <EmergencyInfoItem
