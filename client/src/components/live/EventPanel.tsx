@@ -20,19 +20,21 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
     };
 
     return (
-        <div className="absolute left-0 z-50 h-full w-[360px] max-w-md rounded-none bg-white p-2 shadow-lg">
-            <div className="mb-2 flex items-center justify-between px-3">
+        <div
+            className={`absolute left-0 z-50 h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg`}
+        >
+            <div className="mb-4 flex items-center justify-between px-3">
                 <h2 className="text-xl font-bold">Emergencies</h2>
             </div>
 
-            <div className="mb-4 flex items-center space-x-4 px-2">
+            <div className="mb-4 flex items-center space-x-4 px-3">
                 <Input
-                    className="w-[85%]"
+                    className="w-full"
                     placeholder="Search a location"
                     startIcon={Search}
                     onChange={handleChange}
                 />
-                {/* <span className="pr-8 text-gray-500">Filter</span> */}
+                <span className="pr-8 text-gray-500">Filter</span>
             </div>
 
             <div className="mb-4 flex justify-between px-3">
@@ -53,13 +55,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                     <div className="text-sm text-gray-500">Critical</div>
                 </div>
                 <div>
-                    <div className="text-2xl font-bold">
-                        {data
-                            ? Object.entries(data).filter(
-                                  ([_, value]) => value.severity === "RESOLVED",
-                              ).length
-                            : "x"}
-                    </div>
+                    <div className="text-2xl font-bold">12</div>
                     <div className="text-sm text-gray-500">Resolved</div>
                 </div>
             </div>
@@ -79,7 +75,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                                 className={cn(
                                     "m-2 flex items-center p-3",
                                     selectedId === emergency.id &&
-                                        "ring-2 ring-blue-500 ring-offset-2",
+                                        "ring-2 ring-[#D7D7D7] ring-offset-2",
                                 )}
                                 onClick={() => handleSelect(emergency.id)}
                             >

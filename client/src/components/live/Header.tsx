@@ -24,7 +24,7 @@ const Header = ({ connected }: { connected: boolean }) => {
     }, []);
 
     return (
-        <div className="flex h-[50px] w-full items-center border-b-2 border-[#C2C2C2] bg-white px-7">
+        <div className="flex h-[50px] w-full items-center border-b-2 border-gray-400 bg-gray-300 px-7">
             <div className="flex-between w-full text-sm font-bold uppercase text-gray-800">
                 <div className="flex items-center space-x-3">
                     <h1>Location</h1>
@@ -42,7 +42,7 @@ const Header = ({ connected }: { connected: boolean }) => {
                     <p>{time} PDT</p>
                     <div className="uppercase">
                         <Select defaultValue="SF">
-                            <SelectTrigger className="h-[30px] min-h-0 w-[200px] rounded-md border-[1px] border-[#D7D7D7] py-0 uppercase text-[#6C6C6C]">
+                            <SelectTrigger className="h-[30px] min-h-0 w-[200px] rounded-none border-[1px] border-gray-500 py-0 uppercase">
                                 <SelectValue placeholder="Location" />
                             </SelectTrigger>
                             <SelectContent className="uppercase">
