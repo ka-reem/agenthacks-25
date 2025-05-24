@@ -24,18 +24,17 @@ export type Call = {
     }[];
     id: string;
     location_name: string;
-    location_coords?: {
+    location_coords: {
         lat: number;
         lng: number;
     };
-    street_view?: string; // base 64
     name: string;
     phone: string;
     recommendation: string;
     severity: "CRITICAL" | "MODERATE" | "RESOLVED";
     summary: string;
     time: string; // ISO Date String
-    title?: string;
+    title: string;
     transcript: {
         role: "assistant" | "user";
         content: string;
@@ -129,7 +128,6 @@ const emptyCall: Call = {
         lat: 0,
         lng: 0,
     },
-    street_view: "", // base 64
     name: "",
     phone: "",
     recommendation: "",
@@ -156,13 +154,9 @@ const Page = () => {
     };
 
     useEffect(() => {
-        if (!selectedId) return;
-
-        if (!data[selectedId].location_coords) return;
-
-        setCenter(
-            data[selectedId].location_coords as { lat: number; lng: number }, // TS being lame, so type-cast
-        );
+        if (selectedId) {
+            setCenter(data[selectedId].location_coords);
+        }
     }, [selectedId, data]);
 
     useEffect(() => {
@@ -181,7 +175,8 @@ const Page = () => {
                 const message = JSON.parse(event.data) as ServerMessage;
                 console.log("message:", message);
                 const data = message.data;
-                console.log("data:", data);
+
+                console.log(data);
 
                 if (data) {
                     console.log("Got data");
@@ -198,8 +193,6 @@ const Page = () => {
         };
     }, []);
 
-    console.log(selectedId);
-
     return (
         <div className="h-full max-h-[calc(100dvh-50px)]">
             <Header connected={connected} />
@@ -211,18 +204,15 @@ const Page = () => {
                     handleSelect={handleSelect}
                 />
 
-                {selectedId && data ? (
-                    <div className="absolute right-0 z-50 flex">
-                        <DetailsPanel
-                            selectedId={selectedId || undefined}
-                            call={selectedId ? data[selectedId] : emptyCall}
-                        />
-                        <TranscriptPanel
-                            call={selectedId ? data[selectedId] : emptyCall}
-                            selectedId={selectedId || undefined}
-                        />
-                    </div>
-                ) : null}
+                {/* {selectedId && data ? ( */}
+                <div className="absolute right-0 z-50 flex">
+                    <DetailsPanel selectedId={selectedId || undefined} />
+                    <TranscriptPanel
+                        call={selectedId ? data[selectedId] : emptyCall}
+                        selectedId={selectedId || undefined}
+                    />
+                </div>
+                {/* ) : null} */}
 
                 <Map
                     center={center}

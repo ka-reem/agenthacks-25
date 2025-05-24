@@ -64,7 +64,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                 {data &&
                     Object.entries(data)
                         .filter(([_, emergency]) =>
-                            emergency.title?.includes(search),
+                            emergency.title.includes(search),
                         )
                         .sort(([_, a], [__, b]) =>
                             new Date(a.time) < new Date(b.time) ? 1 : -1,
