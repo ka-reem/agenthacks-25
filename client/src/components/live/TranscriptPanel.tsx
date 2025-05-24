@@ -20,37 +20,37 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
         }
     }, [call, selectedId]);
 
-    const emotions = call?.emotions?.sort((a, b) =>
-        a.intensity < b.intensity ? 1 : -1,
-    );
-
     return (
-        <div className={`w-[400px] bg-white`}>
+        <div
+            className={`w-[500px] bg-white transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-full"} ${selectedId ? "visible" : "hidden"}`}
+        >
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
-            <div className="mb-3 space-y-4 p-2 pb-3">
-                <div className="flex items-center space-x-1">
+            <div className="space-y-8 p-2">
+                <div className="-mb-2 flex items-center space-x-1">
                     <CheckCircle2Icon className="text-green-600" size={24} />
                     <p className="text-md font-semibold text-green-600">
                         AI Operator Connected
                     </p>
                 </div>
 
-                <div className="flex h-full space-x-2">
-                    <EmotionCard
-                        emotion={emotions ? emotions[0].emotion : "x"}
-                        percentage={emotions ? emotions[0].intensity * 100 : 0}
-                        color="bg-purple-500"
-                    />
-                    <EmotionCard
-                        emotion={emotions ? emotions[1].emotion : "x"}
-                        percentage={emotions ? emotions[1].intensity * 100 : 0}
-                        color="bg-purple-500"
-                    />
+                <div className="space-y-2">
+                    <div className="flex h-full space-x-2">
+                        <EmotionCard
+                            emotion="Distress"
+                            percentage={85}
+                            color="bg-blue-500"
+                        />
+                        <EmotionCard
+                            emotion="Anger"
+                            percentage={25}
+                            color="bg-orange-500"
+                        />
+                    </div>
                 </div>
 
-                <div className="mb-3 space-y-2">
+                <div className="space-y-2">
                     <div>
                         <p className="text-xs font-medium uppercase leading-3 text-black text-opacity-50">
                             Call Transcript
