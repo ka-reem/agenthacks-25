@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #6366f1;
+  --primary-dark: #4f46e5;
+  --secondary: #0ea5e9;
+  --accent: #f97316;
+  --success: #22c55e;
+  --warning: #eab308;
+  --error: #ef4444;
+  --background: #0f172a;
+  --foreground: #f8fafc;
+  --card: #1e293b;
+  --border: #334155;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-900 text-slate-50 min-h-screen;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold;
+  }
+
+  .code-font {
+    font-family: 'Fira Code', monospace;
+  }
+  
+  .terminal {
+    @apply bg-black rounded-lg p-4 text-green-400 code-font text-sm overflow-auto;
+    max-height: 70vh;
+  }
+  
+  .btn {
+    @apply px-6 py-3 rounded-md font-medium transition-all duration-200 inline-flex items-center justify-center;
+  }
+  
+  .btn-primary {
+    @apply bg-indigo-600 hover:bg-indigo-700 text-white;
+  }
+  
+  .btn-secondary {
+    @apply bg-sky-600 hover:bg-sky-700 text-white;
+  }
+  
+  .btn-accent {
+    @apply bg-orange-500 hover:bg-orange-600 text-white;
+  }
+  
+  .card {
+    @apply bg-slate-800 rounded-lg p-6 shadow-lg border border-slate-700;
+  }
+  
+  .form-input {
+    @apply bg-slate-800 border border-slate-700 rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent;
+  }
+  
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.scale-in {
+  animation: scaleIn 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { transform: scale(0.95); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.typewriter {
+  overflow: hidden;
+  border-right: .15em solid;
+  white-space: nowrap;
+  margin: 0 auto;
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: currentColor; }
+}
