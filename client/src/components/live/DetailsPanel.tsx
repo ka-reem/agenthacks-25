@@ -205,6 +205,7 @@ const DetailsPanel = ({ call, handleResolve }: DetailsPanelProps) => {
                                         description: `Paramedics were dispatched${call?.location_name ? ` to ${call?.location_name}` : ""}.`,
                                         variant: "paramedic",
                                     });
+                                    handleResolve(call.id);
                                     setClicked((prev) => prev * 5);
                                 }}
                                 disabled={clicked % 5 === 0}
