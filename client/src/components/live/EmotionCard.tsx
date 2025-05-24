@@ -14,7 +14,9 @@ const EmotionCard = ({
             <CardHeader className="p-2 pb-0 pt-3">
                 <CardTitle className="text-gray-500">
                     <p className="text-xs leading-3">CALLER EMOTION</p>
-                    <h2 className="text-xl font-bold text-black">{emotion}</h2>
+                    <h2 className="line-clamp-1 text-xl font-bold text-black">
+                        {emotion}
+                    </h2>
                 </CardTitle>
             </CardHeader>
             <CardContent className="p-2 pt-0">
