@@ -64,8 +64,8 @@ export default function Home() {
                                 <span>Try it out</span>
                                 <ArrowRight className="ml-2 h-4 w-4" />
                             </Button>
-                            <h1 className="mb-6 text-5xl font-bold">
-                                An AI First Responder in your pocket.
+                            <h1 className="mb-4 text-5xl font-bold">
+                                The AI dispatcher eliminating 911 wait times
                             </h1>
                             <p className="mb-8 text-xl text-gray-600">
                                 Human-in-the-loop emergency response system
