@@ -123,7 +123,7 @@ async def hume_endpoint(websocket: WebSocket):
                 **json.loads(results[1]),
             }
 
-            if updated_data["location_name"]:
+            if updated_data.get("location_name"):
                 res = geocode(updated_data["location_name"])
                 updated_data["location_coords"] = res[0]["geometry"]["location"]
                 updated_data["street_view"] = street_view(

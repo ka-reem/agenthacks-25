@@ -20,7 +20,7 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
         }
     }, [call, selectedId]);
 
-    const emotions = call?.emotions?.sort((a, b) =>
+    const emotions = call.emotions.sort((a, b) =>
         a.intensity < b.intensity ? 1 : -1,
     );
 
@@ -41,13 +41,13 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
 
                 <div className="flex h-full space-x-2">
                     <EmotionCard
-                        emotion={emotions ? emotions[0].emotion : "x"}
-                        percentage={emotions ? emotions[0].intensity * 100 : 0}
+                        emotion={emotions[0].emotion}
+                        percentage={emotions[0].intensity * 100}
                         color="bg-purple-500"
                     />
                     <EmotionCard
-                        emotion={emotions ? emotions[1].emotion : "x"}
-                        percentage={emotions ? emotions[1].intensity * 100 : 0}
+                        emotion={emotions[1].emotion}
+                        percentage={emotions[1].intensity * 100}
                         color="bg-purple-500"
                     />
                 </div>
