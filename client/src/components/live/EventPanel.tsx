@@ -58,7 +58,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                 </div>
             </div>
 
-            <div className="h-[calc(100dvh-250px)] space-y-2 overflow-y-scroll">
+            <div className="h-[calc(100dvh-250px)] space-y-2 overflow-y-scroll pb-3">
                 {data &&
                     Object.entries(data)
                         .filter(([_, emergency]) =>
@@ -104,7 +104,7 @@ const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
                                 </CardContent>
                                 <Badge
                                     className={cn(
-                                        "min-w-fit",
+                                        "min-w-fit uppercase",
                                         emergency.severity === "CRITICAL"
                                             ? "bg-red-500 hover:bg-red-500/80"
                                             : emergency.severity === "MODERATE"
