@@ -21,6 +21,7 @@ async def eval(message: str, current_data: str):
         If no new information is provided, return the current data.
         If the severity is DISPATCHED, do not change the severity.
         Always have a title, even if its "Not enough information provided"
+        The audio transcription is sometimes not perfect, try to make your best guess.
         
     Output a json in the following format:
     {
