@@ -24,7 +24,7 @@ const ChatInterface = ({ messages }: ChatInterfaceProps) => {
                         key={index}
                         className={cn(
                             "flex",
-                            message.sender === "user"
+                            message.role === "user"
                                 ? "justify-end"
                                 : "justify-start",
                         )}
@@ -32,7 +32,7 @@ const ChatInterface = ({ messages }: ChatInterfaceProps) => {
                         <div
                             className={cn(
                                 "flex items-end",
-                                message.sender === "user"
+                                message.role === "user"
                                     ? "flex-row-reverse"
                                     : "flex-row",
                             )}
@@ -40,12 +40,12 @@ const ChatInterface = ({ messages }: ChatInterfaceProps) => {
                             <div
                                 className={cn(
                                     "mb-auto flex h-8 min-h-8 w-8 min-w-8 items-center justify-center rounded-full",
-                                    message.sender === "user"
+                                    message.role === "user"
                                         ? "hidden bg-blue-500"
                                         : "bg-gray-500",
                                 )}
                             >
-                                {message.sender === "user" ? (
+                                {message.role === "user" ? (
                                     null ?? <User size={20} color="white" />
                                 ) : (
                                     <Bot size={20} color="white" />
@@ -54,12 +54,12 @@ const ChatInterface = ({ messages }: ChatInterfaceProps) => {
                             <div
                                 className={cn(
                                     "rounded-lg px-4 py-2",
-                                    message.sender === "user"
+                                    message.role === "user"
                                         ? "mr-2 max-w-[360px] bg-blue-500 text-white"
                                         : "ml-2 max-w-[250px] bg-white text-gray-800",
                                 )}
                             >
-                                {message.text}
+                                {message.content}
                             </div>
                         </div>
                     </div>
