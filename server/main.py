@@ -8,14 +8,11 @@ import uvicorn
 from server.socket_manager import manager
 from server.retell.server import router as retell_router
 from server.hume.agent import router as hume_router
-from server.db import get_call
-from server.retell.twilio_server import TwilioClient
 
 # Import the necessary function from the db module
 from server.db import get_all_calls
 
 app = FastAPI()
-client = TwilioClient()
 
 app.include_router(retell_router)
 app.include_router(hume_router)
@@ -64,12 +61,6 @@ async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = No
                     message,
                     websocket,
                 )
-            if event == "transfer":
-                print("Transferring call...", data)
-                id = data["id"]
-                call = get_call(id)
-                if call["mode"] == "retell":
-                    client.transfer_call(call["id"], "+14085858267")
 
     except WebSocketDisconnect:
         print("Disconnecting...", client_id)

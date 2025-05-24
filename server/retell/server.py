@@ -155,17 +155,14 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
         response_id = 0
         first_event = llm_client.draft_begin_message()
         await websocket.send_json(first_event.__dict__)
-        twilio_sid = None
 
         async def handle_message(request_json):
-            nonlocal twilio_sid
             nonlocal response_id
 
             # There are 5 types of interaction_type: call_details, pingpong, update_only, response_required, and reminder_required.
             # Not all of them need to be handled, only response_required and reminder_required.
             if request_json["interaction_type"] == "call_details":
                 print(json.dumps(request_json, indent=2))
-                twilio_sid = request_json["call"]["metadata"]["twilio_call_sid"]
                 return
             if request_json["interaction_type"] == "ping_pong":
                 await websocket.send_json(
@@ -201,12 +198,11 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
                 if response_completed:
                     # Update call data in database
                     updated_data = {
-                        "id": twilio_sid,
-                        "mode": "retell",
+                        "id": call_id,
                         "time": datetime.now().isoformat(),
                         "transcript": request_json["transcript"],
                     }
-                    update_call(twilio_sid, updated_data)
+                    update_call(call_id, updated_data)
 
                     # Broadcast updated calls to all connected clients
                     all_calls = get_all_calls()
@@ -218,7 +214,7 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
                     )
 
                     # Perform additional evaluations
-                    current_data = str(get_call(twilio_sid))
+                    current_data = str(get_call(call_id))
                     hume_task = hume_eval(request_json["transcript"][-1]["content"])
                     eval_task = eval(
                         request_json["transcript"][-1]["content"], current_data
@@ -238,7 +234,7 @@ async def websocket_handler(websocket: WebSocket, call_id: str):
                             updated_data["location_coords"]["lng"],
                         )
 
-                    update_call(twilio_sid, updated_data)
+                    update_call(call_id, updated_data)
                     all_calls = get_all_calls()
                     await manager.broadcast(
                         {
