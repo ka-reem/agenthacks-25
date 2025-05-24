@@ -88,7 +88,7 @@ const EventPanel = () => {
 
                                     <div className="grow" />
 
-                                    <div className="h-6 bg-gray-300">
+                                    <div className="h-6 w-fit bg-gray-300">
                                         <p className="px-2 py-1 text-[12px] font-medium uppercase">
                                             <b>Severity:</b> High
                                         </p>
