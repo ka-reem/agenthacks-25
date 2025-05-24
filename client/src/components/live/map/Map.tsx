@@ -18,50 +18,81 @@ const Pin = new L.Icon({
     popupAnchor: [0, -32], // point from which the popup should open relative to the iconAnchor
 });
 
-const Map = () => {
+interface MapPin {
+    coordinates: [number, number];
+    popupHtml: string;
+}
+
+interface MapProps {
+    center: {
+        lng: number;
+        lat: number;
+    };
+    pins: MapPin[];
+}
+
+const Map: React.FC<MapProps> = ({ center, pins }) => {
     const mapContainer = useRef(null);
-    const map = useRef(null);
-    const center = { lng: -122.272507, lat: 37.866989 };
+    const map = useRef<L.Map | null>(null);
+
+    // Offset to account for right two panels blocking some of view
+    const offset = { lng: 0.0025, lat: 0.0 };
+
+    // Where to start the map (offset + start pos)
+    const adjustedCenter = {
+        lng: center.lng + offset.lng,
+        lat: center.lat + offset.lat,
+    };
+
     const [zoom] = useState(17);
 
     useEffect(() => {
-        if (map.current) return; // stops map from intializing more than once
+        if (!map.current) {
+            //@ts-expect-error trust me bro
+            map.current = new L.Map(mapContainer.current, {
+                center: L.latLng(adjustedCenter.lat, adjustedCenter.lng),
+                zoom: zoom,
+                dragging: true,
+                scrollWheelZoom: false,
+                doubleClickZoom: true,
+                touchZoom: true,
+                boxZoom: true,
+                keyboard: false,
+            });
 
-        //@ts-expect-error trust me bro
-        map.current = new L.Map(mapContainer.current, {
-            center: L.latLng(center.lat, center.lng),
-            zoom: zoom,
-            dragging: false,
-            scrollWheelZoom: false,
-            doubleClickZoom: false,
-            touchZoom: false,
-            boxZoom: false,
-            keyboard: false,
+            // Create a MapTiler Layer inside Leaflet
+            const mtLayer = new MaptilerLayer({
+                // Get your free API key at https://cloud.maptiler.com
+                apiKey: process.env.NEXT_PUBLIC_MAPTILER_API_KEY,
+            });
+
+            mtLayer.addTo(map.current);
+        }
+
+        // Update map center when center prop changes
+        map.current.flyTo(
+            [adjustedCenter.lat, adjustedCenter.lng],
+            map.current.getZoom(),
+            {
+                animate: true,
+                duration: 2,
+            },
+        );
+
+        // Clear existing markers
+        map.current.eachLayer((layer) => {
+            if (layer instanceof L.Marker) {
+                map.current!.removeLayer(layer);
+            }
         });
 
-        // Create a MapTiler Layer inside Leaflet
-        const mtLayer = new MaptilerLayer({
-            // Get your free API key at https://cloud.maptiler.com
-            apiKey: process.env.NEXT_PUBLIC_MAPTILER_API_KEY,
+        // Add pins to the map
+        pins.forEach((pin) => {
+            L.marker(pin.coordinates, { icon: Pin })
+                .addTo(map.current!)
+                .bindPopup(pin.popupHtml);
         });
-
-        mtLayer.addTo(map.current);
-
-        const marker1 = L.marker([37.867989, -122.271507], { icon: Pin }); // King Center
-
-        const marker2 = L.marker([33.634023, -117.851286], { icon: Pin });
-        const marker3 = L.marker([33.634917, -117.862744], { icon: Pin });
-
-        marker1
-            .addTo(map.current!)
-            .bindPopup("<b>Richard Davis</b><br>ID: #272428");
-        marker2
-            .addTo(map.current!)
-            .bindPopup("<b>Sophia Jones</b><br>ID: #121445");
-        marker3
-            .addTo(map.current!)
-            .bindPopup("<b>Adam Smith</b><br>ID: #920232");
-    }, [center.lng, center.lat, zoom]);
+    }, [adjustedCenter.lng, adjustedCenter.lat, zoom, pins]);
 
     return (
         <div className={styles.mapWrap}>

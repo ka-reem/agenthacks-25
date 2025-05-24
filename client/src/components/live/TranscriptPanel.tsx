@@ -1,52 +1,38 @@
+import { CallProps } from "@/app/live/page";
 import { CheckCircle2Icon } from "lucide-react";
 
-import { Progress } from "../ui/progress";
 import { Separator } from "../ui/separator";
-import ChatInterface, { MessagesProps } from "./ChatInterface";
+import ChatInterface from "./ChatInterface";
+import EmotionCard from "./EmotionCard";
 
-interface TranscriptPanelProps extends MessagesProps {}
+interface TranscriptPanelProps extends CallProps {}
 
-const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
+const TranscriptPanel = ({ call }: TranscriptPanelProps) => {
     return (
-        <div className="w-[400px] bg-white">
+        <div className="w-[500px] bg-white">
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
             <div className="space-y-8 p-2">
                 <div className="-mb-2 flex items-center space-x-1">
-                    <CheckCircle2Icon className="h-[14px] w-[14px]" />
-                    <p className="text-xs font-semibold">
+                    <CheckCircle2Icon className="text-green-600" size={24} />
+                    <p className="text-md font-semibold text-green-600">
                         AI Operator Connected
                     </p>
                 </div>
 
                 <div className="space-y-2">
-                    <div>
-                        <p className="text-xs font-medium uppercase leading-3 text-black text-opacity-50">
-                            Caller Emotions
-                        </p>
-                    </div>
-                    <div className="w-[85%] space-y-2">
-                        <div className="space-y-1">
-                            <div className="flex-between">
-                                <p className="text-base font-semibold">
-                                    Distress
-                                </p>
-                                <p className="text-sm font-semibold text-black text-opacity-50">
-                                    85%
-                                </p>
-                            </div>
-                            <Progress value={85} className="h-2 rounded-none" />
-                        </div>
-                        <div className="space-y-1">
-                            <div className="flex-between">
-                                <p className="text-base font-semibold">Anger</p>
-                                <p className="text-sm font-semibold text-black text-opacity-50">
-                                    25%
-                                </p>
-                            </div>
-                            <Progress value={25} className="h-2 rounded-none" />
-                        </div>
+                    <div className="flex h-full space-x-2">
+                        <EmotionCard
+                            emotion="Distress"
+                            percentage={85}
+                            color="bg-blue-500"
+                        />
+                        <EmotionCard
+                            emotion="Anger"
+                            percentage={25}
+                            color="bg-orange-500"
+                        />
                     </div>
                 </div>
 
@@ -57,7 +43,7 @@ const TranscriptPanel = ({ messages }: TranscriptPanelProps) => {
                         </p>
                     </div>
 
-                    <ChatInterface messages={messages} />
+                    <ChatInterface call={call} />
                 </div>
             </div>
         </div>
