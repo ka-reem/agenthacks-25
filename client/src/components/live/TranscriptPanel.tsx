@@ -81,29 +81,13 @@ const TranscriptPanel = ({
 
                 <div className="flex h-full space-x-2">
                     <EmotionCard
-                        emotion={
-                            emotions && emotions.length > 1
-                                ? emotions[0].emotion
-                                : "x"
-                        }
-                        percentage={
-                            emotions && emotions.length > 1
-                                ? emotions[0].intensity * 100
-                                : 0
-                        }
+                        emotion={emotions ? emotions[0].emotion : "x"}
+                        percentage={emotions ? emotions[0].intensity * 100 : 0}
                         color="bg-purple-500"
                     />
                     <EmotionCard
-                        emotion={
-                            emotions && emotions.length > 1
-                                ? emotions[1].emotion
-                                : "x"
-                        }
-                        percentage={
-                            emotions && emotions.length > 1
-                                ? emotions[1].intensity * 100
-                                : 0
-                        }
+                        emotion={emotions ? emotions[1].emotion : "x"}
+                        percentage={emotions ? emotions[1].intensity * 100 : 0}
                         color="bg-purple-500"
                     />
                 </div>
