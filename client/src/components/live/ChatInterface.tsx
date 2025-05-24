@@ -9,7 +9,7 @@ interface ChatInterfaceProps extends CallProps {}
 
 const ChatInterface = ({ call }: ChatInterfaceProps) => {
     return (
-        <div className="mx-auto flex h-[calc(100dvh-340px)] flex-col bg-gray-100">
+        <div className="mx-auto flex h-[calc(100dvh-264px)] flex-col bg-gray-100">
             <div className="flex-1 space-y-4 overflow-y-auto p-4 pb-5">
                 {call?.transcript.map((message, index) => {
                     return (

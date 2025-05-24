@@ -78,7 +78,7 @@ const DetailsPanel = ({ call, selectedId }: DetailsPanelProps) => {
     const { toast } = useToast();
 
     return (
-        <Card className="h-fit w-[400px] rounded-none border-0 border-r border-gray-400">
+        <Card className="h-fit w-[400px] rounded-none border-0 border-r border-gray-300">
             <p className="px-2 py-[6px]">Details</p>
             <Separator />
 

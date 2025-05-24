@@ -28,6 +28,7 @@ export type Call = {
         lat: number;
         lng: number;
     };
+    street_view?: string; // base 64
     name: string;
     phone: string;
     recommendation: string;
@@ -128,6 +129,7 @@ const emptyCall: Call = {
         lat: 0,
         lng: 0,
     },
+    street_view: "", // base 64
     name: "",
     phone: "",
     recommendation: "",
