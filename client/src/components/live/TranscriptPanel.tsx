@@ -1,9 +1,9 @@
 import { CallProps } from "@/app/live/page";
 import { CheckCircle2Icon } from "lucide-react";
 
-import { Progress } from "../ui/progress";
 import { Separator } from "../ui/separator";
 import ChatInterface from "./ChatInterface";
+import EmotionCard from "./EmotionCard";
 
 interface TranscriptPanelProps extends CallProps {}
 
@@ -22,32 +22,22 @@ const TranscriptPanel = ({ call }: TranscriptPanelProps) => {
                 </div>
 
                 <div className="space-y-2">
-                    <div>
+                    {/* <div>
                         <p className="text-xs font-medium uppercase leading-3 text-black text-opacity-50">
                             Caller Emotions
                         </p>
-                    </div>
-                    <div className="w-[85%] space-y-2">
-                        <div className="space-y-1">
-                            <div className="flex-between">
-                                <p className="text-base font-semibold">
-                                    Distress
-                                </p>
-                                <p className="text-sm font-semibold text-black text-opacity-50">
-                                    85%
-                                </p>
-                            </div>
-                            <Progress value={85} className="h-2 rounded-none" />
-                        </div>
-                        <div className="space-y-1">
-                            <div className="flex-between">
-                                <p className="text-base font-semibold">Anger</p>
-                                <p className="text-sm font-semibold text-black text-opacity-50">
-                                    25%
-                                </p>
-                            </div>
-                            <Progress value={25} className="h-2 rounded-none" />
-                        </div>
+                    </div> */}
+                    <div className="flex h-full space-x-2">
+                        <EmotionCard
+                            emotion="Distress"
+                            percentage={85}
+                            color="bg-blue-500"
+                        />
+                        <EmotionCard
+                            emotion="Anger"
+                            percentage={25}
+                            color="bg-orange-500"
+                        />
                     </div>
                 </div>
 
