@@ -18,7 +18,7 @@ interface ServerMessage {
 }
 
 export type Call = {
-    emotions: {
+    emotions?: {
         emotion: string;
         intensity: number;
     }[];
@@ -32,7 +32,7 @@ export type Call = {
     name: string;
     phone: string;
     recommendation: string;
-    severity: "CRITICAL" | "MODERATE" | "RESOLVED";
+    severity?: "CRITICAL" | "MODERATE" | "RESOLVED";
     summary: string;
     time: string; // ISO Date String
     title?: string;
@@ -44,7 +44,7 @@ export type Call = {
 };
 
 export interface CallProps {
-    call: Call;
+    call?: Call;
     selectedId: string | undefined;
 }
 

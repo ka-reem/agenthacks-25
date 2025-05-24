@@ -25,8 +25,8 @@ const EmotionCard = ({
                             style={{ width: `${percentage}%` }}
                         />
                     </div>
-                    <span className="text-sm font-medium text-gray-500">
-                        {percentage}%
+                    <span className="pr-2 text-sm font-medium text-gray-500">
+                        {percentage.toFixed(0)}%
                     </span>
                 </div>
             </CardContent>
