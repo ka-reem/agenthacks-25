@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "I think my roommate just got shot."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hardly hear you. Can you give me your address?"
+    },
+    {
+      "role": "user",
+      "content": "Our address is 112 South Lily. My roommate just got shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "We were in the house cooking and we heard shots. My roommate is outside, covered in blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the address for me again?"
+    },
+    {
+      "role": "user",
+      "content": "112 South Lily."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": "[gives phone number]"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with your roommate now?"
+    },
+    {
+      "role": "user",
+      "content": "No, we thought she left the house. I don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's out on the back porch."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "22."
+    },
+    {
+      "role": "user",
+      "content": "There were a lot of shots, so I think someone should hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've dispatched medical and officers to 112 South Lily."
+    },
+    {
+      "role": "assistant",
+      "content": "Was she awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. My other roommate ran out. Should we go back?"
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anyone?"
+    },
+    {
+      "role": "user",
+      "content": "No, she was alone outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was she shot?"
+    },
+    {
+      "role": "user",
+      "content": "All in her torso, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the shots came from?"
+    },
+    {
+      "role": "user",
+      "content": "We were inside, they came from outside, but I don't know where."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any idea why someone would shoot her?"
+    },
+    {
+      "role": "user",
+      "content": "She had some things going on involving someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me who that someone was?"
+    },
+    {
+      "role": "user",
+      "content": "Ernesto Bustamante."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm driving down Surge Street, just driving in circles."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where Ernesto lives?"
+    },
+    {
+      "role": "user",
+      "content": "Last I knew, he was staying in the grove, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "You said she's 22. Do you know her full name?"
+    },
+    {
+      "role": "user",
+      "content": "Katie Benoit."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you spell her last name?"
+    },
+    {
+      "role": "user",
+      "content": "B-E-N-O-I-T."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear anything else or how many gunshots?"
+    },
+    {
+      "role": "user",
+      "content": "At least five, maybe seven."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go. We have officers on the way. Stay safe and don't return to the house right now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle are you in?"
+    },
+    {
+      "role": "user",
+      "content": "A white Malibu."
+    },
+    {
+      "role": "user",
+      "content": "Our oven is on, if someone could turn it off, that would be great."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll let them know, alright?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much. Bye."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where do you need the police?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at the McDonald's on U.S. 1 by the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I ordered a 10-piece chicken nuggets with a small fries, and they told me they didn\u2019t have any chicken nuggets. I asked for a McDouble and small fries instead, but she told me I can\u2019t pick anything else off the menu because she can't refund my order or give me all my money back."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a manager there?"
+    },
+    {
+      "role": "user",
+      "content": "She said she is the manager and that she can't refund my money or give me what I ordered."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Latrice Goodman."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, Latrice. I'll send an officer out to you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

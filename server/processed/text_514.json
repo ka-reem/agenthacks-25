@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, shots fired at St. James Catholic Church on Harrison."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and did you see the person who did this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Who was it?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure who it was, but I heard shots...someone is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, someone has been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "Inside the church, St. James Catholic Church."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person who did this?"
+    },
+    {
+      "role": "user",
+      "content": "He ran away. I think his name is Charles Jennings."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is Charles Jennings right now?"
+    },
+    {
+      "role": "user",
+      "content": "He went to get his son."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he in a vehicle or on foot?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's in a white '94 Oldsmobile Cutlass."
+    },
+    {
+      "role": "assistant",
+      "content": "And where is he heading?"
+    },
+    {
+      "role": "user",
+      "content": "He might be heading to a house near Ben Lomond High."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who is the victim that was shot?"
+    },
+    {
+      "role": "user",
+      "content": "His name is James Evans."
+    },
+    {
+      "role": "assistant",
+      "content": "Is James Evans conscious? Do you know where he was shot?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. I'm outside the church right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe Charles Jennings?"
+    },
+    {
+      "role": "user",
+      "content": "He's a white male with tattoos, but I don't know what he's wearing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there someone inside with the victim?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are people inside, and an officer just arrived."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did he shoot James Evans inside the church?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he shot him in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a registered nurse there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, his wife Tara Evans is a registered nurse."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Joe Callan."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Joe. Please stay on the line if you have any more information."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, this is James, a pharmacist with the Walgreens on Towersville Road and Cincinnati 8th Road, and we just got robbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what do they look like?"
+    },
+    {
+      "role": "user",
+      "content": "We'll have it all on video camera. Gentleman about 6'2, short hair, white glasses, in gray sweatpants, I think a brown shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of shirt, brown shirt?"
+    },
+    {
+      "role": "user",
+      "content": "I think, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Sweatpants?"
+    },
+    {
+      "role": "user",
+      "content": "He's still in the store."
+    },
+    {
+      "role": "assistant",
+      "content": "He's still in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he just cleared out all of my oxycontin and morphine."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago?"
+    },
+    {
+      "role": "user",
+      "content": "Just now."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's still inside?"
+    },
+    {
+      "role": "user",
+      "content": "I'm thinking he's still in the store. He shouldn't be out by now."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have a gun or anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't really know. It might not have been real, but he jumped over the counter and I wasn't going to argue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, why do you think he's still in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Because he just jumped back over the counter."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    }
+  ]
+}

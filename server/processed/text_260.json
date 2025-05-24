@@ -1,0 +1,300 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Counselor, no one here."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "user",
+      "content": "Comey's Middle School, we have a student with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you help us out, please?"
+    },
+    {
+      "role": "user",
+      "content": "We'll call the local police also."
+    },
+    {
+      "role": "assistant",
+      "content": "You're closest to us."
+    },
+    {
+      "role": "user",
+      "content": "Call us Middle School, Mr. Patrick."
+    },
+    {
+      "role": "assistant",
+      "content": "Pardon me? You said there's a student with a gun at the school?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's at the entrance of the school."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, he is wearing..."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure you secure the entrance of the school."
+    },
+    {
+      "role": "user",
+      "content": "This is the assistant principal at Comey's Middle School."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is the student wearing, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Red over jeans, red shirt, and he's busy."
+    },
+    {
+      "role": "assistant",
+      "content": "Red over jeans?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh. Kind of general school attire, but he's got a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he point the gun at anybody?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's got it right here on school property."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "At the entrance of the school, in the hallway, if you walk into the school where the flags are, inside the hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "So he's inside the school right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, as you walk in."
+    },
+    {
+      "role": "assistant",
+      "content": "I am listening. I'm also talking to a colleague."
+    },
+    {
+      "role": "user",
+      "content": "We're calling you because you're closer."
+    },
+    {
+      "role": "assistant",
+      "content": "He's inside the school, walking towards some flags?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has a gun in his clutch."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the school on lockdown, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are in lockdown."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on the phone."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the front office."
+    },
+    {
+      "role": "assistant",
+      "content": "Front office? And you can open the window to flag us?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I have your name again?"
+    },
+    {
+      "role": "user",
+      "content": "Petro. H-A-T-C-H-E-R."
+    },
+    {
+      "role": "assistant",
+      "content": "As you walk in, you can see me by the window near the flags."
+    },
+    {
+      "role": "user",
+      "content": "But don't rush in; he still has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the gun?"
+    },
+    {
+      "role": "user",
+      "content": "It's dark, black."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he right now?"
+    },
+    {
+      "role": "user",
+      "content": "At the entrance of the school, same place."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll notify the officers not to charge the front door."
+    },
+    {
+      "role": "user",
+      "content": "Police are here already, but please don't come in."
+    },
+    {
+      "role": "assistant",
+      "content": "So there is an officer there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but don't come in. He has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I've got units aware. Police are here."
+    },
+    {
+      "role": "user",
+      "content": "There's a child with a gun. Tell other parents too."
+    },
+    {
+      "role": "assistant",
+      "content": "Who are you talking to, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Get out of the way!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, who?"
+    },
+    {
+      "role": "user",
+      "content": "He's drawing the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, put it down."
+    },
+    {
+      "role": "user",
+      "content": "He's drawing the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Put it down now."
+    },
+    {
+      "role": "user",
+      "content": "He's drawing the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Put it on the floor."
+    },
+    {
+      "role": "user",
+      "content": "Should I stay on the phone now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Put it down on the floor."
+    },
+    {
+      "role": "user",
+      "content": "He's drawing the gun. Be careful."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He's got the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Lock the door."
+    },
+    {
+      "role": "user",
+      "content": "She's saying she's willing to die. Be careful."
+    },
+    {
+      "role": "assistant",
+      "content": "Lock the door."
+    },
+    {
+      "role": "user",
+      "content": "He's at the entrance of the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need everyone to leave the front office now."
+    },
+    {
+      "role": "user",
+      "content": "Can I hang up?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, lock the door."
+    },
+    {
+      "role": "user",
+      "content": "Police are out there, but he has the gun in the hallway."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, we're sending officers."
+    },
+    {
+      "role": "user",
+      "content": "6779, they're shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to leave the building already."
+    },
+    {
+      "role": "user",
+      "content": "He's going to fire!"
+    }
+  ]
+}

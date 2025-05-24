@@ -1,0 +1,496 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Just read sign-o-cordid this, Teresa."
+    },
+    {
+      "role": "assistant",
+      "content": "May I help you?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, I need help. Oh, my God."
+    },
+    {
+      "role": "user",
+      "content": "I killed my mom and my dad."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I killed my mom and my dad."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your address?"
+    },
+    {
+      "role": "user",
+      "content": "I bought the Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, can you repeat that?"
+    },
+    {
+      "role": "user",
+      "content": "It's Oracle."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stop me?"
+    },
+    {
+      "role": "assistant",
+      "content": "What city are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm new here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you off of Weber?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there a name to your neighborhood?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the phone number you're calling from?"
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Ryan."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name, Ryan?"
+    },
+    {
+      "role": "user",
+      "content": "Can you spell it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "My dad, he kept hitting my mom and I went to grab his gun. And then my mom came and he shot her by accident. Then my dad came at me and I shot them both in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you shot them both?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I was scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm getting help to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'll kill you all. I have a bomb."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line, okay. I have some questions for you."
+    },
+    {
+      "role": "assistant",
+      "content": "When did this occur?"
+    },
+    {
+      "role": "user",
+      "content": "It happened 20 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "This happened 20 minutes ago?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of weapon did you use? You said you shot them with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are the weapons now?"
+    },
+    {
+      "role": "user",
+      "content": "It's in my hand. I'm going to kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want you to do that, alright?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to blow myself up."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, I need your description. Are you white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "I'm white."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 16."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing a blue shirt with blood all over me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you put the gun down?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's going to kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's going to kill you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to die."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you put the gun down for me?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you in your house?"
+    },
+    {
+      "role": "user",
+      "content": "In the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a bomb around my chest."
+    },
+    {
+      "role": "assistant",
+      "content": "You have a bomb around your chest?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "It's a handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you're still in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What side of the house is the bathroom on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are your parents? Are they still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're not."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, did you check to see if they were still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I did. They're dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Ryan, are you still in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, do you still have the gun in your hand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put it down for me?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you exactly?"
+    },
+    {
+      "role": "user",
+      "content": "I'm leaving. I'm running away."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, I want you to stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "No, I'm leaving."
+    },
+    {
+      "role": "assistant",
+      "content": "We're trying to get help to you."
+    },
+    {
+      "role": "user",
+      "content": "No, I'll shoot anyone who comes near me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you please tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I ran away. I'm not telling you."
+    },
+    {
+      "role": "assistant",
+      "content": "We're trying to help you, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "No, I'll shoot anyone who comes near me."
+    },
+    {
+      "role": "assistant",
+      "content": "You still have the gun in your hand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you tell me where you are so we can help you?"
+    },
+    {
+      "role": "user",
+      "content": "No, what am I going to tell you?"
+    },
+    {
+      "role": "assistant",
+      "content": "We're trying to help you, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "I know what you guys do. You're going to kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "No one wants to hurt you. We just want to help."
+    },
+    {
+      "role": "user",
+      "content": "You're going to kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, what are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "No, you'll find me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you tell me what you're wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "No, Ryan, stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Eight minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Eight minutes until it goes off?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I don't want to hurt anyone. I just want to blow myself up."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, we want to help you. You don't have to do this."
+    },
+    {
+      "role": "user",
+      "content": "You're going to kill me too!"
+    },
+    {
+      "role": "assistant",
+      "content": "No one wants to hurt you, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "I hear you guys. I hear the cops."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me where exactly you are?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to shoot them."
+    },
+    {
+      "role": "assistant",
+      "content": "No, Ryan, don't do that."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to kill them."
+    },
+    {
+      "role": "assistant",
+      "content": "They're trying to help you."
+    },
+    {
+      "role": "user",
+      "content": "No, I'm running away."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, can you tell me where you're hiding?"
+    },
+    {
+      "role": "user",
+      "content": "No, stay away from my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, we want to help you. Can you tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to talk to you. I want to talk to someone else."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm trying to help you, Ryan."
+    },
+    {
+      "role": "user",
+      "content": "No. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan, what do you like to do for fun?"
+    },
+    {
+      "role": "user",
+      "content": "I like to cut my wrist."
+    },
+    {
+      "role": "assistant",
+      "content": "No, don't do that. Don't hang up on me."
+    }
+  ]
+}

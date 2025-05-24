@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've combined it. No, he's... Yes, sir, this is..."
+    },
+    {
+      "role": "user",
+      "content": "And I called to all at 24, somebody to come out here. Please, because he'd been called..."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this on Norman Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, it can be Tennessee."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the street again, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on one second for me, let me find it, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. I'm calling about my son."
+    },
+    {
+      "role": "user",
+      "content": "I don't have any family here or God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is this Sheila Jones?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, Ms. Jones, we have your call. We haven't dispatched on it yet."
+    },
+    {
+      "role": "user",
+      "content": "Y'all haven't dispatched on it?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "What do you mean you haven't dispatched? You're not going to come out and nobody's coming out here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. As soon as the sergeant gets an officer, he'll send somebody out there."
+    },
+    {
+      "role": "user",
+      "content": "I mean, I've been sick. If he kills me, he keeps on calling somebody, he's going to kill me."
+    },
+    {
+      "role": "user",
+      "content": "Why doesn't anyone listen? If he comes, he'll kill me. He said he's gonna kill me."
+    },
+    {
+      "role": "user",
+      "content": "He said it right in front of the cable man. The cable man was in my house."
+    },
+    {
+      "role": "user",
+      "content": "So it ain't like I'm making this up."
+    },
+    {
+      "role": "user",
+      "content": "He called me and said I better not come outside and to watch my back. I think he hit my window."
+    },
+    {
+      "role": "user",
+      "content": "I don't know what's going on."
+    },
+    {
+      "role": "user",
+      "content": "Do you want him to kill me so you can put yellow tape around and say you got here just for the devil? Is that it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't understand it. I'm scared to leave my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, we'll get someone out there as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "I really just don't give a shit what happens, yeah."
+    }
+  ]
+}

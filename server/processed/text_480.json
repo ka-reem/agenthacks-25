@@ -1,0 +1,304 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at 6969 East Main. My son just shot his wife, two houses to the south of me."
+    },
+    {
+      "role": "assistant",
+      "content": "He shot his wife?"
+    },
+    {
+      "role": "user",
+      "content": "That's what I'm telling you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and two houses to the south, how do you know this?"
+    },
+    {
+      "role": "user",
+      "content": "My sons were just here. What's the matter, son?"
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "You've got to get here. My son just shot his wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay. Is she dead?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at 6969 East Main. My son's here right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what house is his wife at?"
+    },
+    {
+      "role": "user",
+      "content": "Two houses south."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the address?"
+    },
+    {
+      "role": "user",
+      "content": "No, I do not."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Is your name Sherman?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Sherman Kovac?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you calling from 6969 East Main?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I have people en route, okay? I've got help on the way. Now, I need to get some information from you, sir."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your son's name?"
+    },
+    {
+      "role": "user",
+      "content": "John Kovac."
+    },
+    {
+      "role": "assistant",
+      "content": "What is his first name?"
+    },
+    {
+      "role": "user",
+      "content": "John, J-O-H-N."
+    },
+    {
+      "role": "assistant",
+      "content": "And how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "40."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have the weapon with him?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know that. He doesn't have it on him. I can see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you in contact with him?"
+    },
+    {
+      "role": "user",
+      "content": "Sir, just stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I need you to stay on the line. Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Get over here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay. All right, I'm still with you. What is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a black t-shirt with camo shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "White male or black male?"
+    },
+    {
+      "role": "user",
+      "content": "White male."
+    },
+    {
+      "role": "assistant",
+      "content": "Black t-shirt, camo shorts. Where is the victim?"
+    },
+    {
+      "role": "user",
+      "content": "They hated her. Can you get here?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I have several units en route, okay? You have to bear with me. I just need to get some information from you. Where's John?"
+    },
+    {
+      "role": "user",
+      "content": "He's inside. He does not have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he being violent towards you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think this was accidental?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if it was accidental."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that him in the background?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he crying in the background?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I wish he had come to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her if she's dead?"
+    },
+    {
+      "role": "user",
+      "content": "You have to figure that out. You can't ask him that. Too much trauma."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I understand. Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "I have him in my arms."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "John, is this John?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I just shot my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Was this deliberate, John, or did you accidentally shoot her?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She was screaming at me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "She screamed at my kids over a boiled pot."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm on the phone with him right now."
+    },
+    {
+      "role": "user",
+      "content": "John, I need you to stay calm. Is anyone else hurt?"
+    },
+    {
+      "role": "user",
+      "content": "My kids are present. I will come out. I'm unarmed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. John, I need you to walk outside with your hands in the air."
+    },
+    {
+      "role": "user",
+      "content": "Okay, not a problem. Dad, take the phone. They need you outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he heading outside now, sir?"
+    },
+    {
+      "role": "user",
+      "content": "The cops are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. All right."
+    },
+    {
+      "role": "user",
+      "content": "I can't hear you."
+    },
+    {
+      "role": "assistant",
+      "content": "I know, sir. Hang on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Mr. Kovac, I'm going to hang up now. Stay in the house. Officers will talk to you shortly."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Good luck. Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Everybody's been stopped. We're at the Rainier Lighting and Electric Supply Building."
+    },
+    {
+      "role": "assistant",
+      "content": "Rainier Lighting and Electric?"
+    },
+    {
+      "role": "user",
+      "content": "Off Pacific Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Pacific Highway Southwest, you mean?"
+    },
+    {
+      "role": "user",
+      "content": "Pacific Highway Southwest."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who stopped him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It was four black kids in a black car."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they try to take something from him?"
+    },
+    {
+      "role": "user",
+      "content": "No. They stopped. They stopped."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me, okay? My partner's going to get medical aid. I want you to stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Oh, please. Operator, I've got a phone call."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please, please. I think he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me, okay? My partner's getting medical aid. Where are the people who did this?"
+    },
+    {
+      "role": "user",
+      "content": "They drove off. They went north on Pacific Avenue towards Bridgeport."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of car?"
+    },
+    {
+      "role": "user",
+      "content": "They were in a black sedan. All black males. I don't have a license plate number."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are they, roughly?"
+    },
+    {
+      "role": "user",
+      "content": "Mid-20s, maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got help started, okay? There are a lot of people coming to you. I'm going to stay on the line with you until they find you. Are you in the back or the front of the business?"
+    },
+    {
+      "role": "user",
+      "content": "We're on the street, on Pacific Avenue, on the side of the road, in the bike lane. He's on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he know these people who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "No, we don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Matthew. My name is Specialist Matthew B. Barr. I'm with the United States Army."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Did this all happen at this location?"
+    },
+    {
+      "role": "user",
+      "content": "No. We were walking into the street, going back to our friend's house, and he fell back and got stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Matthew, I'm going to stay on the line with you until they find you. My partner's already getting medical aid."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I can see a police car."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you wave them down so they know where you are?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I know."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your friend's name?"
+    },
+    {
+      "role": "user",
+      "content": "My friend's name is Specialist Kevin A. Guy. He's with the 16th Combat Aviation Brigade at Fort Lewis, Washington, in the United States Army."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think these guys did this because you're in the Army?"
+    },
+    {
+      "role": "user",
+      "content": "Probably. Probably because we're soldiers."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in uniform?"
+    },
+    {
+      "role": "user",
+      "content": "I am not in uniform. The police are here."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are there? Okay, talk to them. I'll let you go."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

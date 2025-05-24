@@ -1,0 +1,544 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I want emergency what he were fighting."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello. I can't take it out."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear me? What is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Go? Go, go, go. Go! I can't move! Oh my God! You can just open the door! Open it!"
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down. What's happening? Are you trapped in the car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're trapped! It's turning! Get out, get out, get out, get out."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you? What is your location?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Smoking or something, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me put you through to emergency services."
+    },
+    {
+      "role": "user",
+      "content": "Hi, did you get a report that there's a limo on fire on the 92 bridge?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a moment. Which direction on 92?"
+    },
+    {
+      "role": "user",
+      "content": "It's 92 going west."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly on 92?"
+    },
+    {
+      "role": "user",
+      "content": "It's before Foster City Boulevard exit, right on the bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you reporting that it's on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see smoke, flames, or both?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, flames, smoke, everything."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the flames coming from inside the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, from inside."
+    },
+    {
+      "role": "assistant",
+      "content": "CHP, let me put you through to the fire department. Please hold on for one moment, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire Department, can you assist with a car fire on westbound 92 at the high rise? We have reports of flames coming from inside the vehicle."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I saw two people running around the area."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. We have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay safe. Bye."
+    },
+    {
+      "role": "user",
+      "content": "911 emergency. What are you reporting?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's a fire on the San Mateo Bridge, and it's a limousine."
+    },
+    {
+      "role": "user",
+      "content": "Which direction are you traveling, westbound or eastbound?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going towards Hayward, but the limousine is on the other side going towards San Mateo."
+    },
+    {
+      "role": "user",
+      "content": "Is it right when you start coming down off of the?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "What lane number do you think it's stopped in?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's in the number one lane."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we are dispatching Highway Patrol. Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, have a good drive. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "It's a limousine."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's on the right-hand shoulder?"
+    },
+    {
+      "role": "user",
+      "content": "Correct. Westbound on the high rise."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the limo?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like white with a black top."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone in the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I saw two people running around the area."
+    },
+    {
+      "role": "assistant",
+      "content": "We are getting calls and we have help en route, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Have a safe day. Bye."
+    },
+    {
+      "role": "user",
+      "content": "The car is on fire on the westbound, west of the high-rise."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me check. A limo blocking the three, but nobody said it's on fire. Did you see flames or smoke?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I saw flames and people standing out of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you so much for calling. Have a good night."
+    },
+    {
+      "role": "user",
+      "content": "You too."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's a limo on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it westbound, where on the bridge?"
+    },
+    {
+      "role": "user",
+      "content": "Near the peak of the high-rise."
+    },
+    {
+      "role": "assistant",
+      "content": "And is it on the right-hand shoulder?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the flames coming from?"
+    },
+    {
+      "role": "user",
+      "content": "From the back."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry?"
+    },
+    {
+      "role": "assistant",
+      "content": "We will get help started. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead, there's a report of a car fire."
+    },
+    {
+      "role": "user",
+      "content": "Calm down, calm down. Yes, there's a car fire, westbound 92, right on the decline."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm calling the fire department now."
+    },
+    {
+      "role": "user",
+      "content": "This is 143. There's a car fire, westbound 92, right on the decline. It's a limo that's fully engulfed."
+    },
+    {
+      "role": "assistant",
+      "content": "I am transferring you to the fire department now, hold on."
+    },
+    {
+      "role": "user",
+      "content": "Emergency dispatcher, do you have the location of your emergency?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, CHP transfer with a caller for a car fire, westbound 92 at the high rise."
+    },
+    {
+      "role": "user",
+      "content": "Do you have a log on this?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the log number is 3376."
+    },
+    {
+      "role": "user",
+      "content": "Do we know if it's east or west of the high rise?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's westbound 92, just west of the high rise. It's a limo blocking on fire."
+    },
+    {
+      "role": "user",
+      "content": "Very good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "911 emergency, what are you reporting?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's a car fire and a limousine on the San Mateo Bridge. Are you traveling westbound or eastbound?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going towards Hayward, but the limo is on the other side."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it right when you start coming down off the high rise?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And is it stopped in the number one lane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "We're dispatching Highway Patrol. Thank you. Have a safe night."
+    },
+    {
+      "role": "user",
+      "content": "It's a limousine?"
+    },
+    {
+      "role": "assistant",
+      "content": "And it's on the right-hand shoulder?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, westbound on the high rise."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the limo?"
+    },
+    {
+      "role": "user",
+      "content": "White with a black top."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone in the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I saw two people running around."
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Have a safe day. Goodbye."
+    },
+    {
+      "role": "user",
+      "content": "There are five more people trapped inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Courtney, can you update fire? Just stand over here, we're coming right now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got help on the way. Stay back and stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Is there anything else I need to do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay back and keep others out of the lanes. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see the fire department arriving."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we've updated them as much as possible. Thank you for your help."
+    },
+    {
+      "role": "user",
+      "content": "Hi, there's a limousine on fire on the eastbound San Mateo Bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "We have it at the westbound location. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "San Mateo Bridge, heading towards Foster City."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can they get out?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction are you going on the bridge, east or west?"
+    },
+    {
+      "role": "user",
+      "content": "Towards Foster City."
+    },
+    {
+      "role": "assistant",
+      "content": "So are you on the west side?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm transferring you to the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Hey, CHP, west on 92 east of Foster City, there's a limo burning up with people inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you tell me how many people are in the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "That\u2019s okay, we have people on the way. Just keep your distance and stay safe."
+    },
+    {
+      "role": "user",
+      "content": "There's a vehicle on fire on the San Mateo Bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Just confirming, is it on the eastbound or the westbound side of 92?"
+    },
+    {
+      "role": "user",
+      "content": "Westbound, right before you reach the peak of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it in the far slow lane or right-hand shoulder?"
+    },
+    {
+      "role": "user",
+      "content": "Far slow lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we are sending fire and Highway Patrol. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you. You too."
+    },
+    {
+      "role": "assistant",
+      "content": "Have a safe drive."
+    },
+    {
+      "role": "user",
+      "content": "Hi, I just passed by a white limo that's on fire on the San Mateo Bridge."
+    },
+    {
+      "role": "assistant",
+      "content": "We have it, thank you for calling."
+    },
+    {
+      "role": "user",
+      "content": "Are you notified about people possibly trapped inside?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we are aware and help is on the way."
+    }
+  ]
+}

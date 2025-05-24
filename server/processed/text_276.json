@@ -1,0 +1,256 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My friend was just hit by a train."
+    },
+    {
+      "role": "assistant",
+      "content": "Where at?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I'm not sure. I can see lights, and it looks like an accident. I'm trying to run down there. I think he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like you're on Iowa Avenue in Lexington Township. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my gosh."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire Department, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. The lady said I'm on Iowa Avenue. My friend just got hit by a train."
+    },
+    {
+      "role": "assistant",
+      "content": "Your friend?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we were walking over the track, he got hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm by the Greenbauer, near the train tracks, like 800 yards away from the Greenbauer train tracks crossing. I can see lights right now, like 30,000 yards away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me your name."
+    },
+    {
+      "role": "user",
+      "content": "My name's Connor Tice."
+    },
+    {
+      "role": "assistant",
+      "content": "Connor Tice?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Please, you guys hurry, he's dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we are, but I need you to stay on the phone. I'm going to put you on hold and get them on their way, okay? Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "All right, you got to hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, hold on."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, come on. Oh, my God. No. Oh, my God. No."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire Department, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. The lady just left me. My friend just got hit by a train."
+    },
+    {
+      "role": "assistant",
+      "content": "Your friend?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we were walking and a train got hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm by Greenbauer, by the train tracks, like 800 yards away from the Greenbauer train tracks, like crossing. I can see lights right now, like 30,000 yards away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me your name."
+    },
+    {
+      "role": "user",
+      "content": "My name's Connor Tice."
+    },
+    {
+      "role": "assistant",
+      "content": "Connor Tice?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Please, you guys hurry, he's dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we are, but I need you to stay on the phone. I'm going to put you on hold and get them on their way, okay? Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "You got to hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, hold on."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, are you still there? We're on the way. I have two people on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry up, please."
+    },
+    {
+      "role": "assistant",
+      "content": "We are on the way. We'll be there any minute. Can you give me any update on whether or not he's still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Um, if you tell me how."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, his tongue was sticking out. I think he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, stay calm with me and we'll find out when we get there, okay? Did the train stop?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the train stopped."
+    },
+    {
+      "role": "assistant",
+      "content": "The train did stop? Okay."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you spell your name, Connor?"
+    },
+    {
+      "role": "user",
+      "content": "C-O-N-N-E-R T-I-C-E."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your friend?"
+    },
+    {
+      "role": "user",
+      "content": "He's 15. His name is Cody Thayer."
+    },
+    {
+      "role": "assistant",
+      "content": "He's 15?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 14."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Let me know when you hear sirens or anything, okay, if you could do that for me?"
+    },
+    {
+      "role": "user",
+      "content": "I can see police lights from here, but they thought that it was some kind of construction."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, they should be there any minute. If you can, I need you to stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody from the train? Did they get out or anything yet?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm on the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, if you see someone coming, whether it be police or fire, you need to flag them down, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I could run to these people real quick."
+    },
+    {
+      "role": "assistant",
+      "content": "What people? The police officers?"
+    },
+    {
+      "role": "assistant",
+      "content": "Connor, are you there? Hello?"
+    }
+  ]
+}

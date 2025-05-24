@@ -1,0 +1,364 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, a gentleman was just talking to you about someone that's broken into my house and he can't find his brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone broke into your house and now you can't find his brother?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you want to do a missing person report or...?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It's his brother. I don't know who this gentleman is. I heard the door banging and next thing I know he's in my house. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "So the person is in your house. Do you know them?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know them."
+    },
+    {
+      "role": "assistant",
+      "content": "So you just heard someone, your neighbor, it's your neighbor, right?"
+    },
+    {
+      "role": "user",
+      "content": "No, I've never seen them. There was a U-Haul truck."
+    },
+    {
+      "role": "assistant",
+      "content": "So you let him inside your house, and he requested that you call the police?"
+    },
+    {
+      "role": "user",
+      "content": "He called on my house phone, supposedly, saying that someone told him to meet him here with money for his brother."
+    },
+    {
+      "role": "assistant",
+      "content": "And where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "Outside."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's in the U-Haul truck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's very agitated, says he's worried about his brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a white male or black male?"
+    },
+    {
+      "role": "user",
+      "content": "He's black with a white female."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Um, sorry, my name is..."
+    },
+    {
+      "role": "assistant",
+      "content": "So he just came in the house to use the phone. Did he tell you anything else?"
+    },
+    {
+      "role": "user",
+      "content": "Um, someone has broken into my house. The door is broken."
+    },
+    {
+      "role": "assistant",
+      "content": "So somebody broke into your house as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I was asleep in the bedroom and heard a loud banging, and the next thing I know, he was in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "So the subject broke into your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he says he was with someone else, so please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're still outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, give me one second, okay? Hold on, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Sorry."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "They've left. I knew it was him that broke into my house. They've left."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you see what he had on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a yellow shirt and black and green shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he take anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm sorry. He's gone. I knew it was him that broke in. They had a U-Haul. I think they were stealing from my house. I don't know what he's done with my phone."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't see your phone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know if he really called you or not. That's why I got my cell phone and called. He wanted my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see which way they went?"
+    },
+    {
+      "role": "user",
+      "content": "We live on a little cul-de-sac at the end. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. Officers are en route. Stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry about this. I'm disabled."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be all right. And you don't see your phone?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said they were in the U-Haul truck, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. The female is white."
+    },
+    {
+      "role": "assistant",
+      "content": "The female is white?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And this just happened a few minutes ago?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, just a few minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be all right, ma'am. Did he say he wasn't going to hurt you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he didn't know where his brother was. Someone told him to bring $100 to get his brother and he didn't want to get in any trouble."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did he appear to be a young male or older male?"
+    },
+    {
+      "role": "user",
+      "content": "Young male."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you upstairs or in your room?"
+    },
+    {
+      "role": "user",
+      "content": "I was in my bedroom with the door locked. I had gone back to sleep."
+    },
+    {
+      "role": "assistant",
+      "content": "So you were in your room and then he came in and entered your room, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I kept hearing banging in the house. I knew my husband wasn't home. Next thing I know, he was in my house, asking for his brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and he said he didn't want to get in trouble?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know if he's got a record or something, but when I saw the U-Haul, I knew their intentions, especially since I broke down two doors."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be all right, ma'am. Just hold on."
+    },
+    {
+      "role": "user",
+      "content": "He asked me for cash, and I gave him about $5. He said he was calling the police, but I don't know if he really called you, so I called with my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "We have K-9 units en route."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry about this. I don't know why they would have come here."
+    },
+    {
+      "role": "assistant",
+      "content": "They probably thought no one was home."
+    },
+    {
+      "role": "user",
+      "content": "I didn't hear the banging for a while."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it like a one-way-in, one-way-out neighborhood?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, you turn in and can't get out unless you go back the same way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is it a big U-Haul truck?"
+    },
+    {
+      "role": "user",
+      "content": "It's a decent size, probably their smallest big truck. She was blonde and tubby, he was thin."
+    },
+    {
+      "role": "assistant",
+      "content": "So he was thin with a yellow shirt and black hair?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and she was white with short blonde hair."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be all right, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I should stay here with my dog or go somewhere else."
+    },
+    {
+      "role": "assistant",
+      "content": "Just don't touch anything. The police will handle it."
+    },
+    {
+      "role": "user",
+      "content": "I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be all right. Can you hold on for two seconds?"
+    },
+    {
+      "role": "assistant",
+      "content": "Communications staff. Hey Joy, do we have an ETA for the units?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure, let me check."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, do you need to contact your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's in Amsterdam."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a neighbor or anyone you can call?"
+    },
+    {
+      "role": "user",
+      "content": "I was going to call my dad. I was trying to see if my neighbor was home. He did take something out of my house, besides the phones, I'm not sure what else."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are arriving. Do you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. I'm going to let you go as soon as I hear the officer."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much for staying on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "No problem, ma'am. All right, take care."
+    },
+    {
+      "role": "user",
+      "content": "Bye-bye."
+    }
+  ]
+}

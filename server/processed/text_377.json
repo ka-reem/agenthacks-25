@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just shot my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me the address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but can they come without sirens?"
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. What's the address?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "A house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what exactly happened?"
+    },
+    {
+      "role": "user",
+      "content": "She just suffered too much. We're out of money, out of gas. She needed her pill refills. She was suffering. We've been through hell, and I couldn't see her suffer anymore. We were being evicted today, and I just knew she wouldn't last another hospital stay, especially with my insurance being canceled."
+    },
+    {
+      "role": "assistant",
+      "content": "So she's been sick?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, very sick, many many times."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she still breathing? Is she alive?"
+    },
+    {
+      "role": "user",
+      "content": "I'm pretty sure she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting on the porch. I'll be waiting for them. The firearm is on top of the TV."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "And what's your phone number there?"
+    },
+    {
+      "role": "user",
+      "content": "Well, we had that canceled. I'm calling you on my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's that number?"
+    },
+    {
+      "role": "assistant",
+      "content": "And it was just the two of you there, nobody else?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody else."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said you want them to come without sirens?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I don't mind."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. She knew that you were going to do this? Did she ask you to?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, what exactly happened? Was she just sitting there?"
+    },
+    {
+      "role": "user",
+      "content": "She's laying down. She's been laying down most of the time."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So she didn't know that you were coming?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't want her to suffer anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Was she sleeping?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, we're getting deputies on the way to you. Just stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, please tell them not to come with the siren."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, they're coming to help. And you said she'd been sick. Did you guys ever talk about her getting better or anything like that? Her treatment?"
+    },
+    {
+      "role": "user",
+      "content": "We tried, we just did everything we could to keep her alive. They said that her liver was shot. She's had so many strokes and seizures, hip implant, neck fusion."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How long has she been sick?"
+    },
+    {
+      "role": "user",
+      "content": "Years."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "And the deputy is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he come without the siren?"
+    },
+    {
+      "role": "user",
+      "content": "The deputy on the motorcycle came without one, but I hear one coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, I did ask them not to use the sirens. Is the deputy there now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the deputy is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know once you're with the deputy, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to stand up until then."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. I'm on the phone with 911."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the deputy just asked me to hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go then."
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My emergency, um, it's at 3209 Mink Road, Coitner's a P.A."
+    },
+    {
+      "role": "assistant",
+      "content": "What town or province is that in?"
+    },
+    {
+      "role": "user",
+      "content": "Bucks County."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, which police department serves that area?"
+    },
+    {
+      "role": "user",
+      "content": "It's the Springfield police station."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. And what is your cell number?"
+    },
+    {
+      "role": "user",
+      "content": "It's 267-980-8355. I requested the state police to come out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Doreen Berkland."
+    },
+    {
+      "role": "user",
+      "content": "I already contacted the FBI as well."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What do you need the state police for, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I shot my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is he right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's upstairs in the bedroom."
+    },
+    {
+      "role": "user",
+      "content": "I tried to reach someone I've been in contact with in Bethlehem."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is your husband awake and able to speak?"
+    },
+    {
+      "role": "user",
+      "content": "No, he is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Darlene, what's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Berklin, B-U-R-K-L-A-N-D."
+    },
+    {
+      "role": "user",
+      "content": "Like I said, I called the FBI to find Tiffany Hill."
+    },
+    {
+      "role": "assistant",
+      "content": "Why did you call the FBI?"
+    },
+    {
+      "role": "user",
+      "content": "They have been updated. I went to them several times about my ex threatening my life."
+    },
+    {
+      "role": "user",
+      "content": "I just moved back into our residence because we are getting a divorce and the property wasn't selling because of him."
+    },
+    {
+      "role": "user",
+      "content": "We had an argument, and I wasn't going to let him come at me again."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm having the Pennsylvania State Police dispatched right now."
+    },
+    {
+      "role": "user",
+      "content": "Could you please ask for Mike Wolf? He knows about the things my husband was doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is the gun you used?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the kitchen. Where do you want me to put it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Leave it where it is."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun was it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a handgun. A .38."
+    },
+    {
+      "role": "user",
+      "content": "My son's here too. He was outside working on his go-kart when the argument started. He's still outside."
+    },
+    {
+      "role": "user",
+      "content": "He's 18. His name is Gabriel."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you going to be in the residence?"
+    },
+    {
+      "role": "user",
+      "content": "Where do you want me to be?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you wait outside?"
+    },
+    {
+      "role": "user",
+      "content": "Sure, do you want me to be outside?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, please stand outside with your son."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Do you want me to stay on the phone with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Gabe, the police are on the way."
+    },
+    {
+      "role": "user",
+      "content": "I called the FBI to talk to Tiffany, but they can't locate her. She might have been transferred."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember the name of the FBI agent who interviewed you?"
+    },
+    {
+      "role": "user",
+      "content": "Anthony, he had an Italian last name. I have the notes somewhere."
+    },
+    {
+      "role": "assistant",
+      "content": "And what was the Pennsylvania State Police trooper's name again?"
+    },
+    {
+      "role": "user",
+      "content": "Michael Wolf. He's out of Dublin."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "My son has nowhere to go. This is his home."
+    },
+    {
+      "role": "user",
+      "content": "Is there a possibility he can stay here after they take me or come back to the house?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your son's name?"
+    },
+    {
+      "role": "user",
+      "content": "Gabriel."
+    },
+    {
+      "role": "assistant",
+      "content": "The decision will be up to the Pennsylvania State Police when they arrive."
+    },
+    {
+      "role": "user",
+      "content": "Gabriel, can you go to your grandmother's if you need to tonight?"
+    },
+    {
+      "role": "user",
+      "content": "I just asked him if he could stay here. It's going to be up to the state police."
+    },
+    {
+      "role": "user",
+      "content": "Somebody in a blue van is backing up and coming in. Gabe, who is that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second. What kind of van is it?"
+    },
+    {
+      "role": "user",
+      "content": "It doesn't look like an ambulance. It's a van."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Darlene, I'm going to transfer you to the state police. Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "Well, this is a guy in a van, not an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm transferring you to the state police now. Hold on one second. Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "Should I let him in the house? What should I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just wait right there. Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "He says he lives down the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell him to wait. Hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "You live down the road?"
+    },
+    {
+      "role": "user",
+      "content": "You weren't supposed to come here. The state police were supposed to arrive first."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second. Do not hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "State Police Dublin, Corporal Glide."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, it's Bucks County 911. We have someone named Darlene for you. Darlene, are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Darlene, the state police are on the line now."
+    },
+    {
+      "role": "assistant",
+      "content": "This is Corporal Glad from the state police."
+    }
+  ]
+}

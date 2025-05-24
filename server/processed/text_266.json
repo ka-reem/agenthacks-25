@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I'm down, what do I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's wrong? Can you tell me what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "You know what, I just killed all these people, and you don't know why."
+    },
+    {
+      "role": "assistant",
+      "content": "You killed who? Can you tell me more?"
+    },
+    {
+      "role": "user",
+      "content": "You know what, I'm trying to get him."
+    },
+    {
+      "role": "user",
+      "content": "You stupid bitch."
+    },
+    {
+      "role": "user",
+      "content": "I'm calling you and I'm telling you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not stupid. Can you tell me where you are?"
+    },
+    {
+      "role": "user",
+      "content": "I just told you. They are here with me."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to stop this."
+    },
+    {
+      "role": "user",
+      "content": "People are police. It's over."
+    },
+    {
+      "role": "user",
+      "content": "And my way up here already."
+    },
+    {
+      "role": "user",
+      "content": "Sir, you're talking fast."
+    },
+    {
+      "role": "user",
+      "content": "Please don't let me kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I'm here to help. Tell me where you are."
+    },
+    {
+      "role": "user",
+      "content": "I will come out if I know the police are not there."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Please don't. We can work this out. Just tell me where you are."
+    },
+    {
+      "role": "user",
+      "content": "I'm going out there with guns."
+    },
+    {
+      "role": "assistant",
+      "content": "Just put the gun down, and tell me what you want me to do."
+    },
+    {
+      "role": "user",
+      "content": "I'm not playing around. If they do anything, I'm going to kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know you're coming out, and I'll tell them."
+    },
+    {
+      "role": "user",
+      "content": "Just make sure they don't kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, come out slowly with your hands up."
+    },
+    {
+      "role": "user",
+      "content": "I'm going out with the gun on my chin. I won't do anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Just come out with your hands up and nothing in them. They have been notified you're coming out."
+    },
+    {
+      "role": "user",
+      "content": "I'm coming out now."
+    },
+    {
+      "role": "assistant",
+      "content": "You do not need to take your clothes off."
+    },
+    {
+      "role": "user",
+      "content": "I just killed all these people. I'm done."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, you're coming out now, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm trying. Please don't let me kill myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the gun down and walk to the front door."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm on my way."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I'm in compliance."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay right there. They'll let you know when to move."
+    },
+    {
+      "role": "user",
+      "content": "If I see police, I'm going to kill myself. Let me know now."
+    }
+  ]
+}

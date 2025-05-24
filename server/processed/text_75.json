@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend, she's not breathing!"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't know. I'm trying to catch up with his ambulance. I can't take her pulse or I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, calm down. We're dispatching the ambulance so it can stop and meet you at 26 of 100, all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Thomas. Please have the ambulance stop."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in an extended cab, F-150."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is your truck?"
+    },
+    {
+      "role": "user",
+      "content": "Blue, it's blue."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, calm down. All right, what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "My girlfriend has just been shot!"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the ambulance stopped up ahead. I just ran up here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Now that the ambulance is there, let them take care of her. Talk to me about the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle was the suspect in?"
+    },
+    {
+      "role": "user",
+      "content": "It was a red Ranger, like an old beat-up red Ranger."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said this occurred further down on 26?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, down on 26. We were on our way to Gainesville."
+    },
+    {
+      "role": "user",
+      "content": "She just took a deep breath. Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And the ambulance is checking her out now, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Now, do you have any idea who the suspect is?"
+    },
+    {
+      "role": "user",
+      "content": "No, I've never seen him before in my life."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they leave right after that?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they shot her. I put my truck in reverse. I gave him my wallet, he grabbed her purse, she tried grabbing him, and then he shot her. I put my truck in reverse and just took off. I'm sorry, I had to go."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he did take your wallet. Did he get her purse too?"
+    },
+    {
+      "role": "user",
+      "content": "He got her purse, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what he looked like?"
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down. Can you describe him?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he was black. He was wearing a black shirt and a gray hoodie."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on just a second."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    }
+  ]
+}

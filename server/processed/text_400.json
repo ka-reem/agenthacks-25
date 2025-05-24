@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is the sheriff's office with a transfer. The address is 4037 Northwest Woodston Road, Unit 10B at Oak Tree Village."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "My boyfriend's outside. He's been stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He's breathing but profusely because he takes five of us to begin with."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what apartment are you at? Are you at the campground side or the apartment side?"
+    },
+    {
+      "role": "user",
+      "content": "The apartment side."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "assistant",
+      "content": "You stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the knife that you stabbed him with?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the floor inside the apartment."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Why did you stab him?"
+    },
+    {
+      "role": "user",
+      "content": "Confrontation."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you outside with him now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I had to go inside to grab my phone."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Are you now outside with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, I'm not."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Donna Picklesheimer. P-I-C-K-E-L-S-H-E-I-M-E-R."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Donna. Are you with the knife now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm out here with him."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I think he's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing or not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Is his chest rising and falling?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "So he's not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you outside with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you take his pulse?"
+    },
+    {
+      "role": "user",
+      "content": "There's no pulse, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay with me, Donna. What's your boyfriend's name?"
+    },
+    {
+      "role": "user",
+      "content": "Sean Haney."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers are on the way. Are you going to be able to flag them down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay on the phone with me, Donna. Don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I understand, but if my phone dies, it's because of the battery."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Just try to stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the officers?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you can hang up the phone now."
+    }
+  ]
+}

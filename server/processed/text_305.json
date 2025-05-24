@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My daughter is choking on a bouncy ball."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you're at 25-25 North 10th Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she able to breathe?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to get the ambulance on the way. Somebody will guide you through the Heimlich maneuver. Stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "Seven."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you able to get behind her?"
+    },
+    {
+      "role": "user",
+      "content": "Is she okay? No."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Is she really turning purple?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's my three-year-old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you have someone stand behind her?"
+    },
+    {
+      "role": "user",
+      "content": "My son is behind her right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, wrap his arms around her abdomen. Right around her abdomen. And then lift up and towards him."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, she's about to pass out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, lift up and towards him. Up and towards her. Keep going."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, she's turning red now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. My partner has the ambulance on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me what's going on right now."
+    },
+    {
+      "role": "user",
+      "content": "Are you okay? Keep going up and towards her right into her abdomen. A little bit higher than the abdomen. You're hurting her. I can't do it."
+    },
+    {
+      "role": "assistant",
+      "content": "You keep trying. Oh my God, I cannot watch this. Keep going. The ambulance is on its way."
+    },
+    {
+      "role": "user",
+      "content": "She's crying."
+    },
+    {
+      "role": "assistant",
+      "content": "She is crying. That means she's getting some air. That's good."
+    },
+    {
+      "role": "user",
+      "content": "She got it out. She puked it out."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank God. Excellent."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "They're going to still come over and check on her to make sure she's okay."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. They're on the way. I'm going to let you go then."
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're very welcome."
+    }
+  ]
+}

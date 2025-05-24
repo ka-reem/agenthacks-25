@@ -1,0 +1,144 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Fort Worth Police, somebody just got my purse out of the car in front."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody just did what?"
+    },
+    {
+      "role": "user",
+      "content": "Grabbed my purse out of my car in front of Alpha Depot."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see which way they went?"
+    },
+    {
+      "role": "user",
+      "content": "He's a black guy wearing a black stocking cap, a black leather jacket, and black jeans. He's about 5'9."
+    },
+    {
+      "role": "assistant",
+      "content": "And he ran off towards the cinema, the theater?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, towards the movie theater."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in your car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am. I'm in a 2000 Buick Park Avenue, silver in color. My name is Valerie Pro."
+    },
+    {
+      "role": "user",
+      "content": "There he goes. He's in blue jeans."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he on foot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's on foot."
+    },
+    {
+      "role": "user",
+      "content": "Where's my purse? Give it to me now!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in front of that movie theater. Now others are chasing him and he's just walking. He doesn't have my purse."
+    },
+    {
+      "role": "assistant",
+      "content": "He doesn't have it? Did he throw it somewhere?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, apparently he did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you still following him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am, I am, along with two other men."
+    },
+    {
+      "role": "assistant",
+      "content": "When you talked to him, what did he say?"
+    },
+    {
+      "role": "user",
+      "content": "He said he had my purse and he wanted me to roll my window down, but I didn't."
+    },
+    {
+      "role": "user",
+      "content": "I've lost him now. He may have gone into the movie theater."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me see if anyone else has seen him. Did you say it was a black guy with a black stocking cap?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's right. He grabbed my purse out of my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thanks. They've got him."
+    },
+    {
+      "role": "user",
+      "content": "They do have him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, some civilians have apprehended him. Are you at the movie theater now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're in the parking lot."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've got my purse. I need to check my money because I had $300 in here."
+    },
+    {
+      "role": "assistant",
+      "content": "You got your purse and your money?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's all here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Do you need to stay on the line?"
+    },
+    {
+      "role": "user",
+      "content": "No, I've got about five or six men around here. Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    }
+  ]
+}

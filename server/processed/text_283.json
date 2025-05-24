@@ -1,0 +1,252 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, there's gunshots. We're all on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "They've been gunshots? We're all on the floor."
+    },
+    {
+      "role": "user",
+      "content": "We're over on Arlington University right next to Walgreens. We're on 5551, Arlington Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anybody been shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We're all inside. We all came inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear anyone screaming out like they've been shot? Or did you see the vehicle that did the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "There are people screaming outside. A lot of people screaming outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see them actually shoot the weapon or you just heard the shot?"
+    },
+    {
+      "role": "user",
+      "content": "We all heard the shots and all came right inside. Everyone I hear that's in the building is not hurt. No one's hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this in a building, like apartments or a residence?"
+    },
+    {
+      "role": "user",
+      "content": "We're in a building across from Walgreens. Called Midnight Expresso."
+    },
+    {
+      "role": "assistant",
+      "content": "The cops are already here."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "There are gunshots going off on Arlington Road and University Boulevard. I don't know if anyone's been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots did you hear?"
+    },
+    {
+      "role": "user",
+      "content": "About five, six, seven."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear any cars speeding off?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, what's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Christopher Lemlin, L-E-M-E-L-I-N."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll get an officer out there and let them know."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they might want to send an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on their way."
+    },
+    {
+      "role": "assistant",
+      "content": "Jacksonville 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling to report gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anybody get shot, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I hear people outside screaming now."
+    },
+    {
+      "role": "assistant",
+      "content": "Where at? Is this at a house, apartment, or mobile home?"
+    },
+    {
+      "role": "user",
+      "content": "Mine is a house."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots did you hear?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe five, but I didn't see who shot the individual. I was almost asleep."
+    },
+    {
+      "role": "assistant",
+      "content": "We've gotten other calls that someone was shot. What is your last name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Johnson."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, we have officers on the way. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thanks."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm like one block away from the corner of University Boulevard and Arlington Road. I heard like four or five shots, and now I hear a lot of people screaming on the corner."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, we are responding to a shooting over there. Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at the next street behind University, called Easter Street. I know something bad's happening up there."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on the way. Thank you, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "No problem. What's your last name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jacksonville 9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There was a gunfight going on University Boulevard by Walgreens."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the people involved?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I see people running down the street."
+    },
+    {
+      "role": "assistant",
+      "content": "How many did you see run off?"
+    },
+    {
+      "role": "user",
+      "content": "Three."
+    },
+    {
+      "role": "assistant",
+      "content": "Could you tell what they had on?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's dark. I couldn't tell."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll let them know they ran down Macy Avenue. What's your last name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jacksonville 9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, there's been a shooting down the street at Club Minnow's."
+    },
+    {
+      "role": "assistant",
+      "content": "Where at, sir? What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "On University, down the street from Walgreens."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anybody get shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just heard gunshots, letting y'all know."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers out in the area."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

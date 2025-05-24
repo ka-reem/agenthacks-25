@@ -1,0 +1,72 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, 1313 Esther Drive, Boulder City, Nevada."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what phone number are you calling from?"
+    },
+    {
+      "role": "user",
+      "content": "259-899-7979."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's the problem? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "My name is Hans Walters. I worked for the Las Vegas Metropolitan Police Department. I just shot and killed my son, Max, and my wife, Michelle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I killed her because she's in such chronic pain from her neck and back, and on more medicines than she's not going to survive."
+    },
+    {
+      "role": "user",
+      "content": "We were both seeing a therapist and a psychologist in Boulder City. His name is Jay Summers, and I feel terrible for doing it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Please don't interrupt me. Please."
+    },
+    {
+      "role": "user",
+      "content": "I've also set the house on fire, and if the fire department comes to my house, there's a fire hydrant right in front of my house. I'm going to open fire on them, so they have to wait until the house is burning, and then I'm going to shoot myself, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir."
+    },
+    {
+      "role": "user",
+      "content": "Don't ask me any questions."
+    },
+    {
+      "role": "user",
+      "content": "This is real. This is not a joke."
+    },
+    {
+      "role": "user",
+      "content": "The fire alarms in the background are because I set the garage and the bedroom on fire. My wife's in the bedroom. I shot her in the head. My son, unfortunately, is no more. He was watching Oswald, and I shot him in the head, too."
+    },
+    {
+      "role": "user",
+      "content": "Oh, forgive me for my sins. Please don't call back. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We need an ambulance. I'm on Highway 100."
+    },
+    {
+      "role": "assistant",
+      "content": "Where on Highway 100?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm on my way to watch the hospital, but I don't know if I'll make it. I'm trying to get to the next road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to get an ambulance with my partner. Are you by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have people with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many weeks pregnant are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 37 weeks."
+    },
+    {
+      "role": "assistant",
+      "content": "You're 37 weeks? Is this your first pregnancy?"
+    },
+    {
+      "role": "user",
+      "content": "This is my sixth."
+    },
+    {
+      "role": "assistant",
+      "content": "Your sixth pregnancy? How far apart are your contractions?"
+    },
+    {
+      "role": "user",
+      "content": "Like every two minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Every two minutes? Okay. Are you still driving?"
+    },
+    {
+      "role": "user",
+      "content": "He's driving."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to get off the road."
+    },
+    {
+      "role": "user",
+      "content": "He missed the light. We're at the junction of P and V."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at the junction of P and V. Stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still having a contraction right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, very badly. And I have a lot of pressure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want you to push, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying not to."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, just try to wait. The ambulance is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when the contraction is done."
+    },
+    {
+      "role": "user",
+      "content": "Now again."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, breathe with it."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Take a deep breath in, and a little breath out."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I feel a lot of pressure."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is with you?"
+    },
+    {
+      "role": "user",
+      "content": "My husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put him on the phone for me?"
+    },
+    {
+      "role": "user",
+      "content": "Alright, hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, I want you to lay her down if you can."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm Richie."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Richie, do you have your hazards on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she feeling pressure right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's screaming."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she have pants or a dress on?"
+    },
+    {
+      "role": "user",
+      "content": "Pants."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you take them off of her?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're off."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a great job. Is she having a contraction right now?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you see the baby's head?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Leave her on her back, and encourage her to breathe."
+    },
+    {
+      "role": "assistant",
+      "content": "When she has her next contraction, see if you can see the baby's head."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's her doctor?"
+    },
+    {
+      "role": "user",
+      "content": "Dr. Potts."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. She's able to breathe right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. If this is her sixth baby, she knows how to breathe. Make sure she doesn't push."
+    },
+    {
+      "role": "user",
+      "content": "Oh crap, the head is coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to tell you what to do, Richie. Support the baby's head."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm supporting it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby completely out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a clean towel or cloth?"
+    },
+    {
+      "role": "user",
+      "content": "Not really."
+    },
+    {
+      "role": "assistant",
+      "content": "Use her pants to wipe off the baby's mouth and nose. Is it a boy or girl?"
+    },
+    {
+      "role": "user",
+      "content": "It's a boy."
+    },
+    {
+      "role": "assistant",
+      "content": "Congratulations! Lay the baby on her belly and keep him warm. Don't pull on the cord. Do you have a shoelace?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Tie the umbilical cord about 6 inches from the baby. Just tie, don't cut."
+    },
+    {
+      "role": "user",
+      "content": "Okay, done."
+    },
+    {
+      "role": "assistant",
+      "content": "How's the baby?"
+    },
+    {
+      "role": "user",
+      "content": "He's doing good."
+    },
+    {
+      "role": "assistant",
+      "content": "Has the afterbirth come out?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, the ambulance should be there soon. Congratulations!"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay with her until they arrive."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance, I'm on Highway 100, somewhere between T and V."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly on 100?"
+    },
+    {
+      "role": "user",
+      "content": "I just went through Highway T and V as in Victor."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're west of T?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, heading towards Highway 44."
+    },
+    {
+      "role": "assistant",
+      "content": "How far past T are you?"
+    },
+    {
+      "role": "user",
+      "content": "I just pulled over as soon as I talked to you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "54."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to get an ambulance on the way. What\u2019s your name?"
+    },
+    {
+      "role": "user",
+      "content": "Larry."
+    },
+    {
+      "role": "assistant",
+      "content": "Larry, do you have a history of heart problems?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm taking medicine."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any aspirin with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. My partner has the ambulance on the way. You don\u2019t have to talk to me, but I\u2019ll stay on the line with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you just start feeling this way?"
+    },
+    {
+      "role": "user",
+      "content": "I've been feeling it for about 30 minutes. I just left a scrap yard in Franklin County, trying to untie my trailer, and felt tightness in the chest. I thought, better stop."
+    },
+    {
+      "role": "assistant",
+      "content": "So you got back in your truck and turned the air conditioner on, but it\u2019s not getting better?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's not getting better."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you taking any other medications?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm sitting on the ground in front. I was going to try to lay down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, lie down if that makes you more comfortable."
+    },
+    {
+      "role": "user",
+      "content": "I feel like somebody's sitting on my chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to take some deep breaths, Larry."
+    },
+    {
+      "role": "user",
+      "content": "I'll try."
+    },
+    {
+      "role": "assistant",
+      "content": "It's all right, Larry. The ambulance is on the way. Is anybody around to help you?"
+    },
+    {
+      "role": "user",
+      "content": "No one's stopping."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Your wife will be relieved that you're getting help."
+    },
+    {
+      "role": "user",
+      "content": "I don't want to call her. She'll be scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't worry, we won't call her now."
+    },
+    {
+      "role": "user",
+      "content": "I'm not ready to go, I've got young grandkids."
+    },
+    {
+      "role": "assistant",
+      "content": "It's alright, Larry. You're going to see Ryan and Lindsay soon. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I don't see anybody coming. My wife's going to kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "No, she won\u2019t. She\u2019ll just be glad that you\u2019re okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll try."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your wife\u2019s name?"
+    },
+    {
+      "role": "user",
+      "content": "Kathy."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Kathy and the grandkids will be glad you're getting help. Do you feel short of breath?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to take some slow, deep breaths."
+    },
+    {
+      "role": "user",
+      "content": "I don't think I'm going to make it."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, you are. You're going to make it. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I see the ambulance, but they're too far away."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming. Stay with me, Larry. Ryan and Lindsay are waiting for you."
+    },
+    {
+      "role": "user",
+      "content": "I'll try."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay with me. Do you see them getting closer?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're almost here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Larry. Help is almost there. Hang in there."
+    },
+    {
+      "role": "user",
+      "content": "I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, good. Stay with me until they get to you."
+    },
+    {
+      "role": "user",
+      "content": "They are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Larry. You're going to be fine. Let them take care of you. Bye."
+    }
+  ]
+}

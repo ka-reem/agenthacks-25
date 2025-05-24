@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Can you hear me? Can you hear me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I can hear you. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, 25 Arch Street, apartment four. You know what I'm talking about?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? What's going on at 25 South Arch, apartment four?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I just strangled my girlfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "You strangled your girlfriend?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Randy."
+    },
+    {
+      "role": "assistant",
+      "content": "Randy?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting here on the bed, getting ready to go out by the door."
+    },
+    {
+      "role": "assistant",
+      "content": "You're getting ready to go out by the door?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I got a walker. I can't walk well."
+    },
+    {
+      "role": "assistant",
+      "content": "So you want me to stay on the phone or stay right in here or what?"
+    },
+    {
+      "role": "user",
+      "content": "I don't... Where are you at? You're just standing by the door? You're in her apartment?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in her apartment right now. I'm on the edge of the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Willa, Taylor, Helman."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. So we got them coming to you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. Nope."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay on the line with me, okay? You're sure you're at 25 South Arch, apartment four?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I need to get up and unlock the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you see the officers?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the officers?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm sitting on the bed. I need to walk over to the door to unlock it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and unlock the door."
+    },
+    {
+      "role": "assistant",
+      "content": "He advised he is in a walker and having difficulty walking at this time."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you come out to the door right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You're coming out right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a cordless phone?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on a cordless phone?"
+    },
+    {
+      "role": "user",
+      "content": "I have a cordless phone, but I use a walker."
+    },
+    {
+      "role": "assistant",
+      "content": "You can go ahead and hang up with me and go ahead out."
+    },
+    {
+      "role": "user",
+      "content": "All right. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

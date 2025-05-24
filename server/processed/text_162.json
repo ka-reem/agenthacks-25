@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Do I need an ambulance and a police officer?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need a police officer?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. What's that?"
+    },
+    {
+      "role": "user",
+      "content": "Reserve 118 C.C."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 118. Yeah. Hold on just one second. Did you also say you needed an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have a woman here. I don't know if she's breathing or not."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at 118C at the Reserve?"
+    },
+    {
+      "role": "user",
+      "content": "118 C, C, Charlie Charlie."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "You can't call to her. I just want to call to her phone to call her."
+    },
+    {
+      "role": "user",
+      "content": "You don't know these fingerprints are on her stuff."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is the patient breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No. It appears like there's been a sexual crime."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is anyone doing CPR?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's blue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. She's very, she's pretty cold."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Hang on my line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. I don't know where her phone is."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know where her phone is. Okay."
+    },
+    {
+      "role": "user",
+      "content": "Are we coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I don't know why. Come on, both sides. Come on, go outside. Come on, let's go outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is the road name Reserve Boulevard?"
+    },
+    {
+      "role": "user",
+      "content": "No, the Reserve. The Clemson, you're the student reserve, all the kids live, right next to University Village."
+    },
+    {
+      "role": "assistant",
+      "content": "Next to University Village, okay."
+    },
+    {
+      "role": "user",
+      "content": "Yes, the reserve."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know this lady's name?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Tiffany Sowers."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how she spells her last name?"
+    },
+    {
+      "role": "user",
+      "content": "S-O-U-R-E-S."
+    },
+    {
+      "role": "user",
+      "content": "S-O-U-R-U-U-R-U-S."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll stand-by."
+    },
+    {
+      "role": "user",
+      "content": "S-O-U-E-R-S."
+    },
+    {
+      "role": "user",
+      "content": "S-O-U-U. ERF."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How old is she? Do you know?"
+    },
+    {
+      "role": "user",
+      "content": "19 years old. 20 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Does somebody live with her?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, we're going to get the medics and police notified."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you and this girl just walked in and found her, is that right?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, say again?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who's the lady with you? Did you just walk in and find her like this?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is she at in the house?"
+    },
+    {
+      "role": "user",
+      "content": "She's in her bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "She's in the bedroom? Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, central PD and the medics are on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

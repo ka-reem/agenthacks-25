@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Representative Bogdanov, you're on deck."
+    },
+    {
+      "role": "user",
+      "content": "Representative Domino is here to talk about emergency dispatchers, 911 dispatchers."
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome to the Health Care Council. You're recognized."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, Mr. Chairman and members. This bill upon passage will allow for a certification process for emergency dispatchers."
+    },
+    {
+      "role": "user",
+      "content": "Currently, 31 other states have such a process. It will recognize a 208-hour DOE-approved course as a minimum standard."
+    },
+    {
+      "role": "user",
+      "content": "The goal is to ensure that first responders are dispatched to emergencies and catastrophic events with a higher level of quality, efficiency, and minimized human errors."
+    },
+    {
+      "role": "user",
+      "content": "Our emergency dispatchers do a great job, but having all 67 counties follow the same standards will be helpful."
+    },
+    {
+      "role": "user",
+      "content": "We have some dramatic testimonies to support the need for this legislation."
+    },
+    {
+      "role": "assistant",
+      "content": "Very good. Are there any questions for Representative Domino on the bill?"
+    },
+    {
+      "role": "assistant",
+      "content": "Let's go to public testimony. Representative Domino, do you want to call folks in a particular order?"
+    },
+    {
+      "role": "user",
+      "content": "No particular order."
+    },
+    {
+      "role": "assistant",
+      "content": "Very good. Randy Touchton, you are up."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Florida Professional Firefighters Association waves in support."
+    },
+    {
+      "role": "assistant",
+      "content": "Armand Nalt, please come up."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Firefighters and paramedics from Palm Beach County support this bill."
+    },
+    {
+      "role": "assistant",
+      "content": "Gary Rainey, you're next."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. From Miami, Florida, representing the Florida professional firefighters."
+    },
+    {
+      "role": "assistant",
+      "content": "Lisa Henning, please come forwards."
+    },
+    {
+      "role": "user",
+      "content": "I am with the Fraternal Order of Police here in Tallahassee, and I support this bill."
+    },
+    {
+      "role": "assistant",
+      "content": "Richard Goff, you're next."
+    },
+    {
+      "role": "user",
+      "content": "Good morning. My name is Richard Goff, a 25-year law enforcement veteran and father of Denise Lee."
+    },
+    {
+      "role": "user",
+      "content": "My daughter was kidnapped, raped, and murdered. The culprit drove her around, and she managed to get the attention of a bystander who called 911."
+    },
+    {
+      "role": "user",
+      "content": "The bystander gave a description of the car and the suspect, but our dispatch failed to relay this information to the road deputies."
+    },
+    {
+      "role": "user",
+      "content": "We had over six agencies, two helicopters, and approximately 30 people looking for her. She was found later buried in a shallow grave."
+    },
+    {
+      "role": "user",
+      "content": "The internal investigation found fault with two dispatchers, but the consequences were minor. I urge you to pass this bill."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Mr. Goff. Our hearts go out to you and your family. Amy Campbell, you're next."
+    },
+    {
+      "role": "user",
+      "content": "I am from Orlando, Florida, representing the Orange County Sheriff's Office, and I wave in support."
+    },
+    {
+      "role": "assistant",
+      "content": "Richard Pinsky, please come forwards."
+    },
+    {
+      "role": "user",
+      "content": "I am from West Palm Beach and represent 911 emergency dispatchers. I support this bill."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else wishing to testify on House Bill 997?"
+    },
+    {
+      "role": "assistant",
+      "content": "We'll now move into debate. Representative Hayes, you are recognized."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, Mr. Chairman. I am deeply disturbed that this is only voluntary certification. We should look into making this mandatory in the future."
+    },
+    {
+      "role": "user",
+      "content": "We need our 911 operators to be properly trained and certified. I support this bill, but it should go further."
+    },
+    {
+      "role": "assistant",
+      "content": "Representative Harrell, you are recognized."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. My heart goes out to the Goff family. The importance of training for dispatchers in both health care and law enforcement cannot be overstated."
+    },
+    {
+      "role": "user",
+      "content": "Often, 911 calls are health-related, and those dispatchers need appropriate training. This should be the standard across the state and be required."
+    },
+    {
+      "role": "assistant",
+      "content": "Representative Hudson, you are recognized."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, Chairman. As a parent, I am speechless at Mr. Goff's testimony. Consistency in process is crucial across all counties to ensure quality information is disseminated efficiently."
+    },
+    {
+      "role": "user",
+      "content": "Our first responders deserve the best support. I support this bill."
+    },
+    {
+      "role": "assistant",
+      "content": "Representative Anderson, you are recognized."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, Mr. Chairman. I compliment Representative Domino for bringing this important bill forward. Communication and proper training are essential."
+    },
+    {
+      "role": "user",
+      "content": "I agree that this certification should eventually be mandatory."
+    },
+    {
+      "role": "assistant",
+      "content": "Representative Domino, would you like to close?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you. As mentioned, 28 states have mandatory certification, and some have voluntary. We have to start somewhere."
+    },
+    {
+      "role": "user",
+      "content": "This bill will save lives and significantly help in emergency situations. I urge your support."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Representative Domino. The clerk will now call the roll on House Bill 997."
+    },
+    {
+      "role": "assistant",
+      "content": "House Bill 997 will be reported favorably as a council substitute. Thank you, members."
+    }
+  ]
+}

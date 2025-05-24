@@ -1,0 +1,368 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "750 South, 650 West, apartment 154."
+    },
+    {
+      "role": "assistant",
+      "content": "In Provo?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "750 South, 650 West, Unit 154."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it at the Boulder?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "A phone number for you in case we get disconnected?"
+    },
+    {
+      "role": "user",
+      "content": "801."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need police or paramedics there?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. My friend called and basically told me she was going to kill herself, and I think she probably will."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me her name?"
+    },
+    {
+      "role": "user",
+      "content": "It's Yvette Kimber, Y-V-E-T-T-E K-I-M-B-E-R."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did she call you?"
+    },
+    {
+      "role": "user",
+      "content": "Just right before I called you."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if she's taken anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't."
+    },
+    {
+      "role": "user",
+      "content": "She called me at 8:59."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to get some help over there. Do you know if she's alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I believe she's alone. I called her daughter, and her daughter's on her way over there, too."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she tell you how she was planning on doing this?"
+    },
+    {
+      "role": "user",
+      "content": "She said, I wanted to tell you goodbye, and I remember Skittles. I call her Skittles."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you actually spoke to her, it was not a text message, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I talked to her."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have an officer headed that way. Did she have any weapons in the house that we need to be aware of?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm in Santaquin; she's in Provo."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's around 45. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she been depressed recently?"
+    },
+    {
+      "role": "user",
+      "content": "Her boyfriend broke up with her today. And she has a long history of depression."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if she's tried to commit suicide in the past?"
+    },
+    {
+      "role": "user",
+      "content": "I've heard that she's tried to overdose before, but I've only met her last year."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Um, let me look it up."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you tell her you were going to be calling the police?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't have time to. She hung up on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, like I said, we do have an officer headed that way. Do you want them to make contact with you at all or just check her welfare?"
+    },
+    {
+      "role": "user",
+      "content": "I would like somebody to call me back and let me know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think she'd be upset if the police were to call her or show up?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know because I don't think she'd answer to Whitney, her daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thanks for calling. I appreciate it."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Fire."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "750 South, 650 West, parking lot number six."
+    },
+    {
+      "role": "assistant",
+      "content": "750 South, 650 West, parking lot number six?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's the Boulders."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the phone number you're calling from..."
+    },
+    {
+      "role": "user",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "What city?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need police or paramedics at the Boulders?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, you may want to send paramedics just in case."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "The fire is spreading."
+    },
+    {
+      "role": "assistant",
+      "content": "What's on fire?"
+    },
+    {
+      "role": "user",
+      "content": "The apartment building."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Let me dispatch the fire department. Hold on. Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "I won't."
+    },
+    {
+      "role": "user",
+      "content": "It's on the outside now. The windows are exploding."
+    },
+    {
+      "role": "assistant",
+      "content": "The paramedics are on the way. Are you outside the apartment right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I need to go to my car. You may be better. Go across and get those people out of the apartment. We're trying to get everybody outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everybody out of the building?"
+    },
+    {
+      "role": "user",
+      "content": "We're trying to get them out now. We're yelling to get everybody out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many apartments are on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Right now, one, but it's spreading."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody injured?"
+    },
+    {
+      "role": "user",
+      "content": "Not yet, but there's one or two people trapped upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone trapped upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "I see one person trapped upstairs trying to get out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "One person's trying to get out of the window?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have the fire department on the way. I'll tell you exactly what to do next. Are flames visible?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're very visible. It's spreading all over the place."
+    },
+    {
+      "role": "assistant",
+      "content": "And this is a large apartment building, correct?"
+    },
+    {
+      "role": "user",
+      "content": "It's building 28."
+    },
+    {
+      "role": "assistant",
+      "content": "Building 28?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, building 28, lot 6. It's spreading to the next building."
+    },
+    {
+      "role": "assistant",
+      "content": "It's spreading to the next building?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. It's spreading to the next apartment, across the way from the fire."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have several fire units on the way. Can you tell me if the person made it out of the window?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I saw the person make it out of the window. There's another one trying to get out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody stuck in the building right now?"
+    },
+    {
+      "role": "user",
+      "content": "Right now, I don't see anyone stuck."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have the fire department on the way. What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "<name>"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thanks for calling."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

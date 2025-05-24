@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, there was just a semi-going down Red Arrow and it had a wheelchair in front of it with a guy in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got it. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I am on... I have no idea. I'm in Pawpaw, obviously."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand you. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, I don't know. I'm in Pawpaw."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, on Michigan Avenue in front of the middle school?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in the middle of the middle school."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get help over there."
+    },
+    {
+      "role": "user",
+      "content": "No! I'm sorry to Dusty and TI, West Michigan Avenue in front of help in the school."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to calm down. I have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "A semi hit a subject in a wheelchair and continued westbound on Michigan."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what direction is the semi going? Did it go westbound?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It's going like, I don't know, out of town, I believe."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give me a description of it?"
+    },
+    {
+      "role": "user",
+      "content": "It was white, it didn't have a trailer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, white semi-truck, no trailer."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm just past... I'm across from Game and Blaze."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, it's 1536. Sorry, this is bad. We're supposed to be it today. I'm in a tractor with no trailer."
+    },
+    {
+      "role": "assistant",
+      "content": "I have the officer in front of the middle school. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "No, look, there's only right now. I just saw him turn around. I'm right in front of Hogan Insurance Agency."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in front of Hogan Insurance Agency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm going to put it in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, my caller is in front of Hogan Insurance in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you out with them?"
+    },
+    {
+      "role": "user",
+      "content": "They're pulling in right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go talk to them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at the corner of Hayton and Red Arrow. There is a westbound truck dragging a man in a wheelchair. He did not see him crossing in front of him when the light changed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We'll get help on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting here at the corner of Michigan and Hayden Street in Pawpaw. A semi-truck just came by and he does not know it, but he has a gentleman on the front of his truck that is in a wheelchair and he's pushing him down the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're on Michigan and Haze?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and they are headed west on Hazen. I think it was a Ralph Moyle truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Westbound on Heathen?"
+    },
+    {
+      "role": "user",
+      "content": "No, westbound on Michigan. It's a Ralph Moyle truck, I believe, so I'm pretty sure it was a white semi-truck."
+    },
+    {
+      "role": "user",
+      "content": "I heard the girl screaming, so I was looking at her when I was getting ready to turn, then looked at the truck and saw it."
+    },
+    {
+      "role": "user",
+      "content": "The guy in his wheelchair is being pushed by the semi-truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get them out there."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    }
+  ]
+}

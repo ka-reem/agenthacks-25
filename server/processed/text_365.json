@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. Something just exploded at the end of Fayette."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there any fire?"
+    },
+    {
+      "role": "user",
+      "content": "There's fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. It was a big boom?"
+    },
+    {
+      "role": "user",
+      "content": "It shook the house, and I'm on Elliott."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Do you see fire from your window now?"
+    },
+    {
+      "role": "user",
+      "content": "I do. At the end of Elliott Road, so Elliott at the end of Fayette."
+    },
+    {
+      "role": "assistant",
+      "content": "It's at the end of Fayette?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can see it from Elliott."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. More callers, stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I'll get them out. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I think there was an airplane crash."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where do you think it was?"
+    },
+    {
+      "role": "user",
+      "content": "Near Hanscombe."
+    },
+    {
+      "role": "assistant",
+      "content": "Near Hanscombe?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Mike Stevens. It's the back highway to Hanscombe."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "617-966-4997."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a giant column of smoke?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have officers heading that way right now. Thank you for the call."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I live at 16 Fayette Road, and I was sleeping when I heard a huge boom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I looked out my window, and the house across the street behind it, which is a base, looks like an atomic bomb went off. There\u2019s a mushroom cloud and fire everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "We have had several calls on it. We do have units heading in that direction. We don't know exactly what it is just yet."
+    },
+    {
+      "role": "user",
+      "content": "Do I need to evacuate? It's close to my house."
+    },
+    {
+      "role": "assistant",
+      "content": "We have police and fire both en route. We're going to try and get in touch with the base right now."
+    },
+    {
+      "role": "user",
+      "content": "Should we stay put or leave?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't make that call right now because I don't know what's going on. If you're unsure, you can call us back later."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm on Hartwell Ave and I see a huge fire. I don't know if anyone's called it in, but it's behind all the office buildings."
+    },
+    {
+      "role": "assistant",
+      "content": "It's behind all the office buildings off of Hartwell Ave?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you very much."
+    },
+    {
+      "role": "user",
+      "content": "All right. Bye-bye."
+    }
+  ]
+}

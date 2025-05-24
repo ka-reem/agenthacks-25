@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, that's, uh, what is this, like 1-10 Grady Avenue."
+    },
+    {
+      "role": "user",
+      "content": "It's behind the Taylor Grady House, at the Town and Gown's theater. A man just walked up and there were several gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, stay with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "You said this happened at the Taylor Grady House?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it happened there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, on Prince Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "So someone started shooting off a gun at the Taylor Grady House, is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Sir, listen to me. I need you to stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got several other people calling. Listen, stay with me."
+    },
+    {
+      "role": "assistant",
+      "content": "What does this guy look like?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I didn't see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you didn't see him? You just heard the shots?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was there, and he shot three people."
+    },
+    {
+      "role": "assistant",
+      "content": "He shot three people?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Two gunshots to one man. It looks like one to the chest and another, and I think one to the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is this guy now? Where did he go?"
+    },
+    {
+      "role": "assistant",
+      "content": "Did anybody see where he ran? I need a description: white guy, black guy?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, white guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Anybody have a description, does anybody see what he looks like?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tell them if they're calling 911, they need to hang up and just tell you what's going on first."
+    },
+    {
+      "role": "assistant",
+      "content": "I need a description of the guy right now. White male, black male, Hispanic male, quickly."
+    },
+    {
+      "role": "user",
+      "content": "White male, white male."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, about how old? Can anybody describe what he looks like?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see him. Here, hold on."
+    },
+    {
+      "role": "user",
+      "content": "White male, 50s, goatee, beard, wearing blue shorts and a t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did he go?"
+    },
+    {
+      "role": "user",
+      "content": "He headed towards Prince Avenue, away from downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you talking to an officer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and talk to him. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

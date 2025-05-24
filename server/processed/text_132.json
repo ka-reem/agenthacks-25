@@ -1,0 +1,176 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "582 North, 500, 8. Roll a cop, roll an ambulance, shots fired. A baby's been hit in the head. Please come now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please. I need medical help. Baby was shot. Baby shot. Father's trying to shoot himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot the baby?"
+    },
+    {
+      "role": "user",
+      "content": "The father."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's he at right now?"
+    },
+    {
+      "role": "user",
+      "content": "Where's the baby? ... The baby's in his father's arms."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does he have the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Baby's still breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby alive?"
+    },
+    {
+      "role": "user",
+      "content": "He's still breathing, please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "The baby's still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to watch their breathing for me until they get there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot the baby?"
+    },
+    {
+      "role": "user",
+      "content": "His dad."
+    },
+    {
+      "role": "assistant",
+      "content": "And why did he do that?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but he doesn't have the gun any longer, right?"
+    },
+    {
+      "role": "user",
+      "content": "No, he doesn't have it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to watch the baby and keep watching to make sure the baby's breathing for me, okay? Are you doing that for me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "The baby's gone?"
+    },
+    {
+      "role": "user",
+      "content": "He's been shot in the head. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Who are you, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm the grandma."
+    },
+    {
+      "role": "assistant",
+      "content": "You're the grandma?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And where's the mother at?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea and I don't care. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So why did he do it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "Oh, the baby's still alive, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're getting them coming, but don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please, please."
+    },
+    {
+      "role": "user",
+      "content": "I'm the grandma. Oh my God, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the father at?"
+    },
+    {
+      "role": "user",
+      "content": "He's standing next to me."
+    },
+    {
+      "role": "user",
+      "content": "Please, ambulance right now. I don't know how much longer."
+    },
+    {
+      "role": "user",
+      "content": "Grandma loves you. With all my heart, I love you."
+    },
+    {
+      "role": "user",
+      "content": "Officers are here. I have to go."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the officer there?"
+    }
+  ]
+}

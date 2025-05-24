@@ -1,0 +1,216 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I met Roosevelt in 59. The cafe races, there's been a shooting. Somebody came in and shot a bunch of people. I'm hiding in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, sir. How many people?"
+    },
+    {
+      "role": "user",
+      "content": "We need help right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just a second. Did you see the person that did it?"
+    },
+    {
+      "role": "user",
+      "content": "No, I did not. I was in the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Well, they didn't get me. And, sir, I need to know what's the name of the place?"
+    },
+    {
+      "role": "user",
+      "content": "It's called the Cafe Racer."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, radio. You talked, cafe what?"
+    },
+    {
+      "role": "user",
+      "content": "Cafe Racer. He's saying there's a shooting that just occurred in there. Sir, and several people were shot?"
+    },
+    {
+      "role": "user",
+      "content": "That's correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we have an address?"
+    },
+    {
+      "role": "user",
+      "content": "It's Roosevelt and Northeast 59th."
+    },
+    {
+      "role": "assistant",
+      "content": "It's all we've gotten. Cafe Racer?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "North East 50th, you said?"
+    },
+    {
+      "role": "user",
+      "content": "It's 59 in Roosevelt. Five, nine."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, there's people down all over the place out there. Okay. And you didn't see the shooter, sir, or you did?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, I did not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I just heard the shots."
+    },
+    {
+      "role": "assistant",
+      "content": "You just heard the shots?"
+    },
+    {
+      "role": "user",
+      "content": "I can see people laying on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just a minute. I need you to stay on the phone with me, please."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How many minutes ago did you hear the shots?"
+    },
+    {
+      "role": "user",
+      "content": "Two, three minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Talks. Did he actually see the people down? He sees the people down. You're not in the place, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I hear them seeing himself. I want to go out and talk. Yes. People are shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right, just a minute. The guy is gone, so I'm going to go back out there."
+    },
+    {
+      "role": "user",
+      "content": "What do you mean the guy is gone?"
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know if you didn't... Look, look. People are bleeding all over... Sir, I'm not the one driving out there, so please answer my questions. This is serious, okay?"
+    },
+    {
+      "role": "user",
+      "content": "How do you know he's gone if you didn't see him?"
+    },
+    {
+      "role": "user",
+      "content": "Because I'm out... Larry, the shooter's gone, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, shooter is gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's that? Did he see him, please? Anybody see him?"
+    },
+    {
+      "role": "user",
+      "content": "the guy. Black shirt, six feet tall."
+    },
+    {
+      "role": "assistant",
+      "content": "Black shirt, six feet tall. White guy, black guy, what is he?"
+    },
+    {
+      "role": "user",
+      "content": "White man."
+    },
+    {
+      "role": "assistant",
+      "content": "White guy, how old maybe?"
+    },
+    {
+      "role": "user",
+      "content": "How old, buddy? Forties."
+    },
+    {
+      "role": "assistant",
+      "content": "Forties. Anybody know where he went? Did you see which way? North-South?"
+    },
+    {
+      "role": "user",
+      "content": "We need a damn ambulance right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, we're sending everything we can. I need this information for the officers to find this guy, please. Okay? Which way did this guy go? Did your friend see?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody knows?"
+    },
+    {
+      "role": "assistant",
+      "content": "Does anybody know what kind of pants he had on?"
+    },
+    {
+      "role": "user",
+      "content": "I think dark clothes."
+    },
+    {
+      "role": "assistant",
+      "content": "Dark pants. Dark pants?"
+    },
+    {
+      "role": "user",
+      "content": "It's a white shirt now, or?"
+    },
+    {
+      "role": "assistant",
+      "content": "Black shirt. Larry, they want the description of this guy. Can I talk to Larry? I'm not trying to talk to this woman."
+    },
+    {
+      "role": "user",
+      "content": "He wants the description of the guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Hi, I need a better description. White guy 40, six foot. What color shirt? We have people alive, barely alive here. Do you have people coming?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. We have a lot of people coming."
+    }
+  ]
+}

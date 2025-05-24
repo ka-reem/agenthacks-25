@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please, help."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Yes, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've just been robbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "220 South Sea Street."
+    },
+    {
+      "role": "assistant",
+      "content": "220 South Sea. Okay, we have officers headed your way. Are you safe right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in your bedroom, okay. Is anyone else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my sister. My mom and stepdad went to the pawn shop, and they stole the iPad and the PS3."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you all in the bedroom by yourselves?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay right there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see how many people came in?"
+    },
+    {
+      "role": "user",
+      "content": "Like four or five."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear anyone else in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think they went to my mom's bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're chasing some of them right now. So you stay right where you are and stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. Should I go into the closet?"
+    },
+    {
+      "role": "assistant",
+      "content": "If that'll make you feel safer, you can do that, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay in the closet if you feel safer. Officers are out there."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. I have my little sister with me. We're both hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The officers will be entering the house. If you hear something, it'll probably be them. Stay where you are until they find you."
+    },
+    {
+      "role": "user",
+      "content": "I can hear them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Just stay on the line with me. They'll be coming through the house slowly."
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "If you hear them open the door, say 'It's us,' okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great."
+    },
+    {
+      "role": "user",
+      "content": "They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't open the door until they tell you to."
+    },
+    {
+      "role": "user",
+      "content": "They told us to open the door. It's the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, you're safe now. Good job."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

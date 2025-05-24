@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "911, do you have the entire medical police?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, ma'am, I don't."
+    },
+    {
+      "role": "user",
+      "content": "I don't have an emergency, too. Police officers just left my house just now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get their names, please?"
+    },
+    {
+      "role": "user",
+      "content": "It was just the music turned down. He was the cutest cop I've seen."
+    },
+    {
+      "role": "user",
+      "content": "Sorry, I know it's not an emergency, but good-looking men don't come by often."
+    },
+    {
+      "role": "user",
+      "content": "Can you send him back my way?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need them to come back there?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'd like that, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Why do you need them to come back there?"
+    },
+    {
+      "role": "user",
+      "content": "Because I have an emergency... I'll think of something."
+    },
+    {
+      "role": "user",
+      "content": "Just send them back my way, would you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is the reason?"
+    },
+    {
+      "role": "user",
+      "content": "My dog. Just blame it on my dog."
+    },
+    {
+      "role": "user",
+      "content": "Can I discuss that with them? Thank you."
+    },
+    {
+      "role": "user",
+      "content": "I know this isn't an emergency. But if you would give the officers my number and ask them to come back, I know they have lots to do."
+    },
+    {
+      "role": "user",
+      "content": "Would you mind?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll give them a message to call you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you very much. Bye-bye."
+    }
+  ]
+}

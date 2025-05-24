@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, hey, right now, a man."
+    },
+    {
+      "role": "user",
+      "content": "Yo, there's a guy, there's a guy."
+    },
+    {
+      "role": "user",
+      "content": "He's at the mall with a gun right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where in the mall is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's at the community college right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he inside the building or outside?"
+    },
+    {
+      "role": "user",
+      "content": "He's just outside the building."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting people right now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Does anybody know what he looks like?"
+    },
+    {
+      "role": "user",
+      "content": "He's a white guy, with short hair. He has a shotgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's injured?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside. I haven't seen him shoot anyone, but he's in the building now."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see what kind of vehicle he arrived in?"
+    },
+    {
+      "role": "user",
+      "content": "A white Honda Civic."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. Do not go inside. We have officers on their way."
+    },
+    {
+      "role": "user",
+      "content": "He's running into the mall right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly in the mall is he heading?"
+    },
+    {
+      "role": "user",
+      "content": "Towards the main entrance. He just entered the mall."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay where you are and do not go inside. We have officers responding."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see any officers approaching?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are heading towards the entrance right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Hi, I just want to make sure that somebody has called about the guy with a shotgun at New River Community College."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have officers on their way. Do you know if anyone is injured?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not inside; I just saw the guy run in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay safe. Thank you for calling."
+    },
+    {
+      "role": "user",
+      "content": "Hello, there's someone shooting in the mall."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody is hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No clue. We locked our store, but people are running everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay in your store and keep the door locked. We have officers on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, someone at New River Community College has a shotgun!"
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's a young white male, short hair, wearing a t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone leaving the building?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, everyone's trying to get out."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone is hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure; I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell where he parked his car?"
+    },
+    {
+      "role": "user",
+      "content": "A white four-door car right in front of the doors."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay safe. We have officers coming."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Christiansburg Mall and there's a shooter."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the shooter is still in the college area or in the mall?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, but people are saying he's in the mall now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a safe location?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in a locked store."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay locked in and keep away from the doors. We have officers on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, we were told to lock down all the stores at the mall. What's going on?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's a gunman inside the mall. Keep your door locked and stay inside. We have officers responding."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we've got five customers in here with us."
+    },
+    {
+      "role": "assistant",
+      "content": "That\u2019s good. Stay safe and keep the doors locked."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    }
+  ]
+}

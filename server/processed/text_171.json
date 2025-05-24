@@ -1,0 +1,400 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Brompton down on Walmson."
+    },
+    {
+      "role": "user",
+      "content": "Hey, it's a part on Mavon Street."
+    },
+    {
+      "role": "user",
+      "content": "Up here by Walmart, chasing us."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "On Mavon Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in Walmart?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at on Mavon Street?"
+    },
+    {
+      "role": "user",
+      "content": "Coming in, on White, War."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand you. Please repeat that."
+    },
+    {
+      "role": "user",
+      "content": "At Walmart, keep going, keep going, keep going."
+    },
+    {
+      "role": "assistant",
+      "content": "Which Walmart are you going to?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, down Mavon Street. What does that mean?"
+    },
+    {
+      "role": "user",
+      "content": "Shit."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on North Mavin."
+    },
+    {
+      "role": "user",
+      "content": "Next one."
+    },
+    {
+      "role": "user",
+      "content": "New Walmart is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "We're not going up, Mavin Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you drive back to the police department?"
+    },
+    {
+      "role": "user",
+      "content": "He goes to the police department, he said."
+    },
+    {
+      "role": "assistant",
+      "content": "Why are they chasing you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is he?"
+    },
+    {
+      "role": "user",
+      "content": "Randy Warren."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Are you going on, you gonna get on Church Street or what?"
+    },
+    {
+      "role": "user",
+      "content": "We're coming to the police department, I guess."
+    },
+    {
+      "role": "user",
+      "content": "Damn, he's trying to pass us."
+    },
+    {
+      "role": "user",
+      "content": "Drell, man!"
+    },
+    {
+      "role": "user",
+      "content": "He's not liking this one bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "Over here by Mavin Street."
+    },
+    {
+      "role": "user",
+      "content": "Going on Mavin Street again."
+    },
+    {
+      "role": "user",
+      "content": "This motherfucker is tripping."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God."
+    },
+    {
+      "role": "user",
+      "content": "Come on, God, Maher."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, I got an officer headed your way if you can tell me where you're at."
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at on Mavin Street?"
+    },
+    {
+      "role": "user",
+      "content": "Up here by the store, by the store, by the store, by the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Which store?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going down Mavon Street now."
+    },
+    {
+      "role": "user",
+      "content": "Shit. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you going toward the police department?"
+    },
+    {
+      "role": "user",
+      "content": "I'm coming up on Tucker Street."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to slow down."
+    },
+    {
+      "role": "user",
+      "content": "I'm in their car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you at on Mavin Street?"
+    },
+    {
+      "role": "user",
+      "content": "Up here by Island Street."
+    },
+    {
+      "role": "user",
+      "content": "The motherfucker is crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "A Honda, and it's a white car."
+    },
+    {
+      "role": "user",
+      "content": "We're all kidding."
+    },
+    {
+      "role": "user",
+      "content": "He just hit us! Oh, God!"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God!"
+    },
+    {
+      "role": "user",
+      "content": "Keep it going! Keep it going! Keep it going!"
+    },
+    {
+      "role": "user",
+      "content": "He just hit my motherfucking car."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm still here, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Hold on."
+    },
+    {
+      "role": "user",
+      "content": "He just hit her."
+    },
+    {
+      "role": "assistant",
+      "content": "He just hit your car?"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the Honda."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he in?"
+    },
+    {
+      "role": "user",
+      "content": "He's in a white... something."
+    },
+    {
+      "role": "assistant",
+      "content": "Go to the police station if you can."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "John's Rail Russell."
+    },
+    {
+      "role": "assistant",
+      "content": "Huh?"
+    },
+    {
+      "role": "user",
+      "content": "John's Rail Russell."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from, John?"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, where are you heading now?"
+    },
+    {
+      "role": "user",
+      "content": "Coming up towards the police station."
+    },
+    {
+      "role": "assistant",
+      "content": "What street are you on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We're at the police station now."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to know what street you are on to get you some help."
+    },
+    {
+      "role": "user",
+      "content": "Oh, come on now."
+    },
+    {
+      "role": "assistant",
+      "content": "What street are you on?"
+    },
+    {
+      "role": "user",
+      "content": "He's just left. He's at the light. Y'all need to come out and arrest his ass."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm trying to get you some help. Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "We're in the police station parking lot."
+    },
+    {
+      "role": "user",
+      "content": "He just ran the light."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at the police station?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the front lot or back lot?"
+    },
+    {
+      "role": "user",
+      "content": "In the back lot."
+    },
+    {
+      "role": "user",
+      "content": "They're going the wrong way."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "What do they do?"
+    },
+    {
+      "role": "user",
+      "content": "He kept going the wrong way."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he driving?"
+    },
+    {
+      "role": "user",
+      "content": "A white something. An Oldsmobile or something."
+    },
+    {
+      "role": "user",
+      "content": "He's on Church Street, I guess."
+    },
+    {
+      "role": "assistant",
+      "content": "What's nearby?"
+    },
+    {
+      "role": "user",
+      "content": "Fisher West."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

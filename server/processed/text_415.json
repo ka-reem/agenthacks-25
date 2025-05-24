@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, police."
+    },
+    {
+      "role": "assistant",
+      "content": "This is the police. How may I help you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling because I'm at a park and my son is missing."
+    },
+    {
+      "role": "assistant",
+      "content": "What park are you at, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at a park by 820th on Shaker."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "Three."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You said East 120th?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the park, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "East 120th and Shaker Boulevard don't cross. It's Cousins Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Cousins Park?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, Cousins Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you spell the name you see on the sign for me, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "K-O-S-S-U-T-H."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Camellia Terry."
+    },
+    {
+      "role": "assistant",
+      "content": "Terry? Camellia Terry."
+    },
+    {
+      "role": "user",
+      "content": "Yes, Camellia Terry."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "[number redacted]"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I've sent a call down for the police to respond. Your son, what is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He is wearing a red and black sweater with some blue jeans. He has black and blue tennis shoes and a gray coat."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how long has it been since you last saw him?"
+    },
+    {
+      "role": "user",
+      "content": "Fifteen minutes ago. I've looked everywhere and I can't find him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he light-skinned or dark-skinned?"
+    },
+    {
+      "role": "user",
+      "content": "He is brown-skinned."
+    },
+    {
+      "role": "assistant",
+      "content": "What about his hair?"
+    },
+    {
+      "role": "user",
+      "content": "His hair is brown."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it braided or a low haircut?"
+    },
+    {
+      "role": "user",
+      "content": "It's a low haircut."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any scars or birthmarks that are visible?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to stay right there at the park, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Was there anyone else around when you last saw him?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's just me and my two other kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are on their way to you, ma'am, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

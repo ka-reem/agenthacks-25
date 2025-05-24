@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am, could you send the police and an ambulance to Main Street Grill, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Main Street Grill."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on at the Main Street Grill?"
+    },
+    {
+      "role": "user",
+      "content": "I just came in from taking out my trash and my manager is lying down and there's blood. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got help on the way. Do you know what happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just came back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he responsive, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't touch him, I didn't go near him. I walked up, saw the blood, and immediately called 9-1-1."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the business is he located?"
+    },
+    {
+      "role": "user",
+      "content": "This is Main Street Grill, right downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but where exactly inside the business is he? In the kitchen? The bar?"
+    },
+    {
+      "role": "user",
+      "content": "He's inside the bar, near the door going out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got help on the way. Is there anyone else inside the business with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, I'm the only one here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, listen, calm down. We have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "I tried to flag someone down outside. What's taking so long?"
+    },
+    {
+      "role": "assistant",
+      "content": "They've been on the way since you called, sir. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is <caller name>."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number I can reach you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm staying on the phone until they get here."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but I need the phone number you're calling from."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it's <phone number>."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the door locked when you left or was it open?"
+    },
+    {
+      "role": "user",
+      "content": "I go out the back door to the restaurant to take out the trash. I just came back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, sir. Help is almost there. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "They're here! This way, this way! Come on!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let them in."
+    }
+  ]
+}

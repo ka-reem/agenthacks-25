@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Shooting in the courthouse, officer down, shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand you. What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Shooting in the courthouse, officer is down."
+    },
+    {
+      "role": "assistant",
+      "content": "A police officer is down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a jail control. Jailer is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please don't hang up. I'm going to get some help."
+    },
+    {
+      "role": "user",
+      "content": "Okay, listen. Ma'am, I need to talk to the ambulance, okay? Please don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "The suspect has a light blue shirt on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "Light blue shirt at the front door. He used a gun in here."
+    },
+    {
+      "role": "user",
+      "content": "Linda, I'm on it. Do you have any staff?"
+    },
+    {
+      "role": "assistant",
+      "content": "Don't go over there. Stay on the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what's your name? Who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "I believe it was a corrections officer from the county jails."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Careful. Was he killed?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. He took her gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Linda, who had the gun?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It was a person in the blue shirt."
+    },
+    {
+      "role": "user",
+      "content": "I believe the corrections officer was transporting a male subject in a blue shirt who then took the officer's gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so a male subject in a light blue shirt took the officer's gun?"
+    },
+    {
+      "role": "assistant",
+      "content": "And shot the corrections officer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, shot the corrections officer. I believe, I'm pretty sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Linda, are you a witness or do you work there?"
+    },
+    {
+      "role": "user",
+      "content": "I work in the court office."
+    },
+    {
+      "role": "user",
+      "content": "Bill Laris was wrestling with him. He shoved his arm and tried to get him to grab the gun."
+    },
+    {
+      "role": "user",
+      "content": "I took off running."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm just keeping you on the phone until I can get somebody there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the Sheriff's Department room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me which area you're in? District court, you said?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the District Court. I'm standing in the Office of the Sheriff's Department right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Thank you for your information."
+    },
+    {
+      "role": "user",
+      "content": "We need police at the courthouse on the second floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on up there?"
+    },
+    {
+      "role": "user",
+      "content": "I think there were gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone was shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need an ambulance and police officers."
+    },
+    {
+      "role": "assistant",
+      "content": "Which part of the courthouse?"
+    },
+    {
+      "role": "user",
+      "content": "Second floor, I believe."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's got the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has the gun. We need police officers now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting them on the way. Please stay on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone still there with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still here with the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Who has the gun?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. A male in a blue shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's hurt?"
+    },
+    {
+      "role": "user",
+      "content": "A woman was shot, I believe."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting help. Don't hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need anything?"
+    },
+    {
+      "role": "user",
+      "content": "Just information on who has the gun."
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. He had a blue shirt on."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where he went?"
+    },
+    {
+      "role": "user",
+      "content": "I think he ran out the front door of the courthouse."
+    },
+    {
+      "role": "assistant",
+      "content": "The officer was shot in the arm and the judge was stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but it's not life-threatening."
+    },
+    {
+      "role": "assistant",
+      "content": "Describe the suspect: male, black pants, blue shirt. Stay there."
+    },
+    {
+      "role": "assistant",
+      "content": "Also requesting K-9 units. All available units respond."
+    }
+  ]
+}

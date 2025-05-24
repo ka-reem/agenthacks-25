@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. I'm on 3rd Avenue by the railroad tracks. Somebody just tried to jump on the train and severed her legs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Third Avenue. Can you confirm the cross street?"
+    },
+    {
+      "role": "user",
+      "content": "We're on the west side of the railroad tracks on 3rd Avenue, at Atwood."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not move her! An ambulance is on the way. Where's the victim located?"
+    },
+    {
+      "role": "user",
+      "content": "The victim is on the west side. We are at 3rd and Atwood. There were four individuals, one succeeded in jumping, and the other fell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to ask you some questions. Do you have a cell phone?"
+    },
+    {
+      "role": "user",
+      "content": "I have my cell phone, but if I go over there, it's going to be too loud."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. If you are an EMT, you can probably do more help than anyone else. Let me know when you're with her."
+    },
+    {
+      "role": "user",
+      "content": "They're on the way. We're not going to put a tourniquet on her. They're like, trying to pick her up."
+    },
+    {
+      "role": "assistant",
+      "content": "No, we don't want to move her. Just hold pressure as much as you can."
+    },
+    {
+      "role": "user",
+      "content": "There's another nurse on scene holding femoral pressure. She's in her early 20s."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she awake and breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's 17 years old. She is awake and breathing. Her name is Anna."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she completely alert?"
+    },
+    {
+      "role": "user",
+      "content": "She's alert and talking. Now she's crying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is the leg injury located? At the ankle or knee?"
+    },
+    {
+      "role": "user",
+      "content": "One is mid-thigh on the left side. The right leg looks like it's right below the knee."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the amputated part still there?"
+    },
+    {
+      "role": "user",
+      "content": "The left leg may not be, but the right leg definitely is."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got units on the way. If you can, without traumatizing her, collect those amputated parts if it's safe."
+    },
+    {
+      "role": "user",
+      "content": "The train's still moving. It's a really long train."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, then don't try to collect them. Do you have something to press against the amputations to control the bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have femoral pressure on the left and a T-shirt around the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Just add more if it soaks through and continue with femoral pressure."
+    },
+    {
+      "role": "user",
+      "content": "We are keeping femoral pressure. Two firefighters are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'll let you go so you can talk to them."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye."
+    }
+  ]
+}

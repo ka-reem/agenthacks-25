@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "She'll be on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to tell you how to help deliver the baby, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure all the clothing below her waist is removed."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't let her sit up."
+    },
+    {
+      "role": "user",
+      "content": "All right, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she set up and lying down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "You there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm here. Is your front door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "The back door is. The back door is unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they are on their way. Just stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure all the clothing below her waist is removed. Raise her head with pillows, but don't let her sit up or go to the bathroom, even if she feels like she has to."
+    },
+    {
+      "role": "user",
+      "content": "She feels like she has to."
+    },
+    {
+      "role": "assistant",
+      "content": "That's natural. Just tell her not to worry about it and stay where she is."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now I want you to get some dry towels and a blanket to wrap the baby in, and get a string or a shoelace to tie around the umbilical cord after the delivery. Is she pushing or straining?"
+    },
+    {
+      "role": "user",
+      "content": "Is she straining? Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell her not to strain. But there's a lot of blood. Can you see any part of the baby at all?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "There should still be some time left before delivery occurs, okay? Reassure her that help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep your phone with you. I want you to take slow, deep breaths between each contraction, okay? And if anything changes, tell me immediately."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she's feeling a little more relaxed right now."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. Let me know if she pushes or strains or if you see any part of the baby."
+    },
+    {
+      "role": "user",
+      "content": "Hey, where are you? Karen, you there?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, my partner is in the car. So just go ahead and get them."
+    },
+    {
+      "role": "user",
+      "content": "She feels like she has to poop?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that feeling is part of labor. Just keep her where she is and get her to breathe through it. We don't want her to push yet."
+    },
+    {
+      "role": "user",
+      "content": "Okay, so the head is coming out more?"
+    },
+    {
+      "role": "assistant",
+      "content": "As the baby delivers, support the baby's head and shoulders and hold the hips and legs firmly. Remember, the baby is going to be slippery. Don't drop it. Tell me what's happening."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she's relaxed right now."
+    },
+    {
+      "role": "user",
+      "content": "But the baby comes a little through every time."
+    },
+    {
+      "role": "assistant",
+      "content": "We just want to make sure it doesn't come out too fast. Is she pushing?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby coming out?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "user",
+      "content": "I feel a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "When the next contraction comes and she feels the urge to push, have her push hard to get the baby out."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see the forehead."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell her to push hard and remember to support the baby's head and shoulders."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the head is out, but the shoulders aren't."
+    },
+    {
+      "role": "assistant",
+      "content": "In fact, the paramedics are there, okay? Just focus on what you're doing right now."
+    },
+    {
+      "role": "user",
+      "content": "Got the baby, but..."
+    },
+    {
+      "role": "assistant",
+      "content": "Support the head. Is the whole baby out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a boy or a girl?"
+    },
+    {
+      "role": "user",
+      "content": "It's a girl!"
+    },
+    {
+      "role": "assistant",
+      "content": "Congratulations, I can hear her crying."
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the paramedics there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they with you in the room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're handling it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, congratulations."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

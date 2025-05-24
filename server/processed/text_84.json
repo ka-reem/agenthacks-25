@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, yes. I need an officer at 2007 Callison Highway."
+    },
+    {
+      "role": "assistant",
+      "content": "What's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I'm just stressed out, and I'm about to take my life."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "It's unknown."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you have a weapon with you?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a weapon with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you have, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 44."
+    },
+    {
+      "role": "user",
+      "content": "Get in there. Don't bleed at me."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    }
+  ]
+}

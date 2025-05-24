@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Two men have just crossed my fence. They're trying to get into my house."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "4202 Marlow Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat that address for me?"
+    },
+    {
+      "role": "user",
+      "content": "4202 Marlow Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "House."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "459-7344."
+    },
+    {
+      "role": "assistant",
+      "content": "Your last name, please."
+    },
+    {
+      "role": "user",
+      "content": "Orange. They're trying to break the window."
+    },
+    {
+      "role": "assistant",
+      "content": "And your first name?"
+    },
+    {
+      "role": "user",
+      "content": "They're coming into my house. Maggie."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay Maggie, I understand. And it's two males, you said?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. One in a red jumpsuit, the other in a blue and white hoodie."
+    },
+    {
+      "role": "assistant",
+      "content": "And the one in the red jumpsuit, is he white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "They just broke the glass."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The one in the red jumpsuit, is he white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "Black or Hispanic."
+    },
+    {
+      "role": "assistant",
+      "content": "And the second one, is he white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what color clothing did you say he had on?"
+    },
+    {
+      "role": "user",
+      "content": "Blue and white hoodie."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have officers en route to your location. Are they inside the house now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They're in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any weapons involved or mentioned?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see any."
+    },
+    {
+      "role": "assistant",
+      "content": "And do you have any further descriptions on them?"
+    },
+    {
+      "role": "user",
+      "content": "No, not really. They just walked up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in immediate danger?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get to a safe place?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a closet."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay there. If you don't want to talk, just tap once for 'yes' and twice for 'no.'"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a closet in your bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else in the house with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, just me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any possible exits from the house?"
+    },
+    {
+      "role": "user",
+      "content": "The back door."
+    },
+    {
+      "role": "assistant",
+      "content": "No weapons in the house, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to stay on the phone with you until officers are there. Is the back door locked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the closet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear them in the room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're rummaging through things."
+    },
+    {
+      "role": "user",
+      "content": "They ran out. I see the cops!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is the police officer with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, they are running towards the backyard!"
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are in the area, stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "They're running towards another house!"
+    },
+    {
+      "role": "assistant",
+      "content": "The officers have them on sight."
+    },
+    {
+      "role": "user",
+      "content": "The guy in the red jumpsuit is still running."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see where he's heading?"
+    },
+    {
+      "role": "user",
+      "content": "Towards the apartment complex."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, officers are following him now. Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. It was so scary."
+    },
+    {
+      "role": "assistant",
+      "content": "You did really well. We're going to make sure everything is clear now. Do you see any damage?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they broke a window."
+    },
+    {
+      "role": "assistant",
+      "content": "If you feel safe, I can let you go now, officers are out there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You did a great job. You're welcome. Bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

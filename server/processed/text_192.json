@@ -1,0 +1,288 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to take a deep breath and give me that address again."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, no."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I don't want my hands."
+    },
+    {
+      "role": "user",
+      "content": "Honey."
+    },
+    {
+      "role": "assistant",
+      "content": "Honey, listen, listen to me. Take a breath. I got 2133 West and what?"
+    },
+    {
+      "role": "user",
+      "content": "11.1.1.7."
+    },
+    {
+      "role": "assistant",
+      "content": "One more time?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. I'm so sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "What is it?"
+    },
+    {
+      "role": "user",
+      "content": "1175."
+    },
+    {
+      "role": "assistant",
+      "content": "1175 north?"
+    },
+    {
+      "role": "user",
+      "content": "No, south."
+    },
+    {
+      "role": "assistant",
+      "content": "South. In what city?"
+    },
+    {
+      "role": "user",
+      "content": "In Syracuse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "We just came into my sister's house, and she's on the floor."
+    },
+    {
+      "role": "user",
+      "content": "There's a girl's in there."
+    },
+    {
+      "role": "user",
+      "content": "She's, okay, she's on the floor. The girl's in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, listen to me. Listen to me. I need you to take a breath, and we're going to help her, okay? How old is your sister?"
+    },
+    {
+      "role": "user",
+      "content": "She's 32."
+    },
+    {
+      "role": "assistant",
+      "content": "32? Okay, listen to me. Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "I'm giving her a bond to the gutty who went into the room."
+    },
+    {
+      "role": "user",
+      "content": "Okay, there's another man there."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, can you tell me what's going on, please?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we went to check on her sister. My brother and her had just separated. He moved out today. We went to check on her. Her door was locked. No lights on. I opened up the bedroom door. I, Jimmy, pushed open the lock, to unlock the bedroom door. She's on the floor. There's a spent bullet casing next to her. Three two kids are in the bed. And it looks like there's a gunshot wound on one of the kids on the side."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So we have three patients total?"
+    },
+    {
+      "role": "user",
+      "content": "Three, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Are any of them breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're all dead. They've been dead for a while. They're blue and cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Listen, sir. Sir?"
+    },
+    {
+      "role": "user",
+      "content": "In fact, actually, the other one has a gunshot wound in her as well."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I need you to listen to me very carefully. Can you see the gun?"
+    },
+    {
+      "role": "user",
+      "content": "No, I do not see the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I do not want you to try to find the gun. I need you to back out of the room."
+    },
+    {
+      "role": "user",
+      "content": "I'm out now."
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect. I do not want you to touch anything else. Nothing else."
+    },
+    {
+      "role": "user",
+      "content": "I pressed the door. I checked her pulse and that was it."
+    },
+    {
+      "role": "assistant",
+      "content": "You're sure that they are all deceased?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I checked the pulses. They're just..."
+    },
+    {
+      "role": "user",
+      "content": "They told me to get out."
+    },
+    {
+      "role": "assistant",
+      "content": "She has got to stay away from them, okay? Please tell her to stay away from them."
+    },
+    {
+      "role": "user",
+      "content": "I know she wants to go in, but she has to stay out of the room. Come on, Mom. Al. Come on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who is all in the house with you? You and your, is that your wife?"
+    },
+    {
+      "role": "user",
+      "content": "No, that was my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need them all to stay out of that room."
+    },
+    {
+      "role": "user",
+      "content": "They're out."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Justin Johnson."
+    },
+    {
+      "role": "assistant",
+      "content": "Justin Johnson, what's your phone number?"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, Justin, I actually want you to get all of the people out of that house."
+    },
+    {
+      "role": "user",
+      "content": "They are. We're on the porch."
+    },
+    {
+      "role": "assistant",
+      "content": "So there's nobody else in the house but the three patients, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, Justin, I want you to stay there. Officers should be arriving any minute. Do not go back inside the house, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Heather, Heather, stay there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, get Heather in the truck."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we'll be there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Justin, thank you very much."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I believe I may have a possible heroin overdose."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a possible heroin overdose?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you the one that took it?"
+    },
+    {
+      "role": "user",
+      "content": "My wife, my wife, she's turning blue."
+    },
+    {
+      "role": "assistant",
+      "content": "She's turning blue? Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know how to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "I've been doing it. I'm trying to do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "8776, state route 41."
+    },
+    {
+      "role": "assistant",
+      "content": "8776, state route 41?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your wife?"
+    },
+    {
+      "role": "user",
+      "content": "41."
+    },
+    {
+      "role": "assistant",
+      "content": "She's 41 years old?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Robert Payne."
+    },
+    {
+      "role": "assistant",
+      "content": "Robert Payne? Spell your last name for me."
+    },
+    {
+      "role": "user",
+      "content": "C-R-A-N-E."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's her name, Robert?"
+    },
+    {
+      "role": "user",
+      "content": "Christine."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago has it been since she's taken it?"
+    },
+    {
+      "role": "user",
+      "content": "Probably an hour ago, but we fell asleep."
+    },
+    {
+      "role": "assistant",
+      "content": "An hour ago?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "I put her in bed."
+    },
+    {
+      "role": "assistant",
+      "content": "You put her in bed? I need you to get her on the floor."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you wake up and find her like this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Yes, she's on the floor now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to tell you how to do CPR, okay? Tilt her head back, put your hand on her forehead, and put your fingers on her chin to open up her airway."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've got her on speaker phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything in her mouth? Can you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Now can you feel any air going in or out?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe. I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to give her two breaths, like you're blowing up a balloon. Pinch her nose shut and give two breaths."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see her chest rising?"
+    },
+    {
+      "role": "user",
+      "content": "I was trying to see if it was rising."
+    },
+    {
+      "role": "assistant",
+      "content": "Place the heel of one hand on her breastbone, right in the center of her chest, between her nipples. Put the other hand on top. Push down firmly about two inches with the heels of your hands. Pump that chest hard and fast 30 times."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Count them out for me."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now tilt her head back again, pinch her nose, and give her two more breaths."
+    },
+    {
+      "role": "user",
+      "content": "Did you get her two breaths, Robert?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, start doing chest compressions again. Put your hands back in the center of her chest and start doing 30 more."
+    },
+    {
+      "role": "user",
+      "content": "I think I did something stupid. I had gum in my mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it go in hers?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's breathing now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think she's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep doing CPR, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you give her two more breaths?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now you need to do 30 more compressions. Put your hands on the center of her chest and push down 30 times again."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like fluid in her chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Turn her to her side if something comes out of her mouth. Try to get it out. Is there anything coming out?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Are you doing the compressions again?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but on the side."
+    },
+    {
+      "role": "assistant",
+      "content": "Roll her back over on her back and do 30 more, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still warm, Robert, or is she cold when you touch her?"
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your telephone number, Robert?"
+    },
+    {
+      "role": "user",
+      "content": "927-750-0003."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Robert, I need you to give her two more breaths."
+    },
+    {
+      "role": "user",
+      "content": "I leave the top open so I don't want to hear me?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't hear you for the dog, Robert. Did you give her two more breaths?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now push on her chest 30 more times."
+    },
+    {
+      "role": "user",
+      "content": "Is there somebody else there with you? Who's with you?"
+    },
+    {
+      "role": "user",
+      "content": "He's talking to 911."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "This is 9520."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm doing CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way."
+    },
+    {
+      "role": "user",
+      "content": "Is this Billy?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Billy, the squad's on their way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, honey."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll let you go ahead and do CPR, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Bye."
+    }
+  ]
+}

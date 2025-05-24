@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, do you need police, fire, or EMS?"
+    },
+    {
+      "role": "user",
+      "content": "We have been shot at! Our house is under fire. We have three children, we need someone here now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, ma'am. I need you to stay on the line with me. Can you verify your address for me, please?"
+    },
+    {
+      "role": "user",
+      "content": "1733 Pierpont."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "We do not know where this person is. They have a gun and they shot at our house."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, listen to me. Get on the floor. I need to get some information for the officers, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "It's my cell phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Jennifer Griffith."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened, please."
+    },
+    {
+      "role": "user",
+      "content": "We heard a loud noise, like a boom, boom, boom, and then someone shot at us."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone was inside your house?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're outside, but our windows have been shot through. We have our children in our room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to stay in the room with your children. When did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "It just happened. Somebody needs to get here right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Jennifer, help is on the way. This isn't slowing anyone down, okay? Where are the weapons now?"
+    },
+    {
+      "role": "user",
+      "content": "We don't have any weapons. Somebody was shooting at us from outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any weapons now? If you do not know, that's fine."
+    },
+    {
+      "role": "user",
+      "content": "My husband says he's shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm getting the paramedics to you now. I need you to answer these questions for your safety and the officers. You don't know where the shooter is, correct?"
+    },
+    {
+      "role": "user",
+      "content": "No, we do not see a weapon or anyone outside now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in immediate danger?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I feel we are in immediate danger. We don't know where the shooter is."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get yourself to safety?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's not safe for us to leave the house. We can't see outside right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you talk with me freely, Jennifer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you in the house? What's the best way to get to you?"
+    },
+    {
+      "role": "user",
+      "content": "When you come in the front door, go left down the hallway past the bathroom. We're in the back bedroom to the left."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're in the back bedroom to the left, with the door closed, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have the door closed."
+    },
+    {
+      "role": "assistant",
+      "content": "We have paramedics and officers coming to you. Is anyone else in immediate danger?"
+    },
+    {
+      "role": "user",
+      "content": "My husband is also on the phone with 911. We're all in the same room."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell him to disconnect. You're all together, right? Is anyone else in immediate danger?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are five of us. We don't know if anyone else is in danger because we don't know where the shooter is."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are injured?"
+    },
+    {
+      "role": "user",
+      "content": "My husband is injured, he's the only one."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person responsible now?"
+    },
+    {
+      "role": "user",
+      "content": "We have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Was your husband able to see if the suspect is white, black, or Hispanic? Male or female?"
+    },
+    {
+      "role": "user",
+      "content": "No, he did not see."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay on the line with me? Your husband should stay in the room."
+    },
+    {
+      "role": "user",
+      "content": "He has left the room."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell him to go back into the room and close the door. Do not leave the room."
+    },
+    {
+      "role": "user",
+      "content": "He's turning on the porch light now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the police? Are they outside?"
+    },
+    {
+      "role": "user",
+      "content": "My husband says he sees a car."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are looking for your house. Stay inside."
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a black shirt and white shorts. Yes, he's talking to them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and speak with the police. They are inside now."
+    },
+    {
+      "role": "user",
+      "content": "This is 1733 Pierpont."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, I'm right here with you. We've gotten the call."
+    },
+    {
+      "role": "user",
+      "content": "My wife is here with our three young kids on the floor. We need help right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, we're getting help to you. Stay on the line, you don't have to say anything."
+    }
+  ]
+}

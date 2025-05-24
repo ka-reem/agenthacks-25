@@ -1,0 +1,364 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I think we're on I-75."
+    },
+    {
+      "role": "assistant",
+      "content": "I-75? Do you know what mile marker?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't see anything. The fog is so dense and we just hit a guardrail. I think there was an accident behind us because I heard it."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you northbound or southbound?"
+    },
+    {
+      "role": "user",
+      "content": "We are going southbound on I-75."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to get you some help out there. What's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my gosh, it's so dark here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is the city that you're nearest? Have you seen any signs for a city recently?"
+    },
+    {
+      "role": "user",
+      "content": "Are we near Gainesville? We just passed Gainesville, University."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on just one second while I get this in, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, it's very dangerous, so please be careful."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you out of the roadway?"
+    },
+    {
+      "role": "user",
+      "content": "We are out as far as we possibly can."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. Are there any injuries in your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, thank God."
+    },
+    {
+      "role": "user",
+      "content": "But I think I heard another crash back there."
+    },
+    {
+      "role": "assistant",
+      "content": "You heard another crash?"
+    },
+    {
+      "role": "user",
+      "content": "I thought I did, but I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the color, make, and model of your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "We just hit the guardrail."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hit the guardrail or was there another vehicle involved?"
+    },
+    {
+      "role": "user",
+      "content": "No, we hit the guardrail."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said you are out of the road as much as you can be? Are you blocking any lanes?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Oh, someone stopped to help us."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good, but stay inside your vehicle until law enforcement gets there. Do you smell any gas or see any leaks?"
+    },
+    {
+      "role": "user",
+      "content": "No, just the smoke from the fog."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on just one second. We are getting help out there to you. Are you able to talk to my friend?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, ma'am. We have help on the way. I'm showing you near Mile Marker 379, could that be right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we passed the exit to Gainesville, right?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you southbound?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just wanted to double check. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "No injuries, but I think we need a tow truck."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. We can sort that out. I'm going to stay on the line with you until units find you. It's very hazy, so I want to make sure they can locate you."
+    },
+    {
+      "role": "user",
+      "content": "It's really bad out here. People are stopping."
+    },
+    {
+      "role": "assistant",
+      "content": "If you're going southbound, are you on the left side or the right side of the road?"
+    },
+    {
+      "role": "user",
+      "content": "I pulled the car all the way to the right side onto the grass."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said the right side?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just one second. Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh no, another accident!"
+    },
+    {
+      "role": "assistant",
+      "content": "There was another accident?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a truck. I think it was a semi."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of truck, like a semi or a pickup?"
+    },
+    {
+      "role": "user",
+      "content": "We can't see. The haze is too thick."
+    },
+    {
+      "role": "user",
+      "content": "I do hear a police officer or an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just one second. Stand on the line, don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "No problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said another vehicle hit northbound?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it looks like another accident on the other side."
+    },
+    {
+      "role": "user",
+      "content": "This is the third one now."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, if you're able to, turn on your emergency flashers, get out of your vehicle, and move as far away from traffic as possible."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're out as far as we can be."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing really well. Are there any obvious injuries in any other vehicles that you can see?"
+    },
+    {
+      "role": "user",
+      "content": "No, but it's hard to see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just tell everyone to turn on their headlights and flashers and get out of the road."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she said everyone get as far off the road as you can and put on your flashers."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone out of their vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to ask you some medical questions. How many people would you guess are injured?"
+    },
+    {
+      "role": "user",
+      "content": "Oh no, another accident!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's the fourth vehicle now. Are you with the patients right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, we are too far away. We can't see much."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if there are chemicals or other hazards involved?"
+    },
+    {
+      "role": "user",
+      "content": "Couldn't tell you."
+    },
+    {
+      "role": "user",
+      "content": "Another crash!"
+    },
+    {
+      "role": "assistant",
+      "content": "This is bad, people can't see. Is anyone pinned or trapped in their vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "We can't tell. This is getting worse. Another one just happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how many vehicles now?"
+    },
+    {
+      "role": "user",
+      "content": "16 now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you see any fire or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "No fire. We can hardly see our hazards."
+    },
+    {
+      "role": "user",
+      "content": "Here comes another one. Oh my God, they're coming too fast!"
+    },
+    {
+      "role": "assistant",
+      "content": "Just keep yourself out of traffic. Try to direct people out of the road if you can, but keep safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Paramedics and police are on the way. Lots of help is coming."
+    },
+    {
+      "role": "user",
+      "content": "Another accident! This is getting bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Just keep your hazard lights on and stay out of traffic. Help is on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't offer anyone anything to eat or drink, it might make them sick."
+    },
+    {
+      "role": "assistant",
+      "content": "Let anyone injured rest in the most comfortable position. Don't move them unless it's absolutely necessary."
+    },
+    {
+      "role": "user",
+      "content": "We see some people lying on the floor. There's someone with a flashlight now."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a great job. Just keep everyone calm and wait for help. Are the semis rolled over?"
+    },
+    {
+      "role": "user",
+      "content": "We can't see very well."
+    },
+    {
+      "role": "user",
+      "content": "There's people crying. I think someone might be dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anything specific or just hear crying?"
+    },
+    {
+      "role": "user",
+      "content": "We're seeing some lights now from other vehicles."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please hold on and stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Should I give you another number in case my phone dies?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, please give me the other number."
+    }
+  ]
+}

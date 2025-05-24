@@ -1,0 +1,296 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, do you have an emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, who are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "I am the emergency hotline operator. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Elene."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mom there?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm just talking on my mom's phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, you're pressing numbers on your mom's phone?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh, my mom's numbers."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, is your mom okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Nobody's there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, because my mom didn't come back yet."
+    },
+    {
+      "role": "user",
+      "content": "My mom said don't open the door for anybody."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're by yourself. Are you watching TV?"
+    },
+    {
+      "role": "user",
+      "content": "My TV is on and I went to the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, you're in the bathroom? Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm watching my TV."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I just want to make sure you're okay. And nobody's in the room with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "So everything's okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you just bored and you wanted to use the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "You are not one? Maybe two?"
+    },
+    {
+      "role": "assistant",
+      "content": "I think you're older than two. Maybe three?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not sure how old you are?"
+    },
+    {
+      "role": "user",
+      "content": "My mom said I'm two."
+    },
+    {
+      "role": "assistant",
+      "content": "Your mom says you're two?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, did she just say that?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "She usually says that."
+    },
+    {
+      "role": "user",
+      "content": "She went to buy toys for me."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, she went to buy toys for you?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she usually leave you in the room alone?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "I said, does she usually leave you in the room by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, she does?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh. But everything's okay?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "user",
+      "content": "Don't come in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "You're just playing by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "Don't come in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you playing?"
+    },
+    {
+      "role": "user",
+      "content": "My TV, my game. I can't find my games."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, you like to play games?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh, but I can't find them."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay."
+    },
+    {
+      "role": "user",
+      "content": "I need to build something."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you good at games?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you good at games?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "Do you know my house number?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know what my house number is?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what your house number is?"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not scared being by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-uh."
+    }
+  ]
+}

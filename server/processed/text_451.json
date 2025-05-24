@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My neighbor's house is burning down at 312 Washington Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody inside?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm finding out right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we are on our way. Keep everyone away from the house."
+    },
+    {
+      "role": "user",
+      "content": "They said stay away from the house. Is everybody out?"
+    },
+    {
+      "role": "user",
+      "content": "They're getting somebody out right now. They're looking for the little boy, Avon."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "There's an 18-month-old baby in there."
+    },
+    {
+      "role": "assistant",
+      "content": "18-month-old?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "We need help immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "We've already dispatched help, okay? Let me know when they get him out, or if they have gotten him out."
+    },
+    {
+      "role": "user",
+      "content": "They're going in for the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want anybody getting hurt."
+    },
+    {
+      "role": "user",
+      "content": "Well, they're going in anyway for the baby. The mom just passed out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but she's tough."
+    },
+    {
+      "role": "user",
+      "content": "No, she's up. The baby's inside the house."
+    },
+    {
+      "role": "assistant",
+      "content": "He's only 18 months old and the whole house is going up."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know where he's at in the house?"
+    },
+    {
+      "role": "user",
+      "content": "They don't know where he is. They're trying to get him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know what happens."
+    },
+    {
+      "role": "user",
+      "content": "They haven't got him yet. They can't get the door open. Okay, bam. They got the door open."
+    },
+    {
+      "role": "assistant",
+      "content": "We already have help on the way. Let me know what's going on."
+    },
+    {
+      "role": "user",
+      "content": "The whole house is burning down. We're trying to put it out with our hose, but if you don't hurry, we're going to lose our house."
+    },
+    {
+      "role": "assistant",
+      "content": "We can't come any faster than with lights and sirens. We're coming as fast as we can."
+    },
+    {
+      "role": "user",
+      "content": "I know. Oh my God. There's black smoke everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm so sorry. We are on our way. Just take a deep breath for me."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. They've got about 15 people going in to get the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "They don't need all those people going in there. It's dangerous."
+    },
+    {
+      "role": "user",
+      "content": "Well, they're going in. They're looking in every room. Oh my God, he's only 18 months."
+    },
+    {
+      "role": "user",
+      "content": "They can't get in there. They can't get in to where the baby is."
+    },
+    {
+      "role": "assistant",
+      "content": "We've already sent help. Can you stay outside?"
+    },
+    {
+      "role": "user",
+      "content": "I can't find my way. Nobody can get in. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. Keep everyone away from the house."
+    },
+    {
+      "role": "user",
+      "content": "We're trying. They aren't listening. My house might burn down too. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay safe. Help is on the way."
+    }
+  ]
+}

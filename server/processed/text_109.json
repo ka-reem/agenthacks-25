@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "517 West Doty Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat the address?"
+    },
+    {
+      "role": "user",
+      "content": "517 West Doty Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there an apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "It's the lower flat, apartment one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the phone number you're calling from, please?"
+    },
+    {
+      "role": "user",
+      "content": "715-305-2584."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Jordan Gonerang."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I just came home, the door was busted in, and my girlfriend's been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She is 19, no, she's 21."
+    },
+    {
+      "role": "assistant",
+      "content": "21?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you safe where you are right now?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person that did this still nearby?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending an ambulance to help you. I want you to stay on the line with me so I can tell you what to do next, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to get as close to her with the phone as you can, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you right by her now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I want you to lay her flat on her back on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Remove any pillows."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to kneel next to her and look in her mouth for any food or vomit. Is there anything?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Just so you know, there's an ambulance on the way and the officers are also on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that you standing by the window?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to come out right now so they can get in there to help her, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "The officer told me to hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, goodbye."
+    }
+  ]
+}

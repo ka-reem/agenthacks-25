@@ -1,0 +1,316 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is really calling from Motel 6."
+    },
+    {
+      "role": "assistant",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "I have a gentleman in a room, and when he went to change his room, a bag of pot fell out of his pocket onto the desk in front of me."
+    },
+    {
+      "role": "assistant",
+      "content": "So there's something suspicious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it was a rather big bag."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and is he still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and this is Motel 6?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's correct."
+    },
+    {
+      "role": "assistant",
+      "content": "What I'm going to do is have him come to the office and talk with you, and you let them know about the situation. Alright?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Mm-hmm. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Radio is 78, 1042 at Motel 6, reference subject, Signal 60 in one of the rooms there."
+    },
+    {
+      "role": "assistant",
+      "content": "78, please go ahead with your message."
+    },
+    {
+      "role": "user",
+      "content": "Hello, I'm calling. This is Windell, W-I-N-D-E-L-L. Date of birth is 5/29/1986."
+    },
+    {
+      "role": "assistant",
+      "content": "78, you'll have to repeat the first name again, was unable to copy."
+    },
+    {
+      "role": "user",
+      "content": "Vincent, V-I-N-C-E-N-T."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear."
+    },
+    {
+      "role": "user",
+      "content": "Lady at Motel 6."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "Radio to 78, he has a local Signal 60 and NCIC is clear."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, unit with traffic, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "We're going to stop, and bars."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, shots fired."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired, unit, Signal 100."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's that, radio?"
+    },
+    {
+      "role": "user",
+      "content": "They were at Motel 6. Radio's corporate. Can't breathe."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear."
+    },
+    {
+      "role": "user",
+      "content": "Radio, is that you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "78 was the last one that talked. I have an ambulance en route. 78, can you copy me?"
+    },
+    {
+      "role": "user",
+      "content": "You have a hundred steps where you're on me. Go again?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, barely. Alright, just take some deep breaths and slow your breathing down."
+    },
+    {
+      "role": "user",
+      "content": "31, 19."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear, where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "Refer to room 225, very back left corner from the office."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't know where 80 is."
+    },
+    {
+      "role": "user",
+      "content": "78 at the Motel 6."
+    },
+    {
+      "role": "assistant",
+      "content": "76 units, I'm looking for you, where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "On the very back corner."
+    },
+    {
+      "role": "assistant",
+      "content": "Very back corner? What are you dealing with?"
+    },
+    {
+      "role": "user",
+      "content": "There you are, upstairs in the back corner."
+    },
+    {
+      "role": "assistant",
+      "content": "Upstairs in the back corner. Do we have eyes on the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "The suspect's already gone."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not clear, do we have a location on the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Nobody's advised. A unit goes to the desk, she said they got his driver's license. He's a white male, about 5'8, black clothing, white margin, was carrying a black duffle bag."
+    },
+    {
+      "role": "assistant",
+      "content": "78 copy, suspect ran off."
+    },
+    {
+      "role": "user",
+      "content": "Radio to any officer, can you advise on the unit?"
+    },
+    {
+      "role": "assistant",
+      "content": "78, down."
+    },
+    {
+      "role": "user",
+      "content": "78, down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at, 80?"
+    },
+    {
+      "role": "user",
+      "content": "Top floor, bad man, second room. Where are you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Top floor, above the office."
+    },
+    {
+      "role": "user",
+      "content": "People are here, you got to tell us what room. Above the office, I suppose."
+    },
+    {
+      "role": "assistant",
+      "content": "Start checking on them."
+    },
+    {
+      "role": "user",
+      "content": "Help, please help."
+    },
+    {
+      "role": "assistant",
+      "content": "Unit, second ambulance is en route."
+    },
+    {
+      "role": "user",
+      "content": "We've got him about there. He's right above the office. I need some backup there now."
+    },
+    {
+      "role": "assistant",
+      "content": "He's got a critical injury."
+    },
+    {
+      "role": "user",
+      "content": "Radio, 45-4, I'm with your officer here at the rear with EMS. Does another officer need assistance inside this one?"
+    },
+    {
+      "role": "assistant",
+      "content": "I have two officers. Can anybody on the scene advise exactly where they're at?"
+    },
+    {
+      "role": "user",
+      "content": "They're in front of 207, just coming right above the office."
+    },
+    {
+      "role": "assistant",
+      "content": "ASAP, now. Above the office is priority number one."
+    },
+    {
+      "role": "user",
+      "content": "Radio's clear."
+    },
+    {
+      "role": "assistant",
+      "content": "We're here now, office on the second floor, ASAP."
+    },
+    {
+      "role": "user",
+      "content": "Radio's clear. Ambulance en route. We're checking with them."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, we need an ETA on the ambulance, ASAP, please."
+    },
+    {
+      "role": "user",
+      "content": "Radio's clear, 76."
+    },
+    {
+      "role": "assistant",
+      "content": "76, I just got off the phone with them, they advised one unit should be on scene, the other has an ETA of about 4-5 minutes."
+    },
+    {
+      "role": "user",
+      "content": "Clear, we need transport for 78, ASAP."
+    },
+    {
+      "role": "assistant",
+      "content": "Paramedics and fire are en route, but we need transport."
+    },
+    {
+      "role": "user",
+      "content": "10-4. 53 is on the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Have University on standby, get StatFlight here."
+    },
+    {
+      "role": "user",
+      "content": "Radio's clear on StatFlight. 53."
+    },
+    {
+      "role": "assistant",
+      "content": "StatFlight en route. "
+    },
+    {
+      "role": "user",
+      "content": "Verify if Vincent Windell is the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "Look up anything you have on Vincent Windell."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

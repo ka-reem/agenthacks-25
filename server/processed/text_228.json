@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Fire emergency!"
+    },
+    {
+      "role": "assistant",
+      "content": "What city are you in?"
+    },
+    {
+      "role": "user",
+      "content": "Daypoint."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, house upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "The bedroom is on fire. My house is burning fast!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're on the way. Just calm down. Is anybody upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "I am, and I can't get down."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't get down?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Anybody else in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but I don't know where they're at now."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 65."
+    },
+    {
+      "role": "assistant",
+      "content": "The room you're in, is it on fire?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's the other end of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you crawl and get down any way at all?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside on the deck."
+    },
+    {
+      "role": "assistant",
+      "content": "You're outside on the deck. Okay. Can you put any towels or anything under the door to keep the smoke out?"
+    },
+    {
+      "role": "user",
+      "content": "I can't get the door shut. It's blown out. My hair is fried."
+    },
+    {
+      "role": "assistant",
+      "content": "What floor are you on?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the second floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the deck in the front of the house or back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "Back of the house upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The back of the house, you copy, Sheriff?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay with me, okay? I want you to get as far away from that door as you can."
+    },
+    {
+      "role": "user",
+      "content": "I am, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm calling the fire department right now. Use the wall for protection."
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Use the wall for protection. Get down and use the wall for protection."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "It's burning like crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody who has a ladder they can use to help you get down?"
+    },
+    {
+      "role": "user",
+      "content": "There's somebody with a ladder right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay away from where the fire is. Can you get down safely?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm coming down now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. The fire department and the sheriffs are both en route."
+    },
+    {
+      "role": "user",
+      "content": "Are there any people downstairs?"
+    },
+    {
+      "role": "assistant",
+      "content": "Confirm if everyone else from downstairs is out."
+    },
+    {
+      "role": "user",
+      "content": "There are some people downstairs. I think it's her husband. I hope my cat is too."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure everybody is out of the house."
+    },
+    {
+      "role": "user",
+      "content": "Okay, did she get down?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, did you get down safely?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm down. I'm going to open the side gate."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay out front. You mentioned getting burned a little bit from your hair. Just sit down and try to relax."
+    },
+    {
+      "role": "user",
+      "content": "I don't know where my cat is."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't worry about the cat. The cat will find its way out. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, let them know I'm the one who was on the balcony."
+    },
+    {
+      "role": "assistant",
+      "content": "Let them know that you were the one on the balcony and that you might be slightly burned."
+    },
+    {
+      "role": "user",
+      "content": "Are those the paramedics or sheriffs?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, just confirm it's your house."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay back a little further from the house. What could be burning that badly?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'm going to let you go. I'm very glad you got down safely. Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please, send the police!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem there?"
+    },
+    {
+      "role": "user",
+      "content": "He killed my friends!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the problem? I need to know."
+    },
+    {
+      "role": "user",
+      "content": "The police stop! With a gun! With a gun!"
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry up! He's killing my girlfriend!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, but I need more information. Who's doing this?"
+    },
+    {
+      "role": "user",
+      "content": "With guns! They'll break the guns!"
+    },
+    {
+      "role": "assistant",
+      "content": "Who has the guns?"
+    },
+    {
+      "role": "user",
+      "content": "You've got to kill him!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "Why do you need somebody there?"
+    },
+    {
+      "role": "user",
+      "content": "He's killing my friends."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's killing your friend?"
+    },
+    {
+      "role": "user",
+      "content": "My chimpanzee!"
+    },
+    {
+      "role": "assistant",
+      "content": "Your chimpanzee is killing your friend?"
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry up! He's got a gun!"
+    },
+    {
+      "role": "assistant",
+      "content": "Someone is on the way. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "Please, shoot him! The monkey's beating up on somebody!"
+    },
+    {
+      "role": "assistant",
+      "content": "What is the monkey doing?"
+    },
+    {
+      "role": "user",
+      "content": "He ripped her face off! He's trying to attack me, please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to calm down. They're on the way. Can you push him away?"
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry up!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, ma'am. Is the monkey still with your friend?"
+    },
+    {
+      "role": "user",
+      "content": "He killed her, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you there with your friend?"
+    },
+    {
+      "role": "user",
+      "content": "He's trying to attack me now."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to calm down so you can help your friend. Are you there with your friend?"
+    },
+    {
+      "role": "user",
+      "content": "How fast can you get them here?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. If the monkey moves away from your friend, let me know."
+    },
+    {
+      "role": "user",
+      "content": "I can't. She's dead. He ripped her apart. Everything."
+    },
+    {
+      "role": "assistant",
+      "content": "No, just breathe, okay? I need you to stay with me until they get there."
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. I need you to calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the monkey still with your friend or is your friend still on the floor?"
+    },
+    {
+      "role": "user",
+      "content": "She's dead. I tried to push him away, but he's still there."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not get any closer, okay? They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "If the monkey moves away, let me know, okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's still there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is your friend alive?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's dead. She's not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay on the phone with me. They're on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry. Have them shoot him. He's going to attack me."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay in your car and lock the windows. Help is on the way. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "He's walking around. He's hurt!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in your car. Do not get out. The police are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Please have them shoot him!"
+    },
+    {
+      "role": "assistant",
+      "content": "They will. Just stay in your car."
+    },
+    {
+      "role": "user",
+      "content": "They're here, but he's not dead!"
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay in your car. They know about the situation."
+    },
+    {
+      "role": "user",
+      "content": "He's coming after me!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in your car. The police will handle it."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Help is there. Hang on."
+    },
+    {
+      "role": "user",
+      "content": "He's still moving. He's still alive!"
+    },
+    {
+      "role": "assistant",
+      "content": "They will keep shooting until he's no longer a threat. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I don't see any officers."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Just stay in your car. They're handling it."
+    }
+  ]
+}

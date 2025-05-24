@@ -1,0 +1,348 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my wife's pregnant and she said she can't make it to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have somebody already dispatching units to you, okay? I'm going to ask you some questions."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 36."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, her water just broke."
+    },
+    {
+      "role": "assistant",
+      "content": "Her water just broke? How many weeks pregnant is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 37 weeks."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby completely out?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see any part of the baby yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she having contractions?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this her first delivery?"
+    },
+    {
+      "role": "user",
+      "content": "No, this will be our third baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many minutes apart are her contractions?"
+    },
+    {
+      "role": "user",
+      "content": "They're between two and five minutes apart."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see any serious bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does she have any high-risk complications?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending the paramedics to help you now. Stay on the line. I'll tell you exactly what to do next."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not try to prevent the birth. Do not sit her on the toilet. Allow her to assume the most comfortable position and have her take deep breaths between the contractions."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you called her healthcare provider?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. More water is coming out right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see more water coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "You said this was her third pregnancy. Can you see the baby's head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can see the baby's head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen carefully and do exactly as I say. Lay her on her back in the center of the bed or on the floor."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure all the clothing below her waist is removed. Raise her head with pillows, but do not let her sit up or go to the bathroom."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Get towels and check for pushing efforts. Get some dry towels and a blanket to wrap the baby in. You're going to need a string or a shoelace to tie around the umbilical cord after the delivery."
+    },
+    {
+      "role": "user",
+      "content": "I'm getting my shoelace off right now."
+    },
+    {
+      "role": "assistant",
+      "content": "When the baby is born, just have it available."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she pushing or straining yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not pushing yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. With each contraction, you should place your palm against the baby's head and apply firm but gentle pressure to keep the baby's head from delivering too fast."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "As the baby delivers, support the baby's head and shoulders and hold the hips and legs firmly. Remember the baby will be slippery, don't drop it."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the baby is out."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, gently wipe off the baby's mouth and nose. Dry the baby off with a clean towel, then wrap the baby in the clean, dry towel and cover the baby's head but not its face."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Without pulling the cord tight, put the baby in the mother's arms or on her belly. Be sure to keep the baby and the mom warm."
+    },
+    {
+      "role": "user",
+      "content": "Got it."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have the shoelace?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have it."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen carefully, and I'll tell you what to do next. Without pulling on the cord, tie the shoelace tightly around the umbilical cord about six inches from the baby but do not cut it."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now we're going to deliver the afterbirth. Do not pull on the cord. The afterbirth should be delivering soon. Tell me if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I see some bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, she will bleed a bit. Do not pull on the cord. Let it come naturally."
+    },
+    {
+      "role": "user",
+      "content": "Okay, understood."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a little baby girl or a boy?"
+    },
+    {
+      "role": "user",
+      "content": "It's a boy."
+    },
+    {
+      "role": "assistant",
+      "content": "Congratulations! How's his color?"
+    },
+    {
+      "role": "user",
+      "content": "He's very pink."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. Check her vagina again. Do you see the afterbirth?"
+    },
+    {
+      "role": "user",
+      "content": "I see the afterbirth is still inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding or cramping?"
+    },
+    {
+      "role": "user",
+      "content": "No, it doesn't look serious."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're doing great. Just stay right where you are and keep the baby wrapped up. The paramedics should be arriving soon."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If she feels like she has to push to get the placenta out, let her push."
+    },
+    {
+      "role": "user",
+      "content": "Will do."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Dina."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi Dina, my name is Janet. You've done a great job."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned this was your third baby? Were all your other babies born this quickly?"
+    },
+    {
+      "role": "user",
+      "content": "No, they took longer."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. The paramedics are almost there. Just try to keep calm and breathe. You're both doing great."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

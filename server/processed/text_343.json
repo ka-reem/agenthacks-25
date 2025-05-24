@@ -1,0 +1,400 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Number one. Listen to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down and I'll tell you what to do, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, and you said she's having a seizure?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay, calm down. Take a deep breath. I'm going to get an ambulance over there, but I need you to calm down, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "The first thing you need to do is make sure that there's nothing around your mom that's going to hurt her. Clear the area so when she's having a seizure, she doesn't hurt herself, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't put anything in her mouth. Don't try to hold her down. Just let her have the seizure. She's going to be just fine, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Once she stops shaking, I need you to check her breathing for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "She did."
+    },
+    {
+      "role": "assistant",
+      "content": "They're checking her breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she coming out of it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does anybody there know CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who knows CPR? Who can I talk to to give CPR instructions?"
+    },
+    {
+      "role": "user",
+      "content": "No one knows. My dad's not home."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what I need you to do is listen to me, and I'll tell you what to do, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Turn her flat on her back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she is."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead and kneel down by her side. You said she's not breathing, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, pinch her nose closed with one hand, and with the other hand, lift her chin up to tilt the head back."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, completely cover her mouth with your mouth and give her two big breaths, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that her making noise?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she trying to breathe on her own?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything in her throat, like vomit or phlegm?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not throwing up."
+    },
+    {
+      "role": "assistant",
+      "content": "Is air getting into her lungs? Is her chest rising and falling?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she moving, coughing, or breathing normally yet?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, no, she's starting to breathe normally."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, then roll her onto her side and stay with her. Keep her on her side."
+    },
+    {
+      "role": "user",
+      "content": "Okay. One sec."
+    },
+    {
+      "role": "user",
+      "content": "Mom. He gave her two breaths, and I could hear gurgling."
+    },
+    {
+      "role": "user",
+      "content": "I can't get her on her side."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you turn her head to the side so she doesn't choke?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she waking up?"
+    },
+    {
+      "role": "user",
+      "content": "She's moaning. Yes, she's on the bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell her the ambulance is on the way. Stay with her and I'll stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she ever had a seizure before?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened before this happened?"
+    },
+    {
+      "role": "user",
+      "content": "We were just out front."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she allergic to anything, like a bee sting, or did she hit her head recently?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she hit her head."
+    },
+    {
+      "role": "assistant",
+      "content": "When did she hit her head? Today?"
+    },
+    {
+      "role": "user",
+      "content": "No, she has a brain injury."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're going to help her. We'll be there in just a minute. You said 905 Dennery Lane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Dylan."
+    },
+    {
+      "role": "assistant",
+      "content": "Spell it for me."
+    },
+    {
+      "role": "user",
+      "content": "D-Y-L-A-N."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you, Dylan?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 11."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a very good job, okay? What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Um, 577-1489."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How is your mom? Is she still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Who else is there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Just me and my little brother."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your little brother?"
+    },
+    {
+      "role": "user",
+      "content": "He's 5. We were just out front when she dropped."
+    },
+    {
+      "role": "assistant",
+      "content": "Your mom is 35 years old?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Are you going to send an ambulance?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they're on their way. When did your mom get her brain injury?"
+    },
+    {
+      "role": "user",
+      "content": "April 5th."
+    },
+    {
+      "role": "assistant",
+      "content": "April 5th of this year or last year?"
+    },
+    {
+      "role": "user",
+      "content": "Last year."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You've never seen her have a seizure before?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mom ok? Is she coming around?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, kind of."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she waking up?"
+    },
+    {
+      "role": "user",
+      "content": "Kind of. Her eyes are open."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you talk to her? Is she able to answer you?"
+    },
+    {
+      "role": "user",
+      "content": "Mom? No, she's not answering."
+    },
+    {
+      "role": "assistant",
+      "content": "But her eyes are open?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And you have her rolled over?"
+    },
+    {
+      "role": "user",
+      "content": "Kind of."
+    },
+    {
+      "role": "assistant",
+      "content": "Is her breathing normal? Is her chest rising and falling?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I think the police or the ambulance are there now."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "If that's the police or the firemen, go ahead and talk to them. I'm going to hang up now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Good job, Dylan."
+    }
+  ]
+}

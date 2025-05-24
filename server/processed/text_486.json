@@ -1,0 +1,308 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey Amelia, this is Todd. How you doing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, Todd, what's up?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, can you send someone by Hawkins that runs between Lynn and Post, over in Zone 2?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's up?"
+    },
+    {
+      "role": "user",
+      "content": "It's going to reference possible shots fired and some type of disturbance."
+    },
+    {
+      "role": "assistant",
+      "content": "How many shots?"
+    },
+    {
+      "role": "user",
+      "content": "Like three or four."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, and you know, since it's Thanksgiving, I'll even let you be anonymous."
+    },
+    {
+      "role": "user",
+      "content": "Alright, there you go. It's over by my folks' house, so don't make contact because there's some more than questionable people living behind them now. So if you can just leave it anonymous, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "No problem."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Have a happy Thanksgiving."
+    },
+    {
+      "role": "assistant",
+      "content": "You too. Talk to you later."
+    },
+    {
+      "role": "user",
+      "content": "Alright, bye. It's on Lynn and Second or maybe Post and Second. There have been four gunshots."
+    },
+    {
+      "role": "assistant",
+      "content": "Post and Second?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and this is in Fayville?"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. How many did you hear?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, all total there's been four. There was one about 15 minutes ago. And about three or four minutes ago, there was one on the side street, which is Second Avenue. And just now there were two more and it sounded like it was over on Closton Post Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, and it's on Post and Lynn?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we're going to send officers in there to check it out as soon as possible, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I just heard some gunshots in my neighborhood."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "On Post Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Post Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's not necessarily for me. I just heard some gunshots in the neighborhood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How many did you hear?"
+    },
+    {
+      "role": "user",
+      "content": "I heard about four."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, we'll get somebody out there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, appreciate it."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I live on Post Avenue. A cop just came down. Shots fired. Shot fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. We're aware."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, because they're fighting or something out there."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. We're aware. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I live at 115 Post Avenue. There's just been gunshots right next door to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, ma'am. We have the call, and we have officers on the way out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "712, you have another call."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, shots fired, anonymous caller, area Hawkins Road and Lynn Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Hawkins Road and Lynn Avenue, Zone 2. Heard three shots in the area."
+    },
+    {
+      "role": "user",
+      "content": "10-4, anonymous complaint."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "711."
+    },
+    {
+      "role": "assistant",
+      "content": "711, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "City 712, send me out with a subject at Post and Hawkins."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "City 705, show me out at the vehicle."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "Florida registration, P05 John Henry Boy."
+    },
+    {
+      "role": "assistant",
+      "content": "City, can you tell by the unit?"
+    },
+    {
+      "role": "user",
+      "content": "712 is at Post and Hawkins, Zone 2. He was out with a subject."
+    },
+    {
+      "role": "assistant",
+      "content": "Units, just go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "712, 267, can you advise on your status?"
+    },
+    {
+      "role": "user",
+      "content": "City, I believe I'm 10-4, just had fire medics step up, subject's down."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "Fire medics are en route. EOC, please direct units responding to your location."
+    },
+    {
+      "role": "assistant",
+      "content": "All units en route, advise city."
+    },
+    {
+      "role": "user",
+      "content": "I'm en route."
+    },
+    {
+      "role": "assistant",
+      "content": "4 is en route."
+    },
+    {
+      "role": "user",
+      "content": "Several levels en route."
+    },
+    {
+      "role": "assistant",
+      "content": "Unit on scene, advise your numbers."
+    },
+    {
+      "role": "user",
+      "content": "702."
+    },
+    {
+      "role": "user",
+      "content": "Or 792."
+    },
+    {
+      "role": "assistant",
+      "content": "708, 702, check-on."
+    },
+    {
+      "role": "user",
+      "content": "10-4. All units can downgrade your traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll be on Post Avenue."
+    },
+    {
+      "role": "user",
+      "content": "708, is the scene secure for fire medics?"
+    },
+    {
+      "role": "assistant",
+      "content": "10-4. Get somebody over on Lynn and Hawkins to standby, making sure cars don't come through."
+    }
+  ]
+}

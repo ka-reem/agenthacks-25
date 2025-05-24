@@ -1,0 +1,140 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There is a guy with a gun at the Casey's on Ames."
+    },
+    {
+      "role": "assistant",
+      "content": "Which Casey's?"
+    },
+    {
+      "role": "user",
+      "content": "The Lincoln Way one."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know he has a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Because I can see it, and I just heard it go off, and now he's walking towards my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a shotgun or a handgun?"
+    },
+    {
+      "role": "user",
+      "content": "It's a pistol. And now he's walking back in."
+    },
+    {
+      "role": "assistant",
+      "content": "Walking back into the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the girl was screaming. I heard shots, but I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, you might not hear me for a moment."
+    },
+    {
+      "role": "user",
+      "content": "I don't want to sit here in case, you know."
+    },
+    {
+      "role": "user",
+      "content": "Should we go hide behind the building or something?"
+    },
+    {
+      "role": "user",
+      "content": "He's a black man. He's wearing a black cap. He's got a white shirt with a black vest on, and now he's running southwest."
+    },
+    {
+      "role": "assistant",
+      "content": "Southwestbound? Okay, I'm hearing you. What direction is he going?"
+    },
+    {
+      "role": "user",
+      "content": "I'm horrible with directions, okay? He's going towards Arnold Motor Supply."
+    },
+    {
+      "role": "user",
+      "content": "Is she okay? I don't know. I ran the hell away."
+    },
+    {
+      "role": "user",
+      "content": "She's bleeding."
+    },
+    {
+      "role": "user",
+      "content": "She's laying on the ground next to the kitchen."
+    },
+    {
+      "role": "user",
+      "content": "There's like a shell sitting on the table."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm putting you on hold for just a second."
+    },
+    {
+      "role": "user",
+      "content": "Lock the door. Lock it."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Jennifer."
+    },
+    {
+      "role": "assistant",
+      "content": "Jennifer, okay, thanks. My name's Michelle."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got medical coming. Can you try not to touch anything?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got an officer there. Can you talk to them?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he just pulled up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell them what you saw?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for calling in."
+    },
+    {
+      "role": "user",
+      "content": "Goodbye."
+    }
+  ]
+}

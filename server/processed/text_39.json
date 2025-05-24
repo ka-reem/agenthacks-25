@@ -1,0 +1,396 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I need some help. There was someone on my back porch, a black man."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your address?"
+    },
+    {
+      "role": "user",
+      "content": "3613 Baywood Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "3613 Baywood? Uh-huh, Greenville, North Carolina."
+    },
+    {
+      "role": "assistant",
+      "content": "And is he still out there?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in an apartment or a house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a house."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's on your back porch?"
+    },
+    {
+      "role": "user",
+      "content": "He was, yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see what he was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "It looked like a black shirt. He's a black guy."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's still out there?"
+    },
+    {
+      "role": "user",
+      "content": "I can hear him banging. He's trying to take my grill."
+    },
+    {
+      "role": "assistant",
+      "content": "Trying to take your grill?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I need to get in here, put some clothes on. I'm terrified."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how he got up there? Did he walk or did he ride?"
+    },
+    {
+      "role": "user",
+      "content": "He jumped over the fence in the backyard."
+    },
+    {
+      "role": "assistant",
+      "content": "So he jumped over your fence?"
+    },
+    {
+      "role": "user",
+      "content": "Evidently."
+    },
+    {
+      "role": "assistant",
+      "content": "What part of the house are you in?"
+    },
+    {
+      "role": "user",
+      "content": "He's on the front porch now, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Now he's on the front porch?"
+    },
+    {
+      "role": "user",
+      "content": "On the back porch."
+    },
+    {
+      "role": "assistant",
+      "content": "He's on the back porch still?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please, you need to help."
+    },
+    {
+      "role": "assistant",
+      "content": "What part of the house are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that in the back or the front of the house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a one-floor house or is it two-story?"
+    },
+    {
+      "role": "user",
+      "content": "It's two stories."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're downstairs or upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "I'm downstairs. Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you look to see where he's running to?"
+    },
+    {
+      "role": "user",
+      "content": "I can. I'm scared. I'm in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the bathroom with the door closed?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand if you want to be quiet, but I'm still here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still hear him moving around in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "In the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breaking in?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the back bedroom on the first floor. He's breaking in. I can hear him."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure that door is locked."
+    },
+    {
+      "role": "assistant",
+      "content": "We're dispatching units to your location. I'm staying on the line with you."
+    },
+    {
+      "role": "user",
+      "content": "I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay with me, okay? If you see him, say something so I know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think you might know who it is?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you live at this residence by yourself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still hear him in there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breaking things?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still on the first floor?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "The living room is in the front of the house, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got officers outside your house right now, so hold tight."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any lights on that you know of?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Be advised, the suspect is now in the living room on the first floor."
+    },
+    {
+      "role": "user",
+      "content": "I can still hear him."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear the officers outside? They might be making some noise."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still hear him moving around?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now? Still in the living room?"
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s running upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are coming inside now, okay? Just stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on the way. Do you have motion lights outside the house?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have entry from the officers. Just stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an attic space?"
+    },
+    {
+      "role": "user",
+      "content": "No, just a crawl space."
+    },
+    {
+      "role": "user",
+      "content": "He's coming downstairs now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the officers are inside with a dog. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I can hear them."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Dean."
+    },
+    {
+      "role": "assistant",
+      "content": "We have your location and the officers are inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that your alarm I heard?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay there. The officers should have contact any moment now."
+    },
+    {
+      "role": "user",
+      "content": "Can I call someone for me?"
+    },
+    {
+      "role": "assistant",
+      "content": "My dispatcher is contacting your parents and your best friend, who is also a police officer."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers will be coming to make contact with you in the bathroom. Just a moment."
+    },
+    {
+      "role": "user",
+      "content": "Can I open the door?"
+    },
+    {
+      "role": "assistant",
+      "content": "Wait just a second. Let me confirm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you can come out now and make contact with the officers."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Can I hang up now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the officers are with you now. You can hang up."
+    }
+  ]
+}

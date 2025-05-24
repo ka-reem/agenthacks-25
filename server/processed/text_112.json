@@ -1,0 +1,264 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a gun range officer that got shot in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, what's your address?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the last stop on Highway 93."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm getting medical on the line. Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mojave County with a transfer. We're at the last stop on Highway 93. A male subject's been shot in the head. Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, is this the last stop?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it is. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is. He's having convulsions."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you need to send EMS right away?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, are you applying pressure to the wound?"
+    },
+    {
+      "role": "user",
+      "content": "I can't. I have nothing to apply pressure with."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any kind of clothing or towels?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if you can get clothing or towels and bunch them up to apply pressure."
+    },
+    {
+      "role": "assistant",
+      "content": "We have EMS on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll do that."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "user",
+      "content": "Sir? The last stop, 17 miles northwest."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we need an ambulance to the last stop on North U.S. Highway 93 immediately. We have someone shot."
+    },
+    {
+      "role": "user",
+      "content": "Yes, please send an ambulance ASAP."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a call open?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry, I'm talking to the other dispatcher. We need an ambulance immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we're getting medical out there. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Take him to the restaurant. At the gun range."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting medical on the way. I'm not going to hang up with you."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have a report of an accidental shooting at the gun range. We have medical on the way."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm still here. He's still breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me where he was shot?"
+    },
+    {
+      "role": "user",
+      "content": "In the head, on the side of the head."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Roger."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's in his late 30s."
+    },
+    {
+      "role": "user",
+      "content": "I need a sheriff sent out to a shooting range for an accidental shooting. Do you have them coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. Medical and DPS and sheriffs are all on their way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "user",
+      "content": "Hey, this is Rick at the last stop. We need a helicopter. An ambulance isn't going to work."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Rick. We've got one on the way."
+    },
+    {
+      "role": "user",
+      "content": "Where is the helicopter? We need it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me get medical back on the line for you. Hold on, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Mojave County, reference the last stop, sir. They need the helicopter now."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Is he still breathing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, he is. Are you applying pressure to the wound?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am, but he's convulsing and choking on his own spit."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to lean him on his side so the spit drains out of his mouth?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am. When he bleeds through the cloth, do I put another on top?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, apply more on top but do not peel it away."
+    },
+    {
+      "role": "user",
+      "content": "Okay, you're okay, Charlie. You're okay."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry up. We've got medical on the way. We're bending his knee."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he able to speak?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's completely unconscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Just keep an eye on his breathing, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the ETA on the helicopter?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure. We have people coming by ground as well."
+    },
+    {
+      "role": "user",
+      "content": "Alright. Tell them to hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside the facility?"
+    },
+    {
+      "role": "user",
+      "content": "No, we're outside on the range."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. When he bleeds through the cloth, apply more on top. Do not peel it away."
+    },
+    {
+      "role": "user",
+      "content": "Okay. You're alright, Charlie, hang in there."
+    }
+  ]
+}

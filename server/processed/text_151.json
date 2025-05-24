@@ -1,0 +1,316 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need help."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need some help."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Mommy hurts."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know your address?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "Your arm hurts?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what happened?"
+    },
+    {
+      "role": "user",
+      "content": "Mommy got hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "How did she get hurt?"
+    },
+    {
+      "role": "user",
+      "content": "She fell down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did she fall?"
+    },
+    {
+      "role": "user",
+      "content": "Right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I talk to her?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what's going on?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am? Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give the phone back to your child?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sweetie, are you on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Seven."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is Mommy bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Right there next to the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she bleeding on her head?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What did she fall on?"
+    },
+    {
+      "role": "user",
+      "content": "Next to the dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she trip over the dog?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay on the phone with me and get Mommy a towel?"
+    },
+    {
+      "role": "user",
+      "content": "I already did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is it just you and Mommy there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she bleeding anywhere else?"
+    },
+    {
+      "role": "user",
+      "content": "On her head and somewhere else."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how old your mommy is?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you unlock the door?"
+    },
+    {
+      "role": "user",
+      "content": "I already did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just stay on the phone with me until the ambulance gets there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of dog do you have?"
+    },
+    {
+      "role": "user",
+      "content": "Apollo."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he mean?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put the dog in a room?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you put the puppy up?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she in the living room or the kitchen?"
+    },
+    {
+      "role": "user",
+      "content": "In the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell her the ambulance is coming."
+    },
+    {
+      "role": "user",
+      "content": "Ambulance is coming over."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she still have the towel on her head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see the blood on the towel?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "They're almost there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who are you talking to?"
+    },
+    {
+      "role": "user",
+      "content": "The police."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone else there?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your daddy's name?"
+    },
+    {
+      "role": "user",
+      "content": "Bob."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me until they get inside."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they coming inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    }
+  ]
+}

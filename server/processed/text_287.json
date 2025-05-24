@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. A girl came running to my house just a second ago. She said someone was going to die."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago was this?"
+    },
+    {
+      "role": "user",
+      "content": "About two minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know her?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's my neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "How did he look?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see him. She said someone was outside her house, threatening her."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she with you now?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's outside. Hold on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, hi."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the person on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Who's on foot?"
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction did they go? Do you know if it was north, south, east, or west?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't get a chance to see. I just ran."
+    },
+    {
+      "role": "assistant",
+      "content": "About how old did they look?"
+    },
+    {
+      "role": "user",
+      "content": "Young, maybe 20s, mid-20s."
+    },
+    {
+      "role": "assistant",
+      "content": "What race were they? White, Black, Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He was Black."
+    },
+    {
+      "role": "assistant",
+      "content": "About how tall and how much did he weigh?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. He had sunglasses on and braids."
+    },
+    {
+      "role": "assistant",
+      "content": "Would you describe him as thin, medium, or heavy build?"
+    },
+    {
+      "role": "user",
+      "content": "Thin, maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "You said he had sunglasses. What color were they?"
+    },
+    {
+      "role": "user",
+      "content": "Black sunglasses."
+    },
+    {
+      "role": "assistant",
+      "content": "And what color cap did he have?"
+    },
+    {
+      "role": "user",
+      "content": "A black baseball cap."
+    },
+    {
+      "role": "assistant",
+      "content": "What color shirt did he have on?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "What color pants?"
+    },
+    {
+      "role": "user",
+      "content": "Black."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't know which direction he went?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 29."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he say anything to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, when I went to get my phone, he told me not to."
+    },
+    {
+      "role": "assistant",
+      "content": "You went to get your phone and he told you not to?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was on the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you outside?"
+    },
+    {
+      "role": "user",
+      "content": "I was inside my house when he came in."
+    },
+    {
+      "role": "assistant",
+      "content": "He came into your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he came inside my house and was looking everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on for a second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of gun it was? Was it a handgun or a rifle?"
+    },
+    {
+      "role": "user",
+      "content": "It was a black pistol."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have it in his hand, or where was it?"
+    },
+    {
+      "role": "user",
+      "content": "It was in his hand. He was pointing it at me."
+    },
+    {
+      "role": "assistant",
+      "content": "And you didn't see which direction he went at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just came inside my house and was looking everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything else that you remember about him?"
+    },
+    {
+      "role": "user",
+      "content": "He had a backpack on."
+    }
+  ]
+}

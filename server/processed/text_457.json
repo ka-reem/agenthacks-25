@@ -1,0 +1,364 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have a pursuit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is this taking place?"
+    },
+    {
+      "role": "user",
+      "content": "Taking a left on Pacheco from St. Michael's."
+    },
+    {
+      "role": "user",
+      "content": "75 miles per hour."
+    },
+    {
+      "role": "user",
+      "content": "Turning right onto Siringo."
+    },
+    {
+      "role": "assistant",
+      "content": "Turning right onto Siringo from Pacheco?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Forty-four, be advised. He's turning right onto Siringo from Pacheco. Pursuit in progress."
+    },
+    {
+      "role": "user",
+      "content": "10-4, headed towards Santa Fe High School."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm if they're heading towards Santa Fe High School?"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's going to be a Honda, 2010-2012."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "A 10-hundred?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah. What's your location now?"
+    },
+    {
+      "role": "user",
+      "content": "42."
+    },
+    {
+      "role": "assistant",
+      "content": "East or westbound?"
+    },
+    {
+      "role": "user",
+      "content": "He's going toward, passing Yucca, going on Siringo."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat that?"
+    },
+    {
+      "role": "user",
+      "content": "Going towards Siringo."
+    },
+    {
+      "role": "assistant",
+      "content": "And the reason for the pursuit?"
+    },
+    {
+      "role": "user",
+      "content": "42, you cut out."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you repeat your last location?"
+    },
+    {
+      "role": "assistant",
+      "content": "What are the speeds?"
+    },
+    {
+      "role": "user",
+      "content": "He's going 40 now."
+    },
+    {
+      "role": "user",
+      "content": "40 miles per hour?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. There's a PD unit behind him."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I get the reason for the pursuit?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not too sure."
+    },
+    {
+      "role": "user",
+      "content": "Turning right on North Caminos."
+    },
+    {
+      "role": "assistant",
+      "content": "On North Caminos?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "Advise two occupants, one male, one female."
+    },
+    {
+      "role": "user",
+      "content": "Turning left on Ferrell Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Left on Ferrell Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "user",
+      "content": "Left on Caya Federal."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, left on Caya Federal."
+    },
+    {
+      "role": "user",
+      "content": "42."
+    },
+    {
+      "role": "user",
+      "content": "He's going 42, 10-4."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the reason for the pursuit?"
+    },
+    {
+      "role": "user",
+      "content": "In Santa Fe 42."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the reason for the pursuit?"
+    },
+    {
+      "role": "user",
+      "content": "He's not in contact with me right now."
+    },
+    {
+      "role": "user",
+      "content": "10-444 en route."
+    },
+    {
+      "role": "assistant",
+      "content": "Advise the commanders that they're going to need a reason for the pursuit or they're not continuing."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm trying to get it."
+    },
+    {
+      "role": "user",
+      "content": "Santa Fe 42, what's the reason for the pursuit?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Hello, General Conchieco."
+    },
+    {
+      "role": "user",
+      "content": "Santa Fe."
+    },
+    {
+      "role": "user",
+      "content": "Caya Fedros."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4."
+    },
+    {
+      "role": "assistant",
+      "content": "Santa Fe 42, what's your location?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sounds like he's out with the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "42, what's your location?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an officer out with the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Let me ask."
+    },
+    {
+      "role": "user",
+      "content": "Camino Carlos Rey and Las Casitas."
+    },
+    {
+      "role": "assistant",
+      "content": "Santa Fe 44, Camino Carlos Rey and Las Casitas."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired, shots fired."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, shots fired. We need an ambulance at that location."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who was hit?"
+    },
+    {
+      "role": "user",
+      "content": "10-442, do you know who was hit?"
+    },
+    {
+      "role": "user",
+      "content": "Going to be on Camino Carlos Rey and Las Casitas, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Las Casitas, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who was hit?"
+    },
+    {
+      "role": "user",
+      "content": "Female is not responding. Vehicle disabled."
+    },
+    {
+      "role": "assistant",
+      "content": "10-4, female not responding. Camino Carlos Rey and Las Casitas. And the vehicle is disabled."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put me on hold real quick?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm back. Do you want me to send more officers to your location?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any more information on the patient?"
+    },
+    {
+      "role": "user",
+      "content": "Not at this moment. He hasn't responded to me."
+    },
+    {
+      "role": "user",
+      "content": "I have two people en route."
+    },
+    {
+      "role": "helper",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "We also have a few more officers responding."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me exactly where on Caya Casitas?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know where the Herb Martinez Park is?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, right by Herb Martinez Park?"
+    },
+    {
+      "role": "user",
+      "content": "Right. Between Siringo and Camino Carlos Rey."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it, Caya Casitas and Las Casitas Street."
+    },
+    {
+      "role": "user",
+      "content": "Yes, Caya Casitas by Vereda de Pueblo."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I think I got it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, I appreciate it."
+    },
+    {
+      "role": "user",
+      "content": "No problem."
+    }
+  ]
+}

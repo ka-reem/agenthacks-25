@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, 5001, there's a man with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "5001, what street, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, Camden Road."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": "Uh..."
+    },
+    {
+      "role": "assistant",
+      "content": "You said there's a man with a gun? Where is he at?"
+    },
+    {
+      "role": "user",
+      "content": "He's sitting on the porch."
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like, sir? Black, white, Asian, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "White, gray beard."
+    },
+    {
+      "role": "assistant",
+      "content": "Gray beard?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What color shirt?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a white shirt with blue stripes."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's just sitting there with it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's just sitting there with it, but he has threatened."
+    },
+    {
+      "role": "assistant",
+      "content": "He threatened who?"
+    },
+    {
+      "role": "user",
+      "content": "The neighbors. They were outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have officers on the way. If anything changes, please call us right back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "5001 Camden Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Repeat the address for verification."
+    },
+    {
+      "role": "user",
+      "content": "5001 Camden Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's the phone number you are calling from?"
+    },
+    {
+      "role": "user",
+      "content": "It's, uh, geez, it's my cell phone. I don't even know my own cell phone number."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that's it."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Susan Brandon."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Susan, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "My ex-husband is sitting outside, and I think he just called 911. He's got a pellet gun, and I think he's saying..."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you already call us?"
+    },
+    {
+      "role": "user",
+      "content": "My ex-husband is calling you right now. I just wanted to let you know that he doesn't have a real gun. He's calling to say that somebody has a gun outside. He's drunk, and I think he wants to be taken away."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your ex-husband's name?"
+    },
+    {
+      "role": "user",
+      "content": "Ronald Brandon. He's been staying with me, and he's drunk."
+    },
+    {
+      "role": "assistant",
+      "content": "And he said that someone else had a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and it's him. I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a gun?"
+    },
+    {
+      "role": "user",
+      "content": "No, he has a pellet gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it loaded?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so. I'm pretty sure there are no pellets in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Why did your husband call us?"
+    },
+    {
+      "role": "user",
+      "content": "I think he wants to end his drunkenness. You know what I mean?"
+    },
+    {
+      "role": "user",
+      "content": "Oh God, here the sirens are coming. Jesus Christ. It's not a real gun. I think he wants to be taken away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So Susan, you did not call us earlier, right?"
+    },
+    {
+      "role": "user",
+      "content": "No, I did not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What race is your husband?"
+    },
+    {
+      "role": "user",
+      "content": "He's white."
+    },
+    {
+      "role": "assistant",
+      "content": "Describe him."
+    },
+    {
+      "role": "user",
+      "content": "He's got a beard. He's 48 years old. He's wearing a striped shirt and jean shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Striped shirt and shorts. Susan, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on, Susan?"
+    },
+    {
+      "role": "user",
+      "content": "They shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "They shot your husband?"
+    },
+    {
+      "role": "user",
+      "content": "Oh God."
+    },
+    {
+      "role": "assistant",
+      "content": "I think we have shots fired on Camden."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay calm. Is your husband shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me, okay? Stay in the house."
+    },
+    {
+      "role": "user",
+      "content": "Oh God."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in the house."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I'm on with 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, ma'am, we have help on the way, okay? Stay inside the house, Susan."
+    },
+    {
+      "role": "user",
+      "content": "Oh God, thank you. They shot him. There's nobody else around."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, regardless of what kind of gun he had, he must have brandished it at the officers, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I was calling to tell you it's a pellet gun."
+    },
+    {
+      "role": "user",
+      "content": "Oh God."
+    },
+    {
+      "role": "user",
+      "content": "Oh Jesus."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see your husband now?"
+    },
+    {
+      "role": "user",
+      "content": "He's lying there with blood on him."
+    },
+    {
+      "role": "assistant",
+      "content": "From his head?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think it's from his head."
+    },
+    {
+      "role": "assistant",
+      "content": "Susan, who's yelling?"
+    },
+    {
+      "role": "user",
+      "content": "The officer is yelling. I'm on with 911, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are the officers asking you to come out?"
+    },
+    {
+      "role": "user",
+      "content": "He's just telling me to move."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not move. Tell them it's a pellet gun."
+    },
+    {
+      "role": "user",
+      "content": "I called 911 to say it's a pellet gun, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who are you talking to, Susan?"
+    },
+    {
+      "role": "user",
+      "content": "I'm talking to the officer who's aiming a rifle at me."
+    },
+    {
+      "role": "user",
+      "content": "Oh God, I can't believe this is happening."
+    },
+    {
+      "role": "user",
+      "content": "I called 911 to tell them it was a pellet gun. I can't believe they shot him."
+    },
+    {
+      "role": "user",
+      "content": "I can't believe it."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want me to hang up or stay on the phone with you, Susan?"
+    },
+    {
+      "role": "user",
+      "content": "No, you don't have to."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'll let you talk to the officers."
+    },
+    {
+      "role": "user",
+      "content": "All right, bye."
+    }
+  ]
+}

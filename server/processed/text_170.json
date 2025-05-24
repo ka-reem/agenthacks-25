@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is at 711 Horseshoe Loop. Somebody has been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you calling for the police and an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are across the road from it. I don't know the exact number."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who got shot?"
+    },
+    {
+      "role": "user",
+      "content": "It's an investigator who has been staying over there. They said to call an ambulance, he\u2019s been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Who got shot, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's Joe Harris. He's been working with Ed Morrison."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. We need to get more information. She's outside yelling?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's been shot. Please call an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "We are calling for an ambulance right now. The address is 678 Horseshoe Loop?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it\u2019s right across the street. We don't have a phone inside there."
+    },
+    {
+      "role": "assistant",
+      "content": "How far is it from your house?"
+    },
+    {
+      "role": "user",
+      "content": "We can see the light on their porch, which is literally across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Could you call the Sheriff's Department directly?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, okay. I thought this was the same place."
+    },
+    {
+      "role": "assistant",
+      "content": "We're sending quite a few officers out there now."
+    },
+    {
+      "role": "user",
+      "content": "Do you know how many officers are up there? I'm talking to Joe Harris."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Joe Harris. Do you know who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "No, we don't know who shot him. Just send somebody fast with an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "We are sending everyone over there right now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If anything else happens, give us a call right back."
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want to put you in any danger. If you feel unsafe, lock your doors and windows and stay inside, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    }
+  ]
+}

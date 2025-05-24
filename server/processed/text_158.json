@@ -1,0 +1,404 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is the Angus Police. I have a bear mauling. I'm out on the trail."
+    },
+    {
+      "role": "assistant",
+      "content": "You have a young girl who was mauled by a bear and is in bad shape?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need paramedics. I just reported it to somebody else who's going to be calling 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to transfer you through to the medics, or did you already talk to them?"
+    },
+    {
+      "role": "user",
+      "content": "I have not talked to anybody yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "To access us, the easiest way is to go to the Hilltop Ski Area and go down the gas line trail to where it meets Campbell Creek."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're closest to Hilltop Ski Area?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second. Now that I've got your location, I need to transfer you through to the medics."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire paramedics, what's the location of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It is on Rovers Run Trail, and the best way to access that is by the gas line trail."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the problem? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I just came across a young girl who was mauled by a bear."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I'm going to ask you some questions about her while my partner gets help started. How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I believe she's about 15 or 16 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious? Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She is breathing heavily, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "When did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Within the last probably 15 to 20 minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, severe bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her right now?"
+    },
+    {
+      "role": "user",
+      "content": "I am, we're in close proximity to where it happened."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of injuries does she have?"
+    },
+    {
+      "role": "user",
+      "content": "It's hard to tell, it's dark, and I dropped my bike down the trail. I don't have a light."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the animal still nearby?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of. I hope it's gone away."
+    },
+    {
+      "role": "assistant",
+      "content": "How far are you from Campbell Airstrip Road?"
+    },
+    {
+      "role": "user",
+      "content": "If you came up Campbell-Airstrip Road, you would access us by the South Bivouac Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, listen, we understand. How far in are you, about a quarter mile?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're going to come in off the South Bivouac Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Our first caller gave us that information and is waiting there for us."
+    },
+    {
+      "role": "user",
+      "content": "Okay, go in the trailhead, and about 100 yards down the trail, there's a right-hand turn."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I got it. Now that I've kind of got where you are, hold on while we get the paramedics there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she have any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I would say so."
+    },
+    {
+      "role": "assistant",
+      "content": "What I want you to do is get a clean, dry cloth or towel, place it on the wound, and press it down firmly without lifting it up to look."
+    },
+    {
+      "role": "user",
+      "content": "I don't know exactly where the wound is, that's the problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her where she thinks she's hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know where you're hurt?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, listen, I have a quick question. How close are you to the Campbell Airstrip?"
+    },
+    {
+      "role": "user",
+      "content": "We are farther than the actual airstrip. They need to go farther up the road."
+    },
+    {
+      "role": "assistant",
+      "content": "How far up the road from the Campbell Airstrip?"
+    },
+    {
+      "role": "user",
+      "content": "I would say a mile and a half, two miles. There will be two obvious trailheads with big wooden signs."
+    },
+    {
+      "role": "assistant",
+      "content": "So they're marked north and south?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they want to go into South Bivouac Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "Once they get to the South Bivouac parking lot, they're going to go down the trail and look to the right for a steep dirt trail?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it leads to a footbridge that crosses the creek, then take a right onto the trail. They should have bear protection."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting the cops to come out there with us."
+    },
+    {
+      "role": "user",
+      "content": "Okay, you're doing great. Just hang in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the bear still there?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of, but it's dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of bear it was?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay awake and stay alert. Is she breathing regularly?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, heavy breathing. She's very conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear anybody out there?"
+    },
+    {
+      "role": "user",
+      "content": "No, but there's a bike race going on, so someone might pass by soon. I'll have them flag the paramedics."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's good. Let me know if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "Hey, can you stop, please? We have a bear attack. The paramedics are coming to South Bivouac Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing awesome. Just keep calm."
+    },
+    {
+      "role": "user",
+      "content": "Okay, a biker is going up to direct them down to us."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. How is she doing?"
+    },
+    {
+      "role": "user",
+      "content": "She seems to be doing okay, still conscious and able to move a bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep her still, we don't want her moving around."
+    },
+    {
+      "role": "user",
+      "content": "I had to move her a bit from the attack spot but will keep her still now."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Do you know how far up Campbell Airstrip Road the trailhead is?"
+    },
+    {
+      "role": "user",
+      "content": "About a mile and a half to two miles. If they start going uphill, they've gone past it."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got officers escorting the medics in right now."
+    },
+    {
+      "role": "user",
+      "content": "Good, that should help. We've got another biker arriving."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that another biker?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are here to help with flagging down the paramedics."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. Just keep her as still as possible."
+    },
+    {
+      "role": "user",
+      "content": "We have an EMT here now who's assessing her injuries."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. What injuries can you identify now?"
+    },
+    {
+      "role": "user",
+      "content": "A puncture wound to the face and some trauma to the inner thigh."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you keep a clean, dry cloth on the wound with pressure?"
+    },
+    {
+      "role": "user",
+      "content": "The EMT is handling it. The wounds don't seem to be bleeding too badly."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, good. Just keep her calm and still."
+    },
+    {
+      "role": "user",
+      "content": "She's doing okay, breathing more steadily now."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know if anything changes with her condition."
+    },
+    {
+      "role": "user",
+      "content": "Will do. There seems to be another wound on her back, above her left buttock."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just make sure she stays still."
+    },
+    {
+      "role": "user",
+      "content": "She's doing great. The medics should be here soon."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a great job. Can you see if the bear did any other damage?"
+    },
+    {
+      "role": "user",
+      "content": "It's hard to tell, but it looks like a puncture wound to her throat area."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to assure her that help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "She knows, she's just trying to stay calm. The medics should be here anytime now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me know when they arrive."
+    },
+    {
+      "role": "user",
+      "content": "Will do."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the medics have arrived with the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go so you can talk to them. Thank you for helping her."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, goodbye."
+    }
+  ]
+}

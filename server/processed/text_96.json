@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "911, please, fire ambulance. Uh, police."
+    },
+    {
+      "role": "assistant",
+      "content": "This is 9-1-1. What is the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is Dale Ford. Fast record 211 North 7th. I've called a burglar in my shop."
+    },
+    {
+      "role": "assistant",
+      "content": "211 North 7th?"
+    },
+    {
+      "role": "user",
+      "content": "211 North 7th. I got him gun down right now. Got a gun on him. He's here in my shop."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you there?"
+    },
+    {
+      "role": "user",
+      "content": "I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "You stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "All right. I fired a couple of shots at him, but he's here in my shop."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hit him?"
+    },
+    {
+      "role": "user",
+      "content": "He said I hit him in his arm. It's just a .22."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Dale Ford, 211 North 7th."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay on the line with me. Are you hurt in any way?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not. And he said I hit him in his arm. I'm talking to him. He's hit in the arm."
+    },
+    {
+      "role": "assistant",
+      "content": "The intruder, you shot at him and hit him in the arm?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's just a .22, so he's mostly okay. He's laying on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "I've already dispatched an ambulance. I want you to stay on the line with me in case something happens before they arrive. Okay? Is there anyone else there with him?"
+    },
+    {
+      "role": "user",
+      "content": "No. He said he was in here looking for his brother."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know where the brother is?"
+    },
+    {
+      "role": "user",
+      "content": "No. I think he's just telling stories."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so there's possibly someone else?"
+    },
+    {
+      "role": "user",
+      "content": "He mentioned his brother Charles. I got broken into a week ago and some stuff got stolen, so I've been sleeping down here."
+    },
+    {
+      "role": "assistant",
+      "content": "There is an officer on scene."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm sitting here in the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the line with me until you see the officer, but do not point the gun towards them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm laying it down. He's on me."
+    },
+    {
+      "role": "user",
+      "content": "Officer, I'm up here in this doorway. I got some new cars in the lot."
+    },
+    {
+      "role": "user",
+      "content": "He doesn't see me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can he see you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm up here in the doorway at the shop. I'm talking to the dispatcher on the line."
+    },
+    {
+      "role": "user",
+      "content": "I got the dispatcher on the line. I'm right here. I got the burglar inside here. I laid the gun on my desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you are. Let me know if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "I hit him in the arm, okay? I'm still talking to him. He's trying to run away on me."
+    },
+    {
+      "role": "user",
+      "content": "The officer's here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go. Thank you."
+    }
+  ]
+}

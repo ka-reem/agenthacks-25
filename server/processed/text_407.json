@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Kuro Tower downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "Where?"
+    },
+    {
+      "role": "user",
+      "content": "Kuro Tower downtown."
+    },
+    {
+      "role": "assistant",
+      "content": "The mall, Kuro Tower downtown?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're in Kuro Tower Mall?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "I was the one to rob the U.S. Bank and I just need to be sure to turn myself in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold just a moment."
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you in the Kuro Tower Mall?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right by Humler and Norland."
+    },
+    {
+      "role": "assistant",
+      "content": "By where?"
+    },
+    {
+      "role": "user",
+      "content": "Humler and Norland. It's like a ceramic store."
+    },
+    {
+      "role": "assistant",
+      "content": "Humler and Norland?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh. It's the unsold auction store."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're inside the Kuro Tower Mall?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you white or black?"
+    },
+    {
+      "role": "user",
+      "content": "I'm black."
+    },
+    {
+      "role": "assistant",
+      "content": "And how old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 37."
+    },
+    {
+      "role": "assistant",
+      "content": "And your height and weight?"
+    },
+    {
+      "role": "user",
+      "content": "5-11, 200."
+    },
+    {
+      "role": "assistant",
+      "content": "And what color clothing are you wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing a blue pea coat, tan pants, black shoes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on."
+    }
+  ]
+}

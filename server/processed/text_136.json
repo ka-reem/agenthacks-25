@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just shot my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's your address?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and is she still alive?"
+    },
+    {
+      "role": "user",
+      "content": "Probably not."
+    },
+    {
+      "role": "user",
+      "content": "I shot her twice."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Sir? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, wait a minute, I'm trying to remember."
+    },
+    {
+      "role": "user",
+      "content": "I think it's Christopher."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Christopher. Do you know your last name?"
+    },
+    {
+      "role": "user",
+      "content": "What's that?"
+    },
+    {
+      "role": "user",
+      "content": "Thorson. Thor. With the T."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And can you spell the whole thing for me?"
+    },
+    {
+      "role": "user",
+      "content": "T-H-O-R-S-O-N."
+    },
+    {
+      "role": "assistant",
+      "content": "And why did you shoot your wife?"
+    },
+    {
+      "role": "user",
+      "content": "I couldn't put up with it any longer. She's been really sick and she asked me to do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the weapon now?"
+    },
+    {
+      "role": "user",
+      "content": "I broke it down and put it back in the gun locker."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what was she sick with?"
+    },
+    {
+      "role": "user",
+      "content": "She has dementia really bad and she got to be a wicked person."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And where did you shoot her? What part of her body?"
+    },
+    {
+      "role": "user",
+      "content": "Well, she was on the couch and I shot her probably in the stomach area."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said twice?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I shot her twice."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what did you shoot her with? What caliber gun?"
+    },
+    {
+      "role": "user",
+      "content": "A 12-gauge shotgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said, what was your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Christopher."
+    },
+    {
+      "role": "assistant",
+      "content": "Christopher, okay. And are you inside the house still?"
+    },
+    {
+      "role": "user",
+      "content": "Well, yeah, I'm sitting on the back porch because I just wanted to do this."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to put you on hold for just one moment. Don't hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to stay on the phone with you, Christopher, until they get there, just so you have somebody to talk to, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Would you do me a favor?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's up?"
+    },
+    {
+      "role": "user",
+      "content": "Don't tell them to come up here with lights and sirens because I don't want people to know what I've done."
+    },
+    {
+      "role": "assistant",
+      "content": "He's asking for a silent approach from everybody because he doesn't want everybody to know what he's done."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and Christopher, do you spell your first name with a K or a CH?"
+    },
+    {
+      "role": "user",
+      "content": "C-H like in Charlie."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I don't want to do this anymore. Just tell me when they come. I'm not crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Take a deep breath. I'll let them know what you've requested, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. They have to come up the driveway. I'll be sitting on the back porch."
+    },
+    {
+      "role": "user",
+      "content": "I just couldn't do this anymore. We've been married for 37 years. I'm not going to hurt anyone when they come up here."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, he put it away, broke it back down, and put it in the gun case."
+    },
+    {
+      "role": "user",
+      "content": "I wanted to do this."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, and he's on the back porch waiting for them."
+    },
+    {
+      "role": "user",
+      "content": "I'm highly upset. I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. It's all right. Understandable why you're upset."
+    },
+    {
+      "role": "user",
+      "content": "I didn't want to do this because I can't see this no more. Can't see this no more."
+    },
+    {
+      "role": "user",
+      "content": "There's just a, just a boy in her head. I don't hear me. I don't know how I didn't want to do that."
+    },
+    {
+      "role": "user",
+      "content": "She was all cursing in her head and I had to do it."
+    },
+    {
+      "role": "user",
+      "content": "God, don't hurt me when you come out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Because you did shoot your wife, there are several officers coming in first. They're going to make contact with you, and they may have their guns drawn. Make sure that you don't make any sudden moves and that you're very cooperative with them. Be as open with them as you have been with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and then the medics are going to come in and confirm, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone with me until they get there, all right?"
+    },
+    {
+      "role": "user",
+      "content": "My heart is beating fast now. I should have shot myself, too."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, no. Okay, well, all I can say is try to take a deep breath and relax. I know this is a very stressful time for you right now."
+    },
+    {
+      "role": "user",
+      "content": "It's not at all what I expected."
+    },
+    {
+      "role": "user",
+      "content": "Don't hurt me, Monica. Don't hurt her. I've already hurt her now."
+    },
+    {
+      "role": "user",
+      "content": "Oh, so good."
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Terry."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I live in Mount Prospect, but I need to have somebody go to my brother-in-law's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is his address, Terry?"
+    },
+    {
+      "role": "user",
+      "content": "Hang on a second. My brother-in-law's girlfriend just ran away from the house. I don't have the address memorized, but I have it here. Hang on a second. What is it, Nancy? 531. 531 Wilshire."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 531 Wilshire. In what town is that?"
+    },
+    {
+      "role": "user",
+      "content": "That's in Arlington Heights."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on just a second, please."
+    },
+    {
+      "role": "user",
+      "content": "I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the address, we're sure it's 531 Wilshire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't show that as a valid Arlington Heights address."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hang on. I'm just flipping through my address book right now."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay."
+    },
+    {
+      "role": "user",
+      "content": "Nancy, stay there. Don't go in the house. Okay, it's 1031. I'm sorry. It's 1031 North Wiltshire Lane in Arlington Heights. And he's leaving right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, hang on just a moment, please. I just want to make sure, is it 1031 North Wiltshire Lane in Arlington Heights?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and Terry, what's going on out there?"
+    },
+    {
+      "role": "user",
+      "content": "Well, my brother-in-law's girlfriend received a call from work that my brother-in-law hasn't shown up. She went in there. My nephew, who's had drug issues, wouldn't let her in at first, but she went in there, and she said that my brother-in-law is dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 18 years old, I think, or 19."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "She said that he's pulling out of the house right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so did he get up and leave, or what are you saying? He's dead?"
+    },
+    {
+      "role": "user",
+      "content": "No, no, my nephew is in the house and we think he's the one that did it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so there's someone down in the house and a second male left the house? Do you think he killed him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on just a second. I'm getting help on the way. Hang on just a second. Stay on the phone with me, Terry. I'll be right back with you."
+    },
+    {
+      "role": "assistant",
+      "content": "Terry?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Terry, we have the police and paramedics on the way right now. So who is the person that fled the house?"
+    },
+    {
+      "role": "user",
+      "content": "That's my nephew, Matthew. He is a drug addict."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Does the lady that's there right now, can she tell us if this person is awake or if he's breathing?"
+    },
+    {
+      "role": "user",
+      "content": "You mean my brother-in-law."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, it's your brother-in-law at the house? Okay, there were two people in the house. One is your brother-in-law who has been missing from work, and the other one is your nephew, Matthew, who has drug issues. And the person who is on the phone with you right now is your brother-in-law's girlfriend?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so the girlfriend found him in the house and the nephew took off then. Is that right?"
+    },
+    {
+      "role": "user",
+      "content": "I am with 911, Nancy. They are on the way. Okay, ma'am, the nephew took off. Is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Hang on, Nancy. What is it? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, please talk to me. Hang on just a second."
+    },
+    {
+      "role": "user",
+      "content": "Yep, they're coming, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Can they tell you at all why they think he's dead? Is there an outward sign of any trauma or what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "She's on speakerphone. I don't know if you can hear it."
+    },
+    {
+      "role": "assistant",
+      "content": "No, I can't hear it, ma'am. Can you relay the information?"
+    },
+    {
+      "role": "user",
+      "content": "Nancy, can you say how you found George, please? Did you hear that, ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I didn't, ma'am. What did she say?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the basement tied to a chair."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So he was found tied to a chair in the basement?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are there any weapons? Do you see any weapons or anything?"
+    },
+    {
+      "role": "user",
+      "content": "Nancy, do you see any weapons? She's hysterical, ma'am. I can't really talk to her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Try to get that for us if you can. Can you tell how he might have been traumatized?"
+    },
+    {
+      "role": "user",
+      "content": "Nancy, can you tell how he was traumatized? She's saying he's been beheaded. Do you want to talk to her directly because I could give you her phone number?"
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, there's somebody there now, she says."
+    },
+    {
+      "role": "user",
+      "content": "She just hung up. Do you still want me to stay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Now, ma'am, what did you say? You said he was beheaded?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but there's a cop there now. I guess you might need to just talk to the cops."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so the officer is on the scene. Hang on just a second, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you said he was beheaded and then the officer arrived and she disconnected, is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is the phone number you have for her?"
+    },
+    {
+      "role": "user",
+      "content": "[provides phone number]"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is her name?"
+    },
+    {
+      "role": "user",
+      "content": "Nancy Zimmerman."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we do have officers on scene right now, Terry. I'm going to go ahead and let you go, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Thanks, Terry. Bye-bye."
+    }
+  ]
+}

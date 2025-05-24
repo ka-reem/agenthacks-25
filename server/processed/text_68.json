@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Any kind of sheriff's going to help you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, please. What is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "You've been shot? What's your location?"
+    },
+    {
+      "role": "user",
+      "content": "1040 Holly Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you say 1040 Holly Lane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's come over here and shot four people. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are injured?"
+    },
+    {
+      "role": "user",
+      "content": "Four. There's four people. Oh, my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am? Ma'am, are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is it Holly Lane or Holly Road?"
+    },
+    {
+      "role": "user",
+      "content": "1040 Holly Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending help immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, can you send somebody near 1040 Holly Lane? We received a call from a lady stating she's been shot along with four other people. She started screaming and we lost contact."
+    }
+  ]
+}

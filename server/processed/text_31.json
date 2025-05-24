@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We just got to Shiller Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Someone, what?"
+    },
+    {
+      "role": "user",
+      "content": "We just got to Shiller Park. They just beat up my nephew and stole something."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, your phone keeps cutting out. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "Shiller Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in Shiller Park?"
+    },
+    {
+      "role": "user",
+      "content": "At the pond."
+    },
+    {
+      "role": "assistant",
+      "content": "At the pond?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did someone beat up your nephew and steal something?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "They stole what?"
+    },
+    {
+      "role": "user",
+      "content": "They stole his stuff and now they're coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who are they? Do you know?"
+    },
+    {
+      "role": "user",
+      "content": "Some black people."
+    },
+    {
+      "role": "assistant",
+      "content": "What do they look like?"
+    },
+    {
+      "role": "user",
+      "content": "They're black. I just know."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry. Are they male, female?"
+    },
+    {
+      "role": "user",
+      "content": "Male."
+    },
+    {
+      "role": "assistant",
+      "content": "How many?"
+    },
+    {
+      "role": "user",
+      "content": "Like ten of them."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what clothing they're wearing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Lisa."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "At the pond. I can't hear you well."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me, okay? Does your nephew need any medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "He got hit in the head with a tackle box."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you start me a squad for Shiller Park, 0838?"
+    },
+    {
+      "role": "user",
+      "content": "Everyone get in the van now!"
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of a van are you guys in?"
+    },
+    {
+      "role": "user",
+      "content": "I have to leave because they're coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of van are you in?"
+    },
+    {
+      "role": "user",
+      "content": "A purple van."
+    },
+    {
+      "role": "assistant",
+      "content": "A purple van?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you driving to? Can you drive somewhere safe?"
+    },
+    {
+      "role": "user",
+      "content": "I lost my phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't go back and get it. Can you lock your van doors?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but I can get it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Just lock your van doors, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Just call me back."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if they had any guns or knives or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "Sorry?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do they have any other weapons on them?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, my nephew!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me. Is your nephew with you?"
+    },
+    {
+      "role": "user",
+      "content": "They hit my nephew. They beat us up and pushed."
+    },
+    {
+      "role": "assistant",
+      "content": "I know. Is your nephew with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are on their way. Just stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone. They'll be pulling up in just a second. Where's your van parked in Shiller?"
+    },
+    {
+      "role": "user",
+      "content": "Right next to the pond."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm so sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. It's going to be okay. The officers will handle it."
+    },
+    {
+      "role": "user",
+      "content": "I know. They're already here."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to get off the phone with you, alright?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

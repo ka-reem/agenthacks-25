@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "He stabbed me with something."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he leave on foot or in a vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "550 Southwest 7th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Help is on the way. I'm going to keep you on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, he would beat me with that, did it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on the way. It's only going to take a minute. Can you go out of the room?"
+    },
+    {
+      "role": "assistant",
+      "content": "You say he's wearing a gray sweatshirt?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a gray tank top, like a wife beater."
+    },
+    {
+      "role": "assistant",
+      "content": "What color pants?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He just left."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he's wearing a gray tank top. What color pants?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. Oh, God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else outside or any vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "There's a white Pontiac Grand Prix sitting outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. Help is almost there."
+    }
+  ]
+}

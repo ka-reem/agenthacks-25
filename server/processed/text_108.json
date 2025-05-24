@@ -1,0 +1,284 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an emergency. There's a shooting out on Rock Hill Road at 6th Hill Road."
+    },
+    {
+      "role": "assistant",
+      "content": "And do you need police, fire, or an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "I need police and an ambulance. There's been a shooting. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what's the address you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry, he's bleeding, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 59 going on 60."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with him now, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the other room. I've got to get to him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you get in there with him, ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "It was an accident."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's bleeding and he's shot in the head. Hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Sue. Sue. Oh, God. Sue. Oh, God. Sue, can you hear me? Oh, God. Sue, can you hear my voice?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Ma'am, it's going to take a bit of time for help to get there. Stay with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Walton County 911. Is this Sue?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Sue, you just hung up on me. I'm still here until the medics get there. I need you to tell me what's going on, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "He's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Sue, who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "We were both in here. And he was playing quick draw."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he was playing quick draw. What kind of gun?"
+    },
+    {
+      "role": "user",
+      "content": "He had a .45."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the .45 now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know where the gun is right now, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "And I have a .38."
+    },
+    {
+      "role": "assistant",
+      "content": "You have a .38? He said they were both loaded?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we were just playing. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Ma'am, I need you to tell me what your house looks like."
+    },
+    {
+      "role": "user",
+      "content": "It's gray."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a mobile home?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is it a gray, two-story, brick house or a wood house?"
+    },
+    {
+      "role": "user",
+      "content": "One story. It's a wood house."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any vehicles in the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicles are in the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "A white truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a large truck or a small truck?"
+    },
+    {
+      "role": "user",
+      "content": "A small one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Sue, it's very important. I need you to tell me where your .38 is."
+    },
+    {
+      "role": "user",
+      "content": "It's in the living room somewhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He had the .45 and you had the .38?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but you're not sure where his gun is?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "The police are here now. Can I call my daughter?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Sue, I need to speak to the police when they get there. Let me speak to one of them when they come in the house."
+    },
+    {
+      "role": "user",
+      "content": "They're in the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need to talk to them when they come in the house. I can't release the line until I speak to one of them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I need to call my daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "You can do that after I talk to the police, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I got my little dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need to talk to one of the deputies when they arrive. Let me speak to them."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else in the house, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you sure that he's passed away, ma'am? Do you think he's beyond help?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "I gotta go now."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me speak to one of the officers, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Sue? Sue?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sue? You want me to disconnect?"
+    }
+  ]
+}

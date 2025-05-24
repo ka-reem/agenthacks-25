@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, emergency please."
+    },
+    {
+      "role": "user",
+      "content": "I'm here right here at Mary. I don't even address. My baby mother, oh God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, breathe, calm down."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God, I can't believe this."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "Give me a second, please. Oh, God. 8520 North West Sheridan Circus."
+    },
+    {
+      "role": "assistant",
+      "content": "Sheridan Circle or Sherman?"
+    },
+    {
+      "role": "user",
+      "content": "Sherman Circus, please. Sherman Circus, please. Apartment, Trio, please. Oh, God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there? Do you need police or rescue?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, police. You need an ambulance. See, I'm the gun right now. Well, I have the gun and he took it up off the gun, I don't know. It's never out of the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, okay. Slow down and tell me what happened."
+    },
+    {
+      "role": "user",
+      "content": "Oh, she was on the gun and he took it off the shelf down there. You squeeze it. I mean, he gets his mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so she's been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was trying to take it by him and he was trying to take it by him. I mean, come up and forth, he kept, shot my, his mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who shot her?"
+    },
+    {
+      "role": "user",
+      "content": "I was taking a gun from him and tried to get it by him. She on the ground, please."
+    },
+    {
+      "role": "assistant",
+      "content": "From who?"
+    },
+    {
+      "role": "user",
+      "content": "From my son. He's right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he accidentally shot her?"
+    },
+    {
+      "role": "user",
+      "content": "No, I took it by him. Just accident. I never know if one was in the head and I took it. Got it from him. And fucking bow I can't believe it. Oh God. She's right here right now on the ground. Please, can you get something?"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, listen. I have a call for dispatch, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, God, I need to believe. Oh, God. Somebody called. Oh, God. Please, she's still on the gun, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, we already have a call for dispatch. I need you to tell me, how old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "My son is three years. He would be three, two months time, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Please. Where is the gun right now?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the right there. It's on the right here. Right here, no. It's the right on the couch."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Jesus Christ, God. Why me put myself in this spot? Oh, God. Oh, nothing in my life. I never got through not like this in my life."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your wife?"
+    },
+    {
+      "role": "user",
+      "content": "She's 34, 33. No, she's my baby mother. Not my wife. Baby mother, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "She's right here, now, right down. What I must do? I'm just doing nothing. I'm not sleeping like that."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I'm going to tell you what to do. Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is still breathing. Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, she's awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's awake. Yes, she's still awake. Yes, she's still breathing, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "She's awake and she's breathing. Where is she shot?"
+    },
+    {
+      "role": "user",
+      "content": "She starts right down on the back of the arm, the back. And the back on the arm, the arm, on the low back, under the arm. The back of the arm."
+    },
+    {
+      "role": "user",
+      "content": "Yes, please. What I must do? Talk to me. Please do our guardian having God help me please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting rescue on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh no, what is? I can't believe that this is not me. This is more than I need to leave her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she completely alert?"
+    },
+    {
+      "role": "user",
+      "content": "I want to see something. Move or I don't move out. What I'm going to do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she completely alert?"
+    },
+    {
+      "role": "user",
+      "content": "No. All right. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing normally?"
+    },
+    {
+      "role": "user",
+      "content": "She not breathing normally. She not, she not, not, do not. You're right here, right here, right here."
+    },
+    {
+      "role": "user",
+      "content": "Is that, who's it? Is that the police there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, police is here."
+    }
+  ]
+}

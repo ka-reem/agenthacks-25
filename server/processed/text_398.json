@@ -1,0 +1,392 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want emergency. The lake and I ride on horses out at Rocky Canyon, north of Eagle Road. Do you know where that is?"
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, sir, there's several miles there. How far up are you?"
+    },
+    {
+      "role": "user",
+      "content": "Do you know where they ride the horse? You go down Eagle Road past Stilwell?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you touched? You go out past floating feather, back beacon light, out towards Stilwell?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh. And you got it all the way out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, do you need police, fire, or paramedics?"
+    },
+    {
+      "role": "user",
+      "content": "My wife's up, up, up a horse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you're down the bottom of the canyon?"
+    },
+    {
+      "role": "user",
+      "content": "He's not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Let me get the paramedics on the line with us. Just a second."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Paramedic dispatch with the address to emergency. What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "The Heseltz. We're out on horses. Out north, Eagle Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Eagle Road and where?"
+    },
+    {
+      "role": "user",
+      "content": "You go past floating feather, and beacon light all the way out to where they ride the horses at. All the way out past Stilwell."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the exact location?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my gosh. Are you in Boise, or in Ada County?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I believe I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second. Let me see if I can get a hold of the map here. Hold on one second. You're on Eagle and past Stilwell?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. It's quarters."
+    },
+    {
+      "role": "assistant",
+      "content": "Back quarters? Yeah, all the way out where it turns to almost dirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you by Willow Creek?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. If I go north on Eagle, how far am I going?"
+    },
+    {
+      "role": "user",
+      "content": "All the way out Eagle Road. All the way up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is it on a dirt road?"
+    },
+    {
+      "role": "user",
+      "content": "Where you have come in, it probably is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, if I go to Eagle and Willow Creek, will I get there?"
+    },
+    {
+      "role": "user",
+      "content": "I believe so."
+    },
+    {
+      "role": "assistant",
+      "content": "So if I go up to Willow Creek at the end where it's dirt road, which way do I need to go from there?"
+    },
+    {
+      "role": "user",
+      "content": "You just follow Eagle Road on out."
+    },
+    {
+      "role": "assistant",
+      "content": "Onto the dirt road?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's a gate."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the gate locked?"
+    },
+    {
+      "role": "user",
+      "content": "Green gate."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it locked?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "And we just keep going through that."
+    },
+    {
+      "role": "user",
+      "content": "And you turn and go through the gate and you come all the way down. I'll try to meet you out there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the medical emergency?"
+    },
+    {
+      "role": "user",
+      "content": "She has been thrown off a horse over the edge of Rocky Canyon cliff. It's a long way down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so Rocky Canyon cliff?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How far is she down the cliff?"
+    },
+    {
+      "role": "user",
+      "content": "Probably 100 feet. She's not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he said she's not moving? How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "52."
+    },
+    {
+      "role": "assistant",
+      "content": "So she's about 100 feet down?"
+    },
+    {
+      "role": "user",
+      "content": "At least."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if she's conscious or unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea. I'm going to try to get down there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'd rather you not. I don't want to have two patients. I need to make sure that you get down safely."
+    },
+    {
+      "role": "user",
+      "content": "I might be able to."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second. Are you by any houses at all?"
+    },
+    {
+      "role": "user",
+      "content": "I could be."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any houses around you?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I can see."
+    },
+    {
+      "role": "assistant",
+      "content": "How far off Eagle Road would you say it is?"
+    },
+    {
+      "role": "user",
+      "content": "Probably three, four miles down the dirt. There's a couple of houses."
+    },
+    {
+      "role": "assistant",
+      "content": "There's houses? Cars can drive down this road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so past Willow Creek, north on Eagle onto the dirt road past a green fence. Correct?"
+    },
+    {
+      "role": "user",
+      "content": "Correct. You'll first go by a horse turn off. It's still paved. You'll go on down and then there's the green gate to your right-hand side."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second. Are you in a car or on a horse?"
+    },
+    {
+      "role": "user",
+      "content": "I have a horse. I got one horse running."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm not worried about the horses. I'm more concerned about her, okay? Are you near her or can you see her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can see her."
+    },
+    {
+      "role": "assistant",
+      "content": "You can see her. Is she moving at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, she is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you called down to her? Is she answering you?"
+    },
+    {
+      "role": "user",
+      "content": "No, she is not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So you believe she's unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "I believe so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You don't have a way without hurting yourself to get down to her, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can. I'll have to go around to the other side, but I can get down to her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, because I want to make sure we get help to you. I'm going to keep you on the phone. Have you gone past Erin Lane?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know where Erie Lane is off of Willow Creek?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "When you come up Eagle, you pass beacon lights."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "And then you come up, Willow Creek goes up to Erie Lane, up to Boise and Meridian Road."
+    },
+    {
+      "role": "user",
+      "content": "Boise Meridian Road."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to need a brush rate."
+    },
+    {
+      "role": "user",
+      "content": "I know, you're North Eagle Road. It goes all the way up into almost the airy lane and it ends and then goes into the dirt road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you see, did you go back quarters?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you go back Stilwell Road and quarters?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I do have people that are running that way now. I'm just trying to find you, okay? We're just getting a general idea. We're going to come up Eagle Road, okay? But we're just trying to get a general location where you're at, and I want to make sure I get you the right help and get you where we need to go. So I'm going to keep you on the phone with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Let me just pull this up real quick. Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Eagle. Okay, go on Eagle Road, right? Okay, I'm on Eagle Road. I'm passing quarters."
+    },
+    {
+      "role": "user",
+      "content": "Okay, keep going to go. That's Willow Creek. I'm going up Willow Creek."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How far from quarters do I need to go?"
+    }
+  ]
+}

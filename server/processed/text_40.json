@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm calling. I have a concern for a co-worker. She just called in, sounding very strange, and I asked her where she's being abducted or held hostage, and she was just like, yeah, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "I can help you. Do you need to call our line or is there someone else I should transfer you to?"
+    },
+    {
+      "role": "user",
+      "content": "She's taking her son to school."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she out in the car right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she called from the car. She says she was taking her son to school."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where she lives?"
+    },
+    {
+      "role": "user",
+      "content": "I do know where she lives."
+    },
+    {
+      "role": "assistant",
+      "content": "If she's driving, is someone with her in the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, someone is in the car with her."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know where she is at this time?"
+    },
+    {
+      "role": "user",
+      "content": "All I know is she said she was taking her son to school. I don't know her exact location."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know what kind of car she's in?"
+    },
+    {
+      "role": "user",
+      "content": "She drives a Toyota Corolla."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a newer or older model?"
+    },
+    {
+      "role": "user",
+      "content": "It's a new one."
+    },
+    {
+      "role": "assistant",
+      "content": "What does she do for work?"
+    },
+    {
+      "role": "user",
+      "content": "She's a nursing assistant."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Her last name is Elskine."
+    },
+    {
+      "role": "assistant",
+      "content": "When did you talk to her?"
+    },
+    {
+      "role": "user",
+      "content": "It wasn't even five minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she had trouble in her personal life?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's been trying to get him to move out."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is..."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "It's..."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know her address at home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I know where she lives."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she a black female?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know her date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "I believe it's in the HR files, we're checking now."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she had a situation similar to this before?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I'm aware of."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she sound hurried or just distant?"
+    },
+    {
+      "role": "user",
+      "content": "She sounded distant. I could barely hear her."
+    },
+    {
+      "role": "assistant",
+      "content": "What did she say to you on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "She just said she was taking her son to school. Nothing else."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it normal that she calls to tell you she's taking the child to school?"
+    },
+    {
+      "role": "user",
+      "content": "No, because we know she does that every morning before work."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have her home address?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's..."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the home phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but her father is not always there."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to work on this. If you hear anything, call me back. My name is at the Orlando Police Department."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

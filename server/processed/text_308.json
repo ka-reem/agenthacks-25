@@ -1,0 +1,332 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance to 101 Colony."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "The man has been stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "You need to send an ambulance right away."
+    },
+    {
+      "role": "assistant",
+      "content": "We have people en route. Who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "Sir. Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who stabbed who? Is it a man or a woman? Can you tell me where?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They're en route."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to answer my questions. Who stabbed who?"
+    },
+    {
+      "role": "user",
+      "content": "Why can't you answer my question? Please, it's been an ambulance. The man needs help."
+    },
+    {
+      "role": "assistant",
+      "content": "They are en route. You need to answer my questions. Who stabbed who?"
+    },
+    {
+      "role": "user",
+      "content": "Sherifffield, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Dispatcher 516. I'm looking for Officer Will, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one moment. Let me give you the prompt ask."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. For Colony Street, what is that for? It's a stabbing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Fairfield 911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 101 Colony Street, Fairfield."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening there?"
+    },
+    {
+      "role": "user",
+      "content": "A man just stabbed my son."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did this?"
+    },
+    {
+      "role": "user",
+      "content": "Son's neighbor."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still there?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's gone. Ran out. Call the ambulance, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your son breathing?"
+    },
+    {
+      "role": "user",
+      "content": "He's breathing, but he stabbed him. He's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person that did this?"
+    },
+    {
+      "role": "user",
+      "content": "Next door."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, don't hang up. I have more questions."
+    },
+    {
+      "role": "user",
+      "content": "The neighbor next door."
+    },
+    {
+      "role": "assistant",
+      "content": "What did they do this for?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Something about his daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Please hurry, he's bleeding here."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person that did this?"
+    },
+    {
+      "role": "user",
+      "content": "Next door."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your son?"
+    },
+    {
+      "role": "user",
+      "content": "He's right on the floor here bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the knife still in him?"
+    },
+    {
+      "role": "user",
+      "content": "Knife, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the person's name that did this?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know their name."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your son having difficulty breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he having difficulty?"
+    },
+    {
+      "role": "user",
+      "content": "Never mind all the questions, just get everybody out here."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me. People are on the way. You have to stay on the phone and tell me what's going on."
+    },
+    {
+      "role": "user",
+      "content": "He's just lying here bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the neighbor that did this?"
+    },
+    {
+      "role": "user",
+      "content": "Next door."
+    },
+    {
+      "role": "assistant",
+      "content": "What is their name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a man or a woman?"
+    },
+    {
+      "role": "user",
+      "content": "A man."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what he looks like?"
+    },
+    {
+      "role": "user",
+      "content": "He's about six foot six. White male."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the person now? In a higher number next door or a lower number next door?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We're 101."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the house next door?"
+    },
+    {
+      "role": "user",
+      "content": "White."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, nobody knows this person?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Did anybody see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just came back from dinner and this man came through the door and started stabbing my son."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the knife?"
+    },
+    {
+      "role": "user",
+      "content": "It must be next door with him."
+    },
+    {
+      "role": "assistant",
+      "content": "So the neighbor has the knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. Describe the man who did this."
+    },
+    {
+      "role": "user",
+      "content": "He's about six foot six, white male."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "59."
+    },
+    {
+      "role": "assistant",
+      "content": "Let them in. The police are here."
+    },
+    {
+      "role": "user",
+      "content": "My son is right here on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did it?"
+    },
+    {
+      "role": "user",
+      "content": "The man next door."
+    }
+  ]
+}

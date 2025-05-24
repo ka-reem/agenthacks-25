@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yeah, man, I'm up in Lex there, and, uh, we were in the road. We saw a guy jump out of a Cadillac."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he jumped out of the car, and what did he have?"
+    },
+    {
+      "role": "user",
+      "content": "He was tied up."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still see the guy?"
+    },
+    {
+      "role": "user",
+      "content": "No, the Cadillac drove off right after the wreck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is this guy now?"
+    },
+    {
+      "role": "user",
+      "content": "He's right here in Lexington at the Marathon Station."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anyone called the police before you?"
+    },
+    {
+      "role": "user",
+      "content": "No, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a white guy or a black guy?"
+    },
+    {
+      "role": "user",
+      "content": "It's a black guy, an older black guy. He just got out of the car, and he was tied up."
+    },
+    {
+      "role": "assistant",
+      "content": "And the car, did it go towards Commerce?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it got on the bypass heading towards Commerce."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did he jump out of the trunk?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. The trunk was messed up, and he jumped out of it with his hands tied."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did the vehicle go?"
+    },
+    {
+      "role": "user",
+      "content": "Towards Commerce, and the trunk wouldn't shut because he damaged it."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you meet with an officer and tell him what you saw, please?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I went back to Hallmark Mobile Park. I'm working and can't leave."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, this sounds like an emergency. Can you please meet with an officer?"
+    },
+    {
+      "role": "user",
+      "content": "All right, but I'm in the car with somebody else now."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's in the car with you now?"
+    },
+    {
+      "role": "user",
+      "content": "The guy who jumped out of the trunk. He got into a brown Oldsmobile."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know which way that car went?"
+    },
+    {
+      "role": "user",
+      "content": "Towards the police station."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the driver was white or black?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who was driving the Cadillac initially. I didn't see if the driver was white or black."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About 10 minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I went back to Hallmark Mobile Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we will send an officer out to meet you there. Can you stay there for a bit?"
+    },
+    {
+      "role": "user",
+      "content": "I'll try, but I'm working."
+    },
+    {
+      "role": "assistant",
+      "content": "We appreciate your cooperation. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Clark County 911"
+    },
+    {
+      "role": "user",
+      "content": "Hey, how you doing? I would like to report a kidnapping and carjacking. They locked me in the trunk of a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "At the Pitman's Tire Shop across from Carmike."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I know who did it. My name is Judon Brooks, J-U-D-O-N, Brooks, B-R-O-O-K-S."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me what kind of vehicle it was?"
+    },
+    {
+      "role": "user",
+      "content": "It was a 75 Chevrolet convertible cream color."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "It was right before I got to the tire shop. They put me in the trunk."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you safe now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my friends were nearby and they helped."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who the people who did it were?"
+    },
+    {
+      "role": "user",
+      "content": "I know one of them was Jamie Hood."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you at Pitman's Tire Shop now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but we're heading back there now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay there so an officer can meet you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, there's someone shooting over here on Sycamore Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "235 Sycamore, Timber Chase."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see anything?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw a guy running. He's a black guy with a white shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he wearing blue shorts as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, hurry up!"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, an officer is on the way."
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, uh, my friend is having a seizure."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure what the address is. I don't live here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you describe their condition?"
+    },
+    {
+      "role": "user",
+      "content": "She was feeding her blood. She's sitting there a little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "You think she's coming to a little bit?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's coming through a little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and how old is she?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, I think she's 20."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that her yelling in the background?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's not her. That's a different person."
+    },
+    {
+      "role": "assistant",
+      "content": "What's wrong with the other person?"
+    },
+    {
+      "role": "user",
+      "content": "The same thing that's gone through, they took some kind of drug."
+    },
+    {
+      "role": "assistant",
+      "content": "They took some kind of pill? Okay. So it's a drug overdose, possibly?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I think it's some kind of hallucinogen."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So you've got two people having problems?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he won't stop yelling. I've been trying to get him to calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "So you've got a male and a female?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can hear him. Are they both conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I think he just knows a little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she responsive?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "She's breathing, but she's non-responsive?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm going to let you go because I'm going to have to get a deputy to come there too. Anything else happens? You call me back, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I just called a few minutes ago. My friend who's had another seizure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the female?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I do have an ambulance and some deputies en route to your location. Is she still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is blood still coming out of her mouth?"
+    },
+    {
+      "role": "user",
+      "content": "Every now and then just a little bit. Just a little drop like maybe she's bitten her cheek or something?"
+    },
+    {
+      "role": "assistant",
+      "content": "She's really hot?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's burning up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'll update the ambulance that's coming in. What about the male subject? Is he still yelling?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's kind of rolling around on the floor now, yelling."
+    }
+  ]
+}

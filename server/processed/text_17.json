@@ -1,0 +1,296 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "1620 Green Place."
+    },
+    {
+      "role": "assistant",
+      "content": "1620 what?"
+    },
+    {
+      "role": "user",
+      "content": "Green Place."
+    },
+    {
+      "role": "assistant",
+      "content": "Green Place. Green like the color?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me what happened."
+    },
+    {
+      "role": "user",
+      "content": "She cut me."
+    },
+    {
+      "role": "assistant",
+      "content": "Who cut you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on."
+    },
+    {
+      "role": "user",
+      "content": "I'm downstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who cut you?"
+    },
+    {
+      "role": "user",
+      "content": "There's a girl I responded to."
+    },
+    {
+      "role": "assistant",
+      "content": "What did she cut you with?"
+    },
+    {
+      "role": "user",
+      "content": "I'm pregnant. She got me in my stomach."
+    },
+    {
+      "role": "assistant",
+      "content": "She cut you in your stomach?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm pregnant."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is the suspect's name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't remember."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "You need to stay on the phone with me, okay? I'm getting everybody to you."
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Don't hang up. Stay with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Can you grab a towel or anything you can get and put it on your wound and press?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "How far along are you?"
+    },
+    {
+      "role": "user",
+      "content": "Seven months."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you alone in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You're downstairs in the basement. Are you alone?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Michelle, don't go to sleep, okay? Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Did she have any other weapons besides a knife?"
+    },
+    {
+      "role": "user",
+      "content": "She broke a glass."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she stab you with the broken glass as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Michelle, think hard and tell me who did this. Think real hard, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she break into the house? Does she live there?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's her house."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're a renter there and she's the owner of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No. I responded to a crisis."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, everybody's headed your way, alright? Can you spell your last name for me?"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a towel on the wound?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Take a towel and put it on your wound. How many wounds do you have?"
+    },
+    {
+      "role": "user",
+      "content": "More than one."
+    },
+    {
+      "role": "assistant",
+      "content": "More than one?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Was anyone else in the house when this happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, just you and her."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you having a fight?"
+    },
+    {
+      "role": "user",
+      "content": "No, I was just trying to leave."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "26."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "1620. It's the first one in the row."
+    },
+    {
+      "role": "assistant",
+      "content": "1620 Green Place like the color?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you stay on the phone with me, alright? They're on their way. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "I heard the doorbell."
+    },
+    {
+      "role": "assistant",
+      "content": "I heard the doorbell. Is that them?"
+    },
+    {
+      "role": "user",
+      "content": "Help, help! Please!"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they in the house yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll let you go."
+    }
+  ]
+}

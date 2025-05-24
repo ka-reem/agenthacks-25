@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I need an ambulance immediately at 18 Victoria Circle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "We have a gunshot wound, accidental, in the household."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is the person who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "34."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they conscious and breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was she shot?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like the head. She's bleeding. Oh, there's a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm getting everybody out to you."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. How is she doing?"
+    },
+    {
+      "role": "user",
+      "content": "We need help."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got them all coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where's the weapon?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know right now. It wasn't in here. It was our weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, it's in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's in the house."
+    },
+    {
+      "role": "user",
+      "content": "We had a babysitter earlier, we put all the weapons away. We were putting them back out to protect ourselves, and it fired."
+    },
+    {
+      "role": "user",
+      "content": "There's no problem with the police."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you don't know where the weapon is in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, there are multiple weapons in the house, but the police need to get here."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got everybody coming. I just need to make sure, you know."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And is she still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. That's why I just want to check on you and make sure, but I do have fire and medics and everybody else on the way."
+    },
+    {
+      "role": "user",
+      "content": "No, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is it just you guys at home along with the kids?"
+    },
+    {
+      "role": "user",
+      "content": "No, we have two children in the house and the dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the dog is going to get wild right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put the dog away?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Can I put you on hold and check on her right now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on."
+    },
+    {
+      "role": "user",
+      "content": "How long?"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't know."
+    }
+  ]
+}

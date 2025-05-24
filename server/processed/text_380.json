@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is the county with a transfer. I just see the call over. He's at 1127K Parbour Court. The apartment next door has a fire."
+    },
+    {
+      "role": "assistant",
+      "content": "A structure on fire? What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "1127K Parbour Court. An apartment building, and one of the apartments is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the fire is put out?"
+    },
+    {
+      "role": "user",
+      "content": "The people that own the apartment used a fire extinguisher to put it out."
+    },
+    {
+      "role": "assistant",
+      "content": "So you don't need a fire truck out there?"
+    },
+    {
+      "role": "user",
+      "content": "No, but we weren't sure they were there. We saw smoke from the door. It was coming out of the doors and windows. They said they put it out."
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department still needs to go out, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Complex, there was a fire next door. The fire department and police came, but the guy wouldn't come out, and now he's started shooting."
+    },
+    {
+      "role": "user",
+      "content": "They are shooting at my door trying to get in."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside your apartment?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in number four, 1127 Cape Harbor Court."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm adding that to the notes for the officers. Stay inside, stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "If you need to, we can stay on the line with you until the officers get there."
+    },
+    {
+      "role": "user",
+      "content": "Someone's knocking at my door."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a peephole?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I'm scared to look. They're still shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me. Go to the back of your apartment, away from the door."
+    },
+    {
+      "role": "user",
+      "content": "I'm in a closet right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll stay on the line with you. Have you heard any updates from the officers?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're still trying to secure the area."
+    },
+    {
+      "role": "assistant",
+      "content": "I will keep you informed. Let me know if you hear anything."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. It's just me and my two cats here."
+    },
+    {
+      "role": "assistant",
+      "content": "Are your cats safe with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one is with me in the closet, the other is in the bathtub."
+    },
+    {
+      "role": "assistant",
+      "content": "They're likely just scared. Can you hear anything now?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's quiet now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay there for now."
+    },
+    {
+      "role": "user",
+      "content": "I heard a knock again. Should I open it?"
+    },
+    {
+      "role": "assistant",
+      "content": "If you feel it's safe, open it carefully. It could be the police."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll check."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, let me know as soon as you can."
+    },
+    {
+      "role": "user",
+      "content": "They said it's safe. Thank you for staying with me."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    }
+  ]
+}

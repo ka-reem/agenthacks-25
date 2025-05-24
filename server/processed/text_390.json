@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I just got back from work from Target. I'm at 338 Thompson Drive, and I found my fianc\u00e9e on the floor in the kitchen. There's blood everywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me. Stay on the phone. You said there's blood everywhere? Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not. Please help."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to take a deep breath, okay? Is she conscious right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's cold. I don't understand what's happening."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, you need to calm down, okay? We're going to get through this. How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She just turned 59 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. And you said she's not awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to touch anything, but there's blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you check if she's awake?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. When I got here, the front door was unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. I need you to answer this right now. Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "She's not breathing either?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you said the door was open?"
+    },
+    {
+      "role": "user",
+      "content": "No, it was unlocked. It's unusual for it to be unlocked."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you been through the whole house yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to leave the house. Are you sure she's not breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's not breathing. Please, God, get somebody here."
+    },
+    {
+      "role": "assistant",
+      "content": "I have them coming, okay? But if you've not searched the whole house, I need you to go back outside and wait by your car. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "What do you mean about the blood?"
+    },
+    {
+      "role": "user",
+      "content": "When I came in, I walked into the kitchen where I put my keys. I saw her on the floor. I fell over, and she's cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think she's beyond help?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Please get an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "I have them coming, okay? But I'm worried about your safety right now. You said the front door was unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's unusual."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me a second. What time did you leave the house?"
+    },
+    {
+      "role": "user",
+      "content": "Around 9:45. I left to get something to eat before going to work."
+    },
+    {
+      "role": "assistant",
+      "content": "And you found her on the floor where?"
+    },
+    {
+      "role": "user",
+      "content": "In the kitchen, close to the dining area. My God, who would do this?"
+    },
+    {
+      "role": "assistant",
+      "content": "When was the last time you spoke to her?"
+    },
+    {
+      "role": "user",
+      "content": "Right before I left. We said goodbye, she gave me a kiss, and I drove off."
+    },
+    {
+      "role": "assistant",
+      "content": "I have EMS and the fire department coming out there."
+    },
+    {
+      "role": "user",
+      "content": "She had both outside lights on; that's unusual for her."
+    },
+    {
+      "role": "assistant",
+      "content": "The lights were on when you arrived?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I thought she might have gone to sleep and forgot to lock the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you outside right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in the driveway. Please tell them to hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They are on the way. I'm not going to get off the phone with you. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Who could have done this to her?"
+    },
+    {
+      "role": "assistant",
+      "content": "Did you touch her at all?"
+    },
+    {
+      "role": "user",
+      "content": "I felt her with the back of my hand. She's cold."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think you're safe where you are right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm fine. I don't know if she fell, but there's blood. There's a towel around her ankles, and there's blood at her head."
+    },
+    {
+      "role": "user",
+      "content": "She was going to stay up until midnight to ring her grandmother's bell for the 4th of July, so I know she would have been awake."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming, okay? Stay put."
+    },
+    {
+      "role": "user",
+      "content": "The EMS team is here."
+    }
+  ]
+}

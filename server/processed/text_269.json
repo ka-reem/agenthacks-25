@@ -1,0 +1,184 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's been a gunshot at the Cobb Theater, Movie Theater at Cobb and Wesley Chapel."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me more about what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "There was a gunshot. Someone has been shot. It looks like it might have been a pistol."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the person who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, maybe late 20s."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Male."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like an older gentleman in the movie theater."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the suspect still in the theater?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on the line while I connect you to the sheriff's office."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Someone is doing chest compressions trying to find a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the patient right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are trying to help him breathe."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you check the patient's pulse?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, we are trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Where inside the movie theater are you located?"
+    },
+    {
+      "role": "user",
+      "content": "Theater 10."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, help is on the way. There should be someone waiting at the back entrance."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we will open the door for the ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me where the shooter is sitting?"
+    },
+    {
+      "role": "user",
+      "content": "He is right behind me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the shooter still holding the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me a description of the shooter? Age, clothing?"
+    },
+    {
+      "role": "user",
+      "content": "He looks like he is in his 50s, wearing a light blue shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the shooter sitting or standing?"
+    },
+    {
+      "role": "user",
+      "content": "Sitting."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he alone?"
+    },
+    {
+      "role": "user",
+      "content": "No, there is someone with him."
+    },
+    {
+      "role": "user",
+      "content": "I'm a nurse. The pulse is weak. We need the ambulance quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way. Stay on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "When the deputies arrive, point out the shooter discreetly. Can you do that?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Notify me when the deputies are inside."
+    },
+    {
+      "role": "user",
+      "content": "The pulse is very weak. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. Help is coming."
+    },
+    {
+      "role": "user",
+      "content": "I can't feel the pulse anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep trying. The paramedics will be there any moment."
+    },
+    {
+      "role": "user",
+      "content": "The deputies are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'll let you go now. Good job staying calm."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

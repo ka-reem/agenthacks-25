@@ -1,0 +1,88 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, um, I think I may have found possibly a body in a trash bag."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "And then there's a girl missing from Ohio."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, where are you? And what makes you think it's possibly her?"
+    },
+    {
+      "role": "user",
+      "content": "Um, well, I can smell something. I was doing some paperwork, turned around, and smelled it."
+    },
+    {
+      "role": "user",
+      "content": "I could see, like, you can tell there was a smell coming from the bag."
+    },
+    {
+      "role": "user",
+      "content": "The bag looked unusual, so I decided to take a closer look."
+    },
+    {
+      "role": "user",
+      "content": "There's a trash bag back there, and the only reason I checked is because it seemed out of place."
+    },
+    {
+      "role": "user",
+      "content": "So I decided to poke it a bit to see what was inside."
+    },
+    {
+      "role": "user",
+      "content": "I couldn't tell what it was at first, but then I saw a Hooters shirt. I could read 'Hooters' across the shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And is there definitely more than just clothing in there?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, yeah. At first it seemed like there might be something else, like a turtle or something."
+    },
+    {
+      "role": "user",
+      "content": "But when I saw the shirt material, I knew I should call."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the smell is really bad, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And your name is?"
+    },
+    {
+      "role": "user",
+      "content": "It's [Name]."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. We'll get a deputy right out to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    }
+  ]
+}

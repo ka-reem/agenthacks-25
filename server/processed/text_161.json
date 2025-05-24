@@ -1,0 +1,304 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I called before and they came back. I think they are trying to break in."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I don't understand. What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "They broke my back door. I'm sorry, I'm trying to calm down."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, calm down. What happened?"
+    },
+    {
+      "role": "user",
+      "content": "Someone is trying to enter my house. They already did!"
+    },
+    {
+      "role": "assistant",
+      "content": "Someone did what?"
+    },
+    {
+      "role": "user",
+      "content": "They're entering my house right now."
+    },
+    {
+      "role": "assistant",
+      "content": "There are two guys trying to break into your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe them?"
+    },
+    {
+      "role": "user",
+      "content": "They're two really young African-American guys. They're between 17 and 24 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "How are they trying to get in?"
+    },
+    {
+      "role": "user",
+      "content": "They broke my back sliding door."
+    },
+    {
+      "role": "assistant",
+      "content": "They broke the back slider?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the door in the back patio."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, please hurry up."
+    },
+    {
+      "role": "assistant",
+      "content": "Any weapons? Do you see any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm hiding in my closet."
+    },
+    {
+      "role": "assistant",
+      "content": "You're where?"
+    },
+    {
+      "role": "user",
+      "content": "In my closet."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What are they doing?"
+    },
+    {
+      "role": "user",
+      "content": "They're stealing. I think they're confused in my daughter's room."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. Let me add the dispatcher. Do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what they were wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to be quiet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know what they were wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see the other one well. One of them is wearing a black t-shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know them?"
+    },
+    {
+      "role": "user",
+      "content": "No, I've never seen them before."
+    },
+    {
+      "role": "assistant",
+      "content": "Shhh, okay. They're trying to come into your room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, oh my God, please don't kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Be quiet, be quiet, be quiet."
+    },
+    {
+      "role": "user",
+      "content": "Oh, they left. They left."
+    },
+    {
+      "role": "assistant",
+      "content": "On foot? What kind of car are they in? Do you see?"
+    },
+    {
+      "role": "user",
+      "content": "They're in my driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are they in?"
+    },
+    {
+      "role": "user",
+      "content": "A Toyota."
+    },
+    {
+      "role": "assistant",
+      "content": "What color?"
+    },
+    {
+      "role": "user",
+      "content": "What? They're leaving!"
+    },
+    {
+      "role": "assistant",
+      "content": "Are they backing out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they left."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did they go?"
+    },
+    {
+      "role": "user",
+      "content": "Right."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way? Tell me what street."
+    },
+    {
+      "role": "user",
+      "content": "They're heading towards Pinewood Cove."
+    },
+    {
+      "role": "assistant",
+      "content": "Towards what street?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, they left quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way did they leave your driveway?"
+    },
+    {
+      "role": "user",
+      "content": "To the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, to the right is what street?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line; the deputy should be near. Did the car have tinted windows?"
+    },
+    {
+      "role": "user",
+      "content": "No, they don't have tinted windows."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any tags or fancy rims on it?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the tires are like something young guys would have. They had really nice rims."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember what they were wearing now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one of them has a little bit of long hair. And was wearing a white shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "And the other?"
+    },
+    {
+      "role": "user",
+      "content": "He had long braids and a black shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Did they steal anything? Did you look around the house?"
+    },
+    {
+      "role": "user",
+      "content": "They were trying to take my daughter's things. They took the MP3 player."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't touch anything."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the deputy there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Go talk to the deputy."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye."
+    }
+  ]
+}

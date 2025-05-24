@@ -1,0 +1,240 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a guy that just tried to get out of his car."
+    },
+    {
+      "role": "assistant",
+      "content": "He got out of his car and tried to what?"
+    },
+    {
+      "role": "user",
+      "content": "He got out of his car, and he tried to get in my truck."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car is he driving?"
+    },
+    {
+      "role": "user",
+      "content": "He's driving a red Jeep. His license plate number is YRF 481-2."
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction is he heading?"
+    },
+    {
+      "role": "user",
+      "content": "He's going west on Patton Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly on Patton Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "At the light from New Leicester Highway."
+    },
+    {
+      "role": "assistant",
+      "content": "And where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Patton, just passing Sevierville Road."
+    },
+    {
+      "role": "assistant",
+      "content": "So he tried to get into your car, is that right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he tried to pull me out of the truck, and now he's right behind me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know why he tried to pull you out of the truck?"
+    },
+    {
+      "role": "user",
+      "content": "Because he cut me off, and I honked at him. When we got to the light, he jumped out and came to my truck."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Julie. Sorry, Julie Brown."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "<phone number>"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the guy?"
+    },
+    {
+      "role": "user",
+      "content": "He's big, has a goatee, dark hair with gray in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he a white male?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's a white male. There are three other people in the car with him."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a silver Ford F-150 pick-up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you sure it's a red Jeep Cherokee?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure if it's a Cherokee, but it's a red Jeep. The license plate I gave is accurate."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to drive to a police station instead of home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I don't want him following me home. Is there one nearby?"
+    },
+    {
+      "role": "assistant",
+      "content": "You can go to 970 Haywood Road, there's a substation there."
+    },
+    {
+      "role": "user",
+      "content": "I'm almost to exit 44."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still on Patton Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's Patton Avenue. It just goes straight out. I didn't get on the freeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so head to 970 Haywood Road. It's where the library and fire station are."
+    },
+    {
+      "role": "user",
+      "content": "There's a fire station in front of me. I'm heading there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. Can you pull over safely there?"
+    },
+    {
+      "role": "user",
+      "content": "He's still behind me. I'm scared to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to get to a very public place like a restaurant or store with lots of people around."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll try to get to Shoney's or McDonald's after exit 44."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line and let me know what happens."
+    },
+    {
+      "role": "user",
+      "content": "He tried to whip around someone but got stuck in traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. Can you see what he's doing now?"
+    },
+    {
+      "role": "user",
+      "content": "He's stopping in the middle of the road. He's coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "Lock your doors. Stay in the car. Officers are on their way."
+    },
+    {
+      "role": "user",
+      "content": "He's turned around and coming back."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay in your vehicle, keep the doors locked. What direction is he coming from now?"
+    },
+    {
+      "role": "user",
+      "content": "He drove past me but turned back. I think he's going away now."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay there. We've got officers in route. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I can't see him now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay calm. Do you know this guy at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know him."
+    },
+    {
+      "role": "assistant",
+      "content": "Just hang tight. Officers are almost there. Can you flag them down when they arrive?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I will. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Great, stay calm. They'll be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see the officer. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay to hang up now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    }
+  ]
+}

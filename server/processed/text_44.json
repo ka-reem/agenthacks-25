@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trapped on the backside of a forest fire. I need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know exactly. I'm in a clear cut area right near the fire."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I was walking through the woods, and suddenly the fire started circling around me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your house nearby?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's at 238 South Alice. I was walking along deer trails, trying to get away because the fire is coming fast through the grass."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 238 South Alice. Do you know if you are east, north, south, or west of your house?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got your number. I'm going to call the sheriff."
+    },
+    {
+      "role": "user",
+      "content": "I see airplanes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me. Don't hang up. You have an emergency right now."
+    },
+    {
+      "role": "user",
+      "content": "The fire was close to my house and I got lost. I'm on the deer trail now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on with me. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Michael Fritz."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Michael, is the fire on you yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am. I'm on the deer trail now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you seeing anyone or anything around you?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see the fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I see the fire, but no one is around."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear any sirens or see any vehicles?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am. Just a lot of smoke."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you wave something to signal to the planes above?"
+    },
+    {
+      "role": "user",
+      "content": "I see a plane coming close. The fire is getting closer."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. Can you see the sun or any landmarks?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am. The fire is surrounding me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you move towards a different direction away from the fire?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know which way to go. The flames are on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Try moving towards an area with less smoke. Can you do that?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying. It's so smoky."
+    },
+    {
+      "role": "assistant",
+      "content": "Describe your surroundings. Are you near any clearings or trails?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a pine thicket. I think I'm on a deer trail road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep moving. Are you heading towards the sirens?"
+    },
+    {
+      "role": "user",
+      "content": "I hear the sirens. They're to my right."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep moving towards the sirens. Do you see any vehicles yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a cop car up ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay where you are. They've got you. Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so. They got me."
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Fire emergency. My mom is in the bathroom and she can't get up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are there other people at home with you?"
+    },
+    {
+      "role": "user",
+      "content": "I have a little sister, a big sister, two big brothers, and my dad, but my dad and big brothers aren't home."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your dad at home with you?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's at work."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're home alone with your mom and your little sister?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your mom awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she threw up and then she fell and can't get up."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still talking to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you take the phone to her?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Mom, he wants to talk to you. No, she can't talk right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what exactly happened? Did she pass out?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 4."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, help is on the way. Do you know the address?"
+    },
+    {
+      "role": "user",
+      "content": "We live on Bounty Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have that. The firemen are on the way. Stay on the phone with me, okay? I'll tell you when you need to open the door for them."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Has your mom been sick the last couple of days?"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, she sometimes gets sick a lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is your little sister there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's in her high chair."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, she can't crawl but she can walk and talk."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so she's probably around 2 years old?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What is she having for dinner?"
+    },
+    {
+      "role": "user",
+      "content": "Noodles."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your mom made those for her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I'm not having noodles because I'm waiting for my toy house."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What does your dad do for work?"
+    },
+    {
+      "role": "user",
+      "content": "He works near the Jelly Bean factory."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we can ask your mom for more details when the firefighters get there."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any pets?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, two dogs. One is in my brother's room and the other is in my room."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you close the door to the rooms they're in so the firemen don't scare them?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can do that."
+    },
+    {
+      "role": "assistant",
+      "content": "Great job. Just stay on the phone with me. How's your mom doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's still awake but starting to get sleepy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the firefighters are almost there. Are you near the front door?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I can go there."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Just unlock it and stay inside until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still with me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "They're almost there. Do you still see your mom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you've done a great job. The emergency responders will be there any second now."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is someone with the transfer for police, fire, or medical."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, hello? I can't hear you clearly. Please speak up."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I need an ambulance. 241 Domerick Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you need an ambulance. Can you tell me what happened?"
+    },
+    {
+      "role": "user",
+      "content": "My son just stabbed me. He just stabbed me."
+    },
+    {
+      "role": "assistant",
+      "content": "He stabbed you? Is he still there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm transferring you to the fire department. Please stay on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Orange County Fire Rescue, this is a call transfer."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm here. What is your nearest cross street?"
+    },
+    {
+      "role": "user",
+      "content": "Horatio and Dommer Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. And what's the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, here it is. My son is psychotic. I should have taken him to the hospital, but he stabbed me with a butter knife."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your son, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He's 18."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still being violent?"
+    },
+    {
+      "role": "user",
+      "content": "I hope not, but the longer we take, the worse it might get."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have the weapon?"
+    },
+    {
+      "role": "user",
+      "content": "No, but he's looking for one."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "He's right next to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Diana May. M.A.Y."
+    },
+    {
+      "role": "assistant",
+      "content": "And your son's name?"
+    },
+    {
+      "role": "user",
+      "content": "Alex May. M.A.Y."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go lock yourself in a room? Maybe a bedroom or a bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm doing that."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any guns in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, there are no guns."
+    },
+    {
+      "role": "assistant",
+      "content": "What did he go to pick up?"
+    },
+    {
+      "role": "user",
+      "content": "Now he has one of those... I can't believe he did this. I don't know what's wrong with him."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to stay calm. Is there anything else he could use as a weapon?"
+    },
+    {
+      "role": "user",
+      "content": "He went to the bathroom. No, no, don't do it! Don't do it!"
+    }
+  ]
+}

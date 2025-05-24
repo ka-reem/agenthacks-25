@@ -1,0 +1,432 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, where is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "4,900 down the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly?"
+    },
+    {
+      "role": "user",
+      "content": "4,900 Comfrey."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there an apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's at the house."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you alone inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I love him."
+    },
+    {
+      "role": "assistant",
+      "content": "What room are you in?"
+    },
+    {
+      "role": "user",
+      "content": "In my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know if he's a white male or a black male?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you don't know what he looks like."
+    },
+    {
+      "role": "assistant",
+      "content": "How do you know he's inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "I hear him."
+    },
+    {
+      "role": "assistant",
+      "content": "You hear him. Where are your parents?"
+    },
+    {
+      "role": "user",
+      "content": "In the gas station."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I just heard somebody."
+    },
+    {
+      "role": "assistant",
+      "content": "What's all that noise in the background?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to hide."
+    },
+    {
+      "role": "assistant",
+      "content": "So were you moving furniture?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you doing?"
+    },
+    {
+      "role": "user",
+      "content": "Hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're still in your bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you hear the person talking or anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What was the person saying?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's in my parents' room."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how he got into the house?"
+    },
+    {
+      "role": "user",
+      "content": "He broke the glass."
+    },
+    {
+      "role": "assistant",
+      "content": "From which window?"
+    },
+    {
+      "role": "user",
+      "content": "In the kitchen."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go into your closet and hide in your closet?"
+    },
+    {
+      "role": "user",
+      "content": "It's two people."
+    },
+    {
+      "role": "assistant",
+      "content": "It's two people?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of voices do you hear? Do you hear two men, a man and a woman?"
+    },
+    {
+      "role": "user",
+      "content": "Two men."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what they're saying?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. They're very..."
+    },
+    {
+      "role": "user",
+      "content": "I can't hear any more."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what side of the house they're on?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "The north, the south, the east, or the west or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "North."
+    },
+    {
+      "role": "assistant",
+      "content": "If you're looking at the house, are they on the right or the left?"
+    },
+    {
+      "role": "user",
+      "content": "On your left side."
+    },
+    {
+      "role": "assistant",
+      "content": "Left side."
+    },
+    {
+      "role": "user",
+      "content": "A yellow house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He said if you're looking at the house, it's the left side."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your bedroom on the right or the left?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What did they yell?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm in my room. I'm under my bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they here yet?"
+    },
+    {
+      "role": "assistant",
+      "content": "Be quiet, okay? Talk very softly."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Hello? He's under the bed. If I'm looking at your house, what side is the bedroom? In the back?"
+    },
+    {
+      "role": "user",
+      "content": "On the left? In the front?"
+    },
+    {
+      "role": "user",
+      "content": "In the front."
+    },
+    {
+      "role": "assistant",
+      "content": "In front of the house?"
+    },
+    {
+      "role": "user",
+      "content": "They're outside."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "You're going to go through the window?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? The father said it's on the east side."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I hear them knocking."
+    },
+    {
+      "role": "assistant",
+      "content": "You hear the officers knocking on your window?"
+    },
+    {
+      "role": "assistant",
+      "content": "Go to the window."
+    },
+    {
+      "role": "user",
+      "content": "He's going to the window."
+    },
+    {
+      "role": "assistant",
+      "content": "You see them?"
+    },
+    {
+      "role": "assistant",
+      "content": "You see the officers?"
+    },
+    {
+      "role": "user",
+      "content": "Can I come out now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, come out from underneath your bed and go to the officers at your bedroom window."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see them?"
+    },
+    {
+      "role": "user",
+      "content": "I'm coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you see the officers?"
+    },
+    {
+      "role": "user",
+      "content": "Come to the next window."
+    },
+    {
+      "role": "user",
+      "content": "He said tell them to go to the next window."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see them now?"
+    },
+    {
+      "role": "user",
+      "content": "Not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you say?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to go. He's in my sister's room."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's in your sister's room? The guy in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, the officer."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's at the back window."
+    },
+    {
+      "role": "assistant",
+      "content": "Next window."
+    },
+    {
+      "role": "user",
+      "content": "The officer is in his sister's room."
+    },
+    {
+      "role": "user",
+      "content": "They have to come over more."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, go to the officer at the window."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the officer now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he's with the officer."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you alright?"
+    },
+    {
+      "role": "user",
+      "content": "I'm alright."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi."
+    },
+    {
+      "role": "assistant",
+      "content": "This is a 911 emergency operator on Molokai."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "I'm in a white Honda, and my car doesn't want to turn off."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your brakes?"
+    },
+    {
+      "role": "user",
+      "content": "The car doesn't want to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't turn off your car. Can you put it in neutral?"
+    },
+    {
+      "role": "user",
+      "content": "It can't come out of gear."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you can't put it in neutral?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm heading towards town. Just passed the rubbish dump."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, a white Honda heading towards town past the rubbish dump."
+    },
+    {
+      "role": "user",
+      "content": "I'm losing control."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, who am I talking to?"
+    },
+    {
+      "role": "user",
+      "content": "Gage."
+    },
+    {
+      "role": "assistant",
+      "content": "Gage, is there any way you can turn off the car or put it in neutral? Is it automatic?"
+    },
+    {
+      "role": "user",
+      "content": "It's standard. I can't kick it into neutral."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you push in your clutch?"
+    },
+    {
+      "role": "user",
+      "content": "I can, but my gear is stuck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, push in your clutch. You should be able to slow down."
+    },
+    {
+      "role": "user",
+      "content": "It's not slowing down."
+    },
+    {
+      "role": "assistant",
+      "content": "You've got your clutch in and your brake on, and it's still not slowing down?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's still not slowing down."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I just saw a cop. I'm losing control. My car is swerving."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep trying to put it in neutral. They're coming your way."
+    },
+    {
+      "role": "user",
+      "content": "I can't stop. I'm going to crash."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you tried your parking brake?"
+    },
+    {
+      "role": "user",
+      "content": "It's not working. I can't stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Your brakes are on, but the car still isn't stopping?"
+    },
+    {
+      "role": "user",
+      "content": "No, it won't stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Hello? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay?"
+    }
+  ]
+}

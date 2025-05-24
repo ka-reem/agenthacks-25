@@ -1,0 +1,128 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, good afternoon. I live on New York Ave in Somerset. My husband just came home and when he opened the door, it smelled like gas outside, like in the streets."
+    },
+    {
+      "role": "assistant",
+      "content": "Like a natural gas smell?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's right. We didn't know who to call to report this, but you can smell it outside. It\u2019s not in the house yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Alrighty. What's the address again?"
+    },
+    {
+      "role": "user",
+      "content": "New York Avenue, 830."
+    },
+    {
+      "role": "assistant",
+      "content": "We will get the gas company to your home and have someone check it out."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Control, I can definitely smell natural gas in the area before I even get out of my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Really? Is it a very strong odor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, very strong. Call the gas company immediately and have them respond."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we\u2019ll send somebody out. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    },
+    {
+      "role": "user",
+      "content": "There's a very strong natural gas smell. We should have one of these cruisers or fire trucks check it out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we\u2019ll send somebody out immediately. New England gas emergency has been notified."
+    },
+    {
+      "role": "assistant",
+      "content": "Engine 6 to control. We can hear it."
+    },
+    {
+      "role": "user",
+      "content": "New England gas emergency, how can I help you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, we've got a confirmed leak from the fire department."
+    },
+    {
+      "role": "user",
+      "content": "Is it a confirmed leak from the fire department? We will respond to that."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it\u2019s confirmed, and they can hear it hissing. We're sending someone right over."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    },
+    {
+      "role": "user",
+      "content": "Yes, I live at the intersection of Ronsville."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a noticeable natural gas smell. The fire department is on scene on New York Avenue."
+    },
+    {
+      "role": "user",
+      "content": "No, I live on Cliff. Should I be concerned?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll send the fire department up to your location to check it out. It\u2019s better to be safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. I didn\u2019t want to dial 911, but I think most of my neighbors have natural gas, and I just stepped out the front door and it\u2019s really obvious."
+    },
+    {
+      "role": "assistant",
+      "content": "We\u2019ll send someone right now. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Thanks a lot."
+    }
+  ]
+}

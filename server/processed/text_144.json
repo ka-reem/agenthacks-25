@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "He's breaking into my house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me. Who is it?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who he is!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you believe someone's breaking into your house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes! He's breaking in now, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give me your address?"
+    },
+    {
+      "role": "user",
+      "content": "4980 West 118th Court."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. And you don't know this person?"
+    },
+    {
+      "role": "user",
+      "content": "No, hurry! He's getting in!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry, please!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm here with you. I need to get more information. Where are you in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the second floor."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on the second floor, okay. Is this a house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, hurry, please!"
+    },
+    {
+      "role": "assistant",
+      "content": "We're dispatching officers right now. Just stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's in my garage, please, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you lock the door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's coming through right now. He's coming in!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hide somewhere and stay very quiet."
+    },
+    {
+      "role": "user",
+      "content": "He's looking for me. Are they here?"
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers in the area, they should be there any moment."
+    },
+    {
+      "role": "user",
+      "content": "He's in the house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me and stay as quiet as possible."
+    },
+    {
+      "role": "user",
+      "content": "He's coming in!"
+    },
+    {
+      "role": "assistant",
+      "content": "Does he know you're in there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay quiet, the officers are almost there."
+    },
+    {
+      "role": "user",
+      "content": "What do you want?! I'll give you whatever you want!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm and quiet, ma'am. Help is almost there."
+    },
+    {
+      "role": "user",
+      "content": "He's asking for money."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Stay quiet. The officers are arriving."
+    },
+    {
+      "role": "user",
+      "content": "He's in my house. My daughter's outside."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll find your daughter. Stay hidden and quiet."
+    },
+    {
+      "role": "user",
+      "content": "I can't find my daughter. She's only 11."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll search for her. The officers are there. Stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "He's fighting them!"
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are trained to handle this. They are taking care of it."
+    },
+    {
+      "role": "user",
+      "content": "Is he out of my house?"
+    },
+    {
+      "role": "assistant",
+      "content": "The officers will let you know. You're doing great."
+    },
+    {
+      "role": "user",
+      "content": "I can't find my daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers will help you find her. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Are they talking to you now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. You're safe now. You can hang up the phone."
+    },
+    {
+      "role": "user",
+      "content": "I need to call my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead. You're safe now. Goodbye."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We were just sitting talking, my wife yelled Bob, and then she fell on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's... Oh, quick, I don't think she's breathing."
+    },
+    {
+      "role": "user",
+      "content": "I fed your information. What's the problem? Tell me exactly what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She said, 'Bob,' and then she fell on the floor. I don't know what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with her right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "64. Oh, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you check?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but she's limp."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I understand. We're sending someone to help you now. I just need to get a little more information, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing normally?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I can't tell that. I mean, she's warm and I can feel breath coming out of her mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she have a history of heart problems?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still unconscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sending paramedics to help you now. Stay on the line. I'll tell you exactly what to do next, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you right by her now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, no, well, not right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to get right by her."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Now listen carefully. I need you to lay her flat on her back and remove any pillows, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Let me get this table out of the way."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God, almighty. Hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on their way. You're doing fine. She hit her nose and she's bleeding. She hit her nose on the corner of the table."
+    },
+    {
+      "role": "assistant",
+      "content": "Kneel next to her and look in her mouth for food or vomit."
+    },
+    {
+      "role": "user",
+      "content": "No, there's no food."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, nothing in her mouth. I want you to place your hand on her forehead, your other hand under her neck, and tilt her head back."
+    },
+    {
+      "role": "user",
+      "content": "Well, she's laying flat now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I still need you to do this for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "One hand on her forehead, the other hand under her neck and tilt her head back."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your ear next to her mouth and tell me if you can feel or hear any breathing."
+    },
+    {
+      "role": "user",
+      "content": "Okay, hang on."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "No, I can't."
+    },
+    {
+      "role": "user",
+      "content": "Oh, wait a minute, there she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Can you put the phone down there so I can hear?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "Oh, you can't hear crisp. She just sort of took a breath there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Listen carefully. I'm going to tell you how to do chest compressions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure she's flat on her back on the ground."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Place the heel of your hand on the breastbone in the center of her chest right between the nipples, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Put your other hand on top of that hand."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to push down firmly two inches with only the heel of your lower hand touching the chest. Now listen carefully. I need you to pump the chest hard and fast at least twice per second."
+    },
+    {
+      "role": "user",
+      "content": "There she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Just keep doing it. She's not breathing normally, right?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep doing this. I need you to pump the chest hard and fast at least twice per second. You need to do this 400 times. That's only three and a half minutes. It's not as long as it sounds. Okay?"
+    },
+    {
+      "role": "user",
+      "content": "The fire department is en route to you now and the ambulance."
+    },
+    {
+      "role": "user",
+      "content": "I can unlock the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I need you to keep doing this. You need to let the chest come all the way up between pumps. Tell me as soon as you're done. I'm going to stay on the line with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. And you need to do this fast. One, two, three, four, five."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay? Can you count out loud for me?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. One, two, three, four, five, six, seven, eight, nine, ten, eleven."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing good."
+    },
+    {
+      "role": "user",
+      "content": "There she is. She just took a breath in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's still not breathing normally."
+    },
+    {
+      "role": "user",
+      "content": "No, no."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going."
+    },
+    {
+      "role": "user",
+      "content": "I'm going."
+    },
+    {
+      "role": "user",
+      "content": "Oh, what the hell? They're on their way. The fire department is also on the way to you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she just took another breath in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's still not breathing normally. She's not breathing as often as she should."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's another breath in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep doing chest compressions."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh, there she took a big, deep breath. Come on, baby, wake up. Wake up."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing good. Hang in there for her, okay? You need to hang in there for her."
+    },
+    {
+      "role": "user",
+      "content": "Yeah. She should take her deep breath that time."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going."
+    },
+    {
+      "role": "user",
+      "content": "Oh, come on. Oh, there's a big one. Yes, come on. Come on, there's a big one. Sounds like there's something, you know, like there's flam in her throat. We were just sitting having her key."
+    },
+    {
+      "role": "user",
+      "content": "Oh, there's a nice big one. Come on, baby. Come on, come on. Keep them coming."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's that ambulance? They should be there very shortly."
+    },
+    {
+      "role": "user",
+      "content": "I believe they're actually, is that what it is? I can't hear the sirens."
+    },
+    {
+      "role": "user",
+      "content": "I think they're outside. If you hear them knocking, go and lock the door. But don't stop until you hear them."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah. You're doing good. That's a good breath, babe. Come on. Come on. Keep it coming. Come on, sweetheart."
+    },
+    {
+      "role": "user",
+      "content": "I can't hear him knocking with the phone in. I got one bad ear."
+    },
+    {
+      "role": "user",
+      "content": "Oh, that's a good breath, baby. Come on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how far away is the door?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, 30 feet. There they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'll let you go and go answer the door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you, sir."
+    }
+  ]
+}

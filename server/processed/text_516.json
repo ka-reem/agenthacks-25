@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I apologize for this because I just called your number and it says that the desk is closed so to reach a police officer, I had to call 911."
+    },
+    {
+      "role": "assistant",
+      "content": "That's right, how may I help you?"
+    },
+    {
+      "role": "user",
+      "content": "I would like for a police officer to give me a call."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what are you reporting?"
+    },
+    {
+      "role": "user",
+      "content": "I just have some concerns about somebody that I know in this area, it doesn't feel right to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and is this, are you seeing this from around your house?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I had a person that I met this summer that all of a sudden has showed up on my doorstep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your home address so I can make sure we're in the right area and then I'll have an officer call you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you being harassed?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not being harassed. No, there are just some concerns I have because he's got somebody with him and I'm not feeling comfortable about the whole situation."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he there now?"
+    },
+    {
+      "role": "user",
+      "content": "No. That's why I want to talk to an officer about this, so maybe they can help."
+    },
+    {
+      "role": "assistant",
+      "content": "So, okay, I need to know what he's doing that's making you feel uneasy."
+    },
+    {
+      "role": "user",
+      "content": "He's got a young girl with him. He is 28 and she's like 15."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Gotcha."
+    },
+    {
+      "role": "assistant",
+      "content": "And what is your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you prefer contact on your cell or at home?"
+    },
+    {
+      "role": "user",
+      "content": "The cell number."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll have an officer call you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You bet. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was given this number by Deputy Stacey."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And will you get to him and what is this about?"
+    },
+    {
+      "role": "user",
+      "content": "He'll know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a case number or anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just got done talking to him like five minutes ago."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired! We have an officer down! Shots fired at Walmart and Port Orchard. Officer down. Officers need help at Walmart. We have two officers down and the suspect shot. We need backup now."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Officers down. Backup is being dispatched. Is the scene secure for aid?"
+    },
+    {
+      "role": "user",
+      "content": "Affirmative."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, secure for aid."
+    }
+  ]
+}

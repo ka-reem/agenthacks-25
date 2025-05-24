@@ -1,0 +1,488 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Everyone hates emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, can you please send rescue?"
+    },
+    {
+      "role": "user",
+      "content": "I think I'm having an overdose; me and my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you and your wife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Overdose of what?"
+    },
+    {
+      "role": "user",
+      "content": "Marijuana, but I don't know if it had something in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you please send rescue?"
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you? I'm 28, 29 years old and my wife is 26. Please come."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you guys been drinking also?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Have you guys been drinking today, too?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's it. No. And is there any weapons in the house?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, please come."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're on our way. Do you guys have a fever or anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm just, I think we're dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how much did you guys have?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We made brownies. And I think we're dead. I really do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how much did you put in the brownies?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Was it a lot?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who made the brownies?"
+    },
+    {
+      "role": "user",
+      "content": "My wife and I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, get her."
+    },
+    {
+      "role": "user",
+      "content": "She's on the living room ground right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "She's barely breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you look?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you look?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I could feel her. She's laying right down in front of me. Time is going by really, really, really, really slow."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, I'm on the phone with you. Do you know how much of it you bought and put in the brownies?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "How much did you buy?"
+    },
+    {
+      "role": "user",
+      "content": "I don't, just please send rescue."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, but I'm trying to figure out how much you bought and put into the brownies, sir."
+    },
+    {
+      "role": "user",
+      "content": "Probably like a quarter ounce total."
+    },
+    {
+      "role": "assistant",
+      "content": "A quarter ounce total into the brownies? Did you guys eat all the brownies?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we did."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you ate all of them? How many? Was it a big batch, a little batch?"
+    },
+    {
+      "role": "user",
+      "content": "It was a quarter ounce."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but brownie-wise, how many pieces do you guys think you had?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I probably had, like, a small chunk. Please come. What time is it?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's 9:37. When did you guys last eat the brownies?"
+    },
+    {
+      "role": "user",
+      "content": "Probably like an hour and a half ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is your wife still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she is. She's kneeling down in front of me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and is she Stacey Sanchez?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Edward."
+    },
+    {
+      "role": "assistant",
+      "content": "Your Edward Sanchez?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And did you guys have any other sort of drugs you know of?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Did you guys do anything else today besides marijuana?"
+    },
+    {
+      "role": "user",
+      "content": "No, that's it. But I don't know what was in it. The marijuana could have had something in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you guys on any sort of prescription pills? Do you take any other medications?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. My wife takes Vicodin, though."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she take any today?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where's the Vicodin?"
+    },
+    {
+      "role": "user",
+      "content": "The Vicodin is in our medicine cabinet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does she take it on a regular basis?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How many does she take on a regular basis?"
+    },
+    {
+      "role": "user",
+      "content": "Like, I don't know, five a day. Please come."
+    },
+    {
+      "role": "assistant",
+      "content": "She takes about five a day?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "They are on the way. It's 9:38."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How many does she take a day?"
+    },
+    {
+      "role": "user",
+      "content": "She takes like five a day."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any animals in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Is there any what?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any dogs? I'll put them away for you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the front door open?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, the front door's open. Come here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the porch light on?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is the porch light on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the porch light is on."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any weapons in the house?"
+    },
+    {
+      "role": "user",
+      "content": "You already asked me that."
+    },
+    {
+      "role": "assistant",
+      "content": "And what did you say?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the weapon?"
+    },
+    {
+      "role": "user",
+      "content": "It's in my closet."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that in the back bedroom?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, in the front bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "What's the FDA at right now?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you guys do this on a regular basis?"
+    },
+    {
+      "role": "user",
+      "content": "No, this is the first time we've ever done it."
+    },
+    {
+      "role": "assistant",
+      "content": "And you've never done marijuana before?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I have."
+    },
+    {
+      "role": "assistant",
+      "content": "And you've never had this reaction to it before?"
+    },
+    {
+      "role": "user",
+      "content": "No, never."
+    },
+    {
+      "role": "user",
+      "content": "What's this score in the Red Wings game?"
+    },
+    {
+      "role": "assistant",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "What's the score in the Red Wings game?"
+    },
+    {
+      "role": "assistant",
+      "content": "I have no clue. I don't watch the Red Wings."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I just want to make sure this isn't some type of, like, hallucination that I'm having."
+    },
+    {
+      "role": "assistant",
+      "content": "Why? What's the score say?"
+    },
+    {
+      "role": "user",
+      "content": "Three to three."
+    },
+    {
+      "role": "assistant",
+      "content": "What channel is it on?"
+    },
+    {
+      "role": "user",
+      "content": "Channel two."
+    },
+    {
+      "role": "assistant",
+      "content": "It's two to two."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Your police, tell your officers, they just passed me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they just passed you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go outside and flag them down."
+    },
+    {
+      "role": "user",
+      "content": "Okay, my mother-in-law just got here, too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alrighty."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

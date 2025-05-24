@@ -1,0 +1,44 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm the instructor at the front of a class. I've got three down. I'm not sure if they're all dead, but I'm pretty sure."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "I had a student that had withdrawn from the program. She came to me earlier looking for help. I sent her to get her transcripts, then she went to someone else's office, and then she came back to my office."
+    },
+    {
+      "role": "user",
+      "content": "I asked her to take a seat for a minute until I could finish the tests, and then she just started shooting. I hit the ground, and when I turned around, everyone else hit the ground with me. When I got up, she was reloading the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Was she a black or white female?"
+    },
+    {
+      "role": "user",
+      "content": "Black, heavyset, real curly hair. She shot two other people and then shot herself."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what room were you in?"
+    },
+    {
+      "role": "user",
+      "content": "It's the EMT class, room 283."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on the line. Help is on the way."
+    }
+  ]
+}

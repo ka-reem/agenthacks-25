@@ -1,0 +1,160 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. I just saw somebody run into the Compass Bank on Thomas and 34th Avenue with a mask on."
+    },
+    {
+      "role": "assistant",
+      "content": "34th? We don't know if he's robbing it or not, but we're sitting across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to get somebody started. What kind of vehicle did they come in?"
+    },
+    {
+      "role": "user",
+      "content": "Looks like a white, four-door, Scion, or Mitsubishi."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said 34th Avenue and Thomas?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it's Compass Bank."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I don't see anything happening. We could be wrong; we just saw him running in with a mask on. We don't know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "So he jumped out of a white, what kind of vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like a four-door, late model, maybe 2007 or 2008."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get a plate number?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's across the street and I'm at a burger shop."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it a male or female? Could you tell?"
+    },
+    {
+      "role": "user",
+      "content": "They had a mask on."
+    },
+    {
+      "role": "assistant",
+      "content": "What were they wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Gray sweatshirt and gray beanie."
+    },
+    {
+      "role": "user",
+      "content": "Look, the cars are leaving."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it that silver car?"
+    },
+    {
+      "role": "user",
+      "content": "No, that was a lady who got in that one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so the person wearing the gray sweatshirt and gray beanie, did the beanie cover their face?"
+    },
+    {
+      "role": "user",
+      "content": "Hang on a second. It looked like a gray bandana around his mouth and over his eyes."
+    },
+    {
+      "role": "assistant",
+      "content": "So not a mask?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know for sure. There's a guy waiting in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "So there's another person in the white car?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's a person waiting. The police are pulling right behind him right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's somebody in the white car, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's got a white beanie hat on. I think he's a concerned citizen."
+    },
+    {
+      "role": "assistant",
+      "content": "Would you like to speak to the officers when they come out?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't need to, but you can call me if needed. They're behind the correct car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so the officers are watching?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're already here."
+    },
+    {
+      "role": "user",
+      "content": "Oh God, he's got a gun and they're shooting! They're shooting!"
+    },
+    {
+      "role": "assistant",
+      "content": "So there's shooting now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one guy is down. I'm an eyewitness to this whole situation."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Was there only one person?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see a second person. He ran to the back of the car and put something in the back seat before getting in."
+    },
+    {
+      "role": "assistant",
+      "content": "You did not see a second person enter?"
+    },
+    {
+      "role": "user",
+      "content": "No, it looked like there might have been, but it was probably just the visor."
+    }
+  ]
+}

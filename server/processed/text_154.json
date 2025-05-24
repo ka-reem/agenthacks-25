@@ -1,0 +1,112 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, Reza, 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me your name and the location of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Amber, 150 North Preston."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 150 North Preston. What's the problem?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I had a baby. They were sleeping. She was choking on her vomit, and I don't know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "No, me and my daughter are here. I'm trying to help, but I really don't know what I'm doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can give you instructions. What I need you to do is lay her on her back."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put one hand underneath her back and tilt her head slightly back to open the airway."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing softly?"
+    },
+    {
+      "role": "user",
+      "content": "I can hear her heart, but I'm not sure if she's breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Check if she has a pulse."
+    },
+    {
+      "role": "user",
+      "content": "Yes, she has a pulse, but she's not waking up."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to calm down and tell me if she's breathing."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. All the vomit is out of her mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to roll her onto her side and tap her back gently to make sure the airway is clear."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Now put your mouth over her nose and mouth, give her two breaths, and make sure her chest rises."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it did. Her chest rose."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing on her own now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, the officer should be on the scene soon. Do you hear them?"
+    },
+    {
+      "role": "user",
+      "content": "I hear him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you go now. You're doing great."
+    }
+  ]
+}

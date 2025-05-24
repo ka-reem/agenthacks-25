@@ -1,0 +1,84 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm up here at McDonald's, and I had ordered like seven burgers."
+    },
+    {
+      "role": "user",
+      "content": "I went to my vehicle, and when I came back, they took a burger from me."
+    },
+    {
+      "role": "user",
+      "content": "I'm calling about McDonald's, right? They gave me six burgers instead."
+    },
+    {
+      "role": "user",
+      "content": "They want to talk junk, and they're sitting there at McDonald's."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, which McDonald's are you at?"
+    },
+    {
+      "role": "user",
+      "content": "The one on Overthorpe."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a callback number?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Which McDonald's, sir, are you located at?"
+    },
+    {
+      "role": "user",
+      "content": "On Overthorpe, near the Liberty Expressway."
+    },
+    {
+      "role": "assistant",
+      "content": "East Oglethorpe near the Liberty Expressway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the one near the Liberty Expressway."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, will you be standing behind your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'll be outside."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a black Dodge Ram."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll get somebody out there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody from the Capital One bank called saying there's a bag in the bank, and she said, 'I gotta go, I gotta go,' and hung up the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "We\u2019re receiving another call. They believe a robbery is in progress. Can you confirm?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there\u2019s a robbery in progress. The subject is in the back of the bank."
+    },
+    {
+      "role": "assistant",
+      "content": "How many robbers are there? Can you describe them?"
+    },
+    {
+      "role": "user",
+      "content": "He has a hostage. The robber has a black handgun and is behind the tellers."
+    },
+    {
+      "role": "assistant",
+      "content": "We have units on the way, and SWAT is being dispatched. Can you describe the robber\u2019s appearance?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a gray hooded sweatshirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any other suspects or exits we need to be aware of?"
+    },
+    {
+      "role": "user",
+      "content": "The robber said there are three other suspects outside and he has some type of bomb on the counter."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm. We\u2019re setting up a staging area and securing the perimeter. Can you keep an eye on the exits and let us know if you see any more suspects?"
+    },
+    {
+      "role": "user",
+      "content": "I see a black SUV with tinted windows parked outside."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers checking the parking lot. Is the SUV occupied?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell from where I am. The SUV windows are too dark."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We have units moving in. The situation is being handled. Try to stay in a safe spot."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I\u2019ll stay where I am."
+    },
+    {
+      "role": "assistant",
+      "content": "We\u2019ve got a hostage on the move with the suspect in sight. Keep your head down."
+    },
+    {
+      "role": "user",
+      "content": "Smoke just went off inside the bank."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay clear of the building. Shots fired, suspect is down. Do we have any more suspects?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think the other suspects might have been a bluff. The robber wanted us to think there were more."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. We\u2019re securing the area. Are there any more hostages inside?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have five of the six employees with me. The last one is outside now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we\u2019re clearing the building. We'll keep you updated."
+    }
+  ]
+}

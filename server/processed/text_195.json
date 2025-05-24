@@ -1,0 +1,316 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "1675 Airport Road. I've been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "1675 Airport Road?"
+    },
+    {
+      "role": "user",
+      "content": "Kennesaw, Georgia."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who shot you, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. There was a gunman. He's got a shotgun. I've been shot."
+    },
+    {
+      "role": "user",
+      "content": "I've been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line with me. Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Please tell my wife I love her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Principal Fier's Parkman. I'm losing energy. It's really fast."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a business that you're in?"
+    },
+    {
+      "role": "user",
+      "content": "Hello? FedEx."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me, okay? Don't hang up."
+    },
+    {
+      "role": "user",
+      "content": "I've been shot. I've been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen. Can I speak to someone else?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, unknown gunman."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, what is he wearing, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I got out of there. Carlson was shot. My security, I heard."
+    },
+    {
+      "role": "assistant",
+      "content": "Put more pressure."
+    },
+    {
+      "role": "assistant",
+      "content": "Where have you been shot, sir?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where have you been shot, sir?"
+    },
+    {
+      "role": "user",
+      "content": "In the lower side of my abdomen above my waist."
+    },
+    {
+      "role": "user",
+      "content": "Please, sorry, please, God, hurry. I do not want to die."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. They're on their way to you. Just stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "user",
+      "content": "What do you tell him?"
+    },
+    {
+      "role": "user",
+      "content": "Can you press her? Yes, you are. I got you."
+    },
+    {
+      "role": "user",
+      "content": "Don't help me."
+    },
+    {
+      "role": "assistant",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "He needs to come to the second driveway at the main cargo."
+    },
+    {
+      "role": "assistant",
+      "content": "You're all right?"
+    },
+    {
+      "role": "user",
+      "content": "He's so pale. Sorry. He's so pale."
+    },
+    {
+      "role": "user",
+      "content": "In the abdomen, in the abdomen."
+    },
+    {
+      "role": "assistant",
+      "content": "You still there with me?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Hold on now."
+    },
+    {
+      "role": "user",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's an officer pulling up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm going to be all right."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming. Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's an officer pulling up. Can you go outside?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I'm on the line with you on 911. I'm trying to be next to him though. He's very pale."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. They're on their way. Like I said, one of them's outside already. Can one of y'all go?"
+    },
+    {
+      "role": "user",
+      "content": "There is. Oh, hey. He doesn't know who it is."
+    },
+    {
+      "role": "user",
+      "content": "Hey, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I know. I know it's safe."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he black or white?"
+    },
+    {
+      "role": "user",
+      "content": "Your wife? Your wife?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember what, ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he's wearing?"
+    },
+    {
+      "role": "user",
+      "content": "All right. Karen?"
+    },
+    {
+      "role": "user",
+      "content": "Four parts here. Call my guy."
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "You can make $511.1.5.10. You're not. You're going to stop."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "Hello, you there. Hello."
+    },
+    {
+      "role": "user",
+      "content": "You there."
+    },
+    {
+      "role": "user",
+      "content": "Who is called a shirt?"
+    },
+    {
+      "role": "user",
+      "content": "Who's my second?"
+    },
+    {
+      "role": "user",
+      "content": "Stop! We got a letter here."
+    },
+    {
+      "role": "user",
+      "content": "Hello, Call."
+    },
+    {
+      "role": "user",
+      "content": "You there."
+    },
+    {
+      "role": "user",
+      "content": "Wait, sir. Hello."
+    },
+    {
+      "role": "user",
+      "content": "And my name is small and then a grandelier. The ball is a bandolier. The old is at least 30-plus ground. That's what the guy's saying. And he had a lot."
+    },
+    {
+      "role": "user",
+      "content": "And he had a knife, sir."
+    },
+    {
+      "role": "user",
+      "content": "And my night I'm in his tongue that has for the least seven."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "What's the other guy?"
+    },
+    {
+      "role": "user",
+      "content": "I know what's the dealing me."
+    },
+    {
+      "role": "user",
+      "content": "I call me to be the only me."
+    },
+    {
+      "role": "user",
+      "content": "I call me to be a copy. I'm going to go ahead."
+    }
+  ]
+}

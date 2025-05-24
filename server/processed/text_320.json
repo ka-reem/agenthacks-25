@@ -1,0 +1,432 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I robbed somebody downtown Portland at 9th Point. And I just wanted to let you guys know that I did that. I'm not going to commit suicide. I'm standing on a 10-story high building."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to release that information. I just wanted to let you guys know that it was me."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not going to tell me where you are. Why are you calling me?"
+    },
+    {
+      "role": "user",
+      "content": "Because I'd like to let you guys know that I committed a robbery, and I plan to end my life soon."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Brad Morgan."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone we should call and let know?"
+    },
+    {
+      "role": "user",
+      "content": "I'd like you to contact Karina Bartley, but it's up to you guys."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a phone number for this person?"
+    },
+    {
+      "role": "user",
+      "content": "She won't answer the phone, but I've been trying to contact her."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is this person to you?"
+    },
+    {
+      "role": "user",
+      "content": "She's my ex-girlfriend."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did she become your ex-girlfriend?"
+    },
+    {
+      "role": "user",
+      "content": "About three weeks ago."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're going to jump off the building because of that or some other reason?"
+    },
+    {
+      "role": "user",
+      "content": "I've gotten myself into a lot of trouble lately. My girlfriend took my son from me and denied my visiting time. I tried to go through the courts to work things out, but my life is just in a bad place, so I feel that I no longer need to live."
+    },
+    {
+      "role": "assistant",
+      "content": "And that's your final decision? There's no way I can talk you out of that?"
+    },
+    {
+      "role": "user",
+      "content": "No. I just wanted to give you guys a heads up about what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me her name again. I didn't catch it."
+    },
+    {
+      "role": "user",
+      "content": "Karina Bartley."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on one second. It's 503-839-3689."
+    },
+    {
+      "role": "assistant",
+      "content": "This is the ex-girlfriend who's the mother of your child?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your child?"
+    },
+    {
+      "role": "user",
+      "content": "He's eight months old."
+    },
+    {
+      "role": "assistant",
+      "content": "It's too bad that you're not going to get to see him and talk to him when he's older, don't you think?"
+    },
+    {
+      "role": "user",
+      "content": "I'd be in jail if I went back to see him anyway."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't you think you'd still prefer to be alive so he has a dad?"
+    },
+    {
+      "role": "user",
+      "content": "He probably would, but I'm not thinking about that right now."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you get up to the building? Did you walk or drive?"
+    },
+    {
+      "role": "user",
+      "content": "I don't have a vehicle, so I walked."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you on top of a business or a parking structure?"
+    },
+    {
+      "role": "user",
+      "content": "It's a parking structure. I can see Pioneer Square from here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you talk to me a little bit longer before you do anything you can't take back?"
+    },
+    {
+      "role": "user",
+      "content": "I know I can\u2019t take it back once I do it, and I'm really debating on whether to do it or not."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to give you a really great deal. Are you ready for it?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is a one-time-only deal, and only from me. I will believe everything you tell me on this phone call. Everything. You have my word."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "So, talk to someone who is prepared to believe you. Tell me your side."
+    },
+    {
+      "role": "user",
+      "content": "The reason why my girlfriend broke up with me is because we got into a little argument. She told the police officer that I hung up the phone while she was trying to make a police report, and that's why I got arrested. I sat in jail for four days and got a restraining order while I was in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Was that a long time ago?"
+    },
+    {
+      "role": "user",
+      "content": "No, just recently."
+    },
+    {
+      "role": "assistant",
+      "content": "And the cops didn't believe you because of your record?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. That's why I went to jail."
+    },
+    {
+      "role": "assistant",
+      "content": "You tell me what really happened."
+    },
+    {
+      "role": "user",
+      "content": "I was trying to leave with my son. She took my son from me, so I took him back and pushed her left arm at the door because she was trying to hold me in our apartment. Not like shoved her, but I put my hand on the door knob and elbowed her away a little. Then I started proceeding down to the max to get on the Max to go see my parents. She flagged down the sheriff who was driving by. She gave him her side of the story, and I gave him mine. He arrested me because I hung up the police call."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that was a bad thing at the time, but it got me arrested and made it so I couldn't see my son either longer than I was supposed to."
+    },
+    {
+      "role": "user",
+      "content": "After that, my girlfriend says I can call and talk to my son. When I call, she calls the police and says I'm contacting her, and now they want to arrest me for that."
+    },
+    {
+      "role": "assistant",
+      "content": "Was there a no-contact order?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And then she called the police when you did?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I just feel like I no longer need to live. She's just putting me down every which way. I have nobody besides her."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on a second. Did the initial call and the no-contact order come from the judge after the hang-up incident?"
+    },
+    {
+      "role": "user",
+      "content": "It came from the judge, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "That's a temporary thing for now. That\u2019s not an irrevocable decision. You have to work through the system and wait it out."
+    },
+    {
+      "role": "user",
+      "content": "The problem is that I've been in the system my whole life, and I'm tired of it. It\u2019s like I've been constantly trying to get out from under a dark cloud."
+    },
+    {
+      "role": "assistant",
+      "content": "Doing bad things doesn't define you forever. You learn from mistakes and become a better person because of it. Ending your life is cheating. You get to grow beyond your past."
+    },
+    {
+      "role": "user",
+      "content": "I appreciate the sweet talk.  I really do. It feels good to talk to someone."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not just trying to make you feel better. Everyone deals with consequences, but you get to choose to become better. You\u2019re not stuck where you are."
+    },
+    {
+      "role": "user",
+      "content": "When I try to be better, things just fall apart and crash back down on me."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you tried to get help? You said you've been working with the system for a long time."
+    },
+    {
+      "role": "user",
+      "content": "I have a criminal background. I've been with the wrong crowd, done the wrong things."
+    },
+    {
+      "role": "assistant",
+      "content": "Admitting to making bad choices is excellent, but you don\u2019t have to stay there. You get to choose to be different."
+    },
+    {
+      "role": "user",
+      "content": "That's what I'm doing right now. I'm choosing to end it."
+    },
+    {
+      "role": "assistant",
+      "content": "Everyone dies. That doesn't make you different. You want to be a better man, not just a dead man. Your son needs you to be the better man."
+    },
+    {
+      "role": "user",
+      "content": "The reason why I'm really mad is she's posting on Facebook, making it visible to me, showing she's with another guy. I feel like she orchestrated this. Plus, I took care of my son the first eight months, and now she's claiming him on her taxes."
+    },
+    {
+      "role": "assistant",
+      "content": "It sounds like you're not getting a fair deal, but removing yourself from the situation doesn't hurt her. You\u2019re punishing yourself for what she did. Don't do that."
+    },
+    {
+      "role": "user",
+      "content": "I was a part of this. I made mistakes too. She even got my cousin against me. The cops are always on her side."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you have tried to work things out, but have you sought out help from professionals?"
+    },
+    {
+      "role": "user",
+      "content": "I've been fighting the courts and police my whole life. I'm tired of it. I feel like shooting one of them right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Please don't do that."
+    },
+    {
+      "role": "assistant",
+      "content": "The police in the area want to help you. They don\u2019t want to see you dead on the pavement. Can you tell me what you're wearing so they can find you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm wearing a red backpack and a black hoodie with red on it."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any weapons on you?"
+    },
+    {
+      "role": "user",
+      "content": "Possibly."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm just going to let them know what you\u2019ve said. They want to help you, not hurt you."
+    },
+    {
+      "role": "user",
+      "content": "I'd actually prefer for a police officer to shoot me. But I don't want to go back to that jailhouse again and be treated like a rag doll."
+    },
+    {
+      "role": "assistant",
+      "content": "They don't want to shoot you, Brad. That\u2019s not what they want to do."
+    },
+    {
+      "role": "user",
+      "content": "I feel like they do. I've been beaten by nightsticks and maced. They\u2019ve bruised me."
+    },
+    {
+      "role": "assistant",
+      "content": "They do not want to kill you. They want to ensure your safety, just like I do."
+    },
+    {
+      "role": "user",
+      "content": "Police are circling the building. They don't know how to get in. I walked up the stairs from the Max. It's easy to clean up."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, don't do anything rash. I know you're feeling trapped, but hurting yourself isn't the answer."
+    },
+    {
+      "role": "user",
+      "content": "I'm a good person. My girlfriend keeps hurting me."
+    },
+    {
+      "role": "assistant",
+      "content": "You said she's posting on Facebook. How do you know?"
+    },
+    {
+      "role": "user",
+      "content": "I have friends on her Facebook. They show me."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that must hurt, but there are ways to work through this."
+    },
+    {
+      "role": "user",
+      "content": "She even wrote on Facebook, 'I'm done with you. Leave me alone.' I thought we were in this together."
+    },
+    {
+      "role": "assistant",
+      "content": "That's really tough. Is she older than you?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's younger."
+    },
+    {
+      "role": "assistant",
+      "content": "She's playing with your emotions, but hurting yourself isn't the way to stop her."
+    },
+    {
+      "role": "user",
+      "content": "The police have found me."
+    },
+    {
+      "role": "assistant",
+      "content": "Would you do me a huge favor? Please don't do anything rash. Put your hands up and go talk to them. Let them help you."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'm cool with that."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, just go to them and let them help you."
+    },
+    {
+      "role": "user",
+      "content": "I'm not going to the police. I'm not going back to that jailhouse."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not doing anything wrong tonight. Your safety is the priority."
+    },
+    {
+      "role": "user",
+      "content": "Cops won't be able to reach me. I got to a place they cannot."
+    },
+    {
+      "role": "assistant",
+      "content": "They want to help you. Nobody wants to see you hurt."
+    },
+    {
+      "role": "user",
+      "content": "I've never seen it before, but I imagine it\u2019s quick and painless."
+    },
+    {
+      "role": "assistant",
+      "content": "It's not. I promise you. It\u2019s painful for everyone involved."
+    },
+    {
+      "role": "user",
+      "content": "The police are talking to me. I\u2019ll let you go."
+    },
+    {
+      "role": "assistant",
+      "content": "Please remember, there are people who care about you. Let them help."
+    }
+  ]
+}

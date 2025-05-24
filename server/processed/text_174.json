@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a suspicious subject in the area, I'm turning on Sharon Drive now."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that, can you provide a description of the subject?"
+    },
+    {
+      "role": "user",
+      "content": "Approximately 5'7\" to 5'10\", looks like a killer build."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Are you following the subject now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am coming into Frontway, I might see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, please keep your distance. Are there any other people around?"
+    },
+    {
+      "role": "user",
+      "content": "There are a couple of people at a residence on Boeing. I'll check if anyone matches the description."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, proceed with caution. Is there anything else you need?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Somerset Central now. Can you dispatch another car to assist MSP at Minokin Manor?"
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that, dispatching another unit to assist. Is there a suspicious vehicle involved?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a vehicle is not stopping. It's a tan colored SUV, southbound on Route 13."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you provide the current location and direction of the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "We just passed Lyndon Avenue, southbound. The vehicle isn't stopping."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, unit is en route to your location. Continue to provide updates."
+    },
+    {
+      "role": "user",
+      "content": "Passing SHA now. The SUV is still southbound, I can't get a tag number."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Can you confirm the make and model of the vehicle again?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like a blazer or a bravada. He went around our roadblock, not trying to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, proceed with caution. Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "Coming up on King Miller now, heading north again. The tag does not come back in our system."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Continue to follow from a safe distance and update us frequently."
+    },
+    {
+      "role": "user",
+      "content": "We are northbound, just past SHA. Speed is increasing to about 80 now."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, maintain a safe distance. Additional units are en route."
+    },
+    {
+      "role": "user",
+      "content": "Approaching the bridge, passing Wilson Landing now."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, keep us updated."
+    },
+    {
+      "role": "user",
+      "content": "He's turning onto Revels Neck now, slowing down."
+    },
+    {
+      "role": "assistant",
+      "content": "Proceed with caution. Stay behind the suspect vehicle."
+    },
+    {
+      "role": "user",
+      "content": "Turning left on Revels Neck, suspect possibly heading back northbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Is there any damage to the suspect vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "He's on the rim now, one tire is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood, do not engage directly, wait for backup."
+    },
+    {
+      "role": "user",
+      "content": "Shots fired, shots fired! Start EMS immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, shots fired. EMS is en route to your location."
+    },
+    {
+      "role": "user",
+      "content": "We're at Revels Neck and Route 13. Suspect may have shot himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that, maintain your position. Additional units and EMS are en route."
+    },
+    {
+      "role": "user",
+      "content": "Scene is secure. Suspect is down."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Ensure the area is secure for EMS arrival."
+    },
+    {
+      "role": "user",
+      "content": "Roadway is shut down, EMS can come south-bound."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Contacting State Highway for additional support."
+    },
+    {
+      "role": "user",
+      "content": "Okay, waiting for backup."
+    },
+    {
+      "role": "assistant",
+      "content": "Backup is on the way. Stay safe and keep us posted."
+    }
+  ]
+}

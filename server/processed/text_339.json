@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a shooting going on, local shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Shooting where?"
+    },
+    {
+      "role": "user",
+      "content": "In the IHOP."
+    },
+    {
+      "role": "assistant",
+      "content": "In the IHOP?"
+    },
+    {
+      "role": "user",
+      "content": "In the IHOP. Automatic weapons."
+    },
+    {
+      "role": "assistant",
+      "content": "How many are inside?"
+    },
+    {
+      "role": "user",
+      "content": "We've got one guy going in. Now he's coming back out with a gun. He's shooting people in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "He's got an automatic weapon?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, automatic weapons."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're on the way. Are you in a safe place?"
+    },
+    {
+      "role": "user",
+      "content": "Oh no, he's shooting at us now!"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, see if you can get to a safe place."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting at us with automatic weapons!"
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a long gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one guy with an automatic weapon. He's shooting everybody."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe him?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a red shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Red shirt and a long gun. Understood. We have officers on the way."
+    },
+    {
+      "role": "user",
+      "content": "I'm at a local barbecue nearby, not at IHOP."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at the local barbecue. Are you in a safe place?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's in a safe place."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, please?"
+    },
+    {
+      "role": "user",
+      "content": "Ralph Swagler, Local's Barbecue."
+    },
+    {
+      "role": "assistant",
+      "content": "Ralph, what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "841-999-9999."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still see the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "No, he may be over by the Wells Fargo building or going towards Raley's."
+    },
+    {
+      "role": "assistant",
+      "content": "You only saw one guy with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one guy with a gun, red shirt, automatic weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep yourself in a safe place and lock your doors, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the doors are locked."
+    },
+    {
+      "role": "assistant",
+      "content": "911, are you reporting the shooting at IHOP?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am. This is Casino Fandango. I heard the pops and saw him run out of the building shooting people."
+    },
+    {
+      "role": "assistant",
+      "content": "You have people down in the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and I heard he shot himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the shooter now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was the shooter last seen?"
+    },
+    {
+      "role": "user",
+      "content": "By a blue van between Local's Barbecue and IHOP. He shot himself in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Several people are down, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

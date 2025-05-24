@@ -1,0 +1,232 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think somebody's breaking into my house, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. Why do you think someone's trying to break into your house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm upstairs, and I can hear them breaking stuff down there."
+    },
+    {
+      "role": "assistant",
+      "content": "What's been broken?"
+    },
+    {
+      "role": "user",
+      "content": "It sounds like glass, maybe a window?"
+    },
+    {
+      "role": "assistant",
+      "content": "You heard some glass being broken?"
+    },
+    {
+      "role": "user",
+      "content": "I did."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago was that?"
+    },
+    {
+      "role": "user",
+      "content": "A minute, maybe 30 seconds."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just stay on the phone. Stay calm. Are you the only one in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I am."
+    },
+    {
+      "role": "assistant",
+      "content": "No children or other adults?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the upstairs part of the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in the office under a desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Which area of the house did you hear the glass breaking?"
+    },
+    {
+      "role": "user",
+      "content": "The kitchen. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any weapons in the house that anyone could use?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the kitchen in relation to the rest of the house?"
+    },
+    {
+      "role": "user",
+      "content": "The back side of the house, by the pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any dogs in the backyard?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing in the backyard."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I have several officers coming that way. Stay calm; you're doing great. Do you have any idea who could be trying to get into your house?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear anything else right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you to move, but let me know if you hear anything else we need to know about."
+    },
+    {
+      "role": "user",
+      "content": "I hear something. Oh my god, they're coming up the stairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay where you're at. Do you hear someone coming up the stairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, with flashlights."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay where you're at. Don't make a sound. Do you see them?"
+    },
+    {
+      "role": "user",
+      "content": "They\u2019re right in front of me!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay still, don't move. Do not say a word."
+    },
+    {
+      "role": "user",
+      "content": "What do I do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay silent. Help is right there. Just stay put."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still hear them in your house? Are there more than one voice?"
+    },
+    {
+      "role": "user",
+      "content": "There are at least two."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "They're leaving the room. I think they heard something outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you're at. I'm going to stay on the phone with you until officers get there."
+    },
+    {
+      "role": "user",
+      "content": "They're outside the room."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay silent. The officers are clearing the house. They will let you know when it\u2019s safe to come out."
+    },
+    {
+      "role": "user",
+      "content": "They're yelling something."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the officers now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they just got here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and talk to them. You did excellent."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Take a deep breath and breathe. You're safe now. The officers are there with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You did a wonderful job. Is there anything else you need to tell the officers?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're checking the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, take a moment. You did great. If you need anything else, let the officers know."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    }
+  ]
+}

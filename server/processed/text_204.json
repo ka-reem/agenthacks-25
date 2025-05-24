@@ -1,0 +1,676 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I'm Joan Pearson, and I just killed two people."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did you kill?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, Matthew Nagel and, uh, and, uh, um, Mrs. Nagel, I guess."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and where are you at right now?"
+    },
+    {
+      "role": "user",
+      "content": "I am at 2901 North K Street."
+    },
+    {
+      "role": "assistant",
+      "content": "And how did you kill them?"
+    },
+    {
+      "role": "user",
+      "content": "With a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Not anymore."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are they at?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, well, they're here physically, but they're not here, yeah, spiritually."
+    },
+    {
+      "role": "assistant",
+      "content": "Their bodies are there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Who are they to you?"
+    },
+    {
+      "role": "user",
+      "content": "No one."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name, Joan Peterson."
+    },
+    {
+      "role": "assistant",
+      "content": "Peterson, what's your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Joan."
+    },
+    {
+      "role": "assistant",
+      "content": "Dylan, how do you spell your first name?"
+    },
+    {
+      "role": "user",
+      "content": "D-Y-L-A-N."
+    },
+    {
+      "role": "assistant",
+      "content": "And your middle initial, Dylan?"
+    },
+    {
+      "role": "user",
+      "content": "R."
+    },
+    {
+      "role": "assistant",
+      "content": "And your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "Come on. I just killed two people."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your date of birth, Dylan?"
+    },
+    {
+      "role": "user",
+      "content": "Come on."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Just turn the lights on."
+    },
+    {
+      "role": "user",
+      "content": "Give them here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you at in the house?"
+    },
+    {
+      "role": "user",
+      "content": "At the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the knife at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Dylan, tell me where the knife is."
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "A knife? I'll look for it."
+    },
+    {
+      "role": "assistant",
+      "content": "No, I don't want you to get it. I want you to tell me where it's at in the house."
+    },
+    {
+      "role": "user",
+      "content": "Um, no. I killed two people. It's awful."
+    },
+    {
+      "role": "assistant",
+      "content": "Why did you kill them?"
+    },
+    {
+      "role": "user",
+      "content": "Why?"
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "user",
+      "content": "Why? Oh."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you live there?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how did you get into their house?"
+    },
+    {
+      "role": "user",
+      "content": "They let me in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Come on."
+    },
+    {
+      "role": "user",
+      "content": "I killed two people."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand that, Dylan."
+    },
+    {
+      "role": "user",
+      "content": "You got that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "I killed two people. I killed them."
+    },
+    {
+      "role": "assistant",
+      "content": "Why did you kill them?"
+    },
+    {
+      "role": "user",
+      "content": "Because."
+    },
+    {
+      "role": "assistant",
+      "content": "Because why?"
+    },
+    {
+      "role": "user",
+      "content": "Because I was born to."
+    },
+    {
+      "role": "user",
+      "content": "There's an orange Camaro outside. There's a red neon, you know, somewhere near."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the Camaro yours?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What type of car do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I don't drive."
+    },
+    {
+      "role": "user",
+      "content": "Come on, give me a break."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you live at?"
+    },
+    {
+      "role": "user",
+      "content": "Awful, awful. It's terrible."
+    },
+    {
+      "role": "user",
+      "content": "I called 911 and there's no cops here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I gave you the street and the cross street. I gave you everything, and there are two people dead, and it's bloody, and it's gross."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did you do this?"
+    },
+    {
+      "role": "user",
+      "content": "After I knew both of them were dead."
+    },
+    {
+      "role": "assistant",
+      "content": "No, how long ago did that happen?"
+    },
+    {
+      "role": "user",
+      "content": "Are you sure?"
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago?"
+    },
+    {
+      "role": "user",
+      "content": "Poor Sandy just stopped breathing."
+    },
+    {
+      "role": "user",
+      "content": "Poor Sandy just stopped breathing. Poor Sandy."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "No, there's not. But there's a ton of blood."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still by the front door?"
+    },
+    {
+      "role": "user",
+      "content": "No, but the front door is open."
+    },
+    {
+      "role": "assistant",
+      "content": "The front door's open?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. The dog's outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at in the house?"
+    },
+    {
+      "role": "user",
+      "content": "By the front door. It's not a big apartment."
+    },
+    {
+      "role": "user",
+      "content": "Okay. It's not a big apartment. Stay outside with blood all over myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you inside or outside right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside. I'm in the doorway talking to you."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Looking at the trellis that is toppled over."
+    },
+    {
+      "role": "user",
+      "content": "I killed these people with a knife."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I killed people with a knife."
+    },
+    {
+      "role": "user",
+      "content": "Do you know what that takes? It takes a lot."
+    },
+    {
+      "role": "user",
+      "content": "It's awful. It's terrible."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the knife is right now?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have it on you?"
+    },
+    {
+      "role": "user",
+      "content": "No. I killed them and I lost it."
+    },
+    {
+      "role": "user",
+      "content": "You think I'm lying?"
+    },
+    {
+      "role": "user",
+      "content": "You really think I'm lying?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I believe you, Dylan. I believe you."
+    },
+    {
+      "role": "user",
+      "content": "Yeah. 16 percent in the morning."
+    },
+    {
+      "role": "user",
+      "content": "Yeah. No. My dad is terrible. Terrible. I killed them."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you know those people or did you just pick them out?"
+    },
+    {
+      "role": "user",
+      "content": "Everything comes to an end, right? Everything."
+    },
+    {
+      "role": "user",
+      "content": "I killed two people. I killed them. I can't believe I killed them, but I did."
+    },
+    {
+      "role": "user",
+      "content": "I killed them. I killed them both. It was me."
+    },
+    {
+      "role": "user",
+      "content": "There's blood everywhere."
+    },
+    {
+      "role": "user",
+      "content": "There was a fight. It was terrible."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened? They let you in and you had a fight with them?"
+    },
+    {
+      "role": "user",
+      "content": "There are lifeless bodies here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you go there with the intention to kill them, Dylan?"
+    },
+    {
+      "role": "user",
+      "content": "What intention?"
+    },
+    {
+      "role": "user",
+      "content": "Oh. I think they're here."
+    },
+    {
+      "role": "user",
+      "content": "I think the cops are here."
+    },
+    {
+      "role": "assistant",
+      "content": "They want you to stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, absolutely."
+    },
+    {
+      "role": "user",
+      "content": "No, the cops are here. Doug's barking and the cops are here."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone until I tell you it's okay to hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "The cops are here."
+    },
+    {
+      "role": "user",
+      "content": "They're here."
+    },
+    {
+      "role": "user",
+      "content": "Oh. Man."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the doorway?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm waiting for the cops."
+    },
+    {
+      "role": "assistant",
+      "content": "I know you're waiting for the cops, but where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "Oh."
+    },
+    {
+      "role": "user",
+      "content": "That was me. It was all me. A massacre. Disgusting."
+    },
+    {
+      "role": "user",
+      "content": "No, don't stop. They said, no, don't stop."
+    },
+    {
+      "role": "user",
+      "content": "I saw the knife. I saw the knife months ago."
+    },
+    {
+      "role": "user",
+      "content": "Oh, yeah. My goodness."
+    },
+    {
+      "role": "user",
+      "content": "He's a talented boy."
+    },
+    {
+      "role": "assistant",
+      "content": "Right here. I'm a sick mother. There were a ton of people there when this happened?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "So it was just you and the victims?"
+    },
+    {
+      "role": "user",
+      "content": "No. No, it wasn't. Come on. This is not a joke."
+    },
+    {
+      "role": "user",
+      "content": "This is not a joke. I'm talking to you. I'm staying on the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I understand it's not a joke."
+    },
+    {
+      "role": "user",
+      "content": "There's nobody here."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that your dog that's there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that's the dog."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it your dog? Do you know what its name is?"
+    },
+    {
+      "role": "user",
+      "content": "It's Daisy."
+    },
+    {
+      "role": "assistant",
+      "content": "Daisy?"
+    },
+    {
+      "role": "user",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of dog is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a black lab."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is it at right now? Is it outside or inside?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, they're here."
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, make sure your hands are visible."
+    },
+    {
+      "role": "user",
+      "content": "I will."
+    },
+    {
+      "role": "assistant",
+      "content": "If they call you out, make sure your hands are up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. I have a bloody hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, make sure they're up and visible."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and go out, Dylan."
+    },
+    {
+      "role": "assistant",
+      "content": "You can head right towards them."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I gotta go out. We're all right there."
+    },
+    {
+      "role": "user",
+      "content": "Go, go. You go."
+    },
+    {
+      "role": "user",
+      "content": "You know, we can turn around."
+    }
+  ]
+}

@@ -9,6 +9,9 @@ from server.socket_manager import ConnectionManager
 from server.retell.server import router as retell_router
 from server.hume.agent import router as hume_router
 
+# Import the necessary function from the db module
+from server.db import get_all_calls
+
 app = FastAPI()
 
 app.include_router(retell_router)
@@ -26,9 +29,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
+
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = None):
@@ -46,8 +51,14 @@ async def websocket_endpoint(websocket: WebSocket, client_id: Optional[str] = No
         while True:
             data = await websocket.receive_json()
             event = data["event"]
+            if event == "get_db":
 
-            
+                # Retrieve all calls from the database
+                all_calls = get_all_calls()
+
+                # Send the calls data back to the client
+                await websocket.send_json({"event": "db_response", "data": all_calls})
+
     except WebSocketDisconnect:
         print("Disconnecting...", client_id)
         await manager.disconnect(client_id)

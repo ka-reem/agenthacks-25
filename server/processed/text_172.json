@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Quick to stop for an end-night."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Any masks?"
+    },
+    {
+      "role": "assistant",
+      "content": "How can we help you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm getting an ambulance at 351 Wayside Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "351 Wayside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a house? An apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on? What's the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My sister has... She has hurt her child..."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello? Tell me what's going on. Don't talk to the other people. Talk to me."
+    },
+    {
+      "role": "user",
+      "content": "My sister has... She's hurt her child. Seriously hurt her child."
+    },
+    {
+      "role": "assistant",
+      "content": "How did she do that? What's going on with the child?"
+    },
+    {
+      "role": "user",
+      "content": "The baby is dead."
+    },
+    {
+      "role": "assistant",
+      "content": "What did you say?"
+    },
+    {
+      "role": "user",
+      "content": "The baby is dead. Maybe three weeks old? Not even three weeks old."
+    },
+    {
+      "role": "assistant",
+      "content": "Not even three weeks old?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What did she do to him?"
+    },
+    {
+      "role": "user",
+      "content": "She stabbed him. There's blood all over the bed. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, ma'am, I'm going to connect you up to the police, okay? Stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Priscilla."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is your sister?"
+    },
+    {
+      "role": "user",
+      "content": "She's just sitting on the couch. She's gone crazy last night. She was hearing voices. She kept bringing me the baby and finally she calmed down and I took her back to the baby. And then now I just woke up to her screaming."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is the baby?"
+    },
+    {
+      "role": "user",
+      "content": "Not even three weeks old."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your baby breathing?"
+    },
+    {
+      "role": "user",
+      "content": "The baby's dead."
+    },
+    {
+      "role": "user",
+      "content": "Somebody called."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I need the keys so I can open the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Do not touch the baby. Don't disturb anything in the area, okay?"
+    },
+    {
+      "role": "user",
+      "content": "My mom is holding the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "I need to find the keys for the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your sister near you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "She stabbed herself."
+    },
+    {
+      "role": "assistant",
+      "content": "Priscilla, where did she stab herself?"
+    },
+    {
+      "role": "user",
+      "content": "In the heart and in the stomach, she says."
+    },
+    {
+      "role": "assistant",
+      "content": "You said there's a stab wound on her heart?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm looking at her right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Help is on their way."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "user",
+      "content": "Mama, calm down."
+    },
+    {
+      "role": "user",
+      "content": "I didn't mean to do what he told me to."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to go ahead and let you go, okay? Help is on their way. Goodbye."
+    }
+  ]
+}

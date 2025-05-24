@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, we just got a call that somebody had shot somebody in a house on Moses."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody what?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody shot three people in the house on Moses, and we just came over here knocking because we know them."
+    },
+    {
+      "role": "assistant",
+      "content": "They're dead in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're all dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "My name's Amanda Hill. We're sitting in front of the house right now. We're on Moses."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see an address on the house, but we're right next to 812... 814."
+    },
+    {
+      "role": "assistant",
+      "content": "814 East Moses?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, East Moses. And there's three people dead in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "You said you got a call about the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we got a call saying that three people were shot and that the house got caught on fire. We came down here because we know the people."
+    },
+    {
+      "role": "user",
+      "content": "Then he called back and said he was the one that shot them. We came over to check on them. Nobody answered, so my boyfriend went in, and they're all shot. They're all dead."
+    },
+    {
+      "role": "user",
+      "content": "I know one of them's Liz, another one's Albert. I know some of the names."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're at 814 East Moses?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, meet the officer in the street, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we'll go back out to the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who the person is that shot them?"
+    },
+    {
+      "role": "user",
+      "content": "Who am I speaking with?"
+    },
+    {
+      "role": "assistant",
+      "content": "This is Robert with Cushing Police."
+    },
+    {
+      "role": "user",
+      "content": "We got a call from a family member. They said that Chad Barlow was freaking out and said that he had shot everybody in the house and set it on fire. One of our friends lives there."
+    },
+    {
+      "role": "user",
+      "content": "So we were worried about our friends and came over here. We saw the house, and all the lights were on. Chad's on meth and freaking out, so we came to check."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, hang on a second. Just stay in the street when the officer gets there."
+    },
+    {
+      "role": "user",
+      "content": "We are in the street right now. My girlfriend's standing in the street."
+    },
+    {
+      "role": "user",
+      "content": "I knocked on the door, the door was cracked open, so I pushed it open with my sleeve. Everybody's dead. Albert's shot, Liz is shot in the head."
+    },
+    {
+      "role": "user",
+      "content": "Right now, there's a car driving by with no lights on. It's driving really slow and has come to a stop."
+    },
+    {
+      "role": "user",
+      "content": "Get behind the truck, babe."
+    },
+    {
+      "role": "user",
+      "content": "Are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm here."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're cops. Never mind. I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, officers are there now."
+    },
+    {
+      "role": "user",
+      "content": "Should I hang up now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir, that will be fine."
+    }
+  ]
+}

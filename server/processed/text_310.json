@@ -1,0 +1,88 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm by the river. The dog jumped in the water and we can't get her out."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God!"
+    },
+    {
+      "role": "user",
+      "content": "I'm by Zay Street and Franklin."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What I did was I left a message on the owner's phone number. Is she still in the water?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's swimming around, but I don't know how long she'll make it."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "user",
+      "content": "There's no one here. There's no dock, nothing. We're on the library side."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she just run down there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're by the river near the public library. She's going to die out here. We need someone to get the dog."
+    },
+    {
+      "role": "user",
+      "content": "Can they send the fire department here? Someone has to be able to help."
+    },
+    {
+      "role": "assistant",
+      "content": "We could possibly send somebody from the downtown fire department. Are you over by the public library?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the public library."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can see if they're willing to do that."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Just so you know, we did try to get a hold of the owner but haven't been able to reach them yet."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Please send somebody, hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We'll get someone there as soon as possible."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

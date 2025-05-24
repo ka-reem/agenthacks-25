@@ -1,0 +1,456 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Um, across from 4709, 40th Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "4709?"
+    },
+    {
+      "role": "user",
+      "content": "Um, yeah, 4709."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what city is that, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Hyattsville, sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Cynthia."
+    },
+    {
+      "role": "assistant",
+      "content": "Cynthia? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "It's a fire. The house is on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the house is on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is everyone out?"
+    },
+    {
+      "role": "user",
+      "content": "Not everyone's out."
+    },
+    {
+      "role": "assistant",
+      "content": "Not everyone's out?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, hold on one second, okay. The house is catching fire fast. Is it a single-family home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many floors or stories there are?"
+    },
+    {
+      "role": "user",
+      "content": "Two."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said there are people inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Children."
+    },
+    {
+      "role": "assistant",
+      "content": "The call is in. Stay on the line. I need to know how many are inside, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm across the street."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many children live in that house?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, three, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know exactly?"
+    },
+    {
+      "role": "user",
+      "content": "I can't get any closer."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's that screaming? Are they the owners?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask them if there's anybody inside and where?"
+    },
+    {
+      "role": "user",
+      "content": "Martha, who's inside? Where? I'm on the phone with 911."
+    },
+    {
+      "role": "user",
+      "content": "He's in there."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are still inside?"
+    },
+    {
+      "role": "user",
+      "content": "He's not listening to me. His wife is trying to get back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell him not to go back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Just try to find out who's inside and where they are."
+    },
+    {
+      "role": "user",
+      "content": "He's not listening to me. I can't get any closer because the fire is growing."
+    },
+    {
+      "role": "assistant",
+      "content": "The call is in, help is on the way, okay? Whatever information you can gather is going to be helpful to us."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what floor is on fire?"
+    },
+    {
+      "role": "user",
+      "content": "It's the first floor."
+    },
+    {
+      "role": "user",
+      "content": "What was that?"
+    },
+    {
+      "role": "user",
+      "content": "A power line. It's burning off the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it go down or is it burning?"
+    },
+    {
+      "role": "user",
+      "content": "It's disconnected from the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said it was the first floor on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "My roommate, Don Watson, is on the line too. I guess he called 911."
+    },
+    {
+      "role": "assistant",
+      "content": "He's calling 911 as well? Alright, if you can, find out from the owners where the people are inside. We need to know now. We have everyone on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm trying to get back around the side of the neighbor's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We have the fire department on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "If it is safe to do so, keep bystanders away from the area."
+    },
+    {
+      "role": "user",
+      "content": "Marcos, where are you? Can everybody get out? Where is everyone?"
+    },
+    {
+      "role": "user",
+      "content": "His daughter's inside."
+    },
+    {
+      "role": "assistant",
+      "content": "The daughter?"
+    },
+    {
+      "role": "user",
+      "content": "The daughter."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the daughter?"
+    },
+    {
+      "role": "user",
+      "content": "She's less than 12."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where inside they are?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't get closer. I'm just at the neighbor's house."
+    },
+    {
+      "role": "assistant",
+      "content": "The address you gave me, is that the house on fire?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's 4709?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the daughter is?"
+    },
+    {
+      "role": "user",
+      "content": "No, he won't say."
+    },
+    {
+      "role": "user",
+      "content": "The kids are upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "The kids are upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "So there may be two children upstairs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's definitely one child upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department's coming. Please don't go back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that the mother?"
+    },
+    {
+      "role": "user",
+      "content": "The mother and the father."
+    },
+    {
+      "role": "user",
+      "content": "The neighbor on the other side just came over and said there are two children out of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you don't know if anyone is inside of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I called you just after the fire started."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what caused it?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the flames coming from? Are they in the front or back of the house?"
+    },
+    {
+      "role": "user",
+      "content": "The front."
+    },
+    {
+      "role": "assistant",
+      "content": "And you said it was the first floor?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the first floor below ground or above ground?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you should be seeing the fire department."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure to let them know where and how many are inside."
+    },
+    {
+      "role": "user",
+      "content": "Okay, everybody's in the backyard. I'm going around to the front."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to get to them and let them know there are kids inside."
+    },
+    {
+      "role": "user",
+      "content": "I'm yelling to the firemen, two kids upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you told them?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. Let me make sure they understood."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, the power line that blew up, do you still see it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it on the ground or up in the air?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you point that out to some of the firefighters so they know?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, someone is with you now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the power lines down, ma'am? On what side of the house?"
+    },
+    {
+      "role": "user",
+      "content": "On the side of the house, facing the right."
+    },
+    {
+      "role": "user",
+      "content": "Someone sees it, they are all over it."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, everybody's there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yep, I'm fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright."
+    },
+    {
+      "role": "user",
+      "content": "Okay, bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, bye."
+    }
+  ]
+}

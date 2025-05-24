@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please, my brother, he was playing with this gun, and he was pointing it at himself. He shot himself!"
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s the address?"
+    },
+    {
+      "role": "user",
+      "content": "I\u2019m so scared, I\u2019m so scared. It's 1123 Ujama Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this where the emergency is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you want to talk to my daddy?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please put him on."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, this is the father, what happened?"
+    },
+    {
+      "role": "user",
+      "content": "My son just got shot, man."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, stay with me. Help is on the way. Who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "I don\u2019t know, I was in the back of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Did anybody see him get shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn\u2019t see it happen."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s three years old. He\u2019s not moving!"
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, I\u2019ll tell you how to help him. Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we need to get him flat on his back on the ground. Do you hear me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's on his back."
+    },
+    {
+      "role": "assistant",
+      "content": "Remove any pillows. Put him flat on his back without any pillows. Do you understand?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, no pillows. There's no food or vomit in his mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Now put your hand on his forehead, your other hand under his neck, then carefully tilt his head back."
+    },
+    {
+      "role": "user",
+      "content": "He got shot in the face, man!"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, but you need to do this to help him. Hand on forehead, other hand under his neck, tilt his head back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've done that."
+    },
+    {
+      "role": "assistant",
+      "content": "Place your ear next to his mouth and check for any breathing."
+    },
+    {
+      "role": "user",
+      "content": "I can feel a little breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, keep his airway open. Stay calm and keep checking his breathing. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "My son was just playing, and now there's blood everywhere!"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand there's blood, but you need to stay calm for your son. Is he breathing regularly?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell, his one eye is open."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to ensure he keeps breathing. Tilt his head back and watch closely."
+    },
+    {
+      "role": "user",
+      "content": "All right, I\u2019ll do that."
+    },
+    {
+      "role": "assistant",
+      "content": "If you can\u2019t see breathing, I\u2019ll guide you through CPR. With his head back, pinch his nose, cover his mouth with yours, and give two gentle breaths, enough to make his chest rise."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I\u2019m doing it. The ambulance is here!"
+    },
+    {
+      "role": "assistant",
+      "content": "Good, stay with them. Help them as much as you can."
+    }
+  ]
+}

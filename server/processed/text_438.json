@@ -1,0 +1,264 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the McDonald's and there's an issue, I need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that, can you describe the issue further?"
+    },
+    {
+      "role": "user",
+      "content": "There's a group causing a lot of trouble here, I need someone to come quickly!"
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. Dispatching units to your location. Are there any weapons involved?"
+    },
+    {
+      "role": "user",
+      "content": "No weapons that I can see, but they're getting really aggressive."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Units are on their way. Stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "314 and 315, respond to a civil issue at 705 North Telluride Street, unit A."
+    },
+    {
+      "role": "assistant",
+      "content": "Anonymous caller reports two individuals living in a storage unit there. Looking for a white male named Donnie, about 30 years old, and a white male child named Bill, about 6 years old. Associated vehicle is a brown Chevy pickup, no plate."
+    },
+    {
+      "role": "assistant",
+      "content": "324: Check Hamden and Dowell, Chase parking lot, Colorado passenger 1-200."
+    },
+    {
+      "role": "assistant",
+      "content": "302: Respond to Moline Apartments, 1390 North Moline Street. Possible altercation involving eight males in a truck trying to jump the daughter's boyfriend, now possibly near Central High School."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy 305. Respond to same."
+    },
+    {
+      "role": "assistant",
+      "content": "Seeking further descriptions."
+    },
+    {
+      "role": "assistant",
+      "content": "314: Can we get better address details?"
+    },
+    {
+      "role": "assistant",
+      "content": "That's the only address given."
+    },
+    {
+      "role": "assistant",
+      "content": "314: I'm not finding any storage places."
+    },
+    {
+      "role": "assistant",
+      "content": "302: RP can't provide descriptions but mentions suspect named Ronnie. He might be in the area."
+    },
+    {
+      "role": "assistant",
+      "content": "Clearing the area near Love and Newark."
+    },
+    {
+      "role": "assistant",
+      "content": "Some males spotted on Newark."
+    },
+    {
+      "role": "assistant",
+      "content": "303: Confirming with males on Newark."
+    },
+    {
+      "role": "assistant",
+      "content": "305: I'm in the area."
+    },
+    {
+      "role": "assistant",
+      "content": "Newark just off 11th."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that, go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Advising not with the Indian suspect, but another involved party might be in a northern suburb."
+    },
+    {
+      "role": "assistant",
+      "content": "Metrotentic King 4, go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Are your suspects black males?"
+    },
+    {
+      "role": "user",
+      "content": "Stand by, I need to check. We don't have the full story yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you determine if they might be Pacific Islander?"
+    },
+    {
+      "role": "assistant",
+      "content": "315 traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Was that 315 or 627?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sum 627 in traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Norado and x-ray. Static on the plate."
+    },
+    {
+      "role": "assistant",
+      "content": "6-1-Laredo. Plate again?"
+    },
+    {
+      "role": "assistant",
+      "content": "159, x-ray and nora x-ray."
+    },
+    {
+      "role": "assistant",
+      "content": "627, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Metrotentic King 4, go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Black males."
+    },
+    {
+      "role": "assistant",
+      "content": "316 and 317 for a fight at the preserve, 1036 South El Cartway. 3 men in a parking lot."
+    },
+    {
+      "role": "user",
+      "content": "17-11, no caller yet."
+    },
+    {
+      "role": "assistant",
+      "content": "947-637-7-3-7-3."
+    },
+    {
+      "role": "assistant",
+      "content": "627, your status?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "627, did you say code 4?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "302 or any other car, 11th and Newark status?"
+    },
+    {
+      "role": "user",
+      "content": "Code 4."
+    },
+    {
+      "role": "assistant",
+      "content": "316, 317, only one caller. Originally reported 3 individuals, now thinks there might be 2. One in a white shirt and red shorts, the other in a white shirt and no-color pants."
+    },
+    {
+      "role": "assistant",
+      "content": "322 to 320."
+    },
+    {
+      "role": "assistant",
+      "content": "320."
+    },
+    {
+      "role": "assistant",
+      "content": "You still at the apartment?"
+    },
+    {
+      "role": "user",
+      "content": "Heading there, will be there in a minute."
+    },
+    {
+      "role": "assistant",
+      "content": "316, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "315 and 314, report of a shooting at Century Theaters, 14300 East Alameda Avenue. Someone reported shooting inside the auditorium."
+    },
+    {
+      "role": "assistant",
+      "content": "Units responding to the shooting, switch to remain on Channel 2. All others back to normal."
+    },
+    {
+      "role": "assistant",
+      "content": "Engine 6, unknown medical issue."
+    },
+    {
+      "role": "assistant",
+      "content": "315 and 314, copy that."
+    },
+    {
+      "role": "assistant",
+      "content": "All available units, respond to the theater, 14-300 East Alameda Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "316, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Cruiser 11 on scene."
+    },
+    {
+      "role": "assistant",
+      "content": "213, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "323 on scene."
+    },
+    {
+      "role": "assistant",
+      "content": "Engine 8, Battalion 1 on a shooting, 9 George 2, east side."
+    },
+    {
+      "role": "assistant",
+      "content": "Still active shooter inside, need backup."
+    },
+    {
+      "role": "assistant",
+      "content": "Lincoln 25, need backup on the back side as well."
+    },
+    {
+      "role": "assistant",
+      "content": "514, need ambulances."
+    }
+  ]
+}

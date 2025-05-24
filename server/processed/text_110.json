@@ -1,0 +1,176 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is a student from Sparks Middle School."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please speak up? I can't hear you well."
+    },
+    {
+      "role": "user",
+      "content": "This is a student from Sparks Middle School. Can you please send police out here? There's a kid with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly are they with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Huh?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly at the school are they with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "By the basketball court."
+    },
+    {
+      "role": "assistant",
+      "content": "By the basketball court? Okay, I need you to stay on the line. Don't hang up, okay? Hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "911 emergency."
+    },
+    {
+      "role": "user",
+      "content": "This is Joe Pizarre, a teacher at Sparks Middle, and we have some kids outside who had a gun pointed at them, so we're locked down in the building."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're locked down. Have you called the school police?"
+    },
+    {
+      "role": "user",
+      "content": "We're locked down and trying to get through to them. We have 911 calls coming in."
+    },
+    {
+      "role": "assistant",
+      "content": "I have fire, medics, and police en route. We will get a hold of school police as well. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a kid with a gun at the basketball courts."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do they still have the gun? Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, we're all scared and crammed here. Please come quickly."
+    },
+    {
+      "role": "assistant",
+      "content": "We already have police and medics en route. I just need more information if you have any."
+    },
+    {
+      "role": "user",
+      "content": "I think somebody has been injured, but I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, thank you. We'll get someone out there as soon as possible."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Leah from School Police. You guys have Sparks Middle?"
+    },
+    {
+      "role": "assistant",
+      "content": "We do. We have multiple calls and have a teacher and student down. Police are en route."
+    },
+    {
+      "role": "user",
+      "content": "Do you have any description of the suspect?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I don't have any descriptions yet. We're working on getting more information."
+    },
+    {
+      "role": "user",
+      "content": "The shooter is in the cafeteria area."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the shooter is in the cafeteria area with a victim. We'll inform our units."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Pam calling from Sparks Middle School. We have a shooting at our school."
+    },
+    {
+      "role": "assistant",
+      "content": "You have a shooting? Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "We have a teacher down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me transfer you to emergency services. Hold on one second."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody brought a gun to school. They shot a teacher."
+    },
+    {
+      "role": "assistant",
+      "content": "The teacher is down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get someone out there right away. You're at Sparks Middle School?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. They shot again."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get someone out there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-huh, bye-bye."
+    }
+  ]
+}

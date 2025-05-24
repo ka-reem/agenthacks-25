@@ -1,0 +1,156 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my girlfriend just pulled up and there's a guy that pulled up in a truck behind her. We think he has a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "914 Stephen Street, Jessup, Iowa. I mean, they're arguing by a truck. We've seen a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on just a second."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Chase Weber."
+    },
+    {
+      "role": "assistant",
+      "content": "Trace Weber?"
+    },
+    {
+      "role": "user",
+      "content": "Chase, C-H-A-S-E."
+    },
+    {
+      "role": "assistant",
+      "content": "And it was your girlfriend that just got home?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Lindsay Nichols."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who the person is in the truck?"
+    },
+    {
+      "role": "user",
+      "content": "I'm assuming it's her ex, but I don't know his name or who he is."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of truck is it?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like a Chevy, maybe a Colorado? I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what color it is?"
+    },
+    {
+      "role": "user",
+      "content": "Silver, hurry, please."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are on the way. I'm talking to you as they are en route, okay? So you don't need to be yelling at me."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. I'm just looking out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the truck?"
+    },
+    {
+      "role": "user",
+      "content": "Silver or gray, I believe."
+    },
+    {
+      "role": "assistant",
+      "content": "If it leaves before the officers get there, let me know. Is Lindsay still outside?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my gosh!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening?"
+    },
+    {
+      "role": "user",
+      "content": "He just shot her! He just shot her!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. The police are almost there."
+    },
+    {
+      "role": "user",
+      "content": "He shot her and then shot himself! I think he's down. I can't see where she's been shot. Lindsay, where have you been hit?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm paging the ambulance right now, just hold on."
+    },
+    {
+      "role": "user",
+      "content": "I don't know where she's been hit."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you check her safely?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is the officer there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he\u2019s assessing the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, the officer is there and I have an ambulance on the way, so I'm going to let you go, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    }
+  ]
+}

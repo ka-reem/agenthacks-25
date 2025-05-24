@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I have to report an emergency."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My guardian got into an argument and there was a shot fired at 634 Gauge Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where's your friend, the one that got shot?"
+    },
+    {
+      "role": "user",
+      "content": "That's my father. He's in the house, okay? It wasn't my mom's fault. She was defending herself."
+    },
+    {
+      "role": "assistant",
+      "content": "So your mom shot your father, is that what you're saying?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your mom at?"
+    },
+    {
+      "role": "user",
+      "content": "She's upstairs. She's crying. I told her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's fine. Where's the gun?"
+    },
+    {
+      "role": "user",
+      "content": "The gun is on the floor upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Please stay on the line. What apartment are you in?"
+    },
+    {
+      "role": "user",
+      "content": "The cops are here. Can you please hurry?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you step outside?"
+    },
+    {
+      "role": "user",
+      "content": "I will. The cops are already here. Please hurry."
+    }
+  ]
+}

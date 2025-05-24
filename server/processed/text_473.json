@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Do you need police or paramedic?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "No, I want to report a drug overdose."
+    },
+    {
+      "role": "assistant",
+      "content": "Who had a drug overdose?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who had a drug overdose?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, this girl I'm..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is she there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's in my son's room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're at Ardell Drive. Palm Beach Gardens, Florida, 33410."
+    },
+    {
+      "role": "assistant",
+      "content": "Give me one moment, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What did she overdose with?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "That's going to be Ardell Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "It's going to be a drug overdose."
+    },
+    {
+      "role": "assistant",
+      "content": "What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Pardon?"
+    },
+    {
+      "role": "assistant",
+      "content": "What's the female's name?"
+    },
+    {
+      "role": "user",
+      "content": "Anastasia."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's 18, 19, something like that."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, no, I think she's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she cold to the touch?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, yeah, I think so. I'm pretty distraught over this whole thing."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. When was the last time she was seen?"
+    },
+    {
+      "role": "user",
+      "content": "Well, it's like she was here yesterday, and, you know, her car was parked here, and she was supposedly sleeping in my son's room. And I guess he got panicky because she passed away. And so she just passed away yesterday. And I found out just about an hour ago, and I've been in a panic ever since."
+    },
+    {
+      "role": "assistant",
+      "content": "This is your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "No, this is not mine. That's somebody else. That's my son. He got scared."
+    },
+    {
+      "role": "assistant",
+      "content": "So it's an acquaintance of your son?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. It's just terrible. I don't know what to say. I'm just my wife, and I just don't know what to do."
+    },
+    {
+      "role": "user",
+      "content": "I understand. All right."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll have a unit on the way. You're pretty sure she's gone."
+    },
+    {
+      "role": "user",
+      "content": "Oh, yeah. She's..."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. I'm sorry you're in this predicament. I just don't, you know, it's like my whole life is over now. I don't know."
+    },
+    {
+      "role": "user",
+      "content": "But you know what to say. You know, I don't know what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to send the people over there to help you. We'll be right there."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Just make sure to do it. You know what's that now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this Waterway Manor?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is. That's right. It's off of Palmwood."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. And is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. The police are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you. Bye-bye."
+    }
+  ]
+}

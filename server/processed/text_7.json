@@ -1,0 +1,320 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have a friend who's been drinking. He's now loading several weapons and about to go to his girlfriend's house. He is armed and dangerous."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of weapons does he have?"
+    },
+    {
+      "role": "user",
+      "content": "He's got a pistol, a shotgun, and a rifle I know of."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's he going?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the address he's going to; I've only met her once."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Chancy Smith."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and just to confirm, does he have any weapons on him right now?"
+    },
+    {
+      "role": "user",
+      "content": "He had them in his hand when I walked out the door. I could hear him loading them."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of guns again? Is he in the house right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's in the house right now. He's got a pistol, a shotgun, and at least two or three rifles."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's he planning to shoot?"
+    },
+    {
+      "role": "user",
+      "content": "His girlfriend. He's planning on going to her house soon."
+    },
+    {
+      "role": "assistant",
+      "content": "Is his girlfriend there with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not there with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Where does she live?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know. I've only met her once."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said he's in the house right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm at the end of the road, waiting to see if he's leaving."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he done this before?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of. I've known him for a long time."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he having trouble with his girlfriend or just been drinking a lot?"
+    },
+    {
+      "role": "user",
+      "content": "He's having trouble with her and has been drinking a lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Anybody else in the house besides him?"
+    },
+    {
+      "role": "user",
+      "content": "No, just him."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a grey t-shirt and black workout pants with an orange stripe down the side."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he white, black, or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He's white."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to stay on the line with you until my officers get there. You said he's still inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still inside. I haven't seen him leave yet."
+    },
+    {
+      "role": "assistant",
+      "content": "What does he drive?"
+    },
+    {
+      "role": "user",
+      "content": "He drives a silver extended cab, four-wheel drive Toyota Tacoma."
+    },
+    {
+      "role": "assistant",
+      "content": "You said he has all those guns with him, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He's still inside. I hope they get here before he tries to leave."
+    },
+    {
+      "role": "user",
+      "content": "He's on the move."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he getting in the truck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's in the truck. He's headed towards Nazareth Church Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he going in the silver Toyota Tacoma?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the silver extended cab Tacoma with blacked out windows. He probably has his pistol in the cab with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Which way is he going? Are you following him?"
+    },
+    {
+      "role": "user",
+      "content": "He took a right off the road. He's headed towards Nazareth Church Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he on Nazareth or on Cannon Trail?"
+    },
+    {
+      "role": "user",
+      "content": "He's on Cannon Trail headed towards Nazareth. I'm trying to catch up with him."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're behind him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where does his girlfriend live?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's out of sight now. I'm trying to catch up. He's taken a left on Nazareth Church Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that a left on Nazareth towards Longpond?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. A cop car just came around the corner and passed him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did the officer turn around?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The officer was out of sight."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still behind him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're passing Longpond going towards Crossbury."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still see him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think he stopped. I'm three cars behind him."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still following him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You said he's in the silver Tacoma, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, silver Tacoma with black windows."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, let me know if you see anything else."
+    },
+    {
+      "role": "user",
+      "content": "He just entered a house with a weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I don't want to get too close. It's 149 Farm Chase Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's in that residence?"
+    },
+    {
+      "role": "user",
+      "content": "I think his girlfriend is. There's a car in the garage."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a Mustang in the garage."
+    },
+    {
+      "role": "assistant",
+      "content": "I hear the sirens. Are you still outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm down the road, about three houses away."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you heard or seen anything since he went inside?"
+    },
+    {
+      "role": "user",
+      "content": "No, nothing yet. I don't know if he went in through the garage. The door might have already been open."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I see a Lexington County unit up the road."
+    },
+    {
+      "role": "user",
+      "content": "He's turning around and went the other way."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, he might be waiting for backup. I see another car coming in."
+    },
+    {
+      "role": "user",
+      "content": "They're just pulling in. That's the house right there, the white one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, I'm going to let you go talk to them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

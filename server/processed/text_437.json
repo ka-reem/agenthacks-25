@@ -1,0 +1,420 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's our hunting cabin. It's on Panhandle Road across from the pump stations, near Rock Road. I think it's 157."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "We went to the Quail's Unlimited dinner last night, and a friend of mine looks like he hit his head in the bathroom, and I can't get him to get up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. It looks like maybe, but I can't get his mouth open."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is it the Michael Cook residence?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Does 335151.157th Avenue sound right?"
+    },
+    {
+      "role": "user",
+      "content": "That sounds correct, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. His nose is bleeding; it looks like maybe he slipped while he was going to the bathroom or something?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's been there since last night."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the phone number you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": "It's 734."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to get right down by his face and tell me if he's breathing. Put your face right next to his nose and mouth."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it doesn't feel like he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's 49. But his body doesn't feel ice cold, though."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What color is he?"
+    },
+    {
+      "role": "user",
+      "content": "He's white."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he cold?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's been sleeping on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And you don't feel any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't feel any breathing, no."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is he at in the bathroom? Are you able to get him on his back?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so. He's a big guy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're going to have to try to do CPR, so I need you to try to get him on his back, if at all possible."
+    },
+    {
+      "role": "user",
+      "content": "Joe, Joe, come on. Get up. Joe, wake up, please. Go on your back, Joe. Joe, can you hear me? Sir? Sir? Can you hear me? Hello? Sir? Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell for sure if he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, were you able to get him on his back?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's huge. I can't move him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you get his mouth open at all?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I can get his mouth open a little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you see if there's any food or vomit in his mouth?"
+    },
+    {
+      "role": "user",
+      "content": "I don't see any."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else there that can help you move him?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said he's not cold, right?"
+    },
+    {
+      "role": "user",
+      "content": "His hands are cold, but not the rest of his body."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We really need to try to get him on his back so we can check for proper breathing. Can you feel anything if you put your hand by his nose or mouth?"
+    },
+    {
+      "role": "user",
+      "content": "He doesn\u2019t respond to me when I talk to him."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he again?"
+    },
+    {
+      "role": "user",
+      "content": "49."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to confirm if he's breathing or not."
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. I've got my finger in his mouth."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to feel in his mouth for anything?"
+    },
+    {
+      "role": "user",
+      "content": "See if there's anything blocking his airway?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, is there anything in his throat?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Are people coming now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have them on their way, but I need you to work with me until they get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get your hand in his mouth at all to see if there's anything blocking his airway?"
+    },
+    {
+      "role": "user",
+      "content": "His teeth are closed."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see into his mouth at all even with his teeth closed?"
+    },
+    {
+      "role": "user",
+      "content": "There's some blood coming from his nose."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is already on the way, okay? Stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get a blanket or anything to keep him warm?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "It looks like he might have fallen in the living room. There's some broken glass there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you back in the bathroom with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm just getting a blanket."
+    },
+    {
+      "role": "assistant",
+      "content": "There's no way at all you could drag him out by his feet or anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't think so, he's a big guy."
+    },
+    {
+      "role": "assistant",
+      "content": "There's absolutely nothing you can do to maneuver him or drag him out?"
+    },
+    {
+      "role": "user",
+      "content": "I've been trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Even if you have to set the phone down, just anything you can think of to get him on his back."
+    },
+    {
+      "role": "user",
+      "content": "Joe, Joe, Joseph, get up."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to see any way to move him? Put me on speaker if you need to."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to move him?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's too difficult. I hurt my back trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he on his side?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he wedged in there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, kind of wedged on his side."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you use a blanket to help move him?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying."
+    },
+    {
+      "role": "assistant",
+      "content": "Are first responders getting closer?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Has anything changed with him at all?"
+    },
+    {
+      "role": "user",
+      "content": "Not really."
+    },
+    {
+      "role": "assistant",
+      "content": "You're sure the door is unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "If the responders can't find the house, you may need to leave him to go find them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still unable to move him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's probably close to 300 pounds."
+    },
+    {
+      "role": "user",
+      "content": "His pants are around his ankles, like he was trying to go to the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the house visible from the road?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's around a corner."
+    },
+    {
+      "role": "assistant",
+      "content": "There is a log cabin by the road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but the house is back around the corner."
+    },
+    {
+      "role": "assistant",
+      "content": "They are getting closer, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Anything changing with him?"
+    },
+    {
+      "role": "assistant",
+      "content": "You're sure where the doors are?"
+    },
+    {
+      "role": "user",
+      "content": "How are you guys doing?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Are they right there with you?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the bathroom."
+    }
+  ]
+}

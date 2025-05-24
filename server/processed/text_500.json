@@ -1,0 +1,104 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, we're at 7420 South Howell, and some guy is shooting a gun at the temple."
+    },
+    {
+      "role": "assistant",
+      "content": "7420 South Howell? Is he inside the temple with the gun, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, transferring you to Oak Creek Police. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Oak Creek 9-1-1, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a man shooting inside the Sikh temple at 7420 South Howell."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on the way. Stay safe and indoors."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from 7512 South Howell. There is shooting happening."
+    },
+    {
+      "role": "assistant",
+      "content": "Did anyone get hit, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. There's continuous shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, transferring you to Oak Creek Police. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Oak Creek 9-1-1, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a man with a gun shooting inside the Sikh temple at 7512 South Howell."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on scene. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a shooting at 7512 South Howell."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are already on scene, sir. Is there anything new to report?"
+    },
+    {
+      "role": "user",
+      "content": "No, I was just checking."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for the call. Stay safe."
+    }
+  ]
+}

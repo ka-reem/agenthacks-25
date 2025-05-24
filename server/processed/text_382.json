@@ -1,0 +1,260 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, somebody just came in and shot my daughter and my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "They shot them? Are they conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Please, she's bleeding out. My daughter is bleeding out."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "She's 10."
+    },
+    {
+      "role": "assistant",
+      "content": "And where were they shot?"
+    },
+    {
+      "role": "user",
+      "content": "In the head. Should I pick her up?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, no. I want you to leave her where she is."
+    },
+    {
+      "role": "user",
+      "content": "Okay, what am I going to do? Are they still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who they are?"
+    },
+    {
+      "role": "user",
+      "content": "They're coming back in. They're coming back in."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know. Are you still there? Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm scared. How many people were there?"
+    },
+    {
+      "role": "assistant",
+      "content": "How many people were there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I was asleep and I can't move. I've been shot myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Where were you shot?"
+    },
+    {
+      "role": "user",
+      "content": "I think I'm shot in the leg. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you armed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're coming lights and sirens. Did you see any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just got up because they told us that somebody had escaped jail and needed to check my house. Then they shot my husband and my daughter, and they shot me."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming, okay? You said they told your husband they wanted to come in because of an escaped person?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and that the whole property was surrounded with officers."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm sitting here bleeding and I have this gun loaded."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "It's a handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah. Where in the house are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the kitchen, staring at the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with your husband and your daughter?"
+    },
+    {
+      "role": "user",
+      "content": "No, I can't look at them."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicles do you have on your property?"
+    },
+    {
+      "role": "user",
+      "content": "I have a black Suburban in the front and a white Ford truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Did it sound like males were talking?"
+    },
+    {
+      "role": "user",
+      "content": "There was a man and a shorter woman."
+    },
+    {
+      "role": "assistant",
+      "content": "What did the woman look like? Was she Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "No, she was white."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And what about the man?"
+    },
+    {
+      "role": "user",
+      "content": "He was tall."
+    },
+    {
+      "role": "assistant",
+      "content": "Were there others?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a Hispanic man too."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see what they were wearing?"
+    },
+    {
+      "role": "user",
+      "content": "Camouflage clothing."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you holding up okay? Keep pressure on your wound."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying. My husband always had a gun in the house just in case."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. Did you hit any of them?"
+    },
+    {
+      "role": "user",
+      "content": "No, they shot at me, and I shot back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, try to stay calm. We're getting help to you as fast as we can."
+    },
+    {
+      "role": "user",
+      "content": "I yelled at them to get out, but they just kept shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be okay. They're almost there. Stay with me."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry. I don't know how much longer I can hold on."
+    },
+    {
+      "role": "assistant",
+      "content": "They should be there any moment. Do you hear or see anything outside?"
+    },
+    {
+      "role": "user",
+      "content": "I hear cars driving up. I hope it's them."
+    },
+    {
+      "role": "assistant",
+      "content": "They should announce themselves. Stay with me until they're with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Just hang in there a little longer."
+    },
+    {
+      "role": "user",
+      "content": "I hear them. They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the gun down and let them come to you."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the kitchen. I'm on 911."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell them you can't move and that you're injured."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm doing that."
+    },
+    {
+      "role": "user",
+      "content": "They're with me now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to hang up. You're in good hands now."
+    }
+  ]
+}

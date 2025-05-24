@@ -1,0 +1,480 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My Uncle Javis is slitting his neck and his girlfriend's neck, and I have kids here."
+    },
+    {
+      "role": "assistant",
+      "content": "I have kids here. Okay. What's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "My Uncle Javis is slitting his neck in front of my kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What address are you at?"
+    },
+    {
+      "role": "user",
+      "content": "818 East Main."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that in Lowell?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. Stay on the line with me, and let me get the ambulance on the line. You need to calm down for your children's sake."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on, bud? Hello? What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "My Uncle Jeff is slitting his neck in front of my kids and slitting his ex-girlfriend\u2019s neck. Come on! Get in, go!"
+    },
+    {
+      "role": "assistant",
+      "content": "I can't hear you. Stay on the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I am. I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are your kids out of the house?"
+    },
+    {
+      "role": "user",
+      "content": "I can't. It's too cold and I have a newborn."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't send them to the neighbors or something?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't have any friends around here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just a minute. Please hurry."
+    },
+    {
+      "role": "user",
+      "content": "Yep, they're on the way. Hang on. Let me call."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on now?"
+    },
+    {
+      "role": "user",
+      "content": "He's still trying to slit. He's bleeding badly and he's still trying to slit his ex-girlfriend's neck."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right. Hang on just a minute. Where's the knife now?"
+    },
+    {
+      "role": "user",
+      "content": "We're going to be going soon, okay, honey? I promise. We can't. We have nowhere to go. We don't have a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody able to get the knife away from him?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. All right, I don't want anybody else hurt. How many people are hurt at this point?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sure there's two."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your first name?"
+    },
+    {
+      "role": "user",
+      "content": "Megan."
+    },
+    {
+      "role": "assistant",
+      "content": "Megan, you need to tell me what's going on so I can let my officers know."
+    },
+    {
+      "role": "user",
+      "content": "Okay. My Uncle Jeff came over here\u2014"
+    },
+    {
+      "role": "assistant",
+      "content": "Right. Now, tell me what's going on right now."
+    },
+    {
+      "role": "user",
+      "content": "My Uncle Jeff is standing in front of Jana."
+    },
+    {
+      "role": "assistant",
+      "content": "In the living room?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and Jana is scared. She can't move. Troy can't move."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he holding them there so they can't get out? Are they able to get out of the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're not able to. None of us can."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on."
+    },
+    {
+      "role": "user",
+      "content": "I know you're hungry, but I can't get to your mother."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that?"
+    },
+    {
+      "role": "user",
+      "content": "My niece Mackenzie."
+    },
+    {
+      "role": "assistant",
+      "content": "She needs to get away."
+    },
+    {
+      "role": "user",
+      "content": "I can't put her anywhere. I have no place to put her. That's why I need you guys."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, we're on the way, all right, Megan? Just stay with me. What's he doing now?"
+    },
+    {
+      "role": "user",
+      "content": "He's attacking Jana right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, all right. Just tell me what's going on, but I don't want anybody else hurt."
+    },
+    {
+      "role": "user",
+      "content": "He's slitting her. Her neck is bleeding really badly."
+    },
+    {
+      "role": "assistant",
+      "content": "He's attacking her again with the knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Go over there and sit, both of you. Now, get over there, now. I don't want you to see this."
+    },
+    {
+      "role": "user",
+      "content": "Troy is just sitting there trying to get him to stop."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he stabbing her? What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Either he's playing with his cuts or he's showing his cuts or something. I can't see."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't see him right now?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I can see him, but his back's turned, so I don't know what he's doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "No, don't come out here like that. I got kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Who are you talking to?"
+    },
+    {
+      "role": "user",
+      "content": "My Uncle Jeff."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he still got the knife?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "He put it down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Wait, he's got a bigger knife!"
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, Mackenzie. Sit down, Mackenzie."
+    },
+    {
+      "role": "user",
+      "content": "Hurry up! They're on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get the kids out the sliders?"
+    },
+    {
+      "role": "user",
+      "content": "I can see the cops. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get the children out to the officer, Megan?"
+    },
+    {
+      "role": "user",
+      "content": "I can't get anybody out. They don't have shoes on. They don't have clothes on."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to hand them out to the officer?"
+    },
+    {
+      "role": "user",
+      "content": "Hurry up!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on? Megan, what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "He's slitting his neck, killing himself."
+    },
+    {
+      "role": "assistant",
+      "content": "He's slitting his own neck?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Has any of the officers come in yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, not yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep me updated as to what's going on, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Get away from there, you guys. Go!"
+    },
+    {
+      "role": "assistant",
+      "content": "He's laying down?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who else is in there with him? Dana and Troy are still in there? Are the kids still in the kitchen with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Don't look, you guys. Please don't look."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Does anybody approach?"
+    },
+    {
+      "role": "assistant",
+      "content": "Megan?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "I understand this is upsetting, but I need you to keep your..."
+    },
+    {
+      "role": "user",
+      "content": "He's down. You can go."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the officers in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one of the county sheriffs."
+    },
+    {
+      "role": "assistant",
+      "content": "One officer's in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Honey, come on, come on."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to get out?"
+    },
+    {
+      "role": "user",
+      "content": "We're still not, because I don't have any shoes or clothes for the kids."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to go to a neighbor?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, Jana. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Megan?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know what's going on right now."
+    },
+    {
+      "role": "user",
+      "content": "Is there another officer in there?"
+    },
+    {
+      "role": "assistant",
+      "content": "I believe so. Are you outside or inside?"
+    },
+    {
+      "role": "user",
+      "content": "We're still inside because I can't get the kids out in this weather."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Your uncle Jeff is down. Is he?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if he's dead or what."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do they have him handcuffed? Can you see?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they have Troy and Jana lying on the ground right now."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Are all the officers there with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you still inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "We're still inside the house."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Do any of the kids need any medical assistance or are you all set?"
+    },
+    {
+      "role": "user",
+      "content": "We're all set."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The officers have him handcuffed, right?"
+    },
+    {
+      "role": "user",
+      "content": "He's laying on the ground with his head on the couch. I can't tell if he's dead or not. They can't tell if he's handcuffed."
+    },
+    {
+      "role": "assistant",
+      "content": "I just want to make sure the situation is safe before we disconnect."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me a minute. I just want to make sure my officers are safe."
+    }
+  ]
+}

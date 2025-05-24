@@ -1,0 +1,172 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've got a woman in my bank pointing a rifle at all of us and all of our customers. I need police now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. It's a woman, you said?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, she's making us go into the vault. I need police here now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Police are on the way. Stay on the line with me. A woman is holding up the bank?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she just walked in with a shotgun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, which bank and where exactly is it located?"
+    },
+    {
+      "role": "user",
+      "content": "Bank of America on the corner of Orangewood Avenue and Central Florida Parkway."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I just walked out to my car."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the woman for me?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's white, has brown hair, wearing a pink tank top and blue jean shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said you saw a shotgun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I'm moving down the road a little bit, but I can still see the bank."
+    },
+    {
+      "role": "assistant",
+      "content": "Please try to stay where you can see the bank safely. Your name?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, hang on. My name is [Name Redacted]."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Can you see anything else?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what she was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "A pink shirt, blue jean shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I moved down to a public area so I wouldn't be in full view of her. I thought it was a joke at first, but then she said it was a stick-up."
+    },
+    {
+      "role": "assistant",
+      "content": "You were walking out as she was walking in?"
+    },
+    {
+      "role": "user",
+      "content": "Correct. She said everyone had to give her money, but I was already out the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. Let me see if I can transfer you to my dispatcher."
+    },
+    {
+      "role": "user",
+      "content": "No problem."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, I don't know if this is real, but I'm standing outside the Bank of America on the corner of Orangewood and Central Florida Parkway. There's a lady with a rifle and she's bringing people into the vault. I just walked in and she told me to turn around and get out, so I did."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we have deputies on the way. Can you describe the woman?"
+    },
+    {
+      "role": "user",
+      "content": "She was Hispanic and around 45 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "What was she wearing?"
+    },
+    {
+      "role": "user",
+      "content": "An orange shirt, like a halter top, and black jeans, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what type of rifle it was?"
+    },
+    {
+      "role": "user",
+      "content": "No, but it was definitely a rifle."
+    },
+    {
+      "role": "assistant",
+      "content": "She was putting everyone inside the vault?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I saw her directing people into the vault."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you still see her? Are you in the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the parking lot but I can't see inside the bank from here."
+    },
+    {
+      "role": "assistant",
+      "content": "Has she exited the bank yet, as far as you can tell?"
+    },
+    {
+      "role": "user",
+      "content": "No, she hasn't. She's still inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you are and keep safe. We'll have officers there shortly."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

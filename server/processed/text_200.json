@@ -1,0 +1,324 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Interior to bucket."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead."
+    },
+    {
+      "role": "user",
+      "content": "Hey, give me a little break on the roof here."
+    },
+    {
+      "role": "user",
+      "content": "We got a couple guys working inside. It\u2019s getting tight."
+    },
+    {
+      "role": "assistant",
+      "content": "We're on that, we'll shut down for a minute."
+    },
+    {
+      "role": "user",
+      "content": "Bucket to truck."
+    },
+    {
+      "role": "user",
+      "content": "Shut it down."
+    },
+    {
+      "role": "user",
+      "content": "Now, everybody out of the building."
+    },
+    {
+      "role": "user",
+      "content": "Everybody out of the building."
+    },
+    {
+      "role": "user",
+      "content": "We've got to get them back here to rupture this glass a bit more."
+    },
+    {
+      "role": "user",
+      "content": "In turn to command, we're good."
+    },
+    {
+      "role": "user",
+      "content": "In terms, mail out, mail out."
+    },
+    {
+      "role": "user",
+      "content": "Bucket to command, the south wall of the burning building is starting to tip in heavily."
+    },
+    {
+      "role": "user",
+      "content": "A unit should be evacuating the building."
+    },
+    {
+      "role": "user",
+      "content": "May Day, May Day."
+    },
+    {
+      "role": "user",
+      "content": "Four firefighters trapped inside the building."
+    },
+    {
+      "role": "user",
+      "content": "Police player, go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "301 to some 801."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead, 301."
+    },
+    {
+      "role": "user",
+      "content": "Copy that 70."
+    },
+    {
+      "role": "user",
+      "content": "All units on scene are 801 from 803."
+    },
+    {
+      "role": "user",
+      "content": "A firefighter is trapped inside."
+    },
+    {
+      "role": "user",
+      "content": "Firefighter Radio 14, what's your location?"
+    },
+    {
+      "role": "user",
+      "content": "Firefighter inside is okay, left side trapped."
+    },
+    {
+      "role": "user",
+      "content": "203 to Fire Center."
+    },
+    {
+      "role": "user",
+      "content": "Can you send me two more ambulances down here, please?"
+    },
+    {
+      "role": "user",
+      "content": "Delhi Ambulance requesting two ambulances, two ambulances in Leslie, 147 South Main."
+    },
+    {
+      "role": "user",
+      "content": "Who's available?"
+    },
+    {
+      "role": "user",
+      "content": "Requesting two ambulances, firefighters trapped inside the building."
+    },
+    {
+      "role": "user",
+      "content": "Time now 0921."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the response in there?"
+    },
+    {
+      "role": "user",
+      "content": "I have the availability of three ambulances at this time."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need me to cancel Delhi?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Leslie Mason will be responding with three ambulances at 09:22."
+    },
+    {
+      "role": "user",
+      "content": "Cancel Delhi Ambulance request."
+    },
+    {
+      "role": "assistant",
+      "content": "Delhi you can cancel your two ambulances."
+    },
+    {
+      "role": "user",
+      "content": "Lansing Mason is en route with three."
+    },
+    {
+      "role": "assistant",
+      "content": "Cancel at 09:23."
+    },
+    {
+      "role": "user",
+      "content": "Red 213, continue for standby there, not an emergency, please."
+    },
+    {
+      "role": "assistant",
+      "content": "By now."
+    },
+    {
+      "role": "user",
+      "content": "Murder is 313 to 301."
+    },
+    {
+      "role": "user",
+      "content": "Senator A to command."
+    },
+    {
+      "role": "user",
+      "content": "We've got three Mason ambulances, one Delhi ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Command is trying to get the firefighters out. There are four inside that we know of."
+    },
+    {
+      "role": "user",
+      "content": "You want to stretch about 2-13 up to emergency before we get ready."
+    },
+    {
+      "role": "assistant",
+      "content": "Command, there are two firefighters out at this time."
+    },
+    {
+      "role": "assistant",
+      "content": "Two firefighters are out at 09:25."
+    },
+    {
+      "role": "user",
+      "content": "Center to Stockbridge Ambulance Request, Mutual Ambulance Response in Leslie."
+    },
+    {
+      "role": "user",
+      "content": "Command, I say the ambulance and now to respond."
+    },
+    {
+      "role": "user",
+      "content": "Loose Bar and Grill, 147 South Main."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear the call responding, 147."
+    },
+    {
+      "role": "assistant",
+      "content": "Heavy rescue, bring your crew to the rear side of the building for cribbing."
+    },
+    {
+      "role": "user",
+      "content": "3-1-1 us out front or out back."
+    },
+    {
+      "role": "user",
+      "content": "Pressure down on the red line."
+    },
+    {
+      "role": "user",
+      "content": "Red line, pressure down."
+    },
+    {
+      "role": "user",
+      "content": "Fire center to all EMS units on South Main."
+    },
+    {
+      "role": "assistant",
+      "content": "All EMS units on South Main, switch to Fire Tech 2."
+    },
+    {
+      "role": "user",
+      "content": "I need two ambulances on the east side of the street, clear."
+    },
+    {
+      "role": "user",
+      "content": "Commission base, go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "Move fire operations to Fire Tech 3."
+    },
+    {
+      "role": "assistant",
+      "content": "All fire operations move to Fire Tech 3, 09:33."
+    },
+    {
+      "role": "user",
+      "content": "Rescue operations will stay on 1."
+    },
+    {
+      "role": "user",
+      "content": "All rescue operations will stay on Fire Tech 1."
+    },
+    {
+      "role": "user",
+      "content": "Do you need to send another ambulance down to Loose Bar and Grill?"
+    },
+    {
+      "role": "assistant",
+      "content": "Lansing Mason, are you clear?"
+    },
+    {
+      "role": "user",
+      "content": "Clear on that. We've got one clearing up from Sparrow right now."
+    },
+    {
+      "role": "user",
+      "content": "I'll send them down."
+    },
+    {
+      "role": "user",
+      "content": "Lansing trying to dispatch from Leslie on LFTAC 3."
+    },
+    {
+      "role": "user",
+      "content": "Kind of curtain down here. Can I talk to, but can I get 40 here?"
+    },
+    {
+      "role": "user",
+      "content": "When you come in Bellevue Street, come past Main, the first block down."
+    },
+    {
+      "role": "user",
+      "content": "Okay, who am I speaking with?"
+    },
+    {
+      "role": "user",
+      "content": "It's Leslie's command."
+    },
+    {
+      "role": "user",
+      "content": "Responding up front, they're setting up command there."
+    },
+    {
+      "role": "user",
+      "content": "Fire center, we are arriving at the scene, going to TACC 3."
+    },
+    {
+      "role": "user",
+      "content": "Edwards 5085 at Delhi."
+    },
+    {
+      "role": "user",
+      "content": "After you cross Main Street, come to Church Street and then go north."
+    },
+    {
+      "role": "user",
+      "content": "Fire center, incident command, clear."
+    },
+    {
+      "role": "user",
+      "content": "Find 301."
+    }
+  ]
+}

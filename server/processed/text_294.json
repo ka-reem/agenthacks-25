@@ -1,0 +1,48 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Good Enough Avenue. Someone is running around the neighborhood shooting a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are they on foot or in a car?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm back in my house. I can't tell. I think they're running on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I'm at 2393 Good Enough Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "But they're on the floor, you guys."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if it's a male or a female? Do you have any description?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. My husband went outside. I'm in the house with my kids. Let me look out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Please don't put yourself in any danger. They are en route. Okay. What's your name?"
+    }
+  ]
+}

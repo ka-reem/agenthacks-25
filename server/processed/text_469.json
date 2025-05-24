@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, this is HPD."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, HPD. How can I help you?"
+    },
+    {
+      "role": "user",
+      "content": "We got a pursuit going on. It's heading towards us."
+    },
+    {
+      "role": "assistant",
+      "content": "Uh-oh, okay. What vehicle are you pursuing?"
+    },
+    {
+      "role": "user",
+      "content": "It's a white Bonneville, occupied by two white females."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are they now?"
+    },
+    {
+      "role": "user",
+      "content": "They went through the gate close to Martin Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, a white Bonneville went through the Martin Road gate, occupied by two white females. Do you have a license plate?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do. It is 47Y4444."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Are you still pursuing them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, one of our unmarked units, our narcotics guys, is following them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'll notify the units. Anything else you need?"
+    },
+    {
+      "role": "user",
+      "content": "No, just wanted to keep you informed."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Be safe out there. Bye."
+    }
+  ]
+}

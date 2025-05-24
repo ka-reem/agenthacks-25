@@ -1,0 +1,200 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Please send medical. What is it, a medical emergency or something else?"
+    },
+    {
+      "role": "user",
+      "content": "There's a bad fight next door. One person is on the ground, and the other just got up."
+    },
+    {
+      "role": "assistant",
+      "content": "What address?"
+    },
+    {
+      "role": "user",
+      "content": "Our address is 5304 Milegall Road. It's happening next door."
+    },
+    {
+      "role": "user",
+      "content": "I think their last name is Cross or something similar."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it directly across the street or next door to you?"
+    },
+    {
+      "role": "user",
+      "content": "Right next door. There's a red truck outside."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry, I think he just ran someone over with the red truck."
+    },
+    {
+      "role": "assistant",
+      "content": "He ran over somebody?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's running them over in the driveway. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, listen to me. I need to get some more information. Is it right next door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right next door. He's running them over!"
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay calm. So the person is in a red truck, running someone over repeatedly?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right next door."
+    },
+    {
+      "role": "assistant",
+      "content": "If I'm looking at your house, is it on the right or the left?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the right if you're looking at my house."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's a red truck doing this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "They are already en route. What's your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "My husband's going out with a gun. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "They are already en route. What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "280-7314. Bill, get over here! Hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they're already en route and moving as fast as they can. I need to ask some more questions."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person who was run over getting up?"
+    },
+    {
+      "role": "user",
+      "content": "No, they are not getting up."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your husband back inside with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's back inside."
+    },
+    {
+      "role": "user",
+      "content": "Wait, it might have been a dog he ran over. We're not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they are already en route. I need to be sure. So it might be a dog?"
+    },
+    {
+      "role": "user",
+      "content": "We're not sure, but it might be a dog. The truck is still there."
+    },
+    {
+      "role": "assistant",
+      "content": "So the suspect vehicle is a red Jeep?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it looks like a red jeep."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the people over there?"
+    },
+    {
+      "role": "user",
+      "content": "We do, but not very well. The suspect's first name might be Josh."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "No, but someone said he might have one. He's acting completely insane."
+    },
+    {
+      "role": "user",
+      "content": "About two or three years ago, his dad shot himself over there."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. My officers are en route. Is there anything else happening now?"
+    },
+    {
+      "role": "user",
+      "content": "No, but if he comes over here, I will shoot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Let's not discuss that. Just tell me what's happening in the yard."
+    },
+    {
+      "role": "user",
+      "content": "I can't see anyone getting hit now. Maybe he went back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "So Josh went back into the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have Josh's last name?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, if anything else happens, call us back on 911."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye."
+    }
+  ]
+}

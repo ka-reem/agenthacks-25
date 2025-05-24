@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Brooke, 911, my husband's having a heart attack."
+    },
+    {
+      "role": "assistant",
+      "content": "We're going to start CPR on him, okay? I'm going to tell you what to do."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you right next to him? Put him flat on the floor on his back."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Expose his chest."
+    },
+    {
+      "role": "user",
+      "content": "Expose his chest."
+    },
+    {
+      "role": "assistant",
+      "content": "Kneel by his side."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the heel of your hand in the center of his chest right between the nipples."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Push down firmly with only the heels of your hand, two inches."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And do it 30 times like you're pumping the chest. I'm going to count, I want you to go this fast. As fast as I'm counting."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty. Start again."
+    },
+    {
+      "role": "user",
+      "content": "Okay. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "Start again. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "user",
+      "content": "I know this is hard. I want to take a deep breath and stop crying and start again, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "user",
+      "content": "Okay, start again. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing, moving, or coughing at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's just gasping for air."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep doing it. Go two inches deep. Let's start again. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty."
+    },
+    {
+      "role": "user",
+      "content": "Are they inside?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, right. Okay. Keep going until they take over, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The paramedics taken over?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    }
+  ]
+}

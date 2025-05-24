@@ -1,0 +1,528 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at West High School. There's a guy with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Which high school?"
+    },
+    {
+      "role": "user",
+      "content": "West High."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have the police dispatched. Can you give me a description?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The guy is just running through the halls."
+    },
+    {
+      "role": "assistant",
+      "content": "Can someone give me a description of the person?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Can anybody give a description?"
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know where in the building? Is he white, black, Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you go somewhere where you're safe?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going around with a bunch of people."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me if there's been any shots fired?"
+    },
+    {
+      "role": "user",
+      "content": "No, we'll just stay here until police arrive."
+    },
+    {
+      "role": "assistant",
+      "content": "They are getting dispatched, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a secure location, locked in a room?"
+    },
+    {
+      "role": "user",
+      "content": "I'm locked in a room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the building are you?"
+    },
+    {
+      "role": "user",
+      "content": "Third floor."
+    },
+    {
+      "role": "assistant",
+      "content": "What floor?"
+    },
+    {
+      "role": "user",
+      "content": "Third."
+    },
+    {
+      "role": "user",
+      "content": "Oh my goodness."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my goodness."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you heard any shots or seen anything that can help us?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "People are just shouting in the room."
+    },
+    {
+      "role": "user",
+      "content": "And I heard on the announcements."
+    },
+    {
+      "role": "assistant",
+      "content": "What room number are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got many officers being dispatched."
+    },
+    {
+      "role": "user",
+      "content": "I don't see them here yet."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Ben."
+    },
+    {
+      "role": "user",
+      "content": "I haven't heard any shots or anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, now what room number are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It's quiet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to stay in a safe location."
+    },
+    {
+      "role": "user",
+      "content": "We're huddled in the corner."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who the person with the gun is? Any kind of description?"
+    },
+    {
+      "role": "user",
+      "content": "No, we just heard people say get in the room and I just called 911."
+    },
+    {
+      "role": "user",
+      "content": "Here, somebody wants to talk."
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "user",
+      "content": "What?"
+    },
+    {
+      "role": "assistant",
+      "content": "Who is that?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody ran in and then walked out."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who this someone is?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I was in the classroom and he pulled out a gun. There was one shot fired at my teacher."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know if anyone's been shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I ran out of the classroom and tried to find another room."
+    },
+    {
+      "role": "assistant",
+      "content": "What room is the person with the gun in? We have several officers pulling up now."
+    },
+    {
+      "role": "user",
+      "content": "He went into the third-floor computer lab."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone's been hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know. I ran out of the class."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the name of the suspect?"
+    },
+    {
+      "role": "assistant",
+      "content": "What room are you in and how many people are with you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in room 309 and there are about 22 people in here."
+    },
+    {
+      "role": "assistant",
+      "content": "22 students in room 309, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "And no one in there is hurt? Does anyone in there need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody in my room."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Andrew, you're doing a great job."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this your cell phone that you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "No, somebody else gave me the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to keep everybody in the room with you. Nobody leaves until an officer comes and talks to you and lets you know that it's safe, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, we are on lockdown right now, so I believe we are safe."
+    },
+    {
+      "role": "assistant",
+      "content": "Are any cops there at the school yet?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have several officers in the building now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, excellent."
+    },
+    {
+      "role": "assistant",
+      "content": "I can stay on the phone with you until we have an officer with you. Would you like to talk to my teacher?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, that's fine. I can talk to your teacher."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, this is the 911 operator with Hamilton County. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Joel."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Joel, we have several officers in the building."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like the scene is secure, but we're going to ask you to keep everybody there until someone comes to get you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Absolutely."
+    },
+    {
+      "role": "assistant",
+      "content": "And no one in your class is injured, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just keep everybody in your room and keep the doors locked."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I do believe that they have the shooter contained."
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like everything is okay for now, okay? Just keep everybody in your class."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any other information? Anything else that you might know that might help them?"
+    },
+    {
+      "role": "user",
+      "content": "I believe the shooter has been taken into custody, but I'm not 100% sure."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I don't know anything else."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We know that several other teachers have already followed lockdown procedure."
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have gotten several calls."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll just keep everybody in your class there until someone comes to get you and follow your procedure, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to let them know what's going on there, okay? You're doing a good job."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Cincinnati was transferred. 3091 West North Bend Road, LaSalle High School, got a shooter."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, young man."
+    },
+    {
+      "role": "user",
+      "content": "Hey."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the building are you?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I'm on the third floor. I just took the phone away from a student who I think witnessed what just took place."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the shooter in the building?"
+    },
+    {
+      "role": "user",
+      "content": "The shooter was in room 316, which would be at the west side of the building on the third floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he still have a weapon?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell you that. I heard students screaming and came out to see what was going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you still hear shots being fired?"
+    },
+    {
+      "role": "user",
+      "content": "No, he shot one time. I did not hear any other shots."
+    },
+    {
+      "role": "user",
+      "content": "The young man with me believes that the shooter shot himself."
+    },
+    {
+      "role": "assistant",
+      "content": "We got a report the person with the gun is a student. Is that correct?"
+    },
+    {
+      "role": "user",
+      "content": "That's my understanding, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And we also have a report that he may have shot himself. Is that correct?"
+    },
+    {
+      "role": "user",
+      "content": "That's what I'm understanding, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he fire the weapon at anyone else?"
+    },
+    {
+      "role": "user",
+      "content": "He did not fire the weapon at anyone else. Everybody just ran. The student with me said the shooter was shaking when he came into the room, then went into one corner and pulled the weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. The police are in the building. They're making their way up to the third floor. Is it room 316, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's room 316."
+    },
+    {
+      "role": "assistant",
+      "content": "What's nearby in relation to this classroom?"
+    },
+    {
+      "role": "user",
+      "content": "There are three classrooms there. They are all computer labs. There's a bathroom and a room that holds all the computer components."
+    },
+    {
+      "role": "assistant",
+      "content": "I will stay on the phone as long as you need me to."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "It looks like the scene's been secured. You're doing a great job staying calm."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you made a broadcast throughout the building for everyone to remain in their rooms?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. If you can, make sure everyone stays in place until directed otherwise."
+    },
+    {
+      "role": "user",
+      "content": "Okay, will do."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a great job. Thanks for your help."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

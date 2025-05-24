@@ -1,0 +1,276 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We need an ambulance at 1397 Newport."
+    },
+    {
+      "role": "assistant",
+      "content": "1397 Newport?"
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the problem there?"
+    },
+    {
+      "role": "user",
+      "content": "I think we have a dead person in here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is the person bleeding at all?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is this person?"
+    },
+    {
+      "role": "user",
+      "content": "23."
+    },
+    {
+      "role": "assistant",
+      "content": "23, male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Female. I have a mother. She's right now seeing the daughter laying on the ground. She found her laying on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're not going to hear me for a second, but do not hang up."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "I don't know what happened. I got home. We found her laying down in the garage. Somebody stabbed her with a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody stabbed her with a knife?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. We need the ambulance as fast as we can. She still has a heartbeat, but she's cold."
+    },
+    {
+      "role": "assistant",
+      "content": "She still has a heartbeat, but she's cold?"
+    },
+    {
+      "role": "user",
+      "content": "She's cold and blue."
+    },
+    {
+      "role": "assistant",
+      "content": "She's cold and blue. Do you know how long she's been there?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just got home from work."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We do have police officers en route and an ambulance also, okay? I want you to stay on the phone with me until they get there. She's still in the garage right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I'm scared to move her."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't move her, okay? You said that she still has a heartbeat, though?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who did this?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see a knife?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see the knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Who else is at the house with you, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Her mom right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else at the house?"
+    },
+    {
+      "role": "user",
+      "content": "No, no one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you just got home now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. We found her in the garage. We were walking and we were trying to reach her. We couldn't find her. She was not answering the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how long were you guys trying to reach her?"
+    },
+    {
+      "role": "user",
+      "content": "Since 9 p.m."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, yes ma'am, they're on the way, okay? They're getting there as fast as they can. Just take a deep breath. What's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Alina."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you spell it?"
+    },
+    {
+      "role": "user",
+      "content": "A-L-I-N-A."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's her last name?"
+    },
+    {
+      "role": "user",
+      "content": "Ribnikova. R-I-B-N-I-K-O-V-A."
+    },
+    {
+      "role": "assistant",
+      "content": "And she's 23?"
+    },
+    {
+      "role": "user",
+      "content": "She's 22, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Victoria."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your relation to her?"
+    },
+    {
+      "role": "user",
+      "content": "We are roommates and she's my best friend."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to pull out the cars from the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "You're moving the cars out of the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How many cars you have in the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "We have two cars in the driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Just leave the cars where they are, okay? The ambulance can get around them."
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a vehicle in the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm right now in the garage. I put my car but there's still two more cars."
+    },
+    {
+      "role": "assistant",
+      "content": "There are still two more cars?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see the police officers now?"
+    },
+    {
+      "role": "user",
+      "content": "There is one police officer here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We've got more police officers and the ambulance will be there shortly, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll let you talk to the police officers now, okay? You can hang up with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, goodbye."
+    }
+  ]
+}

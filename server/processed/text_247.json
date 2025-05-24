@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My friend's mom got attacked by a bobcat!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're on a dirt road off of Stone Ridge."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "They're bleeding all over."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they got attacked by a bobcat?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a bobcat."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are there?"
+    },
+    {
+      "role": "user",
+      "content": "There are five of us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how many people got attacked by the bobcat?"
+    },
+    {
+      "role": "user",
+      "content": "Two."
+    },
+    {
+      "role": "assistant",
+      "content": "Where were they attacked at?"
+    },
+    {
+      "role": "user",
+      "content": "In the arms and leg."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they bleeding heavily?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're bleeding a lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a clean cloth or anything to stop the bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "We have a jacket."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, use the jacket to apply pressure to the wounds. Don't remove it, just keep pressing on it. Is the bobcat still there?"
+    },
+    {
+      "role": "user",
+      "content": "No, it ran away."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You're doing great. How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 12."
+    },
+    {
+      "role": "assistant",
+      "content": "Are there any adults with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but she was attacked too."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you have your jacket wrapped around her arm?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we have."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still conscious and breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's conscious and breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 43."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the other person who was attacked?"
+    },
+    {
+      "role": "user",
+      "content": "She's 13."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and do you have something wrapped around the 13-year-old's leg?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we do."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I want you to stay where you are. Can someone run to the road to guide the ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, someone is going up to meet them."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay calm and stay with the injured. Are you near a creek bed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're by a creek bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see the road from where you are?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's a tree blocking the view."
+    },
+    {
+      "role": "assistant",
+      "content": "How far do you think you are from the road?"
+    },
+    {
+      "role": "user",
+      "content": "Not very far."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she still bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the cloth is soaking through."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to keep applying pressure. Are there any landmarks or signs nearby?"
+    },
+    {
+      "role": "user",
+      "content": "Our car is parked on Stone Ridge, it's tan with an American flag sticker on the back."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Lauren."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Lauren, you're doing a great job. Just stay calm. Are you still with Lisa, the injured adult?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How's Lisa doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's scared and in pain."
+    },
+    {
+      "role": "assistant",
+      "content": "I know, but you're doing a great job. Just keep talking to her and keep her calm. Have the firemen arrived yet?"
+    },
+    {
+      "role": "user",
+      "content": "We can see the fire truck now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me until the firemen reach you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we see them now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright Lauren, you did an amazing job. The firemen will take over now. Stay safe, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

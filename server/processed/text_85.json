@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We are at the corner of Riley Thompson and Automobile Road. There's a lady lying in the road. I think she was hit by a car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's got a head injury. Can you confirm the location is Riley Thompson and Automobile Road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, on Automobile Road, near 4300 Automobile."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me. I'm getting help out there. Did you see what happened to her?"
+    },
+    {
+      "role": "user",
+      "content": "We just came upon her. She has a pulse but is unconscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is breathing and has a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see who hit her or any obvious injuries?"
+    },
+    {
+      "role": "user",
+      "content": "She has a head injury and is lying face down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't move her. Is she by herself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's all alone."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, help is on the way. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Mark Klim."
+    },
+    {
+      "role": "assistant",
+      "content": "Mark, I got help coming. What's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "You need to hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "They are already on the way. Did anyone see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not sure what else to do. Her pulse is weak."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is she halfway in the road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but the road is not busy."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in a burgundy Toyota Camry in the middle of the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have your hazard lights on?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your wife think she needs CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Does she need CPR, Michelle? No, she's still breathing and has a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. If she needs CPR, I can help with that. The fire department and ambulance are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, Michelle says she has a pulse, just a weak one."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to know if she's breathing normally."
+    },
+    {
+      "role": "user",
+      "content": "Michelle, is she breathing normally? No, she isn't."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we need to start CPR. Turn her over carefully, stabilizing her head."
+    },
+    {
+      "role": "user",
+      "content": "There's another car coming; maybe they can help."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way. If you can't move her, that's okay, but we need to start CPR if she isn't breathing normally."
+    },
+    {
+      "role": "user",
+      "content": "Michelle thinks we should move her. She's got a really bad head injury and is bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she bleeding from anywhere specific?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, from her head and her right ear."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to check with my supervisor."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to turn her over and start CPR. Stabilize her head as you do so."
+    },
+    {
+      "role": "user",
+      "content": "Got it. Mark, take her hips and shoulders; Michelle will help with her head."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. Once she's turned over, check her mouth for any obstructions."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three. Oh, my God. She isn't breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Start CPR immediately. I'll stay on the phone with you."
+    },
+    {
+      "role": "user",
+      "content": "Alright, opening her airway now. Michelle, start CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Keep her airway open, and start chest compressions if you can't give breaths."
+    },
+    {
+      "role": "user",
+      "content": "She's making noises."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Keep doing CPR until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "Where are they?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way to 4300 Automobile Road. You should hear sirens shortly."
+    },
+    {
+      "role": "user",
+      "content": "No one else has stopped yet."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. It seems long, but they're coming as fast as they can."
+    },
+    {
+      "role": "user",
+      "content": "We can do this. I can't believe someone hit her and left."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay strong. I hear sirens now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I hear them too. Keep going, Michelle."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep doing CPR until they take over."
+    },
+    {
+      "role": "user",
+      "content": "He's here now, getting his stuff out."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, let him take over when he's ready."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. We found her face down."
+    },
+    {
+      "role": "assistant",
+      "content": "Mark, what\u2019s your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "My number is [redacted]."
+    },
+    {
+      "role": "assistant",
+      "content": "You did a great job. Help is there now. I'm going to let you go. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

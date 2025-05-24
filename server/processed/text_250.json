@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, yeah, this is Nero Myers. I work for the school."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, go ahead."
+    },
+    {
+      "role": "user",
+      "content": "We, uh, had a, I think a shooting right now at the bus barn down at the high school."
+    },
+    {
+      "role": "assistant",
+      "content": "At where at?"
+    },
+    {
+      "role": "user",
+      "content": "At, uh, Argusburg."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, at the high school, where?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, in the bus barn."
+    },
+    {
+      "role": "assistant",
+      "content": "In the bus barn?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who it was?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. Someone came running out and said that somebody shot Ed Thomas."
+    },
+    {
+      "role": "assistant",
+      "content": "Ed Thomas? And they're still in the building?"
+    },
+    {
+      "role": "user",
+      "content": "They're in the building?"
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we'll get someone right there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, all right. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, my name is Leah Vanderholt. I'm calling from Parkesburg. I may you've already had calls about this, but there's been a shooting here."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we've got help on the way. People are being sent."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, they are. Are you with the scene?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right across the street from here in the Schneiderman home. We can see the building right now. And all we see is the police blazer. We don't see any ambulances. We don't see anything."
+    },
+    {
+      "role": "assistant",
+      "content": "The ambulance is on the way right now. They had a hard time getting a crew, but they are on the way. We also have paramedics that have been en route for about 10 minutes."
+    },
+    {
+      "role": "user",
+      "content": "Oh, okay, and we're keeping every kid that witnessed this in this house right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address of that house, Leah?"
+    },
+    {
+      "role": "user",
+      "content": "What's the address of this house? 507 North Johnson."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Keep them all there, and as soon as we can, it could be a little bit, but we will have an officer stop by, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Bye."
+    }
+  ]
+}

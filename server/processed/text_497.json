@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have shots fired at Seven Oaks Cabin."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, shots fired at Seven Oaks Cabin. Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "We have an officer down. I repeat, officer down."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, officer down. Are you able to provide your exact location?"
+    },
+    {
+      "role": "user",
+      "content": "It's approximately half a mile west of Blast Road and 7-0's Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, half a mile west of Blast Road and 7-0's Road. Medical assistance is en route. Do you have eyes on the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Negative, we do not have eyes on the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, no eyes on the suspect. Can you provide the direction of the last known location of the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "It's going to be on the north side of the road. Several pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, north side of the road. Will relay this information to the responding units. Is there any additional information?"
+    },
+    {
+      "role": "user",
+      "content": "Another officer is down, we need urgent assistance."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, another officer down. Medical and additional units are on the way. Stay safe and keep us updated with any new information."
+    },
+    {
+      "role": "user",
+      "content": "We don't have an officer. I don't know. I'm sorry."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Help is on the way. Stay calm and take cover if needed. Keep us informed of any updates."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm here at the police station, Monroe Falls."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's wrong?"
+    },
+    {
+      "role": "user",
+      "content": "I killed my sister. I'm turning myself in."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did it happen?"
+    },
+    {
+      "role": "user",
+      "content": "At my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you live?"
+    },
+    {
+      "role": "user",
+      "content": "247 Monroe Falls Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you kill her?"
+    },
+    {
+      "role": "user",
+      "content": "I strangled her."
+    },
+    {
+      "role": "assistant",
+      "content": "What apartment number?"
+    },
+    {
+      "role": "user",
+      "content": "It's not an apartment, 247 Monroe Falls."
+    },
+    {
+      "role": "assistant",
+      "content": "When did you do this?"
+    },
+    {
+      "role": "user",
+      "content": "I just did it this morning."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your sister?"
+    },
+    {
+      "role": "user",
+      "content": "She's 32."
+    },
+    {
+      "role": "assistant",
+      "content": "How did you strangle her?"
+    },
+    {
+      "role": "user",
+      "content": "I just, I got angry and I strangled her. We had an argument."
+    },
+    {
+      "role": "user",
+      "content": "She said she was going to hurt my mom and everything, and I just lost it."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "Hanley."
+    },
+    {
+      "role": "assistant",
+      "content": "Hanley? Can you spell that for me?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, H-A-N-L-E-Y."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you calling from your cell phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm just frantic. I just panicked. I just lost it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you on any medication?"
+    },
+    {
+      "role": "user",
+      "content": "I take some steroidal medication and stuff like that."
+    },
+    {
+      "role": "assistant",
+      "content": "What's that for?"
+    },
+    {
+      "role": "user",
+      "content": "You might need to get someone."
+    }
+  ]
+}

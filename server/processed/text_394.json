@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "His name is Matt. I guess he knows her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 911, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's Peaches on Cortez."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening there?"
+    },
+    {
+      "role": "user",
+      "content": "He was shooting, there are injuries."
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He's probably 6'4, white, wearing a gray shirt and jeans. He's got a mustache and goatee."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he driving?"
+    },
+    {
+      "role": "user",
+      "content": "He's getting in a dark gray Jeep Cherokee."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to see the license plate?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's 795 J-O-V. Could be J-D-V, but I know it was 795."
+    },
+    {
+      "role": "assistant",
+      "content": "Which direction did he go?"
+    },
+    {
+      "role": "user",
+      "content": "He just turned onto 59. I couldn't see the direction, I'm inside the building."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are injured?"
+    },
+    {
+      "role": "user",
+      "content": "Just one, she's been shot several times. She's not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on the way. Is she still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, no, she's not moving at all."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, police and medical are on the way. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Jeb."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Jeb. You've been a great help. They're on the way."
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, 134, transferring another caller about the shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just got in the car and took off. It's like an SUV, Royal Blue."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get the license plate by chance?"
+    },
+    {
+      "role": "user",
+      "content": "No, there's a guy laying there. I think he's been shot a couple times."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they inside Peaches or where are they?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're just outside the jewelry store."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, police and medical are on the way. Thank you for your help."
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you. Bye-bye."
+    }
+  ]
+}

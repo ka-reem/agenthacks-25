@@ -1,0 +1,224 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Listen, I cannot understand you."
+    },
+    {
+      "role": "assistant",
+      "content": "I can't understand you. What address are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I shot oxygen. I go in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the water? Your vehicle's in the water?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't have any idea where you're at?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in an apartment complex?"
+    },
+    {
+      "role": "user",
+      "content": "No, man, this avenue. 86 is three, almost wild, man."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at 86 and where?"
+    },
+    {
+      "role": "user",
+      "content": "86. I don't know what is Michigan."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're at 86, but you're not sure where you're at on 86?"
+    },
+    {
+      "role": "user",
+      "content": "No, man, please tell me."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, just a moment."
+    },
+    {
+      "role": "user",
+      "content": "Please tell me."
+    },
+    {
+      "role": "assistant",
+      "content": "That's what I'm trying to do."
+    },
+    {
+      "role": "user",
+      "content": "Sure, tell me, please."
+    },
+    {
+      "role": "assistant",
+      "content": "It's an 86... Township, okay? Stay on the line with me, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "Man, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm going to. Just a moment. Are you still in the car?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, man. They come in the way."
+    },
+    {
+      "role": "assistant",
+      "content": "For EMS, hang on. Vehicle in water, 86th, Township. I have a female in the car. I'm going to stay with you until someone gets there."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, man, please."
+    },
+    {
+      "role": "assistant",
+      "content": "I will stay right with you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "She's in the water, 86th and Township, the female's in the vehicle that we have on the line. What's your name, hon?"
+    },
+    {
+      "role": "user",
+      "content": "Elizabeth."
+    },
+    {
+      "role": "assistant",
+      "content": "Elizabeth?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Elizabeth. We have people on the way to help you, okay? Hey, you're still in the water, right?"
+    },
+    {
+      "role": "user",
+      "content": "Right, please send them my way over there."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, calm down. We're sending people to you right now, all right? Just stay calm. Are you injured at all? Are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not hurt, but I'm in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "We're on the way, ma'am. We're not going to let you go."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're sending a lot of people to help you, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there should be an officer pulling up now. What kind of car are you in, Elizabeth?"
+    },
+    {
+      "role": "user",
+      "content": "Stay with me now, honey."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How high is the water in the car, hon? Are you all right?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there an officer with you?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else in the car with you?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, there's someone with you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you have a child or anyone with you?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, go ahead and hang up, honey."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Everybody else good, man."
+    },
+    {
+      "role": "assistant",
+      "content": "We're out of here."
+    },
+    {
+      "role": "assistant",
+      "content": "Awesome. Go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "She's out of the vehicle. 152, 114."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead."
+    },
+    {
+      "role": "assistant",
+      "content": "She's out. She's okay, and it's 478 okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Go, get in here."
+    },
+    {
+      "role": "assistant",
+      "content": "In 476, he's fine, just a little wet. See, I'm always out of the water."
+    }
+  ]
+}

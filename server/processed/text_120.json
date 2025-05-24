@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I've got a fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's your location?"
+    },
+    {
+      "role": "user",
+      "content": "2355 South, 1100 West."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, slow down. What's on fire?"
+    },
+    {
+      "role": "user",
+      "content": "I have a tank on fire."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a tank or a truck?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a petroleum tank."
+    },
+    {
+      "role": "assistant",
+      "content": "A petroleum tank? Do we need foam for this?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need foam."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you describe the petroleum tank more?"
+    },
+    {
+      "role": "user",
+      "content": "It's a gasoline tank, part of a tank farm."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it near any structures?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are rail cars and other oil tanks around."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'll get them on the way. Please keep everyone away from the area."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

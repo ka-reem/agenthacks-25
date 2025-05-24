@@ -1,0 +1,236 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just broke into our house. They're trying to break into my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "3719 North East 64th Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "About 20 seconds ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm pointing a gun at the door in case someone comes through it."
+    },
+    {
+      "role": "assistant",
+      "content": "How did they try to get in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I was asleep. My dog started barking."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said someone tried to break into your house. Through what door or window?"
+    },
+    {
+      "role": "user",
+      "content": "He's trying to break through my door."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still outside now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in my house trying to break into my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who it is?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen to me, my partner is getting officers on the way. Stay calm and stay in the room, okay?"
+    },
+    {
+      "role": "user",
+      "content": "All right."
+    },
+    {
+      "role": "assistant",
+      "content": "He's trying to kick the door in. Tell him that police are on the way and he needs to leave."
+    },
+    {
+      "role": "user",
+      "content": "Cops are on the way, you need to leave!"
+    },
+    {
+      "role": "assistant",
+      "content": "What type of gun are you armed with?"
+    },
+    {
+      "role": "user",
+      "content": "A .22 caliber handgun."
+    },
+    {
+      "role": "assistant",
+      "content": "And you have no idea who it is, correct?"
+    },
+    {
+      "role": "user",
+      "content": "I've never seen this guy before in my life."
+    },
+    {
+      "role": "user",
+      "content": "He's on my bedroom floor bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we are sending an ambulance. Is he inside your bedroom now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "I did. He charged at me and my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you shoot him?"
+    },
+    {
+      "role": "user",
+      "content": "In the body."
+    },
+    {
+      "role": "assistant",
+      "content": "We're getting medical help started as well. Is he still conscious?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm not going near him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your front door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you have your wife go unlock the front door?"
+    },
+    {
+      "role": "user",
+      "content": "She's going now."
+    },
+    {
+      "role": "assistant",
+      "content": "After the front door is unlocked, secure the dog."
+    },
+    {
+      "role": "user",
+      "content": "My wife is locking up the dog now."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did you secure the weapon?"
+    },
+    {
+      "role": "user",
+      "content": "It's in the kitchen, and he's in my bedroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, unload your gun."
+    },
+    {
+      "role": "user",
+      "content": "It's unloaded, the chamber is empty."
+    },
+    {
+      "role": "assistant",
+      "content": "Leave the gun on the kitchen table and go outside with your wife."
+    },
+    {
+      "role": "user",
+      "content": "Alright, we're going outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see my officers?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but they're down the block."
+    },
+    {
+      "role": "assistant",
+      "content": "Stop walking and stand at your front door. Wait for the officers to give you instructions."
+    },
+    {
+      "role": "user",
+      "content": "Alright, we're waiting."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your wife still with you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she just walked out."
+    },
+    {
+      "role": "assistant",
+      "content": "Both of you just stay there and wait for the officers."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're in our driveway now."
+    },
+    {
+      "role": "assistant",
+      "content": "Were there any other guns in the bedroom that he could access?"
+    },
+    {
+      "role": "user",
+      "content": "No, there aren't."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the gun on the ground and follow the officer's commands."
+    },
+    {
+      "role": "user",
+      "content": "Okay, doing that now."
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye."
+    }
+  ]
+}

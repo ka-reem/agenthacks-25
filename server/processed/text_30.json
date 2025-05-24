@@ -1,0 +1,216 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "user",
+      "content": "I'm gonna hurt myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on N 11th St, Fresno, California."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an address?"
+    },
+    {
+      "role": "user",
+      "content": "1120 N 11th St."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Charles."
+    },
+    {
+      "role": "user",
+      "content": "I'm beside a white Ford."
+    },
+    {
+      "role": "assistant",
+      "content": "I show 1120 N 11th St is not a valid address. Can you confirm?"
+    },
+    {
+      "role": "user",
+      "content": "It's my old house."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry to hear that. Why do you want to hurt yourself, Charles?"
+    },
+    {
+      "role": "user",
+      "content": "It's just time for me to die. She's always been a butthead."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's being a butthead?"
+    },
+    {
+      "role": "user",
+      "content": "Just someone I know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you armed at all?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you armed with?"
+    },
+    {
+      "role": "user",
+      "content": "I have a 9mm and two knives."
+    },
+    {
+      "role": "assistant",
+      "content": "What are you wearing right now?"
+    },
+    {
+      "role": "user",
+      "content": "Black Dodger shirt, blue jeans, and white tennis shoes."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you been doing drugs or drinking today?"
+    },
+    {
+      "role": "user",
+      "content": "No drugs, just drinking."
+    },
+    {
+      "role": "assistant",
+      "content": "How much have you had to drink?"
+    },
+    {
+      "role": "user",
+      "content": "A good amount."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you home alone? Is there anybody else there with you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm by myself."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at on the property?"
+    },
+    {
+      "role": "user",
+      "content": "I'll wait right here. I won't go anywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your birthday?"
+    },
+    {
+      "role": "user",
+      "content": "May 17, 1966."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your last name, Charles?"
+    },
+    {
+      "role": "user",
+      "content": "Salinas. S-A-L-I-N-A-S."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're going to wait by the street for them?"
+    },
+    {
+      "role": "user",
+      "content": "I'm going to wait right in front of my old house."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get there in a car or on foot?"
+    },
+    {
+      "role": "user",
+      "content": "I walked. I've been walking for days."
+    },
+    {
+      "role": "assistant",
+      "content": "And where were you living before you went back to your old house?"
+    },
+    {
+      "role": "user",
+      "content": "I had to come home. This is where I was supposed to die."
+    },
+    {
+      "role": "assistant",
+      "content": "And you don't have any family members, mom, dad, brothers, sisters?"
+    },
+    {
+      "role": "user",
+      "content": "Everybody's dead."
+    },
+    {
+      "role": "assistant",
+      "content": "When officers get there, can you put your weapons down, hide them somewhere, get them away from you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not going to hurt anybody. I just want them to know that."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to make sure you put those weapons down, though."
+    },
+    {
+      "role": "user",
+      "content": "There's no way they'll shoot me unless I move aggressively. I just need them to know I'm not going to hurt them."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anybody else around you right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am, there's nobody around me."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you move somewhere safer?"
+    },
+    {
+      "role": "user",
+      "content": "I'll stay where I'm at."
+    },
+    {
+      "role": "assistant",
+      "content": "It's a residential area, right? Where would you move to that's safer?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'll just stay here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, just stay where you are. The officers will be there soon."
+    }
+  ]
+}

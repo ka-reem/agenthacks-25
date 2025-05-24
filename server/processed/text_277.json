@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have a kidnapping."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, please. Explain to me what's going on, okay?"
+    },
+    {
+      "role": "user",
+      "content": "There's a note left and our daughter's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "A note was left and your daughter is gone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's six years old. She's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago was this?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just found the note."
+    },
+    {
+      "role": "assistant",
+      "content": "Does it say who took her?"
+    },
+    {
+      "role": "user",
+      "content": "There's a ransom note here. It says S-B-T-C. Victory."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Patsy Ramsey. I'm the mother. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sending an officer over, okay? Do you know how long she's been gone?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. Please, we just got up and she's not here. Oh my God, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, try to stay calm. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Please, hurry, hurry, hurry."
+    }
+  ]
+}

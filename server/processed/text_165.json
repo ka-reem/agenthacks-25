@@ -1,0 +1,208 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello, there has been a murder-suicide. There are no survivors. Please send help."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My ex-boyfriend broke into my house and killed my current boyfriend and then killed himself."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you just find them?"
+    },
+    {
+      "role": "user",
+      "content": "No, he killed my current boyfriend and then he held me hostage and just shot himself in the head."
+    },
+    {
+      "role": "assistant",
+      "content": "Just now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me. Did he hurt you?"
+    },
+    {
+      "role": "user",
+      "content": "He kind of beat me up, and my parents aren't home. It's just me, and I'm 17."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "Brian White and Jake Burns are the victims."
+    },
+    {
+      "role": "assistant",
+      "content": "Burns, B-U-R-N-S?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are the weapons right now?"
+    },
+    {
+      "role": "user",
+      "content": "The axe is in Jake's head and the gun is in Brian's hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting in our breakfast nook. Brian's in the living room. There's the kitchen between us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Don't touch anything, okay? Can you do me a favor? Can you go sit on the porch?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Desiree Staper."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay to walk?"
+    },
+    {
+      "role": "user",
+      "content": "I can't walk. He beat me up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay there. Are you still tied up?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I put too much pressure on my leg."
+    },
+    {
+      "role": "assistant",
+      "content": "How long did he hold you captive?"
+    },
+    {
+      "role": "user",
+      "content": "Since about eight o'clock this morning."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he break into the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he watched my mom leave and came in while Jake and I were sleeping."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you on the porch right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but my leg really hurts."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "I need a medic, yes, but I don't need to go to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have help on the way. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I just want to get these bodies out of my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll take care of that. Is there anyone else in the house?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Where does Brian live?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know his address, but he lives on Houghton."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know his middle name and date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "His middle name is Douglas. He would be 20 tomorrow."
+    },
+    {
+      "role": "assistant",
+      "content": "The officer should be approaching you right now. Stay on the line with me until you're with the officer, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's coming up right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, go ahead and talk to the officer, Desiree."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye-bye."
+    }
+  ]
+}

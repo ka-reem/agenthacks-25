@@ -1,0 +1,120 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have a signal 14, possible signal 20F, headed to East University from Cassadaga."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "It's an extended cab white Chevy with a ladder sticking out of the back. The driver is Brian Lankford, wearing camo clothing."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he armed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he mentioned he is Signal Zero with a gun and his license is over."
+    },
+    {
+      "role": "assistant",
+      "content": "What is his last known location?"
+    },
+    {
+      "role": "user",
+      "content": "Last seen at 143 Cassadaga Road, possibly headed towards East University."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. We'll start units in that area."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. 11 Charlie 71 en route to East University."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there another unit that can assist 11 Charlie 71?"
+    },
+    {
+      "role": "user",
+      "content": "One Charlie 60, can Orange City send a unit?"
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. I'll check. Orange City unit, can you assist?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 11 Charlie 71 on scene in the area."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Do you need additional units?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 1651 East University, cross street Foothill Farms Road. No units on scene yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. We have units en route. Any injuries reported?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, officer injured. He can't see anything, something in his eye, but he's conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Unknown. There's a round through the passenger side window."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure he stays covered. Do we know where the shot came from?"
+    },
+    {
+      "role": "user",
+      "content": "Unknown. We need additional support."
+    },
+    {
+      "role": "assistant",
+      "content": "All units, proceed with caution. Perimeter needs to be set up around the house. 1651 East University."
+    },
+    {
+      "role": "user",
+      "content": "Copy. Is Air 1 available?"
+    },
+    {
+      "role": "assistant",
+      "content": "Already en route. We will notify the district."
+    },
+    {
+      "role": "user",
+      "content": "Town four. We'll set up at Saxon and I-4."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there information on whether shots are coming from the house?"
+    },
+    {
+      "role": "user",
+      "content": "Unknown. 11.0.2 Central, Fish Hospital, en route with officer shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy. We'll notify the hospital."
+    }
+  ]
+}

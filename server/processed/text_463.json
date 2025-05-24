@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm going to be..."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you please tell me your location and what is happening right now?"
+    },
+    {
+      "role": "user",
+      "content": "B...B...Bhopi. B...B...B... But if you will leave your name and number, I will be glad to get back with you. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there someone at your location who can come to the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is Campbell County 911. We've got a 911 call from this resident. The Alta Vista Police Department is outside and needs someone to come to the door."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I need you to stay calm and follow their instructions. Can you go to the door now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm... I'm...I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "It's important for your safety that you listen to the police. They are there to help you. Are you armed with a handgun?"
+    },
+    {
+      "role": "user",
+      "content": "High METI... selbst... Beatt... Bhaddern... act... arma... on... windows... to... she... and... the... the..."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you put the handgun away safely? The officers are there to check on you. Please let me know if you have put the gun away."
+    },
+    {
+      "role": "user",
+      "content": "It's on right now but if you will leave your name and number, I will be glad to get back with you. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "For your safety and the safety of the officers, it's important to put the gun away. Can you do that now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, this is Campbell County 911, we have officers outside of your residence."
+    },
+    {
+      "role": "assistant",
+      "content": "Please follow the officers' instructions and go to the door unarmed. They are trying to check on you."
+    }
+  ]
+}

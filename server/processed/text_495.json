@@ -1,0 +1,208 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm somewhere on North Hicks, and I fell through a drain cover."
+    },
+    {
+      "role": "assistant",
+      "content": "You fell through a drain cover?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second. Were you walking when this happened?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you walking and then fell into a sewer?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm trying to remember exactly what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you live?"
+    },
+    {
+      "role": "user",
+      "content": "There's like a wood thing over the cover. It's still in place, so I don't know how I got down here."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you on the street or on the sidewalk?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to remember. I was walking north on Hicks and Palatine."
+    },
+    {
+      "role": "assistant",
+      "content": "How far down are you?"
+    },
+    {
+      "role": "user",
+      "content": "It's a crate covering the opening. I'm not sure how I got down here because..."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know how you got down there?"
+    },
+    {
+      "role": "user",
+      "content": "No, because when I look up there's just a narrow opening. I don't think I displaced it."
+    },
+    {
+      "role": "assistant",
+      "content": "How far down are you?"
+    },
+    {
+      "role": "user",
+      "content": "About four feet. I don't think I can get up. Maybe four feet."
+    },
+    {
+      "role": "assistant",
+      "content": "You're four feet under?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, and there are handholds, but I don't know if I can get up here."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on a second."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Can you repeat your name again, please?"
+    },
+    {
+      "role": "user",
+      "content": "There's a wood crate with things in it."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, so you were walking north on Hicks. Did you notice the fire department next to you?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I was north of the firehouse and then I'm just..."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your first name?"
+    },
+    {
+      "role": "user",
+      "content": "There's a bad phone connection."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you injured?"
+    },
+    {
+      "role": "user",
+      "content": "I scratched myself a bit. I'm down in a manhole about four feet down."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you able to grab hold of the handholds?"
+    },
+    {
+      "role": "user",
+      "content": "It's kind of wobbly here."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're four feet under?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, three or four feet. There's a crate covering the opening that I fell through."
+    },
+    {
+      "role": "assistant",
+      "content": "How big is that crate? What color is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's one of those square things, brown in color."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone with me. We have help on the way, but our phone line is breaking up. It's going in and out. Are you near the fire station?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was just north of the firehouse walking on Hicks."
+    },
+    {
+      "role": "assistant",
+      "content": "What side of the street were you on, the side by the firehouse or the other side?"
+    },
+    {
+      "role": "user",
+      "content": "By the firehouse."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me know when the fire department reaches you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you walking on the sidewalk near the firehouse?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but it was kind of around the back of the firehouse."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember crossing Dundee Road?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you on pavement or grass?"
+    },
+    {
+      "role": "user",
+      "content": "I was near the shopping center cutting behind some businesses."
+    },
+    {
+      "role": "assistant",
+      "content": "So you were still in the firehouse area when you fell through the crate?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    }
+  ]
+}

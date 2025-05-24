@@ -1,0 +1,312 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on. Hold on, buddy. Hold on. Hold on. Help him."
+    },
+    {
+      "role": "user",
+      "content": "No. If he sits down, he's going to go into shock, he's got to stand up."
+    },
+    {
+      "role": "user",
+      "content": "Okay?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not."
+    },
+    {
+      "role": "user",
+      "content": "Is it here in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh. Oh, I'll do it."
+    },
+    {
+      "role": "user",
+      "content": "Outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "user",
+      "content": "You're on?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "user",
+      "content": "Who are you on?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "You're all right, buddy. You're all right."
+    },
+    {
+      "role": "user",
+      "content": "I think we need to put him in a wheelchair, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Get a wheelchair."
+    },
+    {
+      "role": "assistant",
+      "content": "Emergency dispatch, 911."
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance to the south side Walmart immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I have a man shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've had other calls on it. We are getting an ambulance going. Where is the person who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "He is inside the store right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Inside the doors, right inside?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Where was he shot?"
+    },
+    {
+      "role": "user",
+      "content": "Outside."
+    },
+    {
+      "role": "user",
+      "content": "He was shot in the face."
+    },
+    {
+      "role": "assistant",
+      "content": "In the face?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where's the person who shot him?"
+    },
+    {
+      "role": "user",
+      "content": "They drove off."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what kind of vehicle they drove off in?"
+    },
+    {
+      "role": "user",
+      "content": "Come here. What kind of vehicle? What kind of vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "I don't remember. Relax. Slow down. Truck, car..."
+    },
+    {
+      "role": "user",
+      "content": "It was a car. Small car. Small car."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see what color the vehicle was?"
+    },
+    {
+      "role": "user",
+      "content": "Two men. The guy that did it?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Okay. Does he know the name of the person that shot him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. He says it was Ku Yang. Koo Yang. And he left with another man in a vehicle."
+    },
+    {
+      "role": "assistant",
+      "content": "Can he tell me what color the vehicle was?"
+    },
+    {
+      "role": "user",
+      "content": "Do you have any idea what color it was?"
+    },
+    {
+      "role": "user",
+      "content": "Yon, y'all. Y'all is above. Got more."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Again, the ambulance is on the way already."
+    },
+    {
+      "role": "assistant",
+      "content": "And where on his face was he shot?"
+    },
+    {
+      "role": "user",
+      "content": "He is shot in the light teeth."
+    },
+    {
+      "role": "user",
+      "content": "There's one outside?"
+    },
+    {
+      "role": "user",
+      "content": "There's one outside that's apparently shot in the heart."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's another person outside. Was he with him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're getting one more ambulance going. We have one other person there claiming it's outside who was shot in the heart."
+    },
+    {
+      "role": "assistant",
+      "content": "You got two shootings?"
+    },
+    {
+      "role": "user",
+      "content": "Two shootings."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they together or is this another person?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the other person that was shot, were they together or is this somebody else unrelated?"
+    },
+    {
+      "role": "user",
+      "content": "They're together."
+    },
+    {
+      "role": "assistant",
+      "content": "They are together?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And they are outside right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I know CPR."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're doing CPR? Keep pressure on there. Keep pressure on there."
+    },
+    {
+      "role": "user",
+      "content": "Go down."
+    },
+    {
+      "role": "user",
+      "content": "The other person is outside of Walmart yet. He was shot in the chest."
+    },
+    {
+      "role": "assistant",
+      "content": "I am still here. Somebody is doing CPR on him?"
+    },
+    {
+      "role": "user",
+      "content": "We just got two guys doing CPR right now."
+    },
+    {
+      "role": "user",
+      "content": "You got one in our store, one on the ground right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "The one that's on the ground who was shot in the chest, is he right outside the front doors?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he is. He's right in our handicapped area."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Outside of Walmart, in the handicapped area, he's on the ground. They're doing CPR on him. And the ambulances are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we do have an officer here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to let you talk to him then, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "All right, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

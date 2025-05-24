@@ -1,0 +1,52 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We have reports of a fight and potential gunshots at 7512 South Howell Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness any of this? Can you provide more details?"
+    },
+    {
+      "role": "user",
+      "content": "A bald male with glasses may have shot someone. I didn't see the shooter, but people are saying there's a man with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the location? 7512 South Howell Avenue?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, at the Sikh temple there. We need an ambulance. I do not see a shooter anywhere."
+    },
+    {
+      "role": "assistant",
+      "content": "We are dispatching fire and medical units to your location. Stay safe and do not approach the scene. Do you see any victims?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a victim down in the front yard, there's still noise and shots being heard."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Can you describe the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "All I know is he might be a bald male with glasses, and he could have gone inside the building."
+    },
+    {
+      "role": "assistant",
+      "content": "Got it. Please stay at a safe distance and keep yourself protected. More responders are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you. I'll wait here."
+    }
+  ]
+}

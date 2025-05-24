@@ -1,0 +1,444 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Now we want a margin to do. What are you reporting?"
+    },
+    {
+      "role": "assistant",
+      "content": "What are you reporting?"
+    },
+    {
+      "role": "user",
+      "content": "He was tied up by Dorman."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry?"
+    },
+    {
+      "role": "user",
+      "content": "This unit. We have been tied up by him. He was taken off with a Nissan Rogue."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Three?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "When did this happen? When did he go inside?"
+    },
+    {
+      "role": "user",
+      "content": "It was, we think he was actually here from when he left the truck."
+    },
+    {
+      "role": "user",
+      "content": "We weren't using his unit."
+    },
+    {
+      "role": "user",
+      "content": "It was never checked."
+    },
+    {
+      "role": "user",
+      "content": "We came in this, and we were fixing it up after a long-term rental, so we didn't have it much out."
+    },
+    {
+      "role": "assistant",
+      "content": "You guys were tied up?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, how about still?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and how long ago did he leave?"
+    },
+    {
+      "role": "user",
+      "content": "Let's see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "We also have housekeepers on the property. I don't know if they ever saw him. He did anything to them or not with their part out."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he take your vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "He took our keys."
+    },
+    {
+      "role": "assistant",
+      "content": "What keys?"
+    },
+    {
+      "role": "user",
+      "content": "Nissan wood."
+    },
+    {
+      "role": "assistant",
+      "content": "What color vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "It's like a purple-ish moon color."
+    },
+    {
+      "role": "user",
+      "content": "All the road drive."
+    },
+    {
+      "role": "user",
+      "content": "It was just dark and control."
+    },
+    {
+      "role": "assistant",
+      "content": "What's a make and model?"
+    },
+    {
+      "role": "user",
+      "content": "It's a Nissan Rogue."
+    },
+    {
+      "role": "assistant",
+      "content": "Nissan what?"
+    },
+    {
+      "role": "user",
+      "content": "Rogue. R-O-G-U-E."
+    },
+    {
+      "role": "assistant",
+      "content": "What color clothing was he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "I really didn't take notice. He actually was keeping us from looking at him."
+    },
+    {
+      "role": "assistant",
+      "content": "You're not sure?"
+    },
+    {
+      "role": "assistant",
+      "content": "And that he left about 15 to 30 minutes ago?"
+    },
+    {
+      "role": "user",
+      "content": "15 to 30 minutes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "When did he tie you up?"
+    },
+    {
+      "role": "user",
+      "content": "Right before leaving, he tied us up. He had pillowcases over our heads."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did he tie you up?"
+    },
+    {
+      "role": "user",
+      "content": "It was like 15 to 30 minutes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so this all happened today?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes. We're still tied up."
+    },
+    {
+      "role": "assistant",
+      "content": "You're still tied up?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Listen, I already have deputies being dispatched out there. I'm just going to keep you on the line."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he by himself?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he was wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He was wearing black clothes, black pants, red shirt. I don't remember if it was a T-shirt or a long-sleeve."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's there with you?"
+    },
+    {
+      "role": "user",
+      "content": "My husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you guys need paramedics?"
+    },
+    {
+      "role": "user",
+      "content": "Um... Maybe."
+    },
+    {
+      "role": "assistant",
+      "content": "Hey, can somebody get me med for that home invasion?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm still here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he have any weapons on him?"
+    },
+    {
+      "role": "user",
+      "content": "He had an automatic with a silencer. It was a black one."
+    },
+    {
+      "role": "assistant",
+      "content": "Was he inside when you guys arrived?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm pretty sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you think he's been there the whole time?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, because it's been empty. And I know there were never any tracks up and down here, including this morning."
+    },
+    {
+      "role": "assistant",
+      "content": "What time did you arrive there?"
+    },
+    {
+      "role": "user",
+      "content": "Um, we came in, well, we live here. We live on the property. This is one of our condos. We have a, we have a desert. We came in, I don't know what time it was. It was a little afternoon. We came in to work on it. We were going to work in here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you guys see footprints outside prior to going in your house?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Anybody else other than you and your husband that were tied up?"
+    },
+    {
+      "role": "user",
+      "content": "We were tied up in here. I have my daughter who is doing housekeeping and a housekeeper working outside of the property. We don't know if they are okay."
+    },
+    {
+      "role": "user",
+      "content": "Are you sure if someone's coming here?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sure somebody's going. We have several units on their way out there, ma'am."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I didn't take notice that it's yours among."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear deputies?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "We are in one of the back buildings."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in one of the back buildings?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, upstairs in one of the back buildings. We have three back buildings in the middle back."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, I don't have any doors."
+    },
+    {
+      "role": "user",
+      "content": "So three in Big Bear, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. If they can see 201 and 202 that is the front building, we're in the building behind it."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in the building behind what?"
+    },
+    {
+      "role": "user",
+      "content": "The units that say 201 and 202 and the building behind that building."
+    },
+    {
+      "role": "assistant",
+      "content": "You're behind building 202?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, that's close enough."
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Would they have sirens on?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, God."
+    },
+    {
+      "role": "user",
+      "content": "Are you still there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello here."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to keep you on the line until my deputies make contact with you."
+    },
+    {
+      "role": "user",
+      "content": "Okay. It's just hard to tell when the phone goes to sleep, you know. We are right across from where the command center was all we've seen."
+    },
+    {
+      "role": "assistant",
+      "content": "You guys are just across from the command center?"
+    },
+    {
+      "role": "user",
+      "content": "We're at right to all these days. It's not there anymore. From the prep house, at the golf course."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you guys just go up there today to check the property?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. We were too busy all weekend just coming here to work."
+    },
+    {
+      "role": "assistant",
+      "content": "So you guys arrived there today?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. It's still like right with all our properties. We just never came into this."
+    },
+    {
+      "role": "assistant",
+      "content": "She's still there."
+    },
+    {
+      "role": "user",
+      "content": "I'm still here. I'm going to stay on the line with you until my deputies actually go in there and help you guys, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Did I try to get the door open?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not just fighting death store. I thought maybe I could open it now or something. It's locked, and I can't..."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. Sorry, it's locked."
+    },
+    {
+      "role": "user",
+      "content": "We can't... It's too hard to manipulate the way he has us tied."
+    },
+    {
+      "role": "assistant",
+      "content": "Your husband's still tied?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're both still tied."
+    },
+    {
+      "role": "user",
+      "content": "I just scooted over."
+    },
+    {
+      "role": "user",
+      "content": "He left the cell phone in a different room."
+    },
+    {
+      "role": "user",
+      "content": "He left in here."
+    },
+    {
+      "role": "user",
+      "content": "I don't suppose you could... try my better self-condem exercise."
+    }
+  ]
+}

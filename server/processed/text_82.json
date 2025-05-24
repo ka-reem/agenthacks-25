@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We heard a noise and looked in. The garage door was up. I thought the gentleman was backing out. I went back to my house, but he never backed out. I came back over, and his driver's side window is shattered, and he's injured and can't answer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and the phone number you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from [caller provides phone number]."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "He's inside. I don't know if somebody tried to shoot him, if he shot himself, or what. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Was that at this location, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, send an ambulance in a hurry. An EMT. He's still alive. He's moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's going on with him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The driver's side window is all bashed in, and he's got blood all over his head. He's not responding to me."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My name is [caller provides name]. I think you need to hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'm sending help your way. I just want to ask you a few more questions, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Go ahead, but send them while you're asking."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. They're already on the way. Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm standing right outside the garage door."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me how old he is?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He looks like maybe 35 or 40."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hang on one second for me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "I apologize about that. How old is the patient again?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. He looks maybe 35 or 40."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he awake?"
+    },
+    {
+      "role": "user",
+      "content": "He's moving his head around, but he's not responding. I've called his name and asked what's going on, but he's not responding to that. His head's just kind of rolling around."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I can't tell."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell that. I'm assuming he's breathing if he's moving his head around. Did not hear him talk or anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You said he's sitting in the car, right?"
+    },
+    {
+      "role": "user",
+      "content": "Correct. In the driver's seat."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly is he?"
+    },
+    {
+      "role": "user",
+      "content": "In the driver's seat, inside the garage."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you direct the emergency crews to him, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Sure, sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm sending the paramedics to help you now. Just stay on the line. I'll tell you exactly what to do next."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If it's safe to do so, see if he is conscious, breathing, or moving at all."
+    },
+    {
+      "role": "user",
+      "content": "It's not safe for me to do. I don't want to put my hand in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, well, help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Alright, standing by. I've heard about break-ins in the area, and so I decided to walk over and take a look. The garage door was up, and I saw the window is shattered and he's got blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stand in line with me for now, okay, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "I got emergency crews on the way to you."
+    },
+    {
+      "role": "user",
+      "content": "Very good. I'm standing at the street. If I see them coming down, I can direct them right in."
+    },
+    {
+      "role": "assistant",
+      "content": "So he won't respond to you at all if you holler at him or anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he didn't respond, but his head is kind of moving around."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "I've walked away from the car right now. I'm standing at the street."
+    },
+    {
+      "role": "assistant",
+      "content": "The window shattered. The garage door was up, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Give me a second. I'll try to see where the emergency crews are, okay? Is he still moving around?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm standing at the street now trying to wait for your vehicle."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly are they coming from? Checking, got several people on the way."
+    },
+    {
+      "role": "user",
+      "content": "Yes, please hurry. We're close to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, it looks like one person is coming from Clay Road."
+    },
+    {
+      "role": "user",
+      "content": "So you're saying his head is bloody?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, the window is shattered. I don't know if he tried to shoot himself. I don't know what the situation is."
+    },
+    {
+      "role": "user",
+      "content": "Is the driver's side window shattered, correct?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that's correct."
+    },
+    {
+      "role": "user",
+      "content": "He's still moving around, so he's alive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, looks like I should have an officer coming up the roadway."
+    },
+    {
+      "role": "user",
+      "content": "We need EMT."
+    },
+    {
+      "role": "assistant",
+      "content": "Well, the officer's going to be there first. They're not going to come until we figure out what's going on, but EMT is on the way as well, okay?"
+    },
+    {
+      "role": "user",
+      "content": "They better hurry if this guy's got a shot at living."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir. They're on the way as well, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, looks like the officer is coming up right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he there?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's just coming up right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to go ahead and let you go, sir, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, very good. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, this is the Neighborville Police and Fire Department. Did you call 911?"
+    },
+    {
+      "role": "user",
+      "content": "Mike's Blue Drove. We got a bleeder."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sorry. You have what?"
+    },
+    {
+      "role": "user",
+      "content": "Mike's Blue Drowman in Naperville, Illinois. We got a bleeder."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have the fire department on the way. I think he got stabbed. Is that correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think he got stabbed. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you think he got stabbed. Did you say he got stabbed?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's stabbed right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is the person who stabbed him?"
+    },
+    {
+      "role": "user",
+      "content": "He got stabbed right to the right of the heart."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is the person who stabbed him still there?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, the paramedics and police are on the way. Is the person who stabbed him still nearby?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's out. He left. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We have the paramedics on the way. Hang tight."
+    },
+    {
+      "role": "user",
+      "content": "Alright. Thanks. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the emergency located?"
+    },
+    {
+      "role": "user",
+      "content": "Frankie's Bar. We need an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have them on the way. Can you tell me what happened?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody got pushed into somebody and there's blood everywhere. Some guy's holding his wrist. I think he's bleeding out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is there someone with him?"
+    },
+    {
+      "role": "user",
+      "content": "Uh, there's people, yeah, there's people all around him upstairs, but we need somebody. Hold on a second."
+    }
+  ]
+}

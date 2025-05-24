@@ -1,0 +1,56 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "He's here now. He's in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "He's in the house? What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "26."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let's stay on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you advise? Is this going to be north or south of 65?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, 65."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they wanted me to tell you to get yourself in a secure area."
+    },
+    {
+      "role": "user",
+      "content": "Jerry just shot him. He's in the lane in the middle of the kitchen floor, so he was here and he was to get it."
+    },
+    {
+      "role": "assistant",
+      "content": "All units responding, subject has been shot by the homeowner."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm going to hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    }
+  ]
+}

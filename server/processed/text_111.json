@@ -1,0 +1,584 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is at the Venice airport. We have an aircraft declaring an emergency that's going to land on the beach at Venice, close to the airport. I'm not sure exactly where he is."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you said he's going to be landing on the beach?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've got 101 North Esplanade. Do you know the Cross Street?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. He's trying to make the airport. He says he's not going to make the airport, but he's going to be on the beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on just one second."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "How many are on board?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've got another plane that's going to try to see if they've already gone down."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Our number here is..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and just to clarify, you're not certain if it's actually crashed on the beach?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know yet. He had declared an emergency on the Unicom. We monitor Unicom here. He declared an emergency. I got his N number, but he's not answering me now. I'm trying to see how many are on board. I've got another plane that's going to see if he can find them."
+    },
+    {
+      "role": "assistant",
+      "content": "Venice Unicom, Helicopter Aero Med here. Let's helicopter calling Venice. Go ahead, please."
+    },
+    {
+      "role": "user",
+      "content": "We're just about 10 east of the field and was monitoring that traffic. Could you use our assistance?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, sir, please. He declared an emergency, but I haven't gotten any other information. Do you know if he was north or south of the field?"
+    },
+    {
+      "role": "user",
+      "content": "No, sir, I do not. He just said that he was trying to make the field but is not going to make the field."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got a call on the beach. He is on the beach. The wheels are down and there are people around the airplane."
+    },
+    {
+      "role": "user",
+      "content": "Okay, we're in location for the airport. Is he north or south of us?"
+    },
+    {
+      "role": "assistant",
+      "content": "About a mile south of the airport on the beach."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you very much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Okay, they're saying a mile south of the airport on the beach. What's the registration number?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, it was 886 Charlie."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what type of aircraft is involved? Large, small, or military?"
+    },
+    {
+      "role": "user",
+      "content": "Stand by, I can look it up for you if you want it. Do you want me to?"
+    },
+    {
+      "role": "assistant",
+      "content": "If you can, that would be helpful."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the tail number on that plane was 886 Charlie. It's a Piper 28 181, which is a Piper Archer."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so it's a low-wing four-seater."
+    },
+    {
+      "role": "user",
+      "content": "Correct."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the aircraft on fire, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody said it was on fire. There are people around it, so you'll probably get another 911 call."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know if it's a single engine?"
+    },
+    {
+      "role": "user",
+      "content": "It is a single engine, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And do we know how much fuel is on board?"
+    },
+    {
+      "role": "user",
+      "content": "We do not."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if there are any dangerous goods or hazardous materials on board?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know."
+    },
+    {
+      "role": "assistant",
+      "content": "And do you know how many souls are on board?"
+    },
+    {
+      "role": "user",
+      "content": "We do not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we do already have units on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll tell you exactly what to do next. I'm going to let you go. Help is on the way. If you have any further information, please call us back."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "And what was your location?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at the Venice airport. I operate Unicom here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have units on the way now and possibly on scene."
+    },
+    {
+      "role": "user",
+      "content": "Okay, perfect. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Bye."
+    },
+    {
+      "role": "user",
+      "content": "A small plane crash on Caspersen Beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm sorry, which beach?"
+    },
+    {
+      "role": "user",
+      "content": "Caspersen, correct. Are you there?"
+    },
+    {
+      "role": "assistant",
+      "content": "One second for me. All right, we've had people saying it's on Venice Beach. Are you on Caspersen Beach?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. If you go to the end of Harbor Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, your phone broke up. What did you say?"
+    },
+    {
+      "role": "user",
+      "content": "We're south of the airport."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Hold on one second for me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the plane still in the water?"
+    },
+    {
+      "role": "user",
+      "content": "It hit the sand right at the shoreline. It hit the water and kind of rolled up on the sand. People are running down to it. I'm not quite down yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone coming out of the plane that you can tell?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell just yet, but I assume there are people."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is the plane?"
+    },
+    {
+      "role": "user",
+      "content": "I believe it's white. I'm trying to see it from the distance. White with a blue stripe, I think."
+    },
+    {
+      "role": "assistant",
+      "content": "Was there anyone else near the plane when it crashed? Were there any bystanders?"
+    },
+    {
+      "role": "user",
+      "content": "Hard to tell, it's about 200 yards in front of me. There are so many people standing around. I see a guy down on his knees."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name and phone number for our records?"
+    },
+    {
+      "role": "user",
+      "content": "Phone number."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have fire units on the way out there as well as law enforcement."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "If you could, it would help them if you could flag them down and direct them, just in case they have a hard time locating it."
+    },
+    {
+      "role": "user",
+      "content": "Okay, very good. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, sir. Bye."
+    },
+    {
+      "role": "user",
+      "content": "We have a plane, we're on the beach. You need to come immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, I can't hear you. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're on Caspersen Beach right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is this about the plane crash?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. My friend's husband."
+    },
+    {
+      "role": "assistant",
+      "content": "We have help on the way right now. Are you involved in the situation at all?"
+    },
+    {
+      "role": "user",
+      "content": "What's that?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you involved in this situation other than being a bystander?"
+    },
+    {
+      "role": "user",
+      "content": "It's my friend's husband. His daughter is with him, and they are here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so are you with the people who are injured right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are they?"
+    },
+    {
+      "role": "user",
+      "content": "The father is 38."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any serious bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, serious bleeding right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he completely alert?"
+    },
+    {
+      "role": "user",
+      "content": "He was."
+    },
+    {
+      "role": "assistant",
+      "content": "And what part of the body is injured?"
+    },
+    {
+      "role": "user",
+      "content": "He's hurt badly on his back."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is the daughter?"
+    },
+    {
+      "role": "user",
+      "content": "The daughter is nine."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, like I said, help is on the way. There's been multiple callers on this. We're getting out there as quickly as possible."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with both of the injured people right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're with them right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line. I'm going to tell you exactly what to do next. Don't move them unless they're in danger."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're giving him mouth-to-mouth now."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's giving him mouth-to-mouth?"
+    },
+    {
+      "role": "user",
+      "content": "A bystander is."
+    },
+    {
+      "role": "assistant",
+      "content": "Why are they putting him on his side?"
+    },
+    {
+      "role": "user",
+      "content": "They said something about shade."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone medically trained there?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have to continue CPR right now. But why is he being turned on his side?"
+    },
+    {
+      "role": "user",
+      "content": "I am not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Just make sure they don't move him unless it's absolutely necessary."
+    },
+    {
+      "role": "user",
+      "content": "Okay, nobody move him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone giving him mouth-to-mouth right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he not breathing at all?"
+    },
+    {
+      "role": "user",
+      "content": "He is breathing, but barely."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, tell the people not to give him mouth-to-mouth if he is breathing."
+    },
+    {
+      "role": "user",
+      "content": "Okay, nobody give him mouth-to-mouth, they said."
+    },
+    {
+      "role": "assistant",
+      "content": "How long until the ambulance gets to you?"
+    },
+    {
+      "role": "user",
+      "content": "They were on their way since before you called. They're getting there as quickly as possible. Where exactly on the beach are you located?"
+    },
+    {
+      "role": "user",
+      "content": "On Caspersen Beach."
+    },
+    {
+      "role": "assistant",
+      "content": "Where on Caspersen Beach are you? Are you near the parking lot?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the southernmost point, where the road ends."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, start walking south, and we're about 1,200 meters away. You'll see the plane down there."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way now. Are you with the injured person also?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm close to the injured people."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are injured?"
+    },
+    {
+      "role": "user",
+      "content": "There's two. I believe the male is 38 years old and the female is nine years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the extent of her injuries?"
+    },
+    {
+      "role": "user",
+      "content": "Internal injuries."
+    },
+    {
+      "role": "assistant",
+      "content": "Was she actually hit by the plane?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she is."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, rapid pulse, difficult breathing, and she's conscious."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she conscious?"
+    },
+    {
+      "role": "user",
+      "content": "She is unconscious right now."
+    },
+    {
+      "role": "assistant",
+      "content": "We do have an ambulance up in the parking lot. Can someone go up to the parking lot and direct the paramedics to the patients as quickly as possible?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, three minutes away, about 1,200 meters. Someone will meet them."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you very much."
+    },
+    {
+      "role": "user",
+      "content": "You're welcome. Bye."
+    }
+  ]
+}

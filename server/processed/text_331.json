@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Someone was just shot and robbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Where did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "Behind the club, Sharky's, the street beside Sharky's."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the person shot or are they on the ground and bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "The club, he was shot, he's on the ground and bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "He's by Sharky's?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the street beside Sharky's. Do you know the neighborhood Melts on us?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he white or black?"
+    },
+    {
+      "role": "user",
+      "content": "He's shot in the head, I can't... he looks mixed."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me the name of the street?"
+    },
+    {
+      "role": "user",
+      "content": "Blue Street, Blue Street. I'm on Blue Street."
+    },
+    {
+      "role": "assistant",
+      "content": "He's on Blue Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly on Blue Street is he laying?"
+    },
+    {
+      "role": "user",
+      "content": "Everybody is walking away and leaving him. He's laying on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, ma'am, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Have y'all found somebody?"
+    },
+    {
+      "role": "user",
+      "content": "He's dead. He's laying on the ground. He was shot. Somebody needs to help him."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "We're on Blue Street, in the middle of the street. 9.44 Black Boulevard and Sharkey."
+    },
+    {
+      "role": "assistant",
+      "content": "You're at the corner of Blue Street and Bragg Boulevard?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm in the middle of Blue Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that off Jefferson Road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're not on Bragg Boulevard?"
+    },
+    {
+      "role": "user",
+      "content": "It's off Bragg Boulevard and it's on Michelin Road. They meet, and the street is in the middle of them."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm sending help. Can you stay on the phone with me?"
+    },
+    {
+      "role": "user",
+      "content": "I'm right by the police, by Martin Luther King. Something was just built here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What's your telephone number?"
+    },
+    {
+      "role": "assistant",
+      "content": "Exactly what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, sir. I was driving down the street, and these dudes stopped me. They were waving and panicking. At first I didn't stop because I was scared, but then I saw the man in the street, so I stopped. They asked me to call 911 because he was shot."
+    },
+    {
+      "role": "assistant",
+      "content": "So somebody was shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he was shot and robbed."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the age of the patient?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think he's dead, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is being dispatched while I'm talking to you, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, you can hang up once you're with the police."
+    },
+    {
+      "role": "user",
+      "content": "He told me to hang up. I'll hang up now, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay."
+    }
+  ]
+}

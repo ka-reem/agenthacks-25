@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Can you tell me what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I need help. My dad is hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he need an ambulance or police?"
+    },
+    {
+      "role": "user",
+      "content": "Police."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, can I talk to your dad?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he need an ambulance or police?"
+    },
+    {
+      "role": "user",
+      "content": "Ask him if he needs police."
+    },
+    {
+      "role": "user",
+      "content": "He's right here, you have to come right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Ask him if he needs police or ambulance."
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s okay. No, can I talk to him?"
+    },
+    {
+      "role": "user",
+      "content": "Just come now. I'm talking."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay. Does he need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "You have to come right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, do you need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "They're everywhere. You really have to come."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are on their way."
+    },
+    {
+      "role": "user",
+      "content": "Can you unlock the door for them?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone. Put the phone down and go open the door, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Come in!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, can you tell me what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I was trying to work on something and it started bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Apply pressure on the wound, okay? Do you have any cloths?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a red one here."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, use that to apply pressure and stay calm. Help is on the way."
+    }
+  ]
+}

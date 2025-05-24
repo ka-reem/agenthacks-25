@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We had several police officers here earlier and did a report."
+    },
+    {
+      "role": "user",
+      "content": "They told him to stay away from the house and said to call 911 if he came back."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "He's at the front door now and he's trying to get in."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean he's trying to get in? Is he pulling on the door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's pulling on the door and trying the doorknob."
+    },
+    {
+      "role": "user",
+      "content": "He just went from the back door to the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I'll put you on hold for just a second so I can get somebody started your way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, are you still there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's trying to get in. He's threatening to break in and kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got officers on the way. Is he still outside the residence?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's still outside the residence. He's on the back porch now, trying to get in."
+    },
+    {
+      "role": "user",
+      "content": "Now he's going around to the front door again."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the phone with me, okay? Keep the doors locked and stay in a safe place."
+    },
+    {
+      "role": "user",
+      "content": "He's banging on the windows now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got officers on the way. Just stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to get his elderly mother into a safer area."
+    },
+    {
+      "role": "user",
+      "content": "I think he's very inebriated. He's going around the front door again or one of the windows."
+    },
+    {
+      "role": "user",
+      "content": "Oh, he's in the house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can you tell me if he's inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's in the house. Oh my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, is he inside the house? Please confirm."
+    },
+    {
+      "role": "user",
+      "content": "He's got a knife. Oh my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can you tell me if he's inside the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's inside. He attacked us."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to talk to me. What exactly happened?"
+    },
+    {
+      "role": "user",
+      "content": "She stabbed him. She stabbed him."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she right now?"
+    },
+    {
+      "role": "user",
+      "content": "She's in the living room. He's on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's breathing. He's yelling."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the knife now?"
+    },
+    {
+      "role": "user",
+      "content": "I put it down."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure he doesn't get to that knife. Just stay on the line with me."
+    }
+  ]
+}

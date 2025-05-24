@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I've been attacked by a man in the woods while I was hunting. Please send the police to my location immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "I cannot stay on the phone. I have to cover him. Please send the police immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you? We need your location."
+    },
+    {
+      "role": "user",
+      "content": "My name is Jeff McDonald. I'm on top of the hill out by banks. I was hunting and I was attacked by a man."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know your exact location?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know the exact coordinate. I hope you can get it from my 911 call. Here's my wife's number; she can bring you to me. Her name is Deborah."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell us what's happening right now."
+    },
+    {
+      "role": "user",
+      "content": "I was attacked by a naked man. He's laying near me now. I'm holding my deer rifle on him. I need the police up here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Will your wife know where you are?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she will. Please call her and tell her I'm on top of the hill. I can't call her directly; I tried."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we will call her. Can you stay on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "I may not be able to. I want to call my wife, but I'll stay for now. My battery is low."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get some help out to you. Give me your wife's number."
+    },
+    {
+      "role": "user",
+      "content": "Okay, her number is 5..."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you again?"
+    },
+    {
+      "role": "user",
+      "content": "I'm about half a mile south of our house on a hill. I was attacked by a naked man. He's laying nearby, and I'm holding him at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you or the attacker injured?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, both of us are injured, but it's not life-threatening."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have anything to signal your location?"
+    },
+    {
+      "role": "user",
+      "content": "I don't want to fire my rifle. I can blow a whistle when they get close."
+    },
+    {
+      "role": "assistant",
+      "content": "Start blowing the whistle now. Keep going until they find you."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll start blowing the whistle."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on foot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm on foot."
+    },
+    {
+      "role": "assistant",
+      "content": "Does your wife know exactly where to guide them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she does. She can guide them to me. They need to come through the logging gate."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll be there as soon as we can. Can you stay on the line?"
+    },
+    {
+      "role": "user",
+      "content": "I'll stay on unless my phone dies."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll get help to you. They will be on foot."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep blowing the whistle every 20 seconds."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see or hear anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here. I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "Great, stay with them and follow their instructions. Thank you and take care."
+    }
+  ]
+}

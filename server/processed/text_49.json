@@ -1,0 +1,132 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a black male yelling at me to turn off an alarm."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me your location?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Harrison and Albemarle."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you advise that the male is outside of the house now in the front yard?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me an ETA of any officers arriving?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, but I'm at Harrisburg Road."
+    },
+    {
+      "role": "assistant",
+      "content": "Has the suspect tried to enter the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he kicked through the door. There's also a child in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she know the subject?"
+    },
+    {
+      "role": "user",
+      "content": "No, she doesn't know him. She said he was wearing a green shirt and khakis or jeans."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he leave the yard?"
+    },
+    {
+      "role": "user",
+      "content": "She thinks he might have because the motion light went off."
+    },
+    {
+      "role": "assistant",
+      "content": "Shots fired. All units hold your traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody hit?"
+    },
+    {
+      "role": "user",
+      "content": "We need a medic."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it going to be the suspect that was hit?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, suspect was hit. Suspect is down at this time."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the officer hit?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, officer was hit by the suspect."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the officer shot or physically hit?"
+    },
+    {
+      "role": "user",
+      "content": "Physically hit, not shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we have a suspect that's been shot or an officer that's been hit or both?"
+    },
+    {
+      "role": "user",
+      "content": "Both."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone out with the victim?"
+    },
+    {
+      "role": "user",
+      "content": "I'm across the street. I'll go check on them."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Please ensure you get a detailed statement from her."
+    },
+    {
+      "role": "user",
+      "content": "Victim is 10-4. She's shaken up but okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, make sure to get a detailed statement."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we need any crime scene units out there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please send them out."
+    }
+  ]
+}

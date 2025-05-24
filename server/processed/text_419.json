@@ -1,0 +1,304 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Listen, we're bleeding really bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You got attacked by people, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, help, help, help."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, who attacked you?"
+    },
+    {
+      "role": "user",
+      "content": "Someone came in and stabbed my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody came in and stabbed your mom?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they stabbed my mom and dad."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, does your mom and dad need medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, absolutely. We need an ambulance there now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the person is that attacked your parents?"
+    },
+    {
+      "role": "user",
+      "content": "No, you need to come now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, my partner is dispatching help to you now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And so you said it's both of your parents, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, both of my parents."
+    },
+    {
+      "role": "user",
+      "content": "My dad has lacerations to the abdominal area."
+    },
+    {
+      "role": "assistant",
+      "content": "Jeff, I'm listening to you. Just explain to me what's happening."
+    },
+    {
+      "role": "user",
+      "content": "My mom and dad both have been stabbed."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in Yale, Michigan?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on one second, we're getting you help."
+    },
+    {
+      "role": "assistant",
+      "content": "Jeff, are both of your parents awake?"
+    },
+    {
+      "role": "user",
+      "content": "My dad is saying he can't breathe."
+    },
+    {
+      "role": "assistant",
+      "content": "Is that your dad saying he can't breathe?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "And your mom, is she awake?"
+    },
+    {
+      "role": "user",
+      "content": "She's upstairs, I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear your dad calling for help. Is your mom awake?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, my mom is stabbed as well."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but is your mother awake and conscious as well?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, both of them are."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the person is that stabbed your parents?"
+    },
+    {
+      "role": "user",
+      "content": "I do not know."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anybody else there with you besides you and your parents?"
+    },
+    {
+      "role": "user",
+      "content": "My brother is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Were you in the house when this happened?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I was in the basement and my brother ran upstairs when we heard something."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your brother's name is Jeff?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Tia Skinner."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your callback number, Tia?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, I'm on my mom's phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the weapon is that was used?"
+    },
+    {
+      "role": "user",
+      "content": "No, my brother and I were downstairs, and then I heard people yelling upstairs."
+    },
+    {
+      "role": "user",
+      "content": "I told my brother to go upstairs because I heard screaming."
+    },
+    {
+      "role": "assistant",
+      "content": "So you told your brother to go upstairs and help when you heard screaming?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and then he called you and had the phone to me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you still in the basement?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know any injuries or anything that's wrong with your mother?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay on the line with me. You're doing great."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me what you heard when you were in the basement?"
+    },
+    {
+      "role": "user",
+      "content": "I heard yelling and then footsteps running down the stairs."
+    },
+    {
+      "role": "user",
+      "content": "Then my dad came down yelling for help."
+    },
+    {
+      "role": "assistant",
+      "content": "And you did not see anything that happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, because we were both in the basement."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know who was in the house with your parents?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody was supposed to be in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "What are your parents' names?"
+    },
+    {
+      "role": "user",
+      "content": "Mara and Paul Skinner."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there should be an officer on location. I want you to stay on the phone with me until you see the officer, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, my neighbor is here too."
+    },
+    {
+      "role": "assistant",
+      "content": "Your neighbor came down to the basement?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think he's calling someone right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give the phone to your neighbor? Do they have any information?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's on another phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay with me. We have help on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the person went who attacked your parents?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just heard the yelling and then my brother ran upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to stay on the line with you until help arrives."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you for calling 9-1-1. We're going to stay right here with you."
+    }
+  ]
+}

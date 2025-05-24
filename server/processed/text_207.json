@@ -1,0 +1,108 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at Cracker Barrel. I just informed my husband that I'm leaving him, and we got into an argument. We drove separately, but he refuses to leave the parking lot and keeps circling, waiting for me to leave."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle is he driving?"
+    },
+    {
+      "role": "user",
+      "content": "He's in a Jeep Liberty. He owns a shotgun, but I didn't see it on him. I did see shotgun shells in his car."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you stay inside the restaurant and wait for the police to arrive?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll wait inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Officers are on their way to Cracker Barrel."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm pulling up now, I see the Jeep Liberty driving through the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, Officer on the scene. The suspect's vehicle is empty."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh my God, shots fired in the restaurant! Shots fired in the restaurant!"
+    },
+    {
+      "role": "assistant",
+      "content": "People are coming out saying he's inside shooting."
+    },
+    {
+      "role": "user",
+      "content": "I'm inside the restaurant. He's got a long gun, it sounds like."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio, notify other units."
+    },
+    {
+      "role": "user",
+      "content": "He's in the girls' bathroom with a gun, according to a witness."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we need two units at the back and two at the front."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep the air clear. He's in the girls' bathroom with a hostage, according to witnesses."
+    },
+    {
+      "role": "assistant",
+      "content": "Engine two, police dispatch. Is this a safe scene for the fire department?"
+    },
+    {
+      "role": "user",
+      "content": "I can't talk. I have a hostage on the phone."
+    },
+    {
+      "role": "assistant",
+      "content": "Fire department, hold your position until it's safe."
+    },
+    {
+      "role": "assistant",
+      "content": "We have reports of someone being shot and unresponsive."
+    },
+    {
+      "role": "assistant",
+      "content": "I've just heard more shots over the phone. We need to locate him."
+    },
+    {
+      "role": "user",
+      "content": "Get the fire department here. Shots fired, and the suspect is down. The gun is out of his hand."
+    },
+    {
+      "role": "assistant",
+      "content": "Confirm, the suspect is down and we have the weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Rescue units, you can approach; the suspect is in custody."
+    },
+    {
+      "role": "user",
+      "content": "I'm hiding under the counter with another female. We have a dead female at the front desk and a juvenile shot, possibly dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Stay where you are, help is on the way."
+    }
+  ]
+}

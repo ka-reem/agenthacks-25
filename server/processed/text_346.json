@@ -1,0 +1,264 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is being transferred."
+    },
+    {
+      "role": "assistant",
+      "content": "Go ahead, sir."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I need a unit here, probably an ambulance. I saw a lady, she was yelling for help. It looked like she had blood all over her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, where is this happening?"
+    },
+    {
+      "role": "user",
+      "content": "3-7-885, Highway 79 South. It's called Coconate."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her what the emergency is?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yeah, yeah. There's somebody... somebody killed someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where is the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "The person has gone."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else with her?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the house. The person is still here."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he outside?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I'm in the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where is the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Here, here, here."
+    },
+    {
+      "role": "assistant",
+      "content": "I have the address. Where is the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody else already called."
+    },
+    {
+      "role": "assistant",
+      "content": "I need information on where the suspect is."
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes. Here with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the suspect with her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, right."
+    },
+    {
+      "role": "assistant",
+      "content": "What's his name?"
+    },
+    {
+      "role": "user",
+      "content": "John, it's John."
+    },
+    {
+      "role": "assistant",
+      "content": "His name is John, and he's in Trailer 92?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the shooter inside the trailer?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, right."
+    },
+    {
+      "role": "assistant",
+      "content": "How does she know John?"
+    },
+    {
+      "role": "user",
+      "content": "We live in the same neighborhood."
+    },
+    {
+      "role": "assistant",
+      "content": "Did she hang up the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, I think she hung up."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you get that the shooter was in the trailer?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun?"
+    },
+    {
+      "role": "user",
+      "content": "Can you ask her where the suspect is?"
+    },
+    {
+      "role": "assistant",
+      "content": "Where is the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "The gunman has left the building, but I think one has died, and one is in critical condition. You need to send help right away."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she know his name?"
+    },
+    {
+      "role": "user",
+      "content": "There were two men shooting?"
+    },
+    {
+      "role": "assistant",
+      "content": "How many people were shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Just one."
+    },
+    {
+      "role": "assistant",
+      "content": "What race was he?"
+    },
+    {
+      "role": "user",
+      "content": "I think he's Korean."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she know his name?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need paramedics?"
+    },
+    {
+      "role": "user",
+      "content": "No, somebody killed... I'm dying."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you hurt?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm dreaming."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody shot... yeah, somebody shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you shot?"
+    },
+    {
+      "role": "user",
+      "content": "I'm killing."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what language do you speak?"
+    },
+    {
+      "role": "user",
+      "content": "Korean."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you say somebody shot you with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, many people, not only me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you shot at?"
+    },
+    {
+      "role": "user",
+      "content": "I'm hit hard, just come."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are shot?"
+    },
+    {
+      "role": "user",
+      "content": "Many people, they were... I'm dying."
+    },
+    {
+      "role": "assistant",
+      "content": "What language do you speak?"
+    },
+    {
+      "role": "user",
+      "content": "Korean."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, let me get you a translator. Hold on, okay?"
+    }
+  ]
+}

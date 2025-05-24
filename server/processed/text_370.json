@@ -1,0 +1,80 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We may need an ambulance at the zoo."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's the zoo."
+    },
+    {
+      "role": "assistant",
+      "content": "Where in the zoo, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "At the camel exhibit."
+    },
+    {
+      "role": "assistant",
+      "content": "The camel exhibit? Okay, just a moment. Let me connect you to EMS."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Was anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a little boy."
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "He was attacked by a camel. He doesn't look seriously hurt, but I think he needs to be checked out."
+    },
+    {
+      "role": "assistant",
+      "content": "What are his injuries? Where is he hurt?"
+    },
+    {
+      "role": "user",
+      "content": "On his back."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the camel get out of the cage or did he get in?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The camel is out actually."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're on the way. Find a security guard and let them know."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll be there in just a minute."
+    }
+  ]
+}

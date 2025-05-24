@@ -1,0 +1,68 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a shooting, I'm at 1331 Bannister Road. We need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the location, 1331 Bannister Road?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 1331 Bannister Road, there's a shooter."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone with you? Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "I'm alone, but I've been shot. My right arm is hit, but I'm okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers in route to your location. Can you describe the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "White male, in his 50s. He's heading southbound on Lydia. He had another gun as well."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We are dispatching units. Can you stay hidden and secure?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and I'm trying, he's dangerous and wanted me to shoot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay safe. Please avoid any engagement. Help is on the way. Do you have any further information on the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a maroon Oldsmobile, 302 Young John Adam."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. We are relaying this information to all units. Hang in there."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, he's not going to go down without a fight, might still have another weapon."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. Officers are forming a perimeter and will approach carefully. Stay on the line with us."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll wait, thank you."
+    }
+  ]
+}

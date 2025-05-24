@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling about a friend who lives at 6155 Gray Street. I've been told her boyfriend is assaulting her."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's her name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Ashley."
+    },
+    {
+      "role": "assistant",
+      "content": "And the boyfriend is beating her up?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's what I was told. She called a friend in Broomfield, and they told me to check on her."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is B."
+    },
+    {
+      "role": "assistant",
+      "content": "And what's your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know off the top of my head."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so this information is third-party?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, but she has a son and she's in trouble."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, it's in the basement of 6155 Gray Street, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's an outside entrance from the garage on the south side."
+    },
+    {
+      "role": "assistant",
+      "content": "We'll send someone over there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your current location?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "user",
+      "content": "I have a hostage. If you don't tell your people to back off, she's going to die."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay calm. Let's talk this through."
+    },
+    {
+      "role": "user",
+      "content": "Get them away from the house now, or the hostage is dead."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, stay on the line with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm watching them. They're not leaving."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to communicate to get this resolved. Please stay with me."
+    },
+    {
+      "role": "user",
+      "content": "They're not leaving. I'm losing my temper."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Tell me your name so we can talk."
+    },
+    {
+      "role": "user",
+      "content": "It doesn't matter what my name is. Keep them away from the house."
+    },
+    {
+      "role": "assistant",
+      "content": "We are going to do everything we can to help you. Please, talk to me."
+    },
+    {
+      "role": "user",
+      "content": "Get them away from this house now."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the hostage's name?"
+    },
+    {
+      "role": "user",
+      "content": "It doesn't matter now."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of weapon do you have?"
+    },
+    {
+      "role": "user",
+      "content": "I'm hanging up if they don't leave. I promise you bad things will happen."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay with me. We need to work this out."
+    },
+    {
+      "role": "user",
+      "content": "Why are they still around the house? You're not getting this."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm trying my best. Tell me what you need."
+    },
+    {
+      "role": "user",
+      "content": "Get them away from the house right now."
+    },
+    {
+      "role": "assistant",
+      "content": "We are doing everything we can. Please stay on the line."
+    },
+    {
+      "role": "user",
+      "content": "I'm about to start hurting the hostage."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, we need to resolve this peacefully. Don't hurt anyone."
+    },
+    {
+      "role": "user",
+      "content": "I'm done talking."
+    },
+    {
+      "role": "assistant",
+      "content": "Sir, do not hang up. We can work this out."
+    },
+    {
+      "role": "user",
+      "content": "This is it. I'm done."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, talk to me. I just want to help."
+    },
+    {
+      "role": "user",
+      "content": "Why are they still around the house? Do you want this little girl hurt?"
+    },
+    {
+      "role": "assistant",
+      "content": "I just got here. Let's work this through."
+    },
+    {
+      "role": "user",
+      "content": "I'm done. I'm hanging up."
+    },
+    {
+      "role": "assistant",
+      "content": "Please, don't hang up. We can find a solution."
+    }
+  ]
+}

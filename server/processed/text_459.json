@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody just shot a police officer!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "He's right in front of 14th Street behind the shopping center."
+    },
+    {
+      "role": "assistant",
+      "content": "What shopping center, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "The one on Orange Blossom Trail."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your location exactly?"
+    },
+    {
+      "role": "user",
+      "content": "He's directly across from me. Please, I don't know if he's still there. Oh god!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who is it? Who got shot?"
+    },
+    {
+      "role": "user",
+      "content": "It's a police officer. I don't know the car number."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he down, or what?"
+    },
+    {
+      "role": "user",
+      "content": "He's down, he's down, he's flat down. He got three shots."
+    },
+    {
+      "role": "assistant",
+      "content": "He got three shots?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I'm just... I'm telling you right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Tell me where he is exactly."
+    },
+    {
+      "role": "user",
+      "content": "You know where the library is on Orange Blossom Trail? He's directly in the back of there on Forty Fifth Street."
+    },
+    {
+      "role": "assistant",
+      "content": "The library on Orange Blossom Trail?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 45th Street."
+    },
+    {
+      "role": "assistant",
+      "content": "45th Street. Okay, hold on just a second. Ma'am, is he still in the car?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's on the ground. He was out of the car doing a traffic stop."
+    },
+    {
+      "role": "assistant",
+      "content": "He was doing a traffic stop?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and the next thing I know I heard three shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What kind of truck was it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a white pickup truck. I don't know the number. Like a four-door pickup truck."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a four-door?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't pay much attention because it just looked like a traffic stop, so I went back inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Do you see the officer out there?"
+    },
+    {
+      "role": "user",
+      "content": "The police officer is on the ground, the pickup is gone. The guy shot him, put the gun back in his jacket, and he left."
+    },
+    {
+      "role": "assistant",
+      "content": "Was the shooter a white male, black male?"
+    },
+    {
+      "role": "user",
+      "content": "He was a white male. About six feet tall, stocky build."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a second. Stay on the line. Is he dead?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. I don't know. I didn't walk across to him. Another police officer just arrived."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and they are checking on him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, another officer is here. They're telling everyone to stay back."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Can you tell me more about the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "He was wearing a white or creamish-colored jacket and dark pants."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see what kind of gun he had?"
+    },
+    {
+      "role": "user",
+      "content": "I didn't see the gun clearly. I just heard the shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm too scared to think straight. Can you just send help, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Help is already on the way. Just stay with me, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a deputy there now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here. I think they are handling it now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, thank you for your information. Stay safe, ma'am."
+    }
+  ]
+}

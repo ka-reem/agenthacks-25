@@ -1,0 +1,280 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "9-1-1, please send fire and medical."
+    },
+    {
+      "role": "assistant",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody got shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody got shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, out here in Mountain Dell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you tell me more about what's happening?"
+    },
+    {
+      "role": "user",
+      "content": "They're still shooting. Oh my god, they're still shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they shooting at someone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and a neighbor ran over and said the guy with them is shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they trying to shoot at them?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I need you to take a deep breath, okay? I'm already getting help started. Please take a deep breath and tell me what's going on."
+    },
+    {
+      "role": "user",
+      "content": "Mountain Dell Road. I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is it that is shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Um, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need to know who's shooting."
+    },
+    {
+      "role": "user",
+      "content": "The lady is coming over, and I'm afraid to go outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't go outside. Do you know who is shooting?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, someone has been shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I can't go out. I'm afraid."
+    },
+    {
+      "role": "assistant",
+      "content": "Who's shooting?"
+    },
+    {
+      "role": "user",
+      "content": "It's just the neighbor. She's in my driveway, but she's yelling to call for an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "She's the one that shot someone?"
+    },
+    {
+      "role": "user",
+      "content": "Her boyfriend shot someone."
+    },
+    {
+      "role": "assistant",
+      "content": "Her boyfriend shot someone?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she said to get an ambulance quick."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have help coming. So did he intentionally shoot someone?"
+    },
+    {
+      "role": "user",
+      "content": "I think so."
+    },
+    {
+      "role": "assistant",
+      "content": "But you don't know why or who has been shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just know her son ran over and now she's parked in our driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "So the female neighbor ran over, but her boyfriend did the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Well, no, her son did at first, but then her boyfriend is the one that shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know their names?"
+    },
+    {
+      "role": "user",
+      "content": "Her boyfriend is Brian."
+    },
+    {
+      "role": "assistant",
+      "content": "Brian is shot. Who did the shooting?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know who did the shooting. She just said get an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is there an active shooter out there right now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know anything. She just needs an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where he was shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they all out in your driveway right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're in their car. I can't see any gun."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of car are they in?"
+    },
+    {
+      "role": "user",
+      "content": "It's an aqua blue car."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a sedan?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I think so. They just need an ambulance quick."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way, but we can't approach until we know it's safe. Is anyone still shooting?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. The people in the car don't have a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so someone at the house across the street has a gun, but the people in the car are safe?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, no weapons in the car. Just send an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know why her boyfriend was shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, she just said get an ambulance quick."
+    },
+    {
+      "role": "assistant",
+      "content": "We're sending help, but we need to know what else is going on. Who else is involved?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It's just the three of them that live there."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell me the name of the victim?"
+    },
+    {
+      "role": "user",
+      "content": "Brian, I don't know his last name."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know anything about his injuries?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just know the girlfriend is in her car in my driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the girlfriend's name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know her last name."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if the son is in the car?"
+    },
+    {
+      "role": "user",
+      "content": "I think it's just Brian in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the son's name?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just know there's no gun in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're sending help, but please stay inside and safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, it's just so scary."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand, ma'am. Help is on the way."
+    }
+  ]
+}

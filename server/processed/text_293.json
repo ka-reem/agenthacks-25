@@ -1,0 +1,104 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I live at 301 South 2nd Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Mm-hmm."
+    },
+    {
+      "role": "user",
+      "content": "I've got a gentleman here that says there's been some gunshots fired outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Did you hear them yourself, or did you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I didn't. The gentleman is right here. He wants to talk to you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, put him on."
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you heard gunshots?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I was inside my house, and my sister-in-law's boyfriend came and started shooting everybody. I had to jump off the roof."
+    },
+    {
+      "role": "assistant",
+      "content": "You saw the person doing this?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where at?"
+    },
+    {
+      "role": "user",
+      "content": "309 South 2nd Street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the person's name that's shooting?"
+    },
+    {
+      "role": "user",
+      "content": "Roberto."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still there with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. He's at 309. I went onto the roof and jumped out."
+    },
+    {
+      "role": "assistant",
+      "content": "He's upstairs shooting?"
+    },
+    {
+      "role": "user",
+      "content": "He started shooting my wife and all the kids. He started shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "At 309 South 2nd Street, he's shooting your wife and kids?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's shooting my wife, and I don't know about the others."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So he's still at the house, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on for a moment."
+    }
+  ]
+}

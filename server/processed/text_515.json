@@ -1,0 +1,88 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting in the park at West Boulevard by the West Boulevard Rapid Transportation Station. There's a guy here with a pistol. It\u2019s probably fake, but he's pointing it at everybody."
+    },
+    {
+      "role": "assistant",
+      "content": "And where are you at, sir?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sitting in the park at West Boulevard by the West Boulevard Rapid Transit Station."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're at the rapid station?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm sitting across the street in the park."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the name of the park?"
+    },
+    {
+      "role": "user",
+      "content": "Kudel."
+    },
+    {
+      "role": "user",
+      "content": "The guy keeps pulling it in and out of his pants. It\u2019s probably fake, but he's scaring everyone."
+    },
+    {
+      "role": "assistant",
+      "content": "What does he look like?"
+    },
+    {
+      "role": "user",
+      "content": "He has a camouflage hat on."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he black or white?"
+    },
+    {
+      "role": "user",
+      "content": "He's black. He has a gray coat with black sleeves and gray pants."
+    },
+    {
+      "role": "assistant",
+      "content": "So he has a camouflage hat, gray coat with black sleeves, and gray pants?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's sitting on a swing right now, but he keeps pulling it in and out of his pants and pointing it at people. Probably a juvenile."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know the guy?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don\u2019t."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've dispatched the police, stay where you are."
+    },
+    {
+      "role": "user",
+      "content": "I'm getting ready to leave. He\u2019s right by the youth center. He keeps pulling it in and out of his pants. I don\u2019t know if it\u2019s real or not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we\u2019ll send a call through. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

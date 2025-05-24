@@ -1,0 +1,204 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Moving to the basement, 131 Front Street between Main and North."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "Unsure at this time if anyone is injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Shots are coming from the second floor. A suspect is still in the building."
+    },
+    {
+      "role": "user",
+      "content": "It's responding. Stand by and we need backup."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm your current location again?"
+    },
+    {
+      "role": "user",
+      "content": "131 Front Street. Possible shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have any information on the assailant?"
+    },
+    {
+      "role": "user",
+      "content": "Not confirmed. They may be in the basement or the main floor. There is no second story."
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. We're sending officers to the rear of the building. Do you have a description of the suspect?"
+    },
+    {
+      "role": "user",
+      "content": "Not clearly. There are reports of two victims and multiple people barricaded in the basement."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we are mobilizing SWAT. Stay put."
+    },
+    {
+      "role": "user",
+      "content": "Noted. We'll stay in position. Do you need us to do anything?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, make sure all available units head to 131 Front Street and stage at Oak and Main."
+    },
+    {
+      "role": "user",
+      "content": "10-4. We'll set a perimeter and wait for equipment."
+    },
+    {
+      "role": "assistant",
+      "content": "Notify EMS to stage at Main and Oak Street."
+    },
+    {
+      "role": "user",
+      "content": "Confirmed. EMS has been notified."
+    },
+    {
+      "role": "assistant",
+      "content": "We're coordinating with headquarters for additional support."
+    },
+    {
+      "role": "user",
+      "content": "10-4. Proceeding with caution. Suspect may still be armed."
+    },
+    {
+      "role": "assistant",
+      "content": "Received. We'll also stage tow trucks to clear any blocking vehicles."
+    },
+    {
+      "role": "user",
+      "content": "10-4. Will ensure all personnel are advised to use cover."
+    },
+    {
+      "role": "assistant",
+      "content": "The back door appears to be breached. Suspect may have shot themselves."
+    },
+    {
+      "role": "user",
+      "content": "Understood. But still proceed with caution."
+    },
+    {
+      "role": "assistant",
+      "content": "We need the building's layout. Contact building management."
+    },
+    {
+      "role": "user",
+      "content": "Understood. Will do."
+    },
+    {
+      "role": "assistant",
+      "content": "Confirm if any victims are still inside."
+    },
+    {
+      "role": "user",
+      "content": "Attempting to contact someone with details."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep them calm and secure. Lock or barricade doors if possible."
+    },
+    {
+      "role": "user",
+      "content": "No locks on the doors. They are using furniture to barricade."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay put. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "10-25. Will relay information from inside."
+    },
+    {
+      "role": "assistant",
+      "content": "We're sending more units to secure the perimeter."
+    },
+    {
+      "role": "user",
+      "content": "Affirmative. Suspect's vehicle is blocking the back door."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold position. SWAT is en route."
+    },
+    {
+      "role": "user",
+      "content": "10-4. Will maintain current position."
+    },
+    {
+      "role": "assistant",
+      "content": "We're closing all roads near Main and Front Street."
+    },
+    {
+      "role": "user",
+      "content": "Understood. Coordinating with traffic control."
+    },
+    {
+      "role": "assistant",
+      "content": "Alert, suspect may still be in the basement. Proceed with extreme caution."
+    },
+    {
+      "role": "user",
+      "content": "Roger that. EMS is staging and waiting for clearance."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep updating us with any new information from inside the building."
+    },
+    {
+      "role": "user",
+      "content": "All right. If you have contact with people inside, ensure they know to stay put."
+    },
+    {
+      "role": "assistant",
+      "content": "Victims are being extracted and transported to hospitals."
+    },
+    {
+      "role": "user",
+      "content": "Received. We'll keep monitoring from our end."
+    },
+    {
+      "role": "assistant",
+      "content": "All available personnel should report to the staging area."
+    },
+    {
+      "role": "user",
+      "content": "Understood. We'll keep eyes on any movement inside."
+    },
+    {
+      "role": "assistant",
+      "content": "Any officers at security cameras location, report back."
+    },
+    {
+      "role": "user",
+      "content": "Copy that. Looking into security footage now."
+    },
+    {
+      "role": "assistant",
+      "content": "Advise all emergency personnel of current status. Building is not yet secure."
+    },
+    {
+      "role": "user",
+      "content": "10-4. Circulating to all units."
+    }
+  ]
+}

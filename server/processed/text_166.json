@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "God, help! Please!"
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "Please! Somebody killed my mother! Oh, my God!"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't understand what you're saying. You need to stop screaming."
+    },
+    {
+      "role": "user",
+      "content": "Somebody killed my mother."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody did what?"
+    },
+    {
+      "role": "user",
+      "content": "Somebody killed my mother."
+    },
+    {
+      "role": "assistant",
+      "content": "Somebody killed your mother."
+    },
+    {
+      "role": "user",
+      "content": "Yeah, please help me."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you? What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "7019 South Yale."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she need an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm scared, please."
+    },
+    {
+      "role": "user",
+      "content": "Please send an ambulance, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on the line, don't hang up."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at 7019 South Yale."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. It looks like she's been shot."
+    },
+    {
+      "role": "user",
+      "content": "Can you please get an ambulance?"
+    },
+    {
+      "role": "assistant",
+      "content": "What happened?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She's on the floor and there's blood coming from her head."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she breathing?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I didn't touch her. I just ran out of the house."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what happened? Did she fall?"
+    },
+    {
+      "role": "user",
+      "content": "No, I just got home from work and there's a bullet hole in our front door."
+    },
+    {
+      "role": "assistant",
+      "content": "There's a bullet hole in the front door?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "She's 50."
+    },
+    {
+      "role": "user",
+      "content": "Please help my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you guys in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, please. Just send the ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, 7019 South Yale."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, we're on our way."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house. On the first floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your last name?"
+    },
+    {
+      "role": "user",
+      "content": "My last name is Hudson."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any blood on her?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police and the ambulance are on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "My mom, my mom."
+    },
+    {
+      "role": "assistant",
+      "content": "The ambulance and the police are on the way."
+    }
+  ]
+}

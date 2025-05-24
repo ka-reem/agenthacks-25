@@ -1,0 +1,168 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My boyfriend is not moving and he's bleeding from under his armpit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "5520 Beaver Crest Drive, apartment 10."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in Lurray, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the bleeding still ongoing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it is."
+    },
+    {
+      "role": "assistant",
+      "content": "Please take a clean, dry cloth and press down on the wound."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anything else happening? Any other symptoms?"
+    },
+    {
+      "role": "user",
+      "content": "He's moaning and throwing up."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, is he breathing okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's breathing but it's heavy."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure he is on his side to prevent choking on his vomit."
+    },
+    {
+      "role": "user",
+      "content": "I've done that. What should I do now?"
+    },
+    {
+      "role": "assistant",
+      "content": "Keep him on his side and watch his breathing. We have an ambulance on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay. His eyes are open but he's not responding."
+    },
+    {
+      "role": "assistant",
+      "content": "It's important to keep calm. Is there a way for you to let the ambulance in?"
+    },
+    {
+      "role": "user",
+      "content": "I need to go downstairs to open the door for them."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you prop the door open or get a neighbor's help?"
+    },
+    {
+      "role": "user",
+      "content": "There\u2019s no one else here. Let me go prop the door open and run back."
+    },
+    {
+      "role": "assistant",
+      "content": "Do it quickly and come back to check on him."
+    },
+    {
+      "role": "user",
+      "content": "I did it. The door is open."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Now go back to him and check his breathing."
+    },
+    {
+      "role": "user",
+      "content": "He's still moaning."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he consumed any alcohol or drugs?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has been drinking."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, that could be a factor. Keep checking his breathing. The ambulance should be there soon."
+    },
+    {
+      "role": "user",
+      "content": "Why are they taking so long?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way. Just keep watching his breathing and stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I will."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still breathing? Do you see his chest moving?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but his eyes are open and he's not responding."
+    },
+    {
+      "role": "assistant",
+      "content": "If he's breathing, that's a good sign. Stay calm."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm watching him closely."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line with me until the ambulance arrives."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Just keep talking to him and keep him on his side."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'm here."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is almost there. Just stay with him."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can't get the traffic, sir."
+    },
+    {
+      "role": "user",
+      "content": "I'm in the city of La Crescenta, and my accelerator is stuck. I can't stop the vehicle. I have a baby in the car with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Foothill just past Angeles Crest."
+    },
+    {
+      "role": "assistant",
+      "content": "Going which way?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure, I just passed Bel Air Drive on Foothill, coming up to Sports Chalet Drive."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what kind of car are you in?"
+    },
+    {
+      "role": "user",
+      "content": "A Ford Escort."
+    },
+    {
+      "role": "assistant",
+      "content": "What color is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's green, a dark green."
+    },
+    {
+      "role": "assistant",
+      "content": "How fast are you going now?"
+    },
+    {
+      "role": "user",
+      "content": "My speedometer isn't working now, but before it stopped, it said 20 miles an hour or so. I'm coming up to a red light and there are cars. I can't stop."
+    },
+    {
+      "role": "assistant",
+      "content": "And your brakes aren't working?"
+    },
+    {
+      "role": "user",
+      "content": "My brake isn't totally stopping it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, have you tried putting the car into neutral?"
+    },
+    {
+      "role": "user",
+      "content": "It just revs then."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but you're not moving that way, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you try putting the car into neutral and turning off the ignition?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Trying that now. The car has died."
+    },
+    {
+      "role": "assistant",
+      "content": "You stopped moving?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Thank you, oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're stopped now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you exactly?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on Central and Oakwood, in front of Vons."
+    },
+    {
+      "role": "assistant",
+      "content": "That's good. As long as you're stopped. I'm going to have somebody come and meet you to make sure you're okay and the baby is safe. The car is off and you're stopped, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, in the middle of the street."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Put your hazards on and just wait for us to get there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, no problem."
+    }
+  ]
+}

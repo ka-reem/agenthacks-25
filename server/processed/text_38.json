@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I had a guy kicking in my door or trying to kick in my front door. I don't know what his problem was. My wife woke me up and said somebody was trying to kick in the door. I looked out the window and told him to go away. He kept trying to kick the door in. So I opened the door to see what his problem was because he looked kind of drunk and he charged me. I had my firearm. I told him to stop. He took off his shirt and then charged me again so I shot him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he inside your house now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he charged me and went back into my house with my kids here."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, so you fired a warning shot or did you actually hit him, sir?"
+    },
+    {
+      "role": "user",
+      "content": "No, I hit him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line. We have EMS on the way, alright, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "And you shot the person trying to break into your house, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I opened the door to see what he wanted because he kept trying to kick in my door. And he opened up my screen door and rushed me. So I backed up real fast and told him, 'You don't want to do this, you want to get out of my house.' He came at me, and I fired."
+    },
+    {
+      "role": "user",
+      "content": "But I didn't mean to. Because when he rushed me the first time, I don't know where the first shot went. Then he took off his shirt and charged me again. I told him to go and I shot him. I had my two kids and my wife here. I didn't know what he was doing."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the deputies there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they can take over now. Thank you, sir."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

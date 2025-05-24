@@ -1,0 +1,184 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am. I'm at a school on 2nd Avenue, and there\u2019s a gentleman here saying the police are coming and he's going to start shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do not let anyone into the building, including the police. Stay on the line with me. Where are you in the building?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in the front office."
+    },
+    {
+      "role": "user",
+      "content": "He just went outside and started shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you get somewhere safe?"
+    },
+    {
+      "role": "user",
+      "content": "I'll try, but he might see me. I have to call you back."
+    },
+    {
+      "role": "user",
+      "content": "Hold on. Put the phone down."
+    },
+    {
+      "role": "user",
+      "content": "She said she's getting the police now to tell them to back off, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Stop all movement on the ground."
+    },
+    {
+      "role": "user",
+      "content": "If it's not an emergency, please do not use the radio."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you talking to the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "That's what he's telling me to say on the radio."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what did you want me to tell the police, sir?"
+    },
+    {
+      "role": "user",
+      "content": "He told me to call the news. He's not mentally stable."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay on the line with me."
+    },
+    {
+      "role": "user",
+      "content": "He said he's on probation, and if he gives his name, he's going away for a long time."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask if he's willing to give his name?"
+    },
+    {
+      "role": "user",
+      "content": "He said no."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you stay on the line and talk to him?"
+    },
+    {
+      "role": "user",
+      "content": "He said he's not mentally stable and regrets not going to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "I can let them know that you have not tried to harm anyone if that helps."
+    },
+    {
+      "role": "user",
+      "content": "He wants to know if he walks out with me, will they shoot him?"
+    },
+    {
+      "role": "assistant",
+      "content": "Tell him to stay put and I will get an okay from them."
+    },
+    {
+      "role": "user",
+      "content": "He said to evacuate the nearby homes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Ask him if he's willing to give up his weapon."
+    },
+    {
+      "role": "user",
+      "content": "He said if they come armed, he's going to start shooting again."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He said he wants to go to the hospital."
+    },
+    {
+      "role": "assistant",
+      "content": "He put his weapon down. Is it safe for the officers to come in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's lying on the ground with his hands behind his back."
+    },
+    {
+      "role": "assistant",
+      "content": "Tell him to stay calm. The officers are coming in."
+    },
+    {
+      "role": "user",
+      "content": "I love you, and I\u2019m proud of you for giving up."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Tell him the officers are coming in now."
+    },
+    {
+      "role": "user",
+      "content": "He wants to know if he can drink his water."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that's fine. Just keep him calm."
+    },
+    {
+      "role": "user",
+      "content": "He said he was with the Inner Harbor kids playing drums for Red Women Week."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, the officers are on their way in now."
+    },
+    {
+      "role": "user",
+      "content": "He said the gun may come back as stolen, but it's not."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. Just keep everything calm. The officers will sort it out."
+    },
+    {
+      "role": "user",
+      "content": "He said he has no more weapons on him."
+    },
+    {
+      "role": "assistant",
+      "content": "Good, tell him to stay where he is until the officers get there."
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s laying on the ground with his hands behind his back."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Stay calm and wait for the officers."
+    },
+    {
+      "role": "user",
+      "content": "Okay. They\u2019re here. Thank you, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Stay safe."
+    }
+  ]
+}

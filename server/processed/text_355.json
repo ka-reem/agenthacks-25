@@ -1,0 +1,248 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I just shot someone in my business."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address of the emergency?"
+    },
+    {
+      "role": "user",
+      "content": "5931 4th Avenue South, Seattle, Washington at Sharp's Outdoor Power."
+    },
+    {
+      "role": "assistant",
+      "content": "Who did you shoot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. There's another one here, and I have a gun on them."
+    },
+    {
+      "role": "assistant",
+      "content": "Was somebody trying to break in?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they broke in the door and were taking things out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give me a moment."
+    },
+    {
+      "role": "assistant",
+      "content": "Radio. This is about shoplifters inside the business. The owner has them at gunpoint and did shoot one. One is down, one is being held at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the name of your store?"
+    },
+    {
+      "role": "user",
+      "content": "It's Sharp's Outdoor Power."
+    },
+    {
+      "role": "assistant",
+      "content": "Sharp's Outdoor Power at 5931 4th Avenue South?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's a truck in the driveway, right in front of the door. They broke in, and I'm keeping the other guy at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the person you shot bleeding?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's not moving and he's bleeding."
+    },
+    {
+      "role": "assistant",
+      "content": "Do I categorize this as a weapons call?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a burglary one."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I\u2019m going to get the medics on the line and send help your way."
+    },
+    {
+      "role": "user",
+      "content": "All right, the other guy is not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Hang on, don't hang up yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Seattle Fire, Medic. What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "5931 4th Avenue South. The owner shot a shoplifter and has another at gunpoint."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. We're sending police and medics to Sharp's Outdoor Power."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s your last name, sir?"
+    },
+    {
+      "role": "user",
+      "content": "My last name is [REDACTED]"
+    },
+    {
+      "role": "assistant",
+      "content": "And your first name?"
+    },
+    {
+      "role": "user",
+      "content": "My first name is [REDACTED]"
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "[REDACTED]"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm the business name again?"
+    },
+    {
+      "role": "user",
+      "content": "Sharp's Outdoor Power."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in a big warehouse?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it\u2019s a big building with a sign out front."
+    },
+    {
+      "role": "assistant",
+      "content": "So they broke in your front door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they busted the front door."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun do you have?"
+    },
+    {
+      "role": "user",
+      "content": "A .357 Magnum revolver."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have police in the area. They should be there any minute. Please stay on the phone with me until they arrive."
+    },
+    {
+      "role": "user",
+      "content": "I've never shot anyone before."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. You were protecting yourself and your property."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers should be there any minute. If you see them, let me know."
+    },
+    {
+      "role": "user",
+      "content": "He's not going to run. He's on the floor."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to stay on the phone in case something happens. Where\u2019s your front door?"
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s broken. You can see it on the north side of the building."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there a truck in the driveway?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a white truck parked right at the door. It belongs to the robbers."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, officers are pulling up now. Do you see them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I see them."
+    },
+    {
+      "role": "assistant",
+      "content": "As soon as you see them, you can hang up the phone with me."
+    },
+    {
+      "role": "user",
+      "content": "I need to get some clothes on."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you put the revolver down?"
+    },
+    {
+      "role": "user",
+      "content": "It's down."
+    },
+    {
+      "role": "user",
+      "content": "The officers are coming in."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line until they confirm you're safe."
+    },
+    {
+      "role": "user",
+      "content": "I didn't know what else to do."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. You did what you had to protect yourself. Are the officers there?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they have one in handcuffs. The other one is not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you need to speak with the officers now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they\u2019re asking me to come out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you can hang up now. Take care."
+    }
+  ]
+}

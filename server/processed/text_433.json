@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Old Bridge, please. There's a shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are they shooting at?"
+    },
+    {
+      "role": "user",
+      "content": "Route 9 and Old Bridge. At the Pathmark."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, I need you to calm down and tell me your exact location. Are you at a store?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm in the back room of the Pathmark. We locked ourselves in."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, do you know if anybody is hurt right now?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don\u2019t know. We are just hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you have any cameras or anything where you can see what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "No, we don't."
+    },
+    {
+      "role": "assistant",
+      "content": "What back room are you locked in right now?"
+    },
+    {
+      "role": "user",
+      "content": "In the middle of the back room. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I got everyone coming. Just try to relax for me, alright? You're locked in the room, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but they can get in. They have guns."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I'm going to put you on hold for one second, please don't hang up, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, hello, my daughter works at the Pathmark overnight. There's a shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's hurt, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got people on the way. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm at the Old Bridge Pathmark. Someone has a shotgun, and he's tearing the place apart."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone hurt?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We all ran out of the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he still in the store?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, his name is Terrence."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing? Is he a black male, white male?"
+    },
+    {
+      "role": "user",
+      "content": "A black male, former Marine, wearing a bulletproof vest."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay calm. We've got everyone on the way. How many people do you think are in the store?"
+    },
+    {
+      "role": "user",
+      "content": "About 15 or 16."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know exactly where he was when you left the store?"
+    },
+    {
+      "role": "user",
+      "content": "He was at the front door when I left."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, how do you know Terrence?"
+    },
+    {
+      "role": "user",
+      "content": "He works at Pathmark. He just went postal."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're safe now? Are you far from the building?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're in the parking lot."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, try to stay hidden and safe. We are sending help as quickly as possible."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you see if anyone is injured?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I've been running and hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, do not go back. Just stay safe."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My daughter is in the Pathmark. She just called saying someone is shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We already have help on the way."
+    },
+    {
+      "role": "user",
+      "content": "Alright. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm still inside the Pathmark. I'm in the back room hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay? Do you see the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm hiding. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "We have officers on the way. Stay hidden and quiet."
+    },
+    {
+      "role": "user",
+      "content": "Okay. He's a black guy, short, wearing a white t-shirt, dark pants."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, stay hidden. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's gunshots at Old Bridge Pathmark."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you safe? Can you see the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "No. I'm hiding in the back room."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay where you are. Help is coming."
+    },
+    {
+      "role": "user",
+      "content": "Oh God. I hear more shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay hidden. Do not move."
+    },
+    {
+      "role": "user",
+      "content": "I think he's coming here."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to stay as quiet as possible."
+    },
+    {
+      "role": "user",
+      "content": "Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "We're doing everything we can. Stay where you are, please."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    }
+  ]
+}

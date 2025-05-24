@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're at a pool and I have a little girl that says she's drowning. She's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you trying CPR right now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're at Lake Uchee Pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Lake Uchee Pool? Do you know the exact address?"
+    },
+    {
+      "role": "user",
+      "content": "No, I'm not sure of the address. Hold on one second."
+    },
+    {
+      "role": "user",
+      "content": "Hello? Yes, we're at the Uchi Swimming Pool."
+    },
+    {
+      "role": "assistant",
+      "content": "Uchi Swimming Pool? Okay, we're trying to get help on the way right now."
+    },
+    {
+      "role": "user",
+      "content": "Hurry, we're doing CPR on her right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get somebody there as soon as we can."
+    },
+    {
+      "role": "user",
+      "content": "We're doing CPR on her now, she's not breathing. She's got something stuck in her throat and she was in the water."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hold on a minute, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Caller still on the line, child not breathing at Lake Uchee Pool."
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's turning blue."
+    },
+    {
+      "role": "assistant",
+      "content": "They're supposed to be on their way. Are they there yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're not here yet. We don't know if she's breathing or not."
+    },
+    {
+      "role": "user",
+      "content": "Okay, they're here, they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they there now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. Sweetie, help is there. You're going to be okay."
+    }
+  ]
+}

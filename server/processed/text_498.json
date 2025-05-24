@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I have a 3-year-old who's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "16097 North Waldrop Avenue, Gardendale."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "561-9489."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm attempting CPR."
+    },
+    {
+      "role": "user",
+      "content": "He was playing outside on the playground. I'm not sure what happened."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Not breathing at all?"
+    },
+    {
+      "role": "user",
+      "content": "He does not appear to be breathing at all. I cannot get any chest rise."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm getting them on the way. Do you know how to do CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I do know how to do CPR. I'm trying to do CPR on him at this point."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm going to put you on speaker, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Sure, that's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "And when did this start, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Just about a minute or so ago. I'm sorry, I was trying to get him to start breathing before I called."
+    },
+    {
+      "role": "assistant",
+      "content": "No, that's fine. That is fine. He does not appear to be breathing at all."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep breathing for him."
+    },
+    {
+      "role": "user",
+      "content": "I can get his chest to inflate, but he can't do it on his own."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to keep breathing for him, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have a pulse at all?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not feeling one, but I'm shaking so bad."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, take a deep breath, take a deep breath, okay? Do you have his head tilted back and his airway open?"
+    },
+    {
+      "role": "user",
+      "content": "Airway is open."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, give him two breaths. Feel for a pulse, okay? Do you feel a pulse at all?"
+    },
+    {
+      "role": "user",
+      "content": "I'm still not feeling a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to do compressions, okay? Put one hand on his chest, right on the sternum, and push down 15 times approximately one half to one inch. When you do the 15 times, I want you to tell me."
+    },
+    {
+      "role": "user",
+      "content": "Okay, and give him two breaths. Is anybody there with you?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I want you to keep doing compressions and two breaths, and then compressions and two breaths as long as you can, okay? You're doing a fine job, just take a breath and relax. Is there anybody nearby we can call to help you while you wait on the EMS?"
+    },
+    {
+      "role": "user",
+      "content": "There's nobody."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, you're doing fine. You're doing fine."
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. He's autistic. He's self-injurious."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry?"
+    },
+    {
+      "role": "user",
+      "content": "He's autistic. He's a self-injurious child, prone to self-injury."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Now stop and check his breathing. Is he trying to take a breath?"
+    },
+    {
+      "role": "user",
+      "content": "No, he just... His chest is not moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going. Two breaths, 15 compressions. You're doing fine. Just keep doing it as long as you can, okay? I know it's tough, but you're doing a good job."
+    },
+    {
+      "role": "user",
+      "content": "Okay, you're fine. What is your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Laura."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Laura. You're doing fine. Take two slow deep breaths, and your 15 compressions should be about one inch deep. I want you to check his airway, look in his airway. Is it still clear?"
+    },
+    {
+      "role": "user",
+      "content": "The airway appears to be clear."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, check for a pulse. Are you checking for a pulse?"
+    },
+    {
+      "role": "user",
+      "content": "I was checking for a heartbeat with a stethoscope."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you hear anything?"
+    },
+    {
+      "role": "user",
+      "content": "I don't hear anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going then. You're doing fine."
+    },
+    {
+      "role": "user",
+      "content": "He just had snot and blood coming out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just wipe it off his face and keep going. You're doing a wonderful job."
+    },
+    {
+      "role": "user",
+      "content": "His belly's distending."
+    },
+    {
+      "role": "assistant",
+      "content": "You're fine. Next time you give him a breath, I want you to tilt his head back even further, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "When you give him a breath, tilt his head as far back as you can, okay? When you need a quick break, check for a pulse and check his airway again, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Are they coming?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming, they're driving as fast as they can, I promise. Just keep doing compressions and breaths, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any kind of medical problems, Laura?"
+    },
+    {
+      "role": "user",
+      "content": "He's autistic. He was just put on Risperidone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. He's not a diabetic or anything?"
+    },
+    {
+      "role": "user",
+      "content": "Not that we know of."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going, you're doing good. I've got EMS on the way and I've got the Sheriff's Department who can get there first to help you out, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on the way, we're getting there as quickly as we can, I promise. If you have to turn his head to the side and clear his mouth out or clear his nose out, go ahead, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Baby, Max. Come on."
+    },
+    {
+      "role": "assistant",
+      "content": "Laura?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got two SO deputies that are pretty close. They're going to run hot and help you with him, okay? They\u2019re closer than EMS."
+    },
+    {
+      "role": "assistant",
+      "content": "Laura, take a deep breath and keep going, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Uh-huh."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing really good, just keep going. Somebody should be there any minute to help you out. Are you doing okay?"
+    },
+    {
+      "role": "user",
+      "content": "I can't help. Okay, I'm doing good."
+    },
+    {
+      "role": "assistant",
+      "content": "Take a deep breath. You're doing good. Like I said, when you need to take a break, check for a pulse, check his airway, and let yourself catch your breath for a second."
+    },
+    {
+      "role": "user",
+      "content": "He's starting to turn colors."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's fine. You keep going. Is his airway still clear?"
+    },
+    {
+      "role": "assistant",
+      "content": "Check for the pulse. Catch your breath."
+    },
+    {
+      "role": "user",
+      "content": "I think I got a heartbeat."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear it?"
+    },
+    {
+      "role": "user",
+      "content": "It's really faint."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know how to feel for a carotid pulse? Do you know how to feel for the pulse on his neck? It should be right next to his windpipe about the middle of the neck."
+    },
+    {
+      "role": "user",
+      "content": "Okay, keep going then. If he's got a little bit of a heart rate, that\u2019s better. Just keep helping him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your house pretty easy to find from the road, Laura?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's just a long driveway."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have a long, narrow driveway? What color is your house?"
+    },
+    {
+      "role": "user",
+      "content": "It's a beige brick. It's set real far back from the road. There are two horses in the pasture and an old well in front of it."
+    },
+    {
+      "role": "assistant",
+      "content": "It\u2019s a beige brick house with an old well in the front, and two horses in the pasture. Any vehicles out front?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, there's a red car and an old blue truck."
+    },
+    {
+      "role": "assistant",
+      "content": "A red car and an old blue truck, okay? Just keep going, okay. You're doing a wonderful job, Laura. Nobody could do any better."
+    },
+    {
+      "role": "user",
+      "content": "He's starting to smell like he's soiling himself."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine, that happens. Keep going. They're coming; keep going. You're doing good."
+    },
+    {
+      "role": "assistant",
+      "content": "Laura, you're doing a good job. Can you get the dogs out of the way, okay?"
+    }
+  ]
+}

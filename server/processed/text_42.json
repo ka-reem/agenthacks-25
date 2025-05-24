@@ -1,0 +1,148 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I need police at, uh... Where the heck am I? 291 Watertown Street immediately. We just had bullets fired."
+    },
+    {
+      "role": "assistant",
+      "content": "Who shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Someone out the window."
+    },
+    {
+      "role": "assistant",
+      "content": "Out the window of what?"
+    },
+    {
+      "role": "user",
+      "content": "Out the window of the shop."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Do you need an ambulance, too?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, potential hit. Shots fired! Shots fired. 291 Watertown Street."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Stay on the line with me. They're on the way. What happened there? Who was shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just heard banging."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you in the building?"
+    },
+    {
+      "role": "user",
+      "content": "I am in the building. I work here. There are bullets all over the place. I do have a weapon on me. I have not fired."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are in the building?"
+    },
+    {
+      "role": "user",
+      "content": "No one's firing now. I don't see anyone hurt, but I have two people here. Two women are with me here."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many people are in the building total?"
+    },
+    {
+      "role": "user",
+      "content": "There's three on the jewelry side, where the shooting came from, and then I don't know who's on the other side."
+    },
+    {
+      "role": "assistant",
+      "content": "You're in Christophori jewelry?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, yes."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. I'm going to stay on the line with you until they get there. Are you guys in a safe spot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I don't think so. They shot right through the window."
+    },
+    {
+      "role": "assistant",
+      "content": "From inside or outside?"
+    },
+    {
+      "role": "user",
+      "content": "From outside. From the outside."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the other two people, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am. They're both talking."
+    },
+    {
+      "role": "assistant",
+      "content": "And you didn't see who shot?"
+    },
+    {
+      "role": "user",
+      "content": "No, but I have cameras here."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see anyone else in the area before this happened?"
+    },
+    {
+      "role": "user",
+      "content": "No, there was a suspicious individual here earlier, but..."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. Tell me when they get there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I can hear them coming."
+    },
+    {
+      "role": "assistant",
+      "content": "I can hear them, too, but I'm not going to hang up until you're actually with them, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Here's the police. Can you please check her, please?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is that an officer, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there's an officer here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can I call my other partner? He's in another location."
+    },
+    {
+      "role": "user",
+      "content": "Yes, thank you. Bye."
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm on the freeway between Hurricane and Colorado City."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you're on SR 59, I believe?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What mile marker?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm pulled over in the road."
+    },
+    {
+      "role": "user",
+      "content": "My husband's in the middle of the road having a serious, like, psychosis."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know what mile marker at all?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "And is he being violent right now?"
+    },
+    {
+      "role": "user",
+      "content": "He's taking his clothes off, he's running in this street."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're calling from in case we get disconnected?"
+    },
+    {
+      "role": "user",
+      "content": "Area code 435-512-1487."
+    },
+    {
+      "role": "user",
+      "content": "Brian, pick up your shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is he saying? What's he doing?"
+    },
+    {
+      "role": "user",
+      "content": "He's freaking out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you know what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "No!"
+    },
+    {
+      "role": "assistant",
+      "content": "How old is he?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Please, just try to jump in front of a car or something."
+    },
+    {
+      "role": "assistant",
+      "content": "He tried to jump in front of a car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "Stop, stop, stop! Stop, Brian! You're going to get hurt, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Anna Cardo. Will you please get in the car, Brian? Please."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, I need you to talk to me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. I'm just afraid he's going to jump in front of the car."
+    },
+    {
+      "role": "assistant",
+      "content": "I understand. Does he have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he been drinking?"
+    },
+    {
+      "role": "user",
+      "content": "No, no."
+    },
+    {
+      "role": "assistant",
+      "content": "Has anybody been doing any drugs?"
+    },
+    {
+      "role": "user",
+      "content": "No. Brian, knock it off. Brian, go. He's just throwing things. I'm afraid he's going to..."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your husband's name?"
+    },
+    {
+      "role": "user",
+      "content": "Brian."
+    },
+    {
+      "role": "assistant",
+      "content": "Brian, what's his last name?"
+    },
+    {
+      "role": "user",
+      "content": "B-A-R-D-A-L-L."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, is your vehicle in the roadway or is it off to the side?"
+    },
+    {
+      "role": "user",
+      "content": "My daughter's in the car, and I'm afraid he's going to jump in front of a car or something."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Ann, is your vehicle in the roadway or is it off to the side?"
+    },
+    {
+      "role": "user",
+      "content": "It's off to the side. He's just having a freak out."
+    },
+    {
+      "role": "user",
+      "content": "I've given him his medicine, but it's going to take about an hour to kick in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what kind of mental illness does he have?"
+    },
+    {
+      "role": "user",
+      "content": "He's been diagnosed as bipolar."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how long ago did you give him the medicine?"
+    },
+    {
+      "role": "user",
+      "content": "About 15 minutes ago. My daughter's in the car, and I'm afraid he's going to..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you spell your husband's last name again?"
+    },
+    {
+      "role": "user",
+      "content": "B-A-R-D-A-L-L."
+    },
+    {
+      "role": "user",
+      "content": "Just come fast. I'm so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming as fast as they can. Okay, try to stay calm. Are you able to stay at a safe distance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's running in the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Ann, is he thinking about committing suicide?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't think so."
+    },
+    {
+      "role": "assistant",
+      "content": "Has he injured your daughter at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, no. Brian, stop!"
+    },
+    {
+      "role": "user",
+      "content": "He's not listening. Just sit down, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, the right people are coming. They're coming as fast as they can."
+    },
+    {
+      "role": "user",
+      "content": "I'm so scared. I can't do this."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, if it's safe to do so, I want you to try to get your daughter out of the car."
+    },
+    {
+      "role": "user",
+      "content": "No, I can't. She's locked in the car. I'm keeping her in there so he can't get in."
+    },
+    {
+      "role": "user",
+      "content": "Brian, get out of the road!"
+    },
+    {
+      "role": "assistant",
+      "content": "What direction is he going?"
+    },
+    {
+      "role": "user",
+      "content": "Up and down all around. He's directing traffic."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay out of the road, sweetie."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming lights and sirens as fast as they can."
+    },
+    {
+      "role": "assistant",
+      "content": "Help is on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, if you can, keep your daughter safe and in the car."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to stay calm."
+    },
+    {
+      "role": "user",
+      "content": "I'm really scared he's going to jump in front of a moving car."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you to go out into traffic to try to stop him. Just stay with your daughter."
+    },
+    {
+      "role": "user",
+      "content": "I'm very concerned. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are on their way. They're coming as fast as possible."
+    },
+    {
+      "role": "user",
+      "content": "He's still running across the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Try to keep him safe until help arrives. Can you get other cars to slow down or stop?"
+    },
+    {
+      "role": "user",
+      "content": "People are pulling over to help, but he's freaking out on them."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, can you spell your last name for me again, please?"
+    },
+    {
+      "role": "user",
+      "content": "C-A-R-D-O."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, what is your home address?"
+    },
+    {
+      "role": "user",
+      "content": "1945 West University Heights Drive North in Flagstaff, Arizona."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the zip code?"
+    },
+    {
+      "role": "user",
+      "content": "86001."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "6/11/1980."
+    },
+    {
+      "role": "assistant",
+      "content": "And your husband's date of birth?"
+    },
+    {
+      "role": "user",
+      "content": "12/7/1976."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a good job, Ann. The officers will be there soon."
+    },
+    {
+      "role": "user",
+      "content": "I'm just so scared."
+    },
+    {
+      "role": "assistant",
+      "content": "They're coming as fast as they can, lights and sirens."
+    },
+    {
+      "role": "user",
+      "content": "He's running up and down the road."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay at a safe distance and keep your daughter inside the car."
+    },
+    {
+      "role": "user",
+      "content": "He's chasing cars now."
+    },
+    {
+      "role": "assistant",
+      "content": "The police are almost there."
+    },
+    {
+      "role": "user",
+      "content": "He's naked and not listening."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep yourself and your daughter safe."
+    },
+    {
+      "role": "user",
+      "content": "I see the police! They're here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're there? All right, I'm going to let you go now. You did a great job, Ann."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "Ann, mile marker 18 on SR 59?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, heading towards Hilldale."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll let them know. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye-bye."
+    },
+    {
+      "role": "user",
+      "content": "I'm out here on the highway going toward Hilldale, and there's a guy out here running around like he's crazy. He's stopping cars and stuff."
+    },
+    {
+      "role": "assistant",
+      "content": "And you're on SR-59? Can you tell what mile marker you're at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, ma'am. It's about five or six miles out of Hurricane."
+    },
+    {
+      "role": "assistant",
+      "content": "Five to six miles out of Hurricane and it's a male acting crazy?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, he's going crazy out here, and I stopped, and his wife or his girlfriend said he... He's about six foot tall, has a beard, no shirt, black shorts."
+    },
+    {
+      "role": "assistant",
+      "content": "Black shorts? Okay, and is he saying anything specific?"
+    },
+    {
+      "role": "user",
+      "content": "He flagged me down and then his girlfriend said he was going crazy."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he say his name?"
+    },
+    {
+      "role": "user",
+      "content": "He didn't, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on one second, okay? Don't hang up on me."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

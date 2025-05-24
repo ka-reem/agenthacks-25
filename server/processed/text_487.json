@@ -1,0 +1,192 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "The baby's not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the location?"
+    },
+    {
+      "role": "user",
+      "content": "1280 Highland Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "1280 Highland? Is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the phone number that you're calling from?"
+    },
+    {
+      "role": "user",
+      "content": "It's [phone number]."
+    },
+    {
+      "role": "assistant",
+      "content": "Now, ma'am, stay on the line with me. I'm going to connect you over to fire rescue, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "This is C-17 connecting 1280 Highland Avenue. Information verified."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the problem? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Hello? Can you talk to me?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Calm down so we can help the baby, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to ask you some questions. Is the baby male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Male."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby conscious?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's not breathing. Please help."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I've got help on the way. We're going to help the baby, okay? Did you see what happened?"
+    },
+    {
+      "role": "user",
+      "content": "I was sleeping. I went to check, and he was not breathing."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you with the baby right now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm outside."
+    },
+    {
+      "role": "assistant",
+      "content": "I need you to be by the baby. Can you get to the baby?"
+    },
+    {
+      "role": "user",
+      "content": "She's got him in her arms."
+    },
+    {
+      "role": "assistant",
+      "content": "I need the baby to be laying flat on his back on the ground. Remove any pillows. Is there anything in the baby's mouth?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Place your hand on the baby's forehead, the other hand under the baby's neck and shoulders. Then slightly tilt the head back. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, listen to me. Do not stop what we are doing. Can you feel any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "No, we can't."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to tell you how to give mouth-to-mouth. When the baby's head is slightly tilted back, completely cover the baby's mouth and nose with yours and blow two puffs of air into the lungs."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll do it."
+    },
+    {
+      "role": "assistant",
+      "content": "Just enough to make the chest rise with each breath. Did you feel the air going in and out?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure. He's got fluid in his lungs."
+    },
+    {
+      "role": "assistant",
+      "content": "You still need to blow air into the lungs. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Nelson. My son's turning white."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone doing chest compressions?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's doing them."
+    },
+    {
+      "role": "assistant",
+      "content": "Make sure to use two fingers on the breastbone in the center of his chest, right between the nipples. Push down hard and fast."
+    },
+    {
+      "role": "user",
+      "content": "There's a fire station right down the street. What is going on?"
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, sir. We need to keep working on the baby. Is she continuing CPR?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's turning purple."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, keep going. They're almost there. I see the lights."
+    },
+    {
+      "role": "user",
+      "content": "I see the lights. Please hurry up!"
+    }
+  ]
+}

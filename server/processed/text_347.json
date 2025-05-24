@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Can I get a police on Dryden, Park, and Dewey?"
+    },
+    {
+      "role": "user",
+      "content": "They just jumped my 13-year-old daughter, and it's about to be all hell."
+    },
+    {
+      "role": "assistant",
+      "content": "Is your daughter injured?"
+    },
+    {
+      "role": "user",
+      "content": "No, she has a scratch on her face under her chin."
+    },
+    {
+      "role": "assistant",
+      "content": "Does she know who jumped her?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she knows who jumped her."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people jumped her?"
+    },
+    {
+      "role": "user",
+      "content": "She said a whole bunch of grown women."
+    },
+    {
+      "role": "assistant",
+      "content": "And where are they now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, maybe eight or nine. I'm not sure."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still near you?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're not around."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly are you right now?"
+    },
+    {
+      "role": "user",
+      "content": "We\u2019re at the corner of Dewey and Driving Park."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you and your daughter safe at the moment?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we are just standing on the corner."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Tasha."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any business or landmark nearby?"
+    },
+    {
+      "role": "user",
+      "content": "It's a one-way street, and they were standing out with six and nines."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay where you are. Officers are on their way."
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My wife is in the bathroom. She's bleeding all over the place. She thinks she's having a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she having the baby right now?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. I think she's in labor."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's your address, sir?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I'm looking at a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen, I need your address."
+    },
+    {
+      "role": "user",
+      "content": "I have a baby. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. You didn't know she was pregnant?"
+    },
+    {
+      "role": "user",
+      "content": "No, I had no idea my wife was pregnant."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the phone number you're at?"
+    },
+    {
+      "role": "user",
+      "content": "That's my cell phone number."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. My wife is holding a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is she?"
+    },
+    {
+      "role": "user",
+      "content": "27 years old. She's had three children, two of mine, one before me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to tell you what to do. You need to get out of the bathroom."
+    },
+    {
+      "role": "user",
+      "content": "She's fine. Oh my God, I'm looking at a baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, calm down. Is the baby crying or breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, she's crying."
+    },
+    {
+      "role": "assistant",
+      "content": "We need to get a cloth and you need to wipe off the baby's mouth and nose, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on, Carrie. What's, ma'am? Sorry, I didn't hear you, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "You need to dry the baby off with a dry towel."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I've got towels."
+    },
+    {
+      "role": "assistant",
+      "content": "Don't pull the cord out. Leave it loose."
+    },
+    {
+      "role": "user",
+      "content": "Okay, put the baby in a towel."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the baby in the mother's arms or on her belly."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it's fine."
+    },
+    {
+      "role": "assistant",
+      "content": "Wrap a towel around the baby to keep it warm."
+    },
+    {
+      "role": "user",
+      "content": "Okay, oh my God. The placenta is out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, don't push. We're going to work on tying the cord off. Get a piece of string or a shoelace."
+    },
+    {
+      "role": "user",
+      "content": "Find a piece of string or a shoelace. I don't care what shoe."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, how could she pretend she wasn't pregnant?"
+    },
+    {
+      "role": "assistant",
+      "content": "Try to get her to lay back, we want her to lay down."
+    },
+    {
+      "role": "user",
+      "content": "Carrie, just get as comfortable as possible. Now one goes on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Tie the cord off about 6 inches from the baby."
+    },
+    {
+      "role": "user",
+      "content": "Okay, she said tie the cord off about 6 inches from the baby's belly."
+    },
+    {
+      "role": "assistant",
+      "content": "How tight? Pretty tight, but don't cut it."
+    },
+    {
+      "role": "user",
+      "content": "Yep, that's good."
+    },
+    {
+      "role": "assistant",
+      "content": "You said the placenta came out already?"
+    },
+    {
+      "role": "user",
+      "content": "Yep, there's nothing connected to my wife."
+    },
+    {
+      "role": "assistant",
+      "content": "I want you to get another towel and wrap the placenta in it."
+    },
+    {
+      "role": "user",
+      "content": "Carrie, wrap the placenta in a towel."
+    },
+    {
+      "role": "assistant",
+      "content": "Put the baby on mom's belly. How's mom doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's sore but calm."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, get a blanket to wrap around mom."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, is the front light on?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is she bleeding profusely?"
+    },
+    {
+      "role": "user",
+      "content": "Honey, are you bleeding real bad?"
+    },
+    {
+      "role": "user",
+      "content": "No, she's not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, it looks normal from the other births."
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's not like going all over, just a bit."
+    },
+    {
+      "role": "assistant",
+      "content": "How's the baby's color?"
+    },
+    {
+      "role": "user",
+      "content": "He's fine. He looks just like me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, she's not bleeding real bad?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "How's the baby looking?"
+    },
+    {
+      "role": "user",
+      "content": "He's perfectly fine. I'm looking right at him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just relax. Let her know they are on the way."
+    },
+    {
+      "role": "user",
+      "content": "They're on the way, honey."
+    },
+    {
+      "role": "assistant",
+      "content": "She did a wonderful job."
+    },
+    {
+      "role": "user",
+      "content": "She did a great job for not knowing she was pregnant."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I talk to her?"
+    },
+    {
+      "role": "user",
+      "content": "Here, talk to him for a second."
+    },
+    {
+      "role": "user",
+      "content": "Hi."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Tyler Whitney."
+    },
+    {
+      "role": "assistant",
+      "content": "So now you're a big brother?"
+    },
+    {
+      "role": "user",
+      "content": "Yep, I have one brother. Now I have two and two sisters."
+    },
+    {
+      "role": "assistant",
+      "content": "Cool. What's dad's name?"
+    },
+    {
+      "role": "user",
+      "content": "Dan and Ryan."
+    },
+    {
+      "role": "assistant",
+      "content": "Is Ryan the one there tonight?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "What's mom's name?"
+    },
+    {
+      "role": "user",
+      "content": "Carrie."
+    },
+    {
+      "role": "assistant",
+      "content": "How exciting to have a new baby!"
+    },
+    {
+      "role": "user",
+      "content": "Really exciting."
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "I'm 10."
+    },
+    {
+      "role": "assistant",
+      "content": "How's mom doing?"
+    },
+    {
+      "role": "user",
+      "content": "She's laying on the floor with the baby."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you give the phone back to mom?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi. So what's going on with the baby? Is he dirty?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he has meconium on his head."
+    },
+    {
+      "role": "assistant",
+      "content": "That's normal. Babies are usually cleaned up by the hospital."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Is the baby breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's blowing bubbles. What a surprise."
+    },
+    {
+      "role": "assistant",
+      "content": "How are you feeling?"
+    },
+    {
+      "role": "user",
+      "content": "A little sore, but pretty good."
+    },
+    {
+      "role": "assistant",
+      "content": "Your son Tyler is very excited about the new baby."
+    },
+    {
+      "role": "user",
+      "content": "Oh, they just said they're here."
+    },
+    {
+      "role": "assistant",
+      "content": "Congratulations!"
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

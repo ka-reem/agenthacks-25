@@ -1,0 +1,60 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, and what city is this in?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and are you in a subdivision or a mobile park?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's a house, and we're right on the road, right in front of Gwen Smith's house."
+    },
+    {
+      "role": "assistant",
+      "content": "Right in front of which house?"
+    },
+    {
+      "role": "user",
+      "content": "Gwen Smith."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's your name, please?"
+    },
+    {
+      "role": "user",
+      "content": "What's the phone you are calling from?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's the problem? Tell me exactly what happened."
+    },
+    {
+      "role": "user",
+      "content": "Our snake, we have a Burmese python, and she's about 12 feet long. She got out of the cage last night and got into the baby's crib and strangled her to death."
+    },
+    {
+      "role": "user",
+      "content": "I'm going to kill the snake!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the line, please."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I do have help on the way there for you. Sir, I need to ask you a few more questions, okay?"
+    }
+  ]
+}

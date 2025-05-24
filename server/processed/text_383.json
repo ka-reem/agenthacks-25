@@ -1,0 +1,252 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I think somebody's breaking in the house. We just came home from school and put our pajamas on."
+    },
+    {
+      "role": "user",
+      "content": "We're really scared. My mom's on her way here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Do you hear someone at the door, or what's going on?"
+    },
+    {
+      "role": "user",
+      "content": "No, we hear them at the back door. We're really scared."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you hear them at the back door?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're coming in now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on the line with me."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you to hang up with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to stay on the phone."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I understand that."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got officers on their way there, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "How old are you?"
+    },
+    {
+      "role": "user",
+      "content": "Um, we just got home from school. We had a half day today."
+    },
+    {
+      "role": "user",
+      "content": "My mom is on her way here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who else is there with you?"
+    },
+    {
+      "role": "user",
+      "content": "My brother and my sister, but she just went to school."
+    },
+    {
+      "role": "assistant",
+      "content": "How old is your brother?"
+    },
+    {
+      "role": "user",
+      "content": "He's seven and the other one's ten."
+    },
+    {
+      "role": "user",
+      "content": "My mom said, since we had a half day, she was going to come home early to watch us."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I want you to stay on the phone with me."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you guys downstairs or where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "Upstairs. We went in the closet because we're really scared."
+    },
+    {
+      "role": "assistant",
+      "content": "That's all right. You can just stay on the phone with me."
+    },
+    {
+      "role": "assistant",
+      "content": "I don't want you to hang up until an officer gets there, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "How far away is your mom from the home?"
+    },
+    {
+      "role": "user",
+      "content": "She says she's on her way home, but I really don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Have you guys looked out the window or anything?"
+    },
+    {
+      "role": "user",
+      "content": "No, because I'm really scared."
+    },
+    {
+      "role": "assistant",
+      "content": "That's okay. That's all right."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm just trying to type this into the officers. They're on the way there already, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Where do you guys go to school?"
+    },
+    {
+      "role": "user",
+      "content": "We go to [School Name]."
+    },
+    {
+      "role": "assistant",
+      "content": "And you had a half day?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "What grade are you in?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in [Grade]."
+    },
+    {
+      "role": "user",
+      "content": "I'm about to go to [Next Grade]."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, okay. My daughter went to [your school]."
+    },
+    {
+      "role": "user",
+      "content": "Did she really like it?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, she did."
+    },
+    {
+      "role": "user",
+      "content": "Are they on their way here yet?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yep, they're on the way. I just wanted to keep you on the phone, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, I don't want you to hang up because I want you to tell me if you hear somebody in the house, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "This is Officer Mueller, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's okay. He's going to meet you at the front door. Can you unlock it for him?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "You can stay on the phone with me, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you opening the door now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. You go ahead and talk to Officer Mueller now, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "All right."
+    }
+  ]
+}

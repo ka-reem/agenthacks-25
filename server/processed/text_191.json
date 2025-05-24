@@ -1,0 +1,272 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "1500 East Second Street, Suite 300."
+    },
+    {
+      "role": "assistant",
+      "content": "1500 East Second Street, Suite 300. What's the problem there?"
+    },
+    {
+      "role": "user",
+      "content": "We believe there is a shooter. We've heard at least two shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the name of the business?"
+    },
+    {
+      "role": "user",
+      "content": "Urology Nevada."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anybody's been hurt?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. We are locked in the bathroom right outside the elevator."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you heard anything other than the shots?"
+    },
+    {
+      "role": "user",
+      "content": "No, we only heard two shots. Two suspected shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you're in the bathroom on the third floor, by the elevators?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "assistant",
+      "content": "And you haven't seen anyone, right?"
+    },
+    {
+      "role": "user",
+      "content": "I personally have not seen anybody with a gun, no."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people are with you in the bathroom?"
+    },
+    {
+      "role": "user",
+      "content": "There are ten people in the bathroom I am in. There are probably about ten others in the men's room across the hall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and someone there saw the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, there are two people here who saw the person with the gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask them for a description? Is the shooter white, black, Hispanic, Asian?"
+    },
+    {
+      "role": "user",
+      "content": "He's a white guy, middle-aged, in his 40s, tall, around 6 feet, about 200 pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know what he was wearing or what kind of gun he had?"
+    },
+    {
+      "role": "user",
+      "content": "He had a long black gun, a pump shotgun with no stock, and a black vest over a flannel shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he say anything?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he said, 'You guys better get out of here,' then went towards the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he appear to be intoxicated?"
+    },
+    {
+      "role": "user",
+      "content": "No, he seemed angry. He said something about ruining his life. We don't know him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and nobody in the bathroom is injured, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Correct, nobody here is injured."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I want you to stay on the phone with me, stay quiet, and stay where you are. Help is on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've had a shooting at 1500 East Second Street, Suite 300."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "One of the doctors might have been shot. I'm hiding so I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you hiding?"
+    },
+    {
+      "role": "user",
+      "content": "Under my desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay quiet and stay on the phone with me. Where is the doctor?"
+    },
+    {
+      "role": "user",
+      "content": "I don\u2019t know, maybe in the back of the office."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many shots were fired?"
+    },
+    {
+      "role": "user",
+      "content": "I heard four shots in total."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I need you to stay as safe as possible. Do you have a window in your office?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but I'm on the third floor."
+    },
+    {
+      "role": "assistant",
+      "content": "Just stay where you are. I've got help on the way. Do you hear anything now?"
+    },
+    {
+      "role": "user",
+      "content": "It's quiet now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me and let me know if anything changes."
+    },
+    {
+      "role": "user",
+      "content": "Okay, will do."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We've got a gunman at 1500 East Second Street. I'm locked in a room."
+    },
+    {
+      "role": "assistant",
+      "content": "What room number are you in and what floor are you on?"
+    },
+    {
+      "role": "user",
+      "content": "I\u2019m on the third floor, Exam Room 18, Suite 302."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay where you are and stay away from windows and doors. What\u2019s your name?"
+    },
+    {
+      "role": "user",
+      "content": "Dr. Zell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Dr. Zell. I've got your information. Stay where you are and keep the door secured."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "1500 East Second Street, Urology Nevada."
+    },
+    {
+      "role": "assistant",
+      "content": "What's happening?"
+    },
+    {
+      "role": "user",
+      "content": "I hear gunshots outside my office."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone injured?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know, I'm hiding under my desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay calm and stay on the phone with me. Is your office door locked?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Good. Do you see or hear anyone outside the door?"
+    },
+    {
+      "role": "user",
+      "content": "I heard someone outside just now."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay quiet and stay calm. Help is on the way. Do you hear more shots?"
+    },
+    {
+      "role": "user",
+      "content": "No, it\u2019s quiet now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Do not open the door for anyone except the police. Stay on the line with me."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, this is Letitia from the store Big Five on Green Valley. I have a person that is robbing me right now of my firearms. I need police to the store immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he still in the store?"
+    },
+    {
+      "role": "user",
+      "content": "He is still in the store and he is getting my gun and he is breaking the lock with tools."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he white, black or Hispanic?"
+    },
+    {
+      "role": "user",
+      "content": "He is Hispanic."
+    },
+    {
+      "role": "assistant",
+      "content": "About how old?"
+    },
+    {
+      "role": "user",
+      "content": "He gave me his ID. He actually came to purchase again. And he was born in 1989. So, he's 22."
+    },
+    {
+      "role": "assistant",
+      "content": "What color shirt or jacket?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a black shirt, black jeans. It has writing on his shirt. He's five foot seven, 150 pounds."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "He's in the firearms counter and he is sawing away at my firearms. He's sawing off the gun in his hand and he's sawing it off."
+    },
+    {
+      "role": "assistant",
+      "content": "What do you mean by sawing off the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He's got an electric saw blade. He is sawing my gun in half. He just grabbed the ammunition. He's actually loading the gun. Please send someone."
+    },
+    {
+      "role": "assistant",
+      "content": "We've been on the way since we started talking. Where are you?"
+    },
+    {
+      "role": "user",
+      "content": "I am in my office looking right at him. Yeah, it's like that yellow writing on his shirt. It's like a rasta kind of looking shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you open for business?"
+    },
+    {
+      "role": "user",
+      "content": "I am open for business. He is now walking towards outside the store. There is a customer in the front that doesn't even know what's going on."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "He is in the front of the store. He is walking towards the front. He is right at my doors. I think that he is waiting for some other people and he's going to get more."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see anyone else with him?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's by himself."
+    },
+    {
+      "role": "assistant",
+      "content": "And did he load the gun?"
+    },
+    {
+      "role": "user",
+      "content": "He loaded the gun. He sawed it in half and loaded the gun. And he's walking back towards me. Oh my God, he just fired. Shots fired."
+    },
+    {
+      "role": "assistant",
+      "content": "What's he shooting at?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just got underneath the desk."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, that's okay. We're on our way, they should be there momentarily. Anyone hit, do you know?"
+    },
+    {
+      "role": "user",
+      "content": "Not that I know of. I know my cashier ducked down, she's scared."
+    },
+    {
+      "role": "assistant",
+      "content": "They're outside, they're coming in."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Where is he? Do you know?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's okay, I'm staying on the phone with you. Do you hear anything?"
+    },
+    {
+      "role": "user",
+      "content": "I think he went back into the firearms counter. We have a buzzer so I can hear. He's trying to get into my office. Hold on. I'm going to tell them."
+    },
+    {
+      "role": "assistant",
+      "content": "I have two employees out there that are unprotected, I'm so scared for them. Any other shots fired?"
+    },
+    {
+      "role": "user",
+      "content": "No, just one. Just one shot. And you heard the alarm go off?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, the alarm has not gone off."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, they're yelling. Two more shots. Two more shots. He's yelling 'get down'. He's firing again."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, the guy with the gun is down right now, okay? So you're okay at this moment. The officers are in there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me. Was there ever a second suspect or just that one man?"
+    },
+    {
+      "role": "user",
+      "content": "Just the one man. He came in for a transaction. I didn't notice anyone else."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are going to come and knock on your door. Your office door. I'm staying on the phone with you until they knock."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it was just one man."
+    }
+  ]
+}

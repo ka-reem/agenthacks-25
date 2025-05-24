@@ -1,0 +1,196 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm..."
+    },
+    {
+      "role": "user",
+      "content": "My friend, I think he's having a lot of health problems. He's unconscious on the floor now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, ma'am, okay, hold on just one second, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God, hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me. What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "I called it in a few days ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need to get some information. You said your name. Okay, what is the number that you're calling me from?"
+    },
+    {
+      "role": "user",
+      "content": "Oh, this is his number. I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "You don't know your number? Okay, listen to me. I need you to check and see if he's breathing, okay?"
+    },
+    {
+      "role": "user",
+      "content": "He's not breathing good at all. I'm trying to put air in his nose. I mean, he's out of it."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, listen to me, okay? The ambulance is already on the way, and we've got some county officers on the way. Are you with him now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I'm here with him."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how old is he?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I don't know. Maybe around 50. He just got out of the hospital like two weeks ago."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, can you take the phone away from your ear a little bit? You keep pressing buttons, and I can't hear you. Can you hear me now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we need to see if he's breathing. If not, we need to start CPR, okay? Can you see his chest moving?"
+    },
+    {
+      "role": "user",
+      "content": "I can see his chest going in and out, barely."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, place your hand on his forehead, your other hand under his neck, and tilt his head back. Put your ear next to his mouth. Can you feel or hear any breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but it's not good. I can't get a pulse."
+    },
+    {
+      "role": "assistant",
+      "content": "You can't get a pulse? It's very faint?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, look at him very closely and tell me exactly what you see and hear him doing."
+    },
+    {
+      "role": "user",
+      "content": "Let me turn this radio down. Oh my God, what has he done? I was in another room asleep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're going to do chest compressions. Place the heel of your hand on the breastbone in the center of the chest, right between the nipples. Put your other hand on top of that hand. Pump the chest hard and fast, at least twice per second, and two inches deep. Let the chest come all the way up between pumps. We\u2019re going to keep doing this until help can take over. Count out loud so I can hear you."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "user",
+      "content": "One, two, three, four, five, six, seven, eight, nine, ten..."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. Keep counting out loud."
+    },
+    {
+      "role": "user",
+      "content": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty..."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a good job. Keep going until help gets there."
+    },
+    {
+      "role": "user",
+      "content": "Twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty..."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep going. You're helping him."
+    },
+    {
+      "role": "user",
+      "content": "Thirty-one, thirty-two, thirty-three, thirty-four, thirty-five, thirty-six, thirty-seven, thirty-eight, thirty-nine, forty..."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "His chest is barely moving."
+    },
+    {
+      "role": "assistant",
+      "content": "Keep doing the compressions. You're doing a great job."
+    },
+    {
+      "role": "user",
+      "content": "Forty-one, forty-two, forty-three, forty-four, forty-five, forty-six, forty-seven, forty-eight, forty-nine, fifty..."
+    },
+    {
+      "role": "assistant",
+      "content": "Help should be there any minute. Keep going."
+    },
+    {
+      "role": "user",
+      "content": "Fifty-one, fifty-two, fifty-three, fifty-four, fifty-five, fifty-six, fifty-seven, fifty-eight, fifty-nine, sixty..."
+    },
+    {
+      "role": "assistant",
+      "content": "There\u2019s an officer on scene. Is the door unlocked?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's unlocked. They can get in."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Keep doing the compressions until they get right with you."
+    },
+    {
+      "role": "user",
+      "content": "Seventy-one, seventy-two, seventy-three, seventy-four, seventy-five..."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing a great job. Keep going."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they're with you now. Thank you for your help."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    }
+  ]
+}

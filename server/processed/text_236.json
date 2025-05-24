@@ -1,0 +1,188 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is an emergency. We're on a hike at Lake Malacca, and my kids are trapped in a snow cave."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I need you to calm down so I can help you. Where exactly are you?"
+    },
+    {
+      "role": "user",
+      "content": "Lake Malacca. We accessed it from the Jenny Creek Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How far up from the Jenny Creek Trailhead are you?"
+    },
+    {
+      "role": "user",
+      "content": "We're at the first falls, about two miles in."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this happen?"
+    },
+    {
+      "role": "user",
+      "content": "It just collapsed about three minutes ago."
+    },
+    {
+      "role": "assistant",
+      "content": "How many kids are trapped?"
+    },
+    {
+      "role": "user",
+      "content": "My 17-year-old son and a 14-year-old neighbor boy."
+    },
+    {
+      "role": "assistant",
+      "content": "And it's a big snow cave that collapsed on them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a big bunch of snow."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am. How far into the cave were they?"
+    },
+    {
+      "role": "user",
+      "content": "Maybe 100 feet in."
+    },
+    {
+      "role": "assistant",
+      "content": "And how deep do you think the collapse is? Can you tell?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell from here."
+    },
+    {
+      "role": "assistant",
+      "content": "My partner has already started help. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Joanie Corbett. J-O-A-N-I-E C-O-R-B-E-T-T."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there anyone else with you that can head back down the trail to direct rescue crews?"
+    },
+    {
+      "role": "user",
+      "content": "There's a gentleman here trying to help, and my neighbor, the mother of the other boy, but she's too upset."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you hear them if they yell?"
+    },
+    {
+      "role": "user",
+      "content": "No, we can't hear anything. They have their cell phones, but there's no signal."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay as calm as you can. We need to keep them calm to conserve their air, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. My partner has started help already. They will get to you as fast as they can."
+    },
+    {
+      "role": "user",
+      "content": "Are they hiking in? They won't make it if they're hiking in."
+    },
+    {
+      "role": "assistant",
+      "content": "No, listen to me. My partner started help as soon as I figured out where you were. They are coming."
+    },
+    {
+      "role": "user",
+      "content": "I need to call my husband."
+    },
+    {
+      "role": "assistant",
+      "content": "Can someone else take the phone while you call your husband?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Hi, this is Chrissy, the other mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, Chrissy. How old is your son?"
+    },
+    {
+      "role": "user",
+      "content": "He's 14, and the other boy is 17."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a snow cave or an ice cave?"
+    },
+    {
+      "role": "user",
+      "content": "It's a snow cave. It hasn't melted yet."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. My partner started help as soon as we got your location. Is there a name for the waterfall?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. It's just the first falls from the Jenny Creek Trailhead."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. How deep do you think the collapsed part is?"
+    },
+    {
+      "role": "user",
+      "content": "It's probably 20 by 20 yards."
+    },
+    {
+      "role": "assistant",
+      "content": "How far into the cave was the collapse?"
+    },
+    {
+      "role": "user",
+      "content": "About 10 yards in."
+    },
+    {
+      "role": "assistant",
+      "content": "You're doing great. We have search and rescue and the fire department on their way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Please hurry."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you confirm Joni's phone number?"
+    },
+    {
+      "role": "user",
+      "content": "Her cell number is 2006-372-3776."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Chrissy. Please stay as calm as you can."
+    },
+    {
+      "role": "user",
+      "content": "I will. Thank you."
+    }
+  ]
+}

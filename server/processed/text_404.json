@@ -1,0 +1,72 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we need an officer right now. There's a man shooting at this lady. We need a cop."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you located?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know where we are. Oh my gosh, what street is this called?"
+    },
+    {
+      "role": "user",
+      "content": "2711 10th Street. We need help."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I hear you. I understand. Are you okay?"
+    },
+    {
+      "role": "user",
+      "content": "Please, I need an ambulance and police. We have babies around here too. There's babies in the car. He won't give them to the mom."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright. What happened? Is she hurt? Was she shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she's hurt. She's bleeding everywhere. She can't stand. She's fainting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we will send EMS out. You said the address is 2711 10th Street?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, 2711 10th Street."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting. He killed the kids! He killed!"
+    },
+    {
+      "role": "assistant",
+      "content": "He's shooting her again?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, no. He killed the babies. He killed them!"
+    },
+    {
+      "role": "user",
+      "content": "The babies! Oh my God, the babies!"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the line with me, please."
+    },
+    {
+      "role": "user",
+      "content": "Please, stay with me too."
+    }
+  ]
+}

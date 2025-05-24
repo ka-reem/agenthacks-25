@@ -1,0 +1,76 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Lawrence State here."
+    },
+    {
+      "role": "assistant",
+      "content": "Caller on the line. She's got to be quiet. Somebody just broke into her house, 436 Lowell Street."
+    },
+    {
+      "role": "assistant",
+      "content": "Is somebody still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, they're in the house now."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this a house or an apartment?"
+    },
+    {
+      "role": "user",
+      "content": "Nope. It's a house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Did you see who the people were?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes."
+    },
+    {
+      "role": "user",
+      "content": "He's still in the house. Yes, 436 Lowell Street, is that correct?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. Did you see what they look like?"
+    },
+    {
+      "role": "user",
+      "content": "No. He didn't see anybody."
+    },
+    {
+      "role": "user",
+      "content": "No, he's Spanish. He has dark clothes on."
+    },
+    {
+      "role": "assistant",
+      "content": "Spanish, male. Got it."
+    },
+    {
+      "role": "user",
+      "content": "My daughter and I are hiding in the bedroom, and he's coming back up the stairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have officers on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}

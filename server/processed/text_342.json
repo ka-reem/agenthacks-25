@@ -1,0 +1,176 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A car ran through and ran over about five or six, seven people. A man is laying on the ground, his head is bleeding, and there are two babies on the ground."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the phone number you're calling from, please?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, do you need an ambulance?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, we need helicopters, we need everything."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "It's the universe."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the problem?"
+    },
+    {
+      "role": "user",
+      "content": "What is the problem? I just explained it. People are on the ground, people ran over. We need help immediately."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I can't hear you very well. It's too much noise in the background. What was the address?"
+    },
+    {
+      "role": "user",
+      "content": "Are you at 13th and W Street?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that home street, where the uniform is at?"
+    },
+    {
+      "role": "user",
+      "content": "Are you on Martin Luther King or W?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm at 13th and W Street."
+    },
+    {
+      "role": "user",
+      "content": "No, stay down, stay down."
+    },
+    {
+      "role": "assistant",
+      "content": "What's going on at 13th? Someone was hit by a car?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "South East?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's right down the street from the Unifax."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have that call, sir. We'll send help, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, police, fire, or ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Can I have the ambulance? Mapleview and King Avenue."
+    },
+    {
+      "role": "assistant",
+      "content": "In reference to that action, we have two officers hurt. Mapleview and King Avenue. Two officers hurt. Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Ambulance 13, Battalion 3, safety officer and rescue squad 3, respond. Report of multiple pedestrians struck, King Avenue and W Street southeast."
+    },
+    {
+      "role": "user",
+      "content": "13th and W Street southeast, correct."
+    },
+    {
+      "role": "user",
+      "content": "13th and W. South East?"
+    },
+    {
+      "role": "user",
+      "content": "13th and W. Struck by a car down here. We got like three people hurt."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, 13th and W Street, South East, correct? Someone was struck by a car?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we got three people out here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'll send the police and the ambulance, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Alright. He's conscious and breathing. What's your, you said your Officer Brown?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes. 13th and W Street, South East."
+    },
+    {
+      "role": "user",
+      "content": "Please respond. Okay. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, my name is Ramah Ayers. I'm from Chicago, so I don't know exactly where I'm at, but a car just drove through a festival and there are people who are severely hurt."
+    },
+    {
+      "role": "user",
+      "content": "A car just drove through where?"
+    },
+    {
+      "role": "assistant",
+      "content": "They drove to a festival and hit tons of people. There are tons of severely hurt people."
+    },
+    {
+      "role": "user",
+      "content": "Can you try to find out where you are?"
+    },
+    {
+      "role": "assistant",
+      "content": "I am on 13th Street and the 200 block of 13th Street southeast."
+    },
+    {
+      "role": "user",
+      "content": "200 block of 13th Street South East? Okay, we will have the ambulance and police respond."
+    },
+    {
+      "role": "assistant",
+      "content": "I count at least five people on the ground, three of them cops."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'll update and let them know. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You are welcome. Bye-bye."
+    }
+  ]
+}

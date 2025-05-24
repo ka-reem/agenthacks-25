@@ -1,0 +1,212 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We just caught two boys breaking into our car, and we've detained one of them on our porch."
+    },
+    {
+      "role": "assistant",
+      "content": "You got one on the front porch?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your address?"
+    },
+    {
+      "role": "user",
+      "content": "36-09 5th Avenue, and the other one's running."
+    },
+    {
+      "role": "assistant",
+      "content": "But you got one?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it a male or female?"
+    },
+    {
+      "role": "user",
+      "content": "A male."
+    },
+    {
+      "role": "assistant",
+      "content": "Black male, white male?"
+    },
+    {
+      "role": "user",
+      "content": "White male."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold him there."
+    },
+    {
+      "role": "user",
+      "content": "We are because our car was broken into about eight months ago, so we already know who did it."
+    },
+    {
+      "role": "user",
+      "content": "No, that's not correct. But we do have one detained."
+    },
+    {
+      "role": "user",
+      "content": "They're all just standing around here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, just hold them."
+    },
+    {
+      "role": "user",
+      "content": "One of them busted our window."
+    },
+    {
+      "role": "user",
+      "content": "Not again. They already got his speaker box."
+    },
+    {
+      "role": "user",
+      "content": "Yes, they got his speaker box and one of them ran."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, the police are on their way."
+    },
+    {
+      "role": "user",
+      "content": "They got his CD player and ran with it."
+    },
+    {
+      "role": "user",
+      "content": "Our dog started barking, that's how we heard them."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the other suspect went?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "user",
+      "content": "One more white kid is coming down the street right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay in the house and hold onto the one you have. They'll be there shortly."
+    },
+    {
+      "role": "user",
+      "content": "He's shooting! They're shooting at us!"
+    },
+    {
+      "role": "assistant",
+      "content": "Shots fired. Shots fired. Stay down."
+    },
+    {
+      "role": "user",
+      "content": "He shot my house! They're shooting my house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Stay inside. Do you know where he is now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he's walking down the street with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you describe him?"
+    },
+    {
+      "role": "user",
+      "content": "They were wearing hoodies. They're white males."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we've got the description. The police should be arriving any moment."
+    },
+    {
+      "role": "user",
+      "content": "It\u2019s been three minutes already."
+    },
+    {
+      "role": "assistant",
+      "content": "They're doing their best. Please stay safe and inside."
+    },
+    {
+      "role": "user",
+      "content": "My boyfriend has been shot. He's got blood all over him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he conscious?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but he's losing a lot of blood."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I've updated the responders. The ambulance will be there soon."
+    },
+    {
+      "role": "user",
+      "content": "They live in this neighborhood. The police should know them."
+    },
+    {
+      "role": "assistant",
+      "content": "Please stay inside until help arrives."
+    },
+    {
+      "role": "user",
+      "content": "I have three babies in this house and the police still aren't here."
+    },
+    {
+      "role": "assistant",
+      "content": "They're on their way, ma'am. Just stay calm and stay inside."
+    },
+    {
+      "role": "assistant",
+      "content": "What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "Christy Lewis."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Christy. The fire department and ambulance are often dispatched together. They should be with you soon."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the police are here now. Can I hang up?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, you can. Stay safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

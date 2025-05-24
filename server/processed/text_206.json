@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "A woman came into her house screaming that her son had been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "1021 Dood Street, Woodville, Cain, Iowa."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Arthur Vasquez."
+    },
+    {
+      "role": "assistant",
+      "content": "Is she needing an ambulance?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, she needs an ambulance."
+    },
+    {
+      "role": "assistant",
+      "content": "Where is she shot at?"
+    },
+    {
+      "role": "user",
+      "content": "In her stomach."
+    },
+    {
+      "role": "assistant",
+      "content": "About how old is she?"
+    },
+    {
+      "role": "user",
+      "content": "I think she's hurting right now, not sure about her age."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, who else is injured?"
+    },
+    {
+      "role": "user",
+      "content": "She said her son shot her husband and someone else."
+    },
+    {
+      "role": "assistant",
+      "content": "So, three people were shot?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, her husband, her son, and someone else."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we know their status? Are they alive?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. She just came running out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Where's the guy with the gun?"
+    },
+    {
+      "role": "user",
+      "content": "In their house still."
+    },
+    {
+      "role": "assistant",
+      "content": "I've got someone on the way over there. Just stay in your house, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, sir. Bye-bye."
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. My name is Jean Thomas. I'm watching my home on live monitor and there's a black man in my house and he's robbing it."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you calling from?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling from my office and I have a live video monitor and I just..."
+    },
+    {
+      "role": "assistant",
+      "content": "What city are you calling from, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Fort Lauderdale at my work."
+    },
+    {
+      "role": "assistant",
+      "content": "So you don't know him?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. And he's in my house. I'm seeing him walking around my house. He's in my bedroom right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second."
+    },
+    {
+      "role": "user",
+      "content": "Please. We've already been robbed of everything."
+    },
+    {
+      "role": "assistant",
+      "content": "Pardon me?"
+    },
+    {
+      "role": "user",
+      "content": "Hold on just a second."
+    },
+    {
+      "role": "assistant",
+      "content": "What is he wearing, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "It's just blacked out on me. I can't tell. It's too dark. I can tell it's a black man. That's all I can tell."
+    },
+    {
+      "role": "assistant",
+      "content": "The screen just blacked out?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, hold on just a second."
+    },
+    {
+      "role": "assistant",
+      "content": "Yeah, she's watching it from work on one of those live video cameras and he's in her home, in her bedroom, and they've been robbed before."
+    },
+    {
+      "role": "assistant",
+      "content": "How long has he been in there, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just called 911 as soon as I saw it."
+    },
+    {
+      "role": "assistant",
+      "content": "Did the screen come back on?"
+    },
+    {
+      "role": "user",
+      "content": "No, it hasn't yet. It's still trying to connect."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on a second. Please get somebody there quick."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, they're on the way. We just need as much information as possible."
+    },
+    {
+      "role": "user",
+      "content": "Oh, there he is! He's in a long-sleeve shirt. Can you tell what color, or is it black and white? I can't tell. It's too dark still. He just walked back into my bedroom again. He's just walking around my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so it's definitely a black male, long-sleeved shirt?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a shirt over a shirt. And he's in my home."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell if he has any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he still in the bedroom at this time?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. I'm watching it right now. I can't believe this."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, ma'am. What's your name?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Jean. My last name is Thomas."
+    },
+    {
+      "role": "assistant",
+      "content": "And your phone number?"
+    },
+    {
+      "role": "user",
+      "content": "My cell phone is [number]."
+    },
+    {
+      "role": "assistant",
+      "content": "Is anyone else at your house?"
+    },
+    {
+      "role": "user",
+      "content": "No, nobody's there. My little boy is at school, I'm at work."
+    },
+    {
+      "role": "assistant",
+      "content": "Does anyone else have a key?"
+    },
+    {
+      "role": "user",
+      "content": "No. There goes my cat. She's running. I've got three dogs in there."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, from your front door, where is your bedroom located?"
+    },
+    {
+      "role": "user",
+      "content": "Straight through to the right. It's on the northwest side."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Does he have a mask or anything on?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't see a mask or anything."
+    },
+    {
+      "role": "assistant",
+      "content": "Does he have any type of tools that he might have used to break in?"
+    },
+    {
+      "role": "user",
+      "content": "He could have come through my doggy door."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's coming out. He has a white shirt."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on a second. Do you think he's exiting the house now?"
+    },
+    {
+      "role": "user",
+      "content": "No, he's walking next to my stereo. He's looking at my son's video games. He's rummaging through the house. I'm going to lose the connection in about 34 seconds."
+    },
+    {
+      "role": "assistant",
+      "content": "Are the officers there yet?"
+    },
+    {
+      "role": "user",
+      "content": "No, but please hurry. He's now in my living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, I just need as much information as possible. What is he doing now?"
+    },
+    {
+      "role": "user",
+      "content": "He's picked up a Wii video game. He has something in his hands. He's now in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so he's in the living room. Can you see what he's picked up?"
+    },
+    {
+      "role": "user",
+      "content": "It just blacked out on me. I'm trying to get back in."
+    },
+    {
+      "role": "assistant",
+      "content": "Does it usually do that?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it only connects for about three minutes at a time."
+    },
+    {
+      "role": "user",
+      "content": "It's connecting back again. Please hurry!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, we do have an officer on the scene."
+    },
+    {
+      "role": "assistant",
+      "content": "As soon as the screen comes back, I need to know where he is."
+    },
+    {
+      "role": "user",
+      "content": "Okay, it's coming back. Hurry! Oh God, please hurry."
+    },
+    {
+      "role": "user",
+      "content": "They've stolen everything. All my jewelry, all my coins."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you have an alarm system, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, but it's not connected."
+    },
+    {
+      "role": "assistant",
+      "content": "Has the screen come back on yet?"
+    },
+    {
+      "role": "user",
+      "content": "It's still connecting, but it's taking too long."
+    },
+    {
+      "role": "user",
+      "content": "It's probably the same person who broke in before."
+    },
+    {
+      "role": "user",
+      "content": "Okay, the screen is back. I don't see anyone right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, please keep watching and let me know if you see anything."
+    },
+    {
+      "role": "user",
+      "content": "Oh, he's coming out of the bedroom again. He's in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, where is he now?"
+    },
+    {
+      "role": "user",
+      "content": "He's looking around. He's got something in his hands. He's back in the living room."
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a second."
+    },
+    {
+      "role": "user",
+      "content": "Oh, God. I can't believe this."
+    },
+    {
+      "role": "user",
+      "content": "He's running out the back door!"
+    },
+    {
+      "role": "user",
+      "content": "There are two people in the house now!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on, there's another person in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, another person in a big jacket just came in through the back."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you see both of them?"
+    },
+    {
+      "role": "user",
+      "content": "They're running around, looking out the back window."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I can see them both. One is heavy with a big hood on. They're looking out the back window."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just keep watching them. Officers are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Oh, one is running to the front; the other is trying to figure out which way to go!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, stay calm. Officers are surrounding your house."
+    },
+    {
+      "role": "user",
+      "content": "Alright. My cat is scared, and my dogs are hiding."
+    },
+    {
+      "role": "assistant",
+      "content": "It's going to be okay. Just keep watching and tell me what you see."
+    },
+    {
+      "role": "user",
+      "content": "They're running around trying to get out!"
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, are there any weapons in your house?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't keep any weapons."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see anyone else on the camera?"
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to reconnect the camera."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, the officers have apprehended two people."
+    },
+    {
+      "role": "assistant",
+      "content": "I need to know if you see anyone else once the screen comes back."
+    },
+    {
+      "role": "user",
+      "content": "Thank God. I hope they got them. There are so many people next door, I can't tell who's who."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I see someone in my house!"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you tell if it's a police officer?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I just see someone in my house."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. Officers should be inside now."
+    },
+    {
+      "role": "user",
+      "content": "I see my dog running; she's scared."
+    },
+    {
+      "role": "user",
+      "content": "I see another officer now."
+    },
+    {
+      "role": "assistant",
+      "content": "How many subjects did you see in total?"
+    },
+    {
+      "role": "user",
+      "content": "Just the two. One with a white shirt, and one with a big jacket."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so you've seen two subjects, mostly the one in the white shirt?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, the other one came later."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, ma'am. Can you head to your house now?"
+    },
+    {
+      "role": "user",
+      "content": "Yes. It'll take me about 30 minutes; I'm in Fort Lauderdale."
+    },
+    {
+      "role": "assistant",
+      "content": "What type of vehicle will you be in?"
+    },
+    {
+      "role": "user",
+      "content": "A blue Honda CRV."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, just a note, an officer had to push part of the fence in to get inside."
+    },
+    {
+      "role": "user",
+      "content": "I don't care about the fence. Thank you for your help."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome."
+    }
+  ]
+}

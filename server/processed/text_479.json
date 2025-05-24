@@ -1,0 +1,164 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, you need police, fire, or medical?"
+    },
+    {
+      "role": "user",
+      "content": "I mean, you know what happened?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "I'm sorry. I'm sorry. There's a situation here. We have residents that, I think, they stole a car, and there's a man in the bathroom right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "They told us what happened, and as soon as they left, we came over here, but they had them tied up with duct tape."
+    },
+    {
+      "role": "assistant",
+      "content": "How long ago did this occur?"
+    },
+    {
+      "role": "user",
+      "content": "The call was like five minutes ago, but we had to make sure they were gone so we could get this guy out of the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle was it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a Mercedes. Can you please come here?"
+    },
+    {
+      "role": "assistant",
+      "content": "There's already deputies on the way, okay? I need you to calm down and take a deep breath. My asking you questions is not slowing them down. They're already on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Calm down, okay. Who were these people and how many?"
+    },
+    {
+      "role": "user",
+      "content": "They live here in the residence."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I understand. How many subjects were there?"
+    },
+    {
+      "role": "user",
+      "content": "There are two."
+    },
+    {
+      "role": "assistant",
+      "content": "Two. Okay, were they males, females?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're two males."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, were they white, black, Hispanic?"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello?"
+    },
+    {
+      "role": "user",
+      "content": "Hello?"
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me some information?"
+    },
+    {
+      "role": "user",
+      "content": "If the cops are on the way, that's all I need."
+    },
+    {
+      "role": "assistant",
+      "content": "I've already told you they're on the way. My asking you these questions is not delaying them."
+    },
+    {
+      "role": "user",
+      "content": "Hello? Listen, can you ask questions? They're already on the way."
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I've dispatched them."
+    },
+    {
+      "role": "user",
+      "content": "I'm not worried about that. I need police to report a kidnapper. They kidnapped me."
+    },
+    {
+      "role": "assistant",
+      "content": "Like I talked to the person who was already on the phone, I've already told them there's three deputies that are on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'll give you all the car information when they get here. I've been kidnapped. I've been gone for hours at gunpoint. I've been in the back seat of a car."
+    },
+    {
+      "role": "user",
+      "content": "It sounds crazy, but this is real."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. What is your name, please?"
+    },
+    {
+      "role": "user",
+      "content": "My name is..."
+    },
+    {
+      "role": "user",
+      "content": "How long before they come back? That's what we're worried about."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir, calm down. I've already told you there's three deputies that have been on the way since you guys first called. Do you know who the people were that kidnapped you?"
+    },
+    {
+      "role": "user",
+      "content": "No, I have no idea. The gentleman here does. The most important thing is to have units here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, sir. I've already told you there's three deputies that are responding. Do you know where they may have been headed?"
+    },
+    {
+      "role": "user",
+      "content": "I have no idea."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. And how long ago? I've been in a closet, locked up. Just stay on the phone with me in case they come back, okay, so that we know."
+    },
+    {
+      "role": "user",
+      "content": "Well, they're going to come back. We're not worried about that. The question is whether they come back before the cops get here and people get shot or..."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, there's a deputy pulling up now, okay?"
+    }
+  ]
+}

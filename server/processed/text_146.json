@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "My friend has been missing since 7 o'clock this morning. She's in the middle of a divorce, and I'm not sure what to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me some more details about why you believe she's missing?"
+    },
+    {
+      "role": "user",
+      "content": "She supposedly went for a run this morning at 7 o'clock in Lockmere, but no one has heard from her. She was supposed to be at my house at 8, and she never showed up."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you checked with any local hospitals or anyone she might have contacted?"
+    },
+    {
+      "role": "user",
+      "content": "I called Wake Med, and they haven't admitted her on any emergent basis."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just a moment. May I place you on hold for just a moment?"
+    },
+    {
+      "role": "user",
+      "content": "Yep."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. That's correct. All right. What is your friend's name?"
+    },
+    {
+      "role": "user",
+      "content": "Her name is Nancy Cooper."
+    },
+    {
+      "role": "assistant",
+      "content": "What is her address?"
+    },
+    {
+      "role": "user",
+      "content": "She and her husband live together, but they are in the middle of a divorce."
+    },
+    {
+      "role": "assistant",
+      "content": "Have you tried making contact with her?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I called her husband this morning around 9. He said she went for a run with her friend Carrie, but she hasn't returned. I'm worried because it's not like her to disappear like this."
+    },
+    {
+      "role": "assistant",
+      "content": "Has her husband been violent with her in the past?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure if he's been physically violent, but I know there's been a lot of tension."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it possible she might have done something else and just forgotten to inform anyone?"
+    },
+    {
+      "role": "user",
+      "content": "Her car is parked at home and her cell phone is there, so it seems like she did leave for a run. It's not like her to just vanish without letting anyone know."
+    },
+    {
+      "role": "assistant",
+      "content": "Did her husband mention anything about her running with someone else?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, he said she was running with a friend named Carrie, but none of her other friends or I knew anything about it. It's very odd."
+    },
+    {
+      "role": "assistant",
+      "content": "What can the police department do to help in this situation?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not sure what to do. Should her husband be the one to file a report? Is there a certain number of hours we need to wait?"
+    },
+    {
+      "role": "assistant",
+      "content": "There is no time limit to file a missing person report. The person who last saw her should file it, which in this case would be her husband."
+    },
+    {
+      "role": "user",
+      "content": "Okay. I'm just worried about how her husband will react."
+    },
+    {
+      "role": "assistant",
+      "content": "It's better to be safe than sorry. We will send an officer to her house to speak with her husband and check the area."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Her husband contacted me directly to explain the situation."
+    },
+    {
+      "role": "assistant",
+      "content": "We will also check the trails around Lockmere Lake. Can you describe the trails she might have taken?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they're public trails, but some parts are more secluded. I've run with her there before."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, give us about 30 to 45 minutes to work on this. You can call me back after that."
+    },
+    {
+      "role": "user",
+      "content": "Okay. My name is Michelle."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Michelle. We'll do everything we can."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye."
+    }
+  ]
+}

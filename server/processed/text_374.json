@@ -1,0 +1,336 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Is the air clear?"
+    },
+    {
+      "role": "assistant",
+      "content": "Negative."
+    },
+    {
+      "role": "user",
+      "content": "15 Bravo 5. I'm inside Target at the north entrance."
+    },
+    {
+      "role": "assistant",
+      "content": "North entrance of Target, I copied 215, that's your location."
+    },
+    {
+      "role": "assistant",
+      "content": "We're also getting information regarding someone being shot inside the G&C store."
+    },
+    {
+      "role": "user",
+      "content": "It sounds like he's in the mall."
+    },
+    {
+      "role": "user",
+      "content": "15, get him some help and rations."
+    },
+    {
+      "role": "user",
+      "content": "Happy deployment in there."
+    },
+    {
+      "role": "user",
+      "content": "I am in."
+    },
+    {
+      "role": "user",
+      "content": "I'm trying to get to the mall entrance through Target."
+    },
+    {
+      "role": "user",
+      "content": "There are other officers on the left side of Target here."
+    },
+    {
+      "role": "assistant",
+      "content": "2.20 call rapid deployment."
+    },
+    {
+      "role": "user",
+      "content": "Have any cars to respond over there?"
+    },
+    {
+      "role": "assistant",
+      "content": "Code 1."
+    },
+    {
+      "role": "user",
+      "content": "We have shots fired in the mall."
+    },
+    {
+      "role": "user",
+      "content": "We have shots fired outside the mall."
+    },
+    {
+      "role": "user",
+      "content": "He's by AMC apparently."
+    },
+    {
+      "role": "user",
+      "content": "220."
+    },
+    {
+      "role": "user",
+      "content": "Call rapid deployment citywide, all cars, not in service."
+    },
+    {
+      "role": "user",
+      "content": "Code 1 to North to Ward Parkway Mall. Now."
+    },
+    {
+      "role": "assistant",
+      "content": "Attention all units, citywide assist. Any car not in service, respond to Ward Parkway Shopping Center."
+    },
+    {
+      "role": "assistant",
+      "content": "What\u2019s the location you need them at 220?"
+    },
+    {
+      "role": "user",
+      "content": "Suspect's been shot. He's right outside the Target entrance, inside the mall. Start me an ambulance. We need more officers here."
+    },
+    {
+      "role": "user",
+      "content": "Party is down. He was armed with an assault rifle."
+    },
+    {
+      "role": "assistant",
+      "content": "Attention all units, citywide assist. Suspect has been shot and is down. Medical assistance has been ordered."
+    },
+    {
+      "role": "user",
+      "content": "Other cards are en route. Continue Code 1."
+    },
+    {
+      "role": "user",
+      "content": "210. I\u2019m 10-23."
+    },
+    {
+      "role": "user",
+      "content": "We have multiple children to the doctor's care here."
+    },
+    {
+      "role": "user",
+      "content": "Griggs, where are you at?"
+    },
+    {
+      "role": "user",
+      "content": "North side of the parking lot and the south side."
+    },
+    {
+      "role": "user",
+      "content": "49, where are they, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "215, where do we have them at?"
+    },
+    {
+      "role": "user",
+      "content": "We\u2019ve got plenty of officers right inside the Target entrance."
+    },
+    {
+      "role": "user",
+      "content": "Any law enforcement involved or shot?"
+    },
+    {
+      "role": "user",
+      "content": "We\u2019re trying to get him in custody. Keep holding the air."
+    },
+    {
+      "role": "assistant",
+      "content": "Clear the air, we have the suspect in custody. Any other reports of injuries?"
+    },
+    {
+      "role": "assistant",
+      "content": "Clear the air regarding the officer assist. Suspect is in custody. Medical assistance has been ordered."
+    },
+    {
+      "role": "user",
+      "content": "Go ahead, 228."
+    },
+    {
+      "role": "user",
+      "content": "We have a victim, a person in a green shirt that's been shot."
+    },
+    {
+      "role": "assistant",
+      "content": "215, do you copy?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, I copy."
+    },
+    {
+      "role": "user",
+      "content": "If you have somebody, shut off all Target entrances."
+    },
+    {
+      "role": "assistant",
+      "content": "Any units at Ward Parkway, specifically Target, shut off all entrances."
+    },
+    {
+      "role": "assistant",
+      "content": "215, please clarify: Has any law enforcement been shot?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I don't know. No law enforcement was around when I approached him."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you."
+    },
+    {
+      "role": "user",
+      "content": "I need an ambulance. We have one female in shock by the Starbucks entrance."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that by Starbucks, continuing to hold the air."
+    },
+    {
+      "role": "assistant",
+      "content": "What business is the vehicle in front of?"
+    },
+    {
+      "role": "user",
+      "content": "Suspect is west of off-Broadway shoes."
+    },
+    {
+      "role": "user",
+      "content": "2-47, we\u2019re trying to get there."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Continue to hold the air."
+    },
+    {
+      "role": "user",
+      "content": "We don\u2019t need the air anymore. Clearing the air."
+    },
+    {
+      "role": "assistant",
+      "content": "10-56 on Metro."
+    },
+    {
+      "role": "user",
+      "content": "Go ahead, 10-56."
+    },
+    {
+      "role": "user",
+      "content": "Just got off the phone with the operations manager at Ward Parkway Mall. He can\u2019t account for all of his security guards and fears one might be shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that. Some of the security guards are in the Target admin area."
+    },
+    {
+      "role": "assistant",
+      "content": "2-10."
+    },
+    {
+      "role": "user",
+      "content": "Go ahead, 2-10."
+    },
+    {
+      "role": "user",
+      "content": "Get a hold of Parkway Security command. All security guards should gather at the southwest corner entrance."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that."
+    },
+    {
+      "role": "user",
+      "content": "Are you the one with the security officers?"
+    },
+    {
+      "role": "assistant",
+      "content": "No, I'm guarding Griggs. Security officers are in the admin area on the east side of the building towards the north entrance."
+    },
+    {
+      "role": "user",
+      "content": "Any Kansas police officers in contact with Ward Parkway security?"
+    },
+    {
+      "role": "user",
+      "content": "We have another party down next to the suspect vehicle, need medical assistance."
+    },
+    {
+      "role": "assistant",
+      "content": "What lot is the suspect vehicle in?"
+    },
+    {
+      "role": "user",
+      "content": "Silver Malibu in the parking lot by off-Broadway shoes."
+    },
+    {
+      "role": "assistant",
+      "content": "Medical assistance being ordered."
+    },
+    {
+      "role": "user",
+      "content": "We need medical assistance by Starbucks. Party down inside a car just west of Starbucks."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy, ordering medical assistance."
+    },
+    {
+      "role": "assistant",
+      "content": "Is this in addition to what 249 had?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we found another, need more assistance."
+    },
+    {
+      "role": "user",
+      "content": "We're going to need a massive crime scene unit at Ward Parkway Center. Call out traffic unit available."
+    },
+    {
+      "role": "assistant",
+      "content": "Copy that."
+    },
+    {
+      "role": "user",
+      "content": "Anyone at Ward Parkway, check all cars in the parking lot. We have multiple victims."
+    },
+    {
+      "role": "user",
+      "content": "318 on Metro en route."
+    },
+    {
+      "role": "user",
+      "content": "I'll stage on the north end of the mall, north entrance to Target."
+    },
+    {
+      "role": "assistant",
+      "content": "All responding officers stage at the north entrance to Target for assignment."
+    },
+    {
+      "role": "user",
+      "content": "Where's your other victim?"
+    },
+    {
+      "role": "user",
+      "content": "Two car spaces away. One next to the suspect vehicle and another two spaces west."
+    },
+    {
+      "role": "assistant",
+      "content": "Outside what business?"
+    },
+    {
+      "role": "user",
+      "content": "Not confirmed. Copy."
+    }
+  ]
+}

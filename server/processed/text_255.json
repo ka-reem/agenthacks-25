@@ -1,0 +1,260 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, I just witnessed a vehicle accident on the northbound 94 freeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where exactly on northbound 94?"
+    },
+    {
+      "role": "user",
+      "content": "Right before the Caledonia exit, just south of the 27th Street exit."
+    },
+    {
+      "role": "assistant",
+      "content": "It looked like a big rig versus an auto?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's right."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get emergency services out there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "Christine County 911, where is your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There's a horrible accident on 7-mile fare and Highway 94."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what's going on there?"
+    },
+    {
+      "role": "user",
+      "content": "A semi just hit two cars. They're in the ditch, right at the entrance of 7-mile fare and Highway 94."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it actually up on the interstate or down on the frontage road?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's still on the interstate."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know if anybody's injured?"
+    },
+    {
+      "role": "user",
+      "content": "I can't tell. I'm far away from the accident. I just saw it happen."
+    },
+    {
+      "role": "assistant",
+      "content": "Were they headed southbound or northbound?"
+    },
+    {
+      "role": "user",
+      "content": "Southbound."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and you said it was between a semi and two cars?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's right. The cars are in the ditch and the semi is still on the interstate."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We'll get emergency services out there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "There was an accident. Three cars crashed into each other, just before the 7-mile exit."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you on the frontage road or the interstate?"
+    },
+    {
+      "role": "user",
+      "content": "It's on the east side of the frontage road just before 7-mile fare."
+    },
+    {
+      "role": "assistant",
+      "content": "So you're on the east side of the freeway or on the west frontage road?"
+    },
+    {
+      "role": "user",
+      "content": "The accident was on the east side."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone is hurt?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. We couldn't stop. We were in ongoing traffic and just saw it happen."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but it happened on the interstate?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we'll get emergency services out there."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, there's an accident on 7-mile road south."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know if anyone is hurt?"
+    },
+    {
+      "role": "user",
+      "content": "It looks like two or three cars are totaled. People were getting out to check, but I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we'll get emergency services out there."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm calling to report an accident on 94 just south of the 7-mile fare."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you witness it, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No, I did not witness it."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how many people are injured or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "I don't, but it looks like there are about four cars, and a semi was pulled over."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. We're sending someone to help them right now."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I'm heading northbound on 94, and there's two cars off the road just at the 7-mile exit."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they still up on the freeway, or did they go off to the side of the road?"
+    },
+    {
+      "role": "user",
+      "content": "They're off the road, but there's debris in the middle lane of the freeway."
+    },
+    {
+      "role": "assistant",
+      "content": "Ma'am, did the cars go down off to the right by the frontage road?"
+    },
+    {
+      "role": "user",
+      "content": "Two of the cars are sitting off the shoulder. Some other cars are parked along the side."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we have help on the way. Did you witness it, ma'am?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, we have help coming. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You're welcome. Goodbye."
+    }
+  ]
+}

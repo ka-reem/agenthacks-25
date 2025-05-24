@@ -1,0 +1,268 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I need somebody escorted out of my store right away. He's causing problems."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is he fighting with people?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, he's fighting with somebody right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, is it a physical fight or verbal?"
+    },
+    {
+      "role": "user",
+      "content": "Verbal."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address we need to come out to?"
+    },
+    {
+      "role": "user",
+      "content": "Holy shit."
+    },
+    {
+      "role": "assistant",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "What is the address?"
+    },
+    {
+      "role": "user",
+      "content": "He has a gun or a knife."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the phone. What's the address?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, okay, okay. The address is 1330 El Paseo de Saratoga."
+    },
+    {
+      "role": "assistant",
+      "content": "Now what makes you think he has a gun or a knife?"
+    },
+    {
+      "role": "user",
+      "content": "He just pulled it out."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, but there's a difference. Is it a gun?"
+    },
+    {
+      "role": "user",
+      "content": "There's a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone. Can you go somewhere safe?"
+    },
+    {
+      "role": "user",
+      "content": "Go, go, go, go, go, go. In the bathroom. Go."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and so this guy... Oh my God, he shot somebody."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God, oh my God."
+    },
+    {
+      "role": "user",
+      "content": "Oh my God. Holy shit."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Are you safe?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, we're in the bathroom."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, so this guy, is he white, black, Hispanic, or Asian?"
+    },
+    {
+      "role": "user",
+      "content": "White."
+    },
+    {
+      "role": "assistant",
+      "content": "How old does he look?"
+    },
+    {
+      "role": "user",
+      "content": "About 40."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he tall, short, or medium?"
+    },
+    {
+      "role": "user",
+      "content": "Medium."
+    },
+    {
+      "role": "assistant",
+      "content": "Is he heavy, thin, or medium build?"
+    },
+    {
+      "role": "user",
+      "content": "Heavy."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what is he wearing?"
+    },
+    {
+      "role": "user",
+      "content": "He's wearing a giant sweater and a Giant's hat."
+    },
+    {
+      "role": "assistant",
+      "content": "A Giants baseball cap?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, stay on the phone with me, okay? I want to get a really good description. I've got units on their way out there right now, okay? You're at Pete's Coffee at 1330 El Paseo de Saratoga?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Let me just update this. Did you see somebody get shot, or did you just hear him fire the gun?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, somebody is shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So the guy who shot, is it a male or a female?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Do we have any age or anything like that?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I don't want you to go out there. I've got units on their way. I want to get a good description of this guy so we catch him, okay? So it's a white male adult. He's about 40 years old with a medium height and heavy build."
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you remember what color hair he has?"
+    },
+    {
+      "role": "user",
+      "content": "Dark short hair under his hat."
+    },
+    {
+      "role": "assistant",
+      "content": "Did he come in a car? Do you remember?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't know."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. He's inside the store, and he's wearing a Giants baseball cap and a giant sweatshirt, right?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Lock the door, please. We've got units in the area, okay? I don't want anybody getting hurt, so if you're in a safe place, I want you to stay there, all right?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. We're in the back room, but he's gone."
+    },
+    {
+      "role": "assistant",
+      "content": "He left?"
+    },
+    {
+      "role": "user",
+      "content": "He's gone, but somebody is shot."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. So the person that's shot, is it a male or female?"
+    },
+    {
+      "role": "user",
+      "content": "Male."
+    },
+    {
+      "role": "assistant",
+      "content": "How old does he look? Around 20, 30, 40?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. Oh my God."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, can you shut the door?"
+    },
+    {
+      "role": "user",
+      "content": "The police are here now."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, and what is your name?"
+    },
+    {
+      "role": "user",
+      "content": "My... The officer is here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, talk to the officer. Thank you for calling."
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much. Bye."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "It's my neighbor. She said someone was in the back of her house with a gun trying to kill her. She ran over here."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what's the address?"
+    },
+    {
+      "role": "user",
+      "content": "2842 East Mount Tabor Circle, Duluth."
+    },
+    {
+      "role": "assistant",
+      "content": "Is someone in her house now?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. She just ran over here."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her if she knows who this person is and if they are still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "She doesn't know who it was. She's hysterical."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her what the person looked like and if they are still in the house?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, hold on. Did he have a gun? Yeah, she said he had a gun and tried to shoot her. What's her address? Because mine is 2842."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it to the right or left of your house if you are facing it?"
+    },
+    {
+      "role": "user",
+      "content": "It's to the right."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you ask her what he looked like or put her on the phone?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, she said he had a gun and tried to shoot her. She thinks he's on the back porch."
+    },
+    {
+      "role": "assistant",
+      "content": "Can I talk to her? I need to ask her some questions."
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, can you tell her what you saw?"
+    },
+    {
+      "role": "user",
+      "content": "I was in the shower and the lights went out. A man came in with a hood on, and he had a knife. He covered my mouth with his hand and told me to be quiet. He had an accent and was dark-skinned."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, what happened next?"
+    },
+    {
+      "role": "user",
+      "content": "He told me to get out of the tub and tried to force me to get in the bed. I told him I had a child and money, and I would give him money to leave me alone."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you have any weapons?"
+    },
+    {
+      "role": "user",
+      "content": "I took my .22 and shot him as much as I could, but he kept walking. He went outside through the sliding door and I locked the door and ran to my neighbor's house. He might have taken my other gun, a .380 and a .38 special."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are your guns now?"
+    },
+    {
+      "role": "user",
+      "content": "The .22 is empty and the other guns are in my nightstand next to my bed."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, did you put the guns away after you shot him?"
+    },
+    {
+      "role": "user",
+      "content": "No, I think I put the .22 on the floor inside the sliding glass door and then locked it."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, I have officers on the way. Do you need medical attention?"
+    },
+    {
+      "role": "user",
+      "content": "I hurt my back when I fell. He was going to rape and kill me."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, just stay with your neighbor until the officers arrive. Make sure your cat is safe."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Please tell the officers not to let my cat out."
+    },
+    {
+      "role": "assistant",
+      "content": "The officers are outside your house now. Can you step outside to talk to them?"
+    },
+    {
+      "role": "user",
+      "content": "Okay, but my back hurts so much. Where are they?"
+    },
+    {
+      "role": "assistant",
+      "content": "They are at your house waiting for you. They will help you."
+    },
+    {
+      "role": "user",
+      "content": "Alright, I'm going outside now. Please help me."
+    }
+  ]
+}

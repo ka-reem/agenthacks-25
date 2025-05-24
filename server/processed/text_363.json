@@ -1,0 +1,244 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, this call is recorded. What's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "Hi, this is the state police. A gentleman's girlfriend is having a baby right now."
+    },
+    {
+      "role": "user",
+      "content": "Okay, sir. What's the address?"
+    },
+    {
+      "role": "assistant",
+      "content": "101 Beach. B-E-E-C-H. It's in Belmont."
+    },
+    {
+      "role": "user",
+      "content": "101 Beach. Is that a multifamily house?"
+    },
+    {
+      "role": "assistant",
+      "content": "It's an apartment, number three."
+    },
+    {
+      "role": "user",
+      "content": "Apartment three. Is that on the third floor?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, it's on the third floor. The baby's head is crowning right now, sir."
+    },
+    {
+      "role": "user",
+      "content": "Say again?"
+    },
+    {
+      "role": "assistant",
+      "content": "The baby's head is crowning. He's coming out."
+    },
+    {
+      "role": "user",
+      "content": "Okay. We're going to respond right now. Do you have clean cloths, clean blankets?"
+    },
+    {
+      "role": "assistant",
+      "content": "I do."
+    },
+    {
+      "role": "user",
+      "content": "Are you familiar with what you need to do?"
+    },
+    {
+      "role": "assistant",
+      "content": "Uh, sort of, yeah."
+    },
+    {
+      "role": "user",
+      "content": "Okay. Is she positioned properly? Is she laying down?"
+    },
+    {
+      "role": "assistant",
+      "content": "She's in the bathtub."
+    },
+    {
+      "role": "user",
+      "content": "She's in the bathtub. Okay. You want to put the blankets down underneath her?"
+    },
+    {
+      "role": "assistant",
+      "content": "He's coming."
+    },
+    {
+      "role": "user",
+      "content": "Okay, you want to make sure you catch him. Just guide him out very carefully."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm guiding. I got him. I got him."
+    },
+    {
+      "role": "user",
+      "content": "Okay, he's coming out. Oh, hi, little guy?"
+    },
+    {
+      "role": "assistant",
+      "content": "He's out."
+    },
+    {
+      "role": "user",
+      "content": "He's out? All right, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "Stay on the phone with me. We're on the way. The child is out."
+    },
+    {
+      "role": "user",
+      "content": "Oh, my God. He's moving."
+    },
+    {
+      "role": "assistant",
+      "content": "How's his color?"
+    },
+    {
+      "role": "user",
+      "content": "He's white. He looks okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Is he breathing?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. He looks like he's asleep."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Stay on the phone with me. How many months along was she?"
+    },
+    {
+      "role": "user",
+      "content": "Nine months."
+    },
+    {
+      "role": "assistant",
+      "content": "She was nine months along? Okay. Is he crying?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah. A little bit."
+    },
+    {
+      "role": "assistant",
+      "content": "Excellent. Do you see any obvious problems at all?"
+    },
+    {
+      "role": "user",
+      "content": "No, his eyes are still closed."
+    },
+    {
+      "role": "assistant",
+      "content": "That's fine. Okay. You just want to very gently wipe off the baby's mouth and nose with a clean cloth."
+    },
+    {
+      "role": "user",
+      "content": "Okay, dry off the baby with a clean towel?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, just dry him off very gently."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "Very good. That's a good sound."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "You want to cover the baby's head with the clean towel to keep him warm but don't cover his face. Also, don't pull the cord tight."
+    },
+    {
+      "role": "user",
+      "content": "I'm not pulling the cord. Should I put the baby in the mother's arms or on her belly?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, place the baby in the mother's arms or on her belly. The big thing right now is to keep the baby warm and the mother too."
+    },
+    {
+      "role": "user",
+      "content": "Okay, fine. Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "I have the paramedics and the EMTs on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "They will be there in a couple of minutes. I'll stay on the phone with you until they arrive. Is the door to the apartment unlocked, sir?"
+    },
+    {
+      "role": "user",
+      "content": "It is now."
+    },
+    {
+      "role": "assistant",
+      "content": "It is unlocked now? Okay. He's crying."
+    },
+    {
+      "role": "user",
+      "content": "The fire department is on the third floor."
+    },
+    {
+      "role": "assistant",
+      "content": "The fire department is arriving outside; they're going to come right up. I'm staying on the phone with you until they make contact."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    },
+    {
+      "role": "assistant",
+      "content": "You did a great job."
+    },
+    {
+      "role": "user",
+      "content": "We're here. Thanks so much."
+    },
+    {
+      "role": "assistant",
+      "content": "How's it going?"
+    },
+    {
+      "role": "user",
+      "content": "Thank you so much, sir."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, sir. Go ahead and hang up with me."
+    },
+    {
+      "role": "user",
+      "content": "Okay. You're welcome. Bye-bye."
+    }
+  ]
+}

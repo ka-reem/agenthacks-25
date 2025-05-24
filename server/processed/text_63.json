@@ -1,0 +1,292 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "We're in here."
+    },
+    {
+      "role": "assistant",
+      "content": "911, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, we're at Macy's in the town center. We think we have a shooter in the store."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you know if anybody's injured?"
+    },
+    {
+      "role": "user",
+      "content": "We don't know. All we hear are shots and people are screaming and running."
+    },
+    {
+      "role": "assistant",
+      "content": "Is it on the upper level or lower level?"
+    },
+    {
+      "role": "user",
+      "content": "Upper level. I don't know where the shots are coming from."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, hold on. We're getting help started."
+    },
+    {
+      "role": "user",
+      "content": "Right."
+    },
+    {
+      "role": "assistant",
+      "content": "We've got help on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I know. We've got him on the way. Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi. I'm at the town center, there's been a shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I need you to get to a safe location. We have help on the way, okay?"
+    },
+    {
+      "role": "user",
+      "content": "Okay. Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "This is a shooting. We're at the town center, at Macy's upstairs, by the fragrance section."
+    },
+    {
+      "role": "assistant",
+      "content": "Who is shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. I'm hiding underneath a register."
+    },
+    {
+      "role": "assistant",
+      "content": "My partner is dispatching help while we\u2019re talking. Whereabouts in Macy's do you think the shooter is?"
+    },
+    {
+      "role": "user",
+      "content": "Um, it's got to be upstairs around the food court. All the alarms are going off."
+    },
+    {
+      "role": "user",
+      "content": "Grace, where are you? Hey!"
+    },
+    {
+      "role": "assistant",
+      "content": "Hold on just a moment."
+    },
+    {
+      "role": "user",
+      "content": "Greene!"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir? Did you actually see this or are you just hearing this?"
+    },
+    {
+      "role": "user",
+      "content": "No, no. We just heard it. There were like 15-20 gunshots right outside the entrance to Macy's upstairs."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to disconnect with you as they're already being dispatched. They're on the way."
+    },
+    {
+      "role": "user",
+      "content": "Thank you. Bye."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Clackamas Town Center, Frederick's of Hollywood. There's a fire in the mall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, they're on their way. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's the location of your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, I'm in the back of Macy's. There\u2019s a shooting."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you see the shooter?"
+    },
+    {
+      "role": "user",
+      "content": "No, we\u2019re in the store. It's either inside or right outside Macy's."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, we're getting people there as quickly as we can. Get yourself to a safe spot."
+    },
+    {
+      "role": "user",
+      "content": "All right, thanks."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hi, there's a shooting at the town center."
+    },
+    {
+      "role": "assistant",
+      "content": "Did you actually witness the suspect or do you know where they are?"
+    },
+    {
+      "role": "user",
+      "content": "No, I don't. I'm inside Jamba Juice."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to disconnect with you. They've already got the call."
+    },
+    {
+      "role": "user",
+      "content": "Okay, thank you."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, are you reporting a shooting at the town center?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, I am."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, are you involved or do you see where the person is?"
+    },
+    {
+      "role": "user",
+      "content": "I'm in Bath & Body Works right now."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see where the shooter is?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm going to disconnect with you. They've already got the call."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, are you calling about the shooting at the town center?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know where the shooter is?"
+    },
+    {
+      "role": "user",
+      "content": "They're over by the food court."
+    },
+    {
+      "role": "assistant",
+      "content": "Top floor or bottom floor?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know. We're just hearing shots."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, find somewhere safe."
+    },
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Hey, we have a report of a shooting at Clackamas Town Center."
+    },
+    {
+      "role": "assistant",
+      "content": "Where at?"
+    },
+    {
+      "role": "user",
+      "content": "It's in Nordstrom right now. Someone is walking around with a gun."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, how many people with a gun?"
+    },
+    {
+      "role": "user",
+      "content": "As far as I can see, one."
+    },
+    {
+      "role": "assistant",
+      "content": "How many people has he shot?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know right now. I'm in the store still and can just barely see him."
+    },
+    {
+      "role": "assistant",
+      "content": "Is there any description of him?"
+    },
+    {
+      "role": "user",
+      "content": "I can't see right now."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of gun does he have? Handgun or rifle?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, it's a rifle."
+    },
+    {
+      "role": "user",
+      "content": "Bye."
+    }
+  ]
+}

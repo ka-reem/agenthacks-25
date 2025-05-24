@@ -1,0 +1,152 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, where's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "Well, I'm on 41 going south. I just crossed Chamberlain, and a man pulled up next to me. There was a child screaming in his car."
+    },
+    {
+      "role": "assistant",
+      "content": "What kind of vehicle is it?"
+    },
+    {
+      "role": "user",
+      "content": "It's a blue Camaro, like from the 90s or early 2000s or something."
+    },
+    {
+      "role": "assistant",
+      "content": "Was it a baby or a child?"
+    },
+    {
+      "role": "user",
+      "content": "No, it was a child. It's dark, but I turned to look. The driver is a white male, light-colored hair, sort of plump. He's behind me now. I tried to slow down so he could pass me and I could read his license plate."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, ma'am, don't hang up, okay?"
+    },
+    {
+      "role": "user",
+      "content": "I'm not."
+    },
+    {
+      "role": "assistant",
+      "content": "Where are you now?"
+    },
+    {
+      "role": "user",
+      "content": "I'm just crossing Jinx Drive. I'm going very slow, like 45 miles an hour on 41."
+    },
+    {
+      "role": "assistant",
+      "content": "And he's behind you?"
+    },
+    {
+      "role": "user",
+      "content": "I think so. He hasn't passed me, and he's going slower than I am, which is odd because we're holding up traffic. I think he saw me looking at him. He's going even slower now."
+    },
+    {
+      "role": "assistant",
+      "content": "Are you pulling over?"
+    },
+    {
+      "role": "user",
+      "content": "No, something's going on because he's going even slower now. Okay, he's pulling over to the other lane now."
+    },
+    {
+      "role": "assistant",
+      "content": "Can you give me your name and cell phone number?"
+    },
+    {
+      "role": "user",
+      "content": "My name is Jane Kowalski, K-O-W-A-L-S-K-I. My cell phone number is 813-205-4100."
+    },
+    {
+      "role": "user",
+      "content": "Oh shit, he's turning left on Toledo Blade. He's turning left right now."
+    },
+    {
+      "role": "assistant",
+      "content": "He's turning left onto Toledo Blade, and you said it's a blue Camaro with a white male driver?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, and there's a kid in the back seat banging on the window. The child looked between 5 and 10 years old, definitely not an infant."
+    },
+    {
+      "role": "assistant",
+      "content": "About how old do you think the child is?"
+    },
+    {
+      "role": "user",
+      "content": "I'd say less than 10, maybe between 5 to 10 years old."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, do you want to try to follow him?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know if I can catch up. There's a lot of traffic and I can't get over. The child was screaming, like a 'get me out of here' scream."
+    },
+    {
+      "role": "assistant",
+      "content": "Blue or black Camaro with a white male driver, light-colored hair. Got it. Thanks for calling this in."
+    },
+    {
+      "role": "user",
+      "content": "I'm way past them now and I wouldn't be able to catch up. I didn't want to put myself at risk."
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, Jane. And you're driving a Silver Mercedes?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, a Silver Mercedes 380."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you. Are you in a safe place?"
+    },
+    {
+      "role": "user",
+      "content": "I just pulled over into the Toys 'R' Us parking lot at the Town Center Mall."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, please stay there and keep your doors locked."
+    },
+    {
+      "role": "user",
+      "content": "Okay, I'm in my car with the doors locked."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you, Jane. We'll have someone follow up with you if needed."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you. I just wanted to make sure I called it in."
+    },
+    {
+      "role": "assistant",
+      "content": "You did the right thing. Thank you for calling."
+    },
+    {
+      "role": "user",
+      "content": "God, I hope everything turns out okay."
+    },
+    {
+      "role": "assistant",
+      "content": "We have your number. If we need more information, we'll call you back. Thank you."
+    },
+    {
+      "role": "user",
+      "content": "Alright, thank you. Bye."
+    }
+  ]
+}

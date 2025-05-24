@@ -1,0 +1,216 @@
+{
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "9-1-1, what's your emergency?"
+    },
+    {
+      "role": "user",
+      "content": "I have an emergency. I have three dead people up on top."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where are you?"
+    },
+    {
+      "role": "user",
+      "content": "It's called Haley Flat, up Wolfton."
+    },
+    {
+      "role": "assistant",
+      "content": "Where exactly up Wolfton?"
+    },
+    {
+      "role": "user",
+      "content": "Up Wolfton."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know an address?"
+    },
+    {
+      "role": "user",
+      "content": "I don't know an address."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see a house number or anything?"
+    },
+    {
+      "role": "user",
+      "content": "It's Faxon Holler, Soul Lane."
+    },
+    {
+      "role": "assistant",
+      "content": "Soul Lane? S-O-L?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "How far up Soul Lane?"
+    },
+    {
+      "role": "user",
+      "content": "The paramedics that live out here in Mississippiville know. They'll know."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, honey. There's no guarantee that those medics are on duty. How far up Soul Lane?"
+    },
+    {
+      "role": "user",
+      "content": "Ma'am, I don't know. We're up on top of the hill."
+    },
+    {
+      "role": "assistant",
+      "content": "You're on a hill? Is it out of a house that they're at?"
+    },
+    {
+      "role": "user",
+      "content": "No, they're up on the hill, in a mud hole in their Bronco, too. We've been looking for them for two days."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, my God. Is there any way somebody can meet them off the hill?"
+    },
+    {
+      "role": "user",
+      "content": "I can meet them down here and bring them up here. That's the only thing I know to do."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, where do you want to meet them at?"
+    },
+    {
+      "role": "user",
+      "content": "I'll come out to Wolfpen and Thaxton Holler. I'm coming out there on a four-wheeler."
+    },
+    {
+      "role": "assistant",
+      "content": "You're going to meet there at Wolfpen and Thaxton Holler?"
+    },
+    {
+      "role": "user",
+      "content": "Yes."
+    },
+    {
+      "role": "assistant",
+      "content": "Oh, my God. Are they inside the vehicle?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, all three."
+    },
+    {
+      "role": "assistant",
+      "content": "How many are there? Is it just David and Shane?"
+    },
+    {
+      "role": "user",
+      "content": "No, it's Dale, David, and Shane Gandy."
+    },
+    {
+      "role": "assistant",
+      "content": "Does it look like what happened? Can you tell?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "Does it look like any weapons or anything have been used?"
+    },
+    {
+      "role": "user",
+      "content": "No. It's just them at home."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. Just stay on the phone with me, okay? I've got them on the way. And they're in a Bronco, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "And does it look like somebody's done anything to them?"
+    },
+    {
+      "role": "user",
+      "content": "No. But they're definitely not breathing, correct?"
+    },
+    {
+      "role": "user",
+      "content": "No, ma'am."
+    },
+    {
+      "role": "assistant",
+      "content": "Are they cold to touch? Have you tried to touch them?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, they are."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you see any drugs or anything?"
+    },
+    {
+      "role": "user",
+      "content": "No."
+    },
+    {
+      "role": "assistant",
+      "content": "What is your name?"
+    },
+    {
+      "role": "user",
+      "content": "Sandy."
+    },
+    {
+      "role": "assistant",
+      "content": "And is your phone number [redacted]?"
+    },
+    {
+      "role": "user",
+      "content": "Yes, that's my son's. I'll give you mine. It's [redacted]."
+    },
+    {
+      "role": "assistant",
+      "content": "How long have they been missing?"
+    },
+    {
+      "role": "user",
+      "content": "Since Saturday."
+    },
+    {
+      "role": "assistant",
+      "content": "Do you know how old they are?"
+    },
+    {
+      "role": "user",
+      "content": "Shane is 21. I don't know David's age."
+    },
+    {
+      "role": "assistant",
+      "content": "All right. You're going to meet there at Wolfpen and Thaxton Holler, correct?"
+    },
+    {
+      "role": "user",
+      "content": "Yeah, yeah."
+    },
+    {
+      "role": "assistant",
+      "content": "All right, honey. I've got them on the way."
+    },
+    {
+      "role": "user",
+      "content": "Okay."
+    }
+  ]
+}
