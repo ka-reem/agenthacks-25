@@ -25,9 +25,7 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
     );
 
     return (
-        <div
-            className={`w-[400px] bg-white transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-full"} ${selectedId ? "visible" : "hidden"}`}
-        >
+        <div className={`w-[400px] bg-white`}>
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
 
