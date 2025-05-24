@@ -31,7 +31,7 @@ async def eval(message: str, current_data: str):
         "name": str,
         "title": str,
         "summary": str,
-        "location_name": str (valid us address)
+        "location_name": str (valid address nearby San Francisco Bay Area)
     }
     """
 
@@ -48,6 +48,11 @@ async def eval(message: str, current_data: str):
     )
     return evals.choices[0].message.content
 
+interesting_emotions = [
+    "anger", "anxiety", "calmness", "concentration", "confusion",
+    "distress", "fear", "horror", "pain", "sadness"
+]
+
 
 async def hume_eval(message: str):
     async with websockets.connect(
@@ -58,7 +63,6 @@ async def hume_eval(message: str):
         )
         data = await websocket.recv()
         response_data = json.loads(data)
-        # Aggregating emotions across all words and calculating the average score for each emotion
         emotions_data = response_data.get("language", {}).get("predictions", [])
         emotion_scores = {}
         total_words = len(emotions_data)
@@ -66,10 +70,11 @@ async def hume_eval(message: str):
         for word_data in emotions_data:
             word_emotions = word_data.get("emotions", [])
             for emotion in word_emotions:
-                if emotion["name"] in emotion_scores:
-                    emotion_scores[emotion["name"]] += emotion["score"]
-                else:
-                    emotion_scores[emotion["name"]] = emotion["score"]
+                if emotion["name"] in interesting_emotions:
+                    if emotion["name"] in emotion_scores:
+                        emotion_scores[emotion["name"]] += emotion["score"]
+                    else:
+                        emotion_scores[emotion["name"]] = emotion["score"]
 
         # Calculating average scores
         for emotion in emotion_scores:
