@@ -3,3 +3,5 @@ hiddennotes.txt
 .env
 /venv
 stolen-repos/
+__pycache__/
+*.json
