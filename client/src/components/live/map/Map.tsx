@@ -18,10 +18,32 @@ const Pin = new L.Icon({
     popupAnchor: [0, -32], // point from which the popup should open relative to the iconAnchor
 });
 
-const Map = () => {
+interface MapPin {
+    coordinates: [number, number];
+    popupHtml: string;
+}
+
+interface MapProps {
+    center: {
+        lng: number;
+        lat: number;
+    };
+    pins: MapPin[];
+}
+
+const Map: React.FC<MapProps> = ({ center, pins }) => {
     const mapContainer = useRef(null);
     const map = useRef(null);
-    const center = { lng: -122.272507, lat: 37.866989 };
+
+    // Offset to account for right two panels blocking some of view
+    const offset = { lng: 0.0025, lat: 0.0 };
+
+    // Where to start the map (offset + start pos)
+    const adjustedCenter = {
+        lng: center.lng + offset.lng,
+        lat: center.lat + offset.lat,
+    };
+
     const [zoom] = useState(17);
 
     useEffect(() => {
@@ -29,13 +51,13 @@ const Map = () => {
 
         //@ts-expect-error trust me bro
         map.current = new L.Map(mapContainer.current, {
-            center: L.latLng(center.lat, center.lng),
+            center: L.latLng(adjustedCenter.lat, adjustedCenter.lng),
             zoom: zoom,
-            dragging: false,
+            dragging: true,
             scrollWheelZoom: false,
-            doubleClickZoom: false,
-            touchZoom: false,
-            boxZoom: false,
+            doubleClickZoom: true,
+            touchZoom: true,
+            boxZoom: true,
             keyboard: false,
         });
 
@@ -47,21 +69,13 @@ const Map = () => {
 
         mtLayer.addTo(map.current);
 
-        const marker1 = L.marker([37.867989, -122.271507], { icon: Pin }); // King Center
-
-        const marker2 = L.marker([33.634023, -117.851286], { icon: Pin });
-        const marker3 = L.marker([33.634917, -117.862744], { icon: Pin });
-
-        marker1
-            .addTo(map.current!)
-            .bindPopup("<b>Richard Davis</b><br>ID: #272428");
-        marker2
-            .addTo(map.current!)
-            .bindPopup("<b>Sophia Jones</b><br>ID: #121445");
-        marker3
-            .addTo(map.current!)
-            .bindPopup("<b>Adam Smith</b><br>ID: #920232");
-    }, [center.lng, center.lat, zoom]);
+        // Add pins to the map
+        pins.forEach((pin) => {
+            L.marker(pin.coordinates, { icon: Pin })
+                .addTo(map.current!)
+                .bindPopup(pin.popupHtml);
+        });
+    }, [adjustedCenter.lng, adjustedCenter.lat, zoom, pins]);
 
     return (
         <div className={styles.mapWrap}>
