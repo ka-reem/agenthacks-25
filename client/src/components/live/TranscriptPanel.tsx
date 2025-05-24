@@ -1,12 +1,12 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { CallProps } from "@/app/live/page";
 import { cn } from "@/lib/utils";
+import { motion } from "framer-motion";
 import {
     ArrowLeftRightIcon,
     CheckCircle2Icon,
     HeadsetIcon,
     Loader2Icon,
-    PhoneIcon,
 } from "lucide-react";
 
 import { Button } from "../ui/button";
@@ -44,8 +44,15 @@ const TranscriptPanel = ({
         }, 1000);
     };
     return (
-        <div
-            className={cn("w-[400px] bg-white", transferred && "brightness-90")}
+        <motion.div
+            initial={{ x: "100%" }}
+            animate={{ x: 0 }}
+            exit={{ x: "100%" }}
+            transition={{ duration: 0.3, ease: "easeOut" }}
+            className={cn(
+                "fixed right-0 top-[50px] min-h-[calc(100dvh-50px)] w-[400px] overflow-y-auto bg-white shadow-lg",
+                transferred && "brightness-90",
+            )}
         >
             <p className="px-2 py-[6px]">Live Transcript</p>
             <Separator />
@@ -116,7 +123,7 @@ const TranscriptPanel = ({
                     )}
                 </div>
             </div>
-        </div>
+        </motion.div>
     );
 };
 
