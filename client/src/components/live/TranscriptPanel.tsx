@@ -1,14 +1,21 @@
 import { useEffect, useState } from "react";
 import { CallProps } from "@/app/live/page";
-import { CheckCircle2Icon } from "lucide-react";
+import { CheckCircle2Icon, HeadsetIcon, PhoneIcon } from "lucide-react";
 
+import { Button } from "../ui/button";
 import { Separator } from "../ui/separator";
 import ChatInterface from "./ChatInterface";
 import EmotionCard from "./EmotionCard";
 
-interface TranscriptPanelProps extends CallProps {}
+interface TranscriptPanelProps extends CallProps {
+    handleTransfer: (id: string) => void;
+}
 
-const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
+const TranscriptPanel = ({
+    call,
+    selectedId,
+    handleTransfer,
+}: TranscriptPanelProps) => {
     const [isVisible, setIsVisible] = useState(false);
 
     useEffect(() => {
@@ -23,6 +30,10 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
     const emotions = call?.emotions?.sort((a, b) =>
         a.intensity < b.intensity ? 1 : -1,
     );
+
+    if (!call) {
+        return null;
+    }
 
     return (
         <div className={`w-[400px] bg-white`}>
@@ -58,6 +69,13 @@ const TranscriptPanel = ({ call, selectedId }: TranscriptPanelProps) => {
                     </div>
 
                     <ChatInterface call={call} selectedId={selectedId} />
+
+                    <Button
+                        onClick={() => handleTransfer(call.id)}
+                        className="w-full space-x-2 bg-green-500 hover:bg-green-500/80"
+                    >
+                        <HeadsetIcon /> <p>Transfer</p>
+                    </Button>
                 </div>
             </div>
         </div>
