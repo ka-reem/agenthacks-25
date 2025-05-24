@@ -43,7 +43,7 @@ const EmergencyPanel = () => {
     };
 
     return (
-        <Card className="h-fit w-[400px] rounded-none border-b border-l border-gray-400 px-2">
+        <Card className="h-fit w-[500px] rounded-none border-b border-l border-gray-400 px-2">
             <CardHeader className="px-2 py-[6px]">
                 <p>Emergency</p>
                 <Separator />
@@ -100,27 +100,32 @@ const EmergencyPanel = () => {
             </CardContent>
             <CardFooter className="pt-4">
                 <div className="flex w-full flex-col space-y-2">
-                    <Button
-                        variant="default"
-                        className="flex w-full items-center justify-start rounded-md bg-blue-500 hover:bg-blue-600"
-                    >
-                        <Siren className="mr-2" />
-                        Dispatch Police
-                    </Button>
-                    <Button
-                        variant="default"
-                        className="flex w-full items-center justify-start rounded-md bg-red-500 hover:bg-red-600"
-                    >
-                        <FireExtinguisher className="mr-2" />
-                        Dispatch Firefighters
-                    </Button>
-                    <Button
-                        variant="default"
-                        className="flex w-full items-center justify-start rounded-md bg-green-500 hover:bg-green-600"
-                    >
-                        <Ambulance className="mr-2" />
-                        Dispatch Paramedics
-                    </Button>
+                    <p className="text-lg font-semibold">
+                        Dispatch first responders:
+                    </p>
+                    <div className="mb-2 flex justify-between gap-1">
+                        <Button
+                            variant="default"
+                            className="flex-1 items-center justify-center rounded-md bg-blue-500 hover:bg-blue-600"
+                        >
+                            <Siren className="mr-2" />
+                            Police
+                        </Button>
+                        <Button
+                            variant="default"
+                            className="flex-1 items-center justify-center rounded-md bg-red-500 hover:bg-red-600"
+                        >
+                            <FireExtinguisher className="mr-2" />
+                            Firefighters
+                        </Button>
+                        <Button
+                            variant="default"
+                            className="flex-1 items-center justify-center rounded-md bg-green-500 hover:bg-green-600"
+                        >
+                            <Ambulance className="mr-2" />
+                            Paramedics
+                        </Button>
+                    </div>
                 </div>
             </CardFooter>
         </Card>
