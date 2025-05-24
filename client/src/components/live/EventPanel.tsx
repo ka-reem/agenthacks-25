@@ -1,122 +1,424 @@
+"use client";
+
 import { ChangeEvent, useState } from "react";
-import { Call } from "@/app/live/page";
-import { Badge } from "@/components/ui/badge";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { cn } from "@/lib/utils";
-import { AlertCircle, AlertTriangle, Search, ShieldCheck } from "lucide-react";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { AlertTriangleIcon, SearchIcon } from "lucide-react";
 
-interface EventPanelProps {
-    data: Record<string, Call> | undefined;
-    selectedId: string | undefined;
-    handleSelect: (id: string) => void;
-}
+import { Separator } from "../ui/separator";
 
-const EventPanel = ({ data, selectedId, handleSelect }: EventPanelProps) => {
-    const [search, setSearch] = useState("");
+type Detail = {
+    name: string;
+    value: number;
+};
+
+const DETAILS: Detail[] = [
+    {
+        name: "Total",
+        value: 123,
+    },
+    {
+        name: "Critical",
+        value: 34,
+    },
+    {
+        name: "Resolved",
+        value: 12,
+    },
+];
+
+const EventPanel = () => {
+    const [searchValue, setSearchValue] = useState("");
 
     const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
-        setSearch(e.currentTarget.value);
+        setSearchValue(e.currentTarget.value);
     };
 
+    console.log(searchValue);
+
     return (
-        <div className="absolute left-0 z-50 h-full min-w-[28rem] max-w-md rounded-none bg-white p-4 shadow-lg">
-            <div className="mb-4 flex items-center justify-between px-3">
-                <h2 className="text-xl font-bold">Emergencies</h2>
-            </div>
+        <div className="h-full w-[450px] bg-gray-300 p-5 pt-[6px]">
+            <Tabs defaultValue="emergencies">
+                <TabsList>
+                    <TabsTrigger value="emergencies">Emergencies</TabsTrigger>
+                    <TabsTrigger value="alerts" disabled>
+                        Alerts
+                    </TabsTrigger>
+                </TabsList>
 
-            <div className="mb-4 flex items-center space-x-4 px-3">
-                <Input
-                    className="w-full"
-                    placeholder="Search a location"
-                    startIcon={Search}
-                    onChange={handleChange}
-                />
-                <span className="pr-8 text-gray-500">Filter</span>
-            </div>
+                <TabsContent value="emergencies" className="space-y-3">
+                    <Separator className="my-2 w-[95%] bg-gray-400" />
 
-            <div className="mb-4 flex justify-between px-3">
-                <div>
-                    <div className="text-2xl font-bold">
-                        {data ? Object.keys(data).length : "x"}
-                    </div>
-                    <div className="text-sm text-gray-500">Total</div>
-                </div>
-                <div>
-                    <div className="text-2xl font-bold">
-                        {data
-                            ? Object.entries(data).filter(
-                                  ([_, value]) => value.severity === "CRITICAL",
-                              ).length
-                            : "x"}
-                    </div>
-                    <div className="text-sm text-gray-500">Critical</div>
-                </div>
-                <div>
-                    <div className="text-2xl font-bold">12</div>
-                    <div className="text-sm text-gray-500">Resolved</div>
-                </div>
-            </div>
+                    <Input
+                        startIcon={SearchIcon}
+                        placeholder="Search a location"
+                        className="w-[90%]"
+                        onChange={handleChange}
+                    />
 
-            <div className="h-[calc(100dvh-250px)] space-y-2 overflow-y-scroll pb-3">
-                {data &&
-                    Object.entries(data)
-                        .filter(([_, emergency]) =>
-                            emergency.title.includes(search),
-                        )
-                        .map(([_, emergency]) => (
-                            <Card
-                                key={emergency.id}
-                                className={cn(
-                                    "m-2 flex items-center p-3",
-                                    selectedId === emergency.id &&
-                                        "ring-2 ring-[#D7D7D7] ring-offset-2",
-                                )}
-                                onClick={() => handleSelect(emergency.id)}
-                            >
-                                {emergency.severity === "CRITICAL" && (
-                                    <AlertCircle
-                                        className="mr-3 min-w-6 text-red-500"
-                                        size={24}
-                                    />
-                                )}
-                                {emergency.severity === "MODERATE" && (
-                                    <AlertTriangle
-                                        className="mr-3 min-w-6 text-orange-500"
-                                        size={24}
-                                    />
-                                )}
-                                {emergency.severity === "SAFE" && (
-                                    <ShieldCheck
-                                        className="mr-3 min-w-6 text-green-500"
-                                        size={24}
-                                    />
-                                )}
-                                <CardContent className="flex-grow p-0">
-                                    <div className="font-semibold">
-                                        {emergency.title}
-                                    </div>
-                                    <div className="text-sm text-gray-500">
-                                        {new Date(
-                                            emergency.time,
-                                        ).toLocaleTimeString()}
-                                    </div>
-                                </CardContent>
-                                <Badge
-                                    className={cn(
-                                        "min-w-fit uppercase",
-                                        emergency.severity === "CRITICAL"
-                                            ? "bg-red-500 hover:bg-red-500/80"
-                                            : emergency.severity === "MODERATE"
-                                              ? "bg-yellow-500 hover:bg-yellow-500/80"
-                                              : "bg-green-500 hover:bg-green-500/80",
-                                    )}
-                                >
-                                    {emergency.severity}
-                                </Badge>
-                            </Card>
+                    <div className="grid grid-cols-3">
+                        {DETAILS.map((item) => (
+                            <div>
+                                <p className="text-base text-black text-opacity-50">
+                                    {item.name}
+                                </p>
+                                <p className="text-3xl font-semibold">
+                                    {item.value}
+                                </p>
+                            </div>
                         ))}
-            </div>
+                    </div>
+
+                    <div className="max-h-[calc(100dvh-275px)] space-y-2 overflow-y-scroll">
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 w-fit bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="flex h-[88px] w-full space-x-4 bg-white p-2">
+                            <div className="my-auto">
+                                <AlertTriangleIcon className="h-12 w-12" />
+                            </div>
+                            <div className="w-full">
+                                <div className="flex justify-between">
+                                    <div>
+                                        <p className="line-clamp-1 max-w-48 overflow-hidden text-ellipsis break-all text-base font-semibold">
+                                            House Fire in Blair Hills
+                                        </p>
+                                        <p className="text-sm text-gray-400">
+                                            10:31 AM
+                                        </p>
+                                    </div>
+
+                                    <div className="grow" />
+
+                                    <div className="h-6 bg-gray-300">
+                                        <p className="px-2 py-1 text-[12px] font-medium uppercase">
+                                            <b>Severity:</b> High
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div className="flex justify-end space-x-4">
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase text-black text-opacity-50"
+                                        size="sm"
+                                    >
+                                        Dismiss
+                                    </Button>
+
+                                    <Button
+                                        variant="link"
+                                        className="min-h-0 px-0 font-medium uppercase"
+                                        size="sm"
+                                    >
+                                        Resolve
+                                    </Button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </TabsContent>
+                <TabsContent value="alerts">Alerts</TabsContent>
+            </Tabs>
         </div>
     );
 };

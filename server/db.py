@@ -28,7 +28,7 @@ def generate_sample_data():
             ],
             "phone": "555-123-4567",
             "recommendation": "Evacuate immediately. Do not use elevators.",
-            "severity": "high",
+            "severity": "MODERATE",
             "type": "fire",
             "name": "John Doe",
             "title": "Apartment Fire on Main Street",
@@ -59,7 +59,7 @@ def generate_sample_data():
             ],
             "phone": "555-987-6543",
             "recommendation": "Begin CPR if trained. Keep the patient still and calm.",
-            "severity": "critical",
+            "severity": "CRITICAL",
             "type": "hospital",
             "name": "Jane Smith",
             "title": "Suspected Heart Attack on Oak Avenue",
@@ -93,7 +93,7 @@ def generate_sample_data():
             ],
             "phone": "555-246-8135",
             "recommendation": "Do not approach or confront the suspects. Stay in a safe location.",
-            "severity": "high",
+            "severity": "MODERATE",
             "type": "police",
             "name": "Mike Johnson",
             "title": "Break-in at Convenience Store on Pine Street",
@@ -127,7 +127,7 @@ def generate_sample_data():
             ],
             "phone": "555-369-2580",
             "recommendation": "Do not move injured persons unless in immediate danger. Turn on hazard lights and stay clear of traffic.",
-            "severity": "high",
+            "severity": "MODERATE",
             "type": "hospital",
             "name": "Sarah Lee",
             "title": "Multi-car Accident on Highway 101",
@@ -155,7 +155,7 @@ def generate_sample_data():
             ],
             "phone": "555-147-2589",
             "recommendation": "Evacuate immediately. Do not turn on/off any electrical devices or create sparks.",
-            "severity": "high",
+            "severity": "MODERATE",
             "type": "fire",
             "name": "Tom Brown",
             "title": "Gas Leak Reported on Elm Street",
@@ -189,7 +189,7 @@ def generate_sample_data():
             ],
             "phone": "555-951-7532",
             "recommendation": "Do not approach the individual. Keep observing from a safe distance if possible.",
-            "severity": "medium",
+            "severity": "MODERATE",
             "type": "police",
             "name": "Emily Chen",
             "title": "Suspicious Person Near Central Elementary",
@@ -217,7 +217,7 @@ def generate_sample_data():
             ],
             "phone": "555-753-9514",
             "recommendation": "Perform the Heimlich maneuver if the child is over 1 year old. For infants, use back blows and chest thrusts.",
-            "severity": "critical",
+            "severity": "SAFE",
             "type": "hospital",
             "name": "Alex Rodriguez",
             "title": "Child Choking Emergency on Maple Drive",
@@ -245,27 +245,18 @@ def get_call(call_id):
     """
     Accessor function to get a specific call by its ID.
     """
-    return calls_db.get(call_id)
+    return calls_db.get(call_id, {})
 
 
 def update_call(call_id, updated_data):
     """
-    Modification function to update a specific call's data.
+    Modification function to update or insert a specific call's data.
     """
     if call_id in calls_db:
         calls_db[call_id].update(updated_data)
-        return True
-    return False
-
-
-def add_call(call_data):
-    """
-    Function to add a new call to the database.
-    """
-    if "id" not in call_data:
-        call_data["id"] = str(len(calls_db) + 1)
-    calls_db[call_data["id"]] = call_data
-    return call_data["id"]
+    else:
+        calls_db[call_id] = updated_data
+    return True
 
 
 def delete_call(call_id):

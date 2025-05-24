@@ -3,7 +3,7 @@
     bottom: 0;
     width: calc(100dvw - 48px);
     height: calc(100dvh - 50px);
-    z-index: 0;
+    z-index: -1;
 }
 
 .map {

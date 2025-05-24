@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 
+import Header from "../../components/live/Header";
 import Sidebar from "../../components/live/Sidebar";
 
 export const metadata: Metadata = {
@@ -13,9 +14,12 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <div className="flex h-[100dvh] max-h-[100dvh] min-w-[100dvw] overflow-hidden">
+        <div className="flex h-[100dvh] min-w-[100dvw]">
             <Sidebar />
-            <div className="max-h-[100dvh] w-full">{children}</div>
+            <div className="max-h-[100dvh] w-full">
+                <Header />
+                {children}
+            </div>
         </div>
     );
 }
