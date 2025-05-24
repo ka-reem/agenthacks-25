@@ -1,13 +1,11 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React, { ChangeEvent, useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import EmergencyPanel from "@/components/live/EmergencyPanel";
 import EventPanel from "@/components/live/EventPanel";
 import Header from "@/components/live/Header";
 import TranscriptPanel from "@/components/live/TranscriptPanel";
-import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
 
 const Map = dynamic(() => import("@/components/live/map/Map"), {
     loading: () => <p>Rendering Map...</p>,
@@ -16,7 +14,7 @@ const Map = dynamic(() => import("@/components/live/map/Map"), {
 
 interface ServerMessage {
     event: "db_response";
-    data: Call[];
+    data: Record<string, Call>;
 }
 
 export type Call = {
@@ -113,16 +111,11 @@ const MESSAGES: Call = {
 
 const Page = () => {
     const [connected, setConnected] = useState(false);
-    const [data, setData] = useState<Call[]>([]);
-    const [selectedIndex, setSelectedIndex] = useState<number | undefined>();
+    const [data, setData] = useState<Record<string, Call> | undefined>();
+    const [selectedId, setSelectedId] = useState<string | undefined>();
 
-    const handleClick = () => {
-        console.log("clicked");
-        wss.send(
-            JSON.stringify({
-                event: "get_db",
-            }),
-        );
+    const handleSelect = (id: string) => {
+        setSelectedId(id);
     };
 
     useEffect(() => {
@@ -130,9 +123,16 @@ const Page = () => {
             console.log("WebSocket connection established");
             setConnected(true);
 
+            wss.send(
+                JSON.stringify({
+                    event: "get_db",
+                }),
+            );
+
             wss.onmessage = (event: MessageEvent) => {
                 console.log("Received message");
                 const message = JSON.parse(event.data) as ServerMessage;
+                console.log("message:", message);
                 const data = message.data;
 
                 console.log(data);
@@ -140,7 +140,6 @@ const Page = () => {
                 if (data) {
                     console.log("Got data");
                     setData(data);
-                    setSelectedIndex(0);
                 } else {
                     console.warn("Received unknown message");
                 }
@@ -156,18 +155,15 @@ const Page = () => {
     return (
         <div className="h-full max-h-[calc(100dvh-50px)]">
             <Header connected={connected} />
-            <Button onClick={handleClick}>click me!</Button>
 
             <div className="flex h-full justify-between">
-                <EventPanel data={data} />
-                {/* {selectedIndex ? ( */}
-                <div className="flex">
-                    <EmergencyPanel />
-                    <TranscriptPanel call={MESSAGES} />
-                </div>
-                {/* ) : (
-                    <div />
-                )} */}
+                <EventPanel data={data} handleSelect={handleSelect} />
+                {selectedId && data ? (
+                    <div className="flex">
+                        <EmergencyPanel />
+                        <TranscriptPanel call={data[selectedId]} />
+                    </div>
+                ) : null}
             </div>
             <Map />
         </div>

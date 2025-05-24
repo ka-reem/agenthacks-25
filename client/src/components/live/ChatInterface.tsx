@@ -11,7 +11,7 @@ const ChatInterface = ({ call }: ChatInterfaceProps) => {
     return (
         <div className="mx-auto flex h-[calc(100dvh-295px)] max-w-md flex-col bg-gray-100">
             <div className="flex-1 space-y-4 overflow-y-auto p-4">
-                {call.transcript.map((message, index) => {
+                {call?.transcript.map((message, index) => {
                     return (
                         <div
                             key={index}
