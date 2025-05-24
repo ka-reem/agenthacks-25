@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import {
     Ambulance,
     CircleEllipsisIcon,
@@ -29,7 +30,28 @@ const EmergencyInfoItem = ({
     </div>
 );
 
-const DetailsPanel = () => {
+interface DetailsPanelProps {
+    selectedId: string | undefined;
+}
+
+const DetailsPanel: React.FC<DetailsPanelProps> = ({ selectedId }) => {
+    const [isVisible, setIsVisible] = useState(false);
+
+    useEffect(() => {
+        let timer: NodeJS.Timeout;
+        if (selectedId) {
+            timer = setTimeout(() => {
+                setIsVisible(true);
+            }, 500);
+        } else {
+            setIsVisible(false);
+        }
+
+        return () => {
+            if (timer) clearTimeout(timer);
+        };
+    }, [selectedId]);
+
     const emergency = {
         title: "House Fire in Lincoln Ave.",
         status: "CRITICAL",
@@ -42,7 +64,9 @@ const DetailsPanel = () => {
     };
 
     return (
-        <Card className="h-fit w-[500px] rounded-none border-0 border-r border-gray-400">
+        <Card
+            className={`h-fit w-[500px] rounded-none border-0 border-r border-gray-400 transition-transform duration-1000 ease-in-out ${isVisible ? "translate-x-0" : "translate-x-[200%]"} ${selectedId ? "visible" : "hidden"}`}
+        >
             <p className="px-2 py-[6px]">Details</p>
             <Separator />
 
